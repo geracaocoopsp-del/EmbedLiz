@@ -1,0 +1,26 @@
+ID do Artigo: 319
+Título Oficial:
+DESENVOLVIMENTO RURAL SUSTENTÁVEL: CONEXÕES ENTRE A EXPANSÃO DAS LIBERDADES E AGRICULTURA FAMILIAR
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo realiza uma análise teórica do Desenvolvimento Rural Sustentável (DRS) a partir da abordagem do "Desenvolvimento como Liberdade" de Amartya Sen, conectando-a à realidade da agricultura familiar. A pesquisa argumenta que o DRS não pode ser medido apenas por indicadores de renda ou de produtividade, mas deve ser entendido como um processo de expansão das liberdades e das capacidades dos agricultores. O estudo conclui que o fortalecimento da agricultura familiar, através de políticas que ampliem suas liberdades substantivas (como o acesso à terra, à educação, à saúde e à participação política), é o caminho para a construção de um desenvolvimento rural que seja, de fato, sustentável e centrado no ser humano.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa propõe um novo jeito de pensar o que é "desenvolvimento" para o campo, usando as ideias de um famoso economista, Amartya Sen. Para ele, desenvolvimento não é só ter mais dinheiro no bolso; é ter mais "liberdade" para escolher a vida que se quer levar. O estudo, então, aplica essa ideia para a agricultura familiar. A conclusão é que, para o campo se desenvolver de verdade, não adianta só aumentar a produção de soja. É preciso que o pequeno agricultor tenha mais liberdades: a liberdade de ter sua própria terra, a liberdade que vem com uma boa educação e com acesso à saúde, e a liberdade de participar das decisões que afetam a sua vida. O verdadeiro desenvolvimento, segundo o estudo, é aquele que coloca as pessoas em primeiro lugar.
+
+Pontos-Chave e Achados:
+
+- O artigo conecta a teoria do Desenvolvimento como Liberdade, de Amartya Sen, com o debate sobre o Desenvolvimento Rural Sustentável.
+- O DRS é redefinido como um processo de expansão das capacidades e das liberdades dos agricultores familiares.
+- O fortalecimento da agricultura familiar é apresentado como uma condição necessária para um desenvolvimento rural que seja socialmente inclusivo e democraticamente orientado.
+- A análise critica as visões puramente economicistas de desenvolvimento e propõe uma abordagem mais humanista e multidimensional.
+
+Palavras-Chave:
+Técnicas: [Desenvolvimento Rural Sustentável (DRS), Desenvolvimento como Liberdade, Amartya Sen, agricultura familiar, liberdades substantivas, capacidades]
+
+Conceituais: [Desenvolvimento humano, teoria do desenvolvimento, bem-estar, equidade, cidadania, política social, filosofia política]
+
+Linguagem Natural: [O que é Desenvolvimento Rural Sustentável?, A teoria de Amartya Sen aplicada ao campo, desenvolvimento como expansão das liberdades, o papel da agricultura familiar no desenvolvimento, uma visão humanista do desenvolvimento rural]

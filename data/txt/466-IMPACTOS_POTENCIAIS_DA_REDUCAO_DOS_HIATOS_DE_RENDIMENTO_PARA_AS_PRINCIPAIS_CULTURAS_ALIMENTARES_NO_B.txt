@@ -1,0 +1,26 @@
+ID do Artigo: 466
+Título Oficial:
+IMPACTOS POTENCIAIS DA REDUÇÃO DOS HIATOS DE RENDIMENTO PARA AS PRINCIPAIS CULTURAS ALIMENTARES NO BRASIL
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo estima os impactos potenciais da redução dos hiatos de rendimento (yield gaps) para as principais culturas alimentares no Brasil. A pesquisa calcula a diferença entre a produtividade atual e a produtividade potencial (atingível com a melhor tecnologia) para culturas como arroz, feijão e mandioca. Os resultados mostram que os hiatos de rendimento ainda são muito grandes, especialmente na agricultura familiar. O estudo conclui que o Brasil poderia aumentar drasticamente sua produção de alimentos sem a necessidade de expandir a área plantada, apenas com a difusão de tecnologias e de boas práticas de manejo já existentes, o que representa uma enorme oportunidade para a intensificação sustentável e para a segurança alimentar.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa faz uma conta para mostrar o quanto o Brasil poderia produzir a mais de comida se todos os agricultores conseguissem atingir a produtividade dos melhores. Essa diferença entre o que se colhe hoje e o que se poderia colher com a melhor tecnologia é o "hiato de rendimento". O estudo mostra que esse hiato é gigantesco, principalmente nas lavouras de arroz, feijão e mandioca dos pequenos agricultores. A conclusão é que o Brasil tem um "tesouro escondido": a gente pode aumentar muito a produção de comida sem precisar derrubar uma única árvore a mais. Para isso, o grande desafio é fazer com que a tecnologia e o conhecimento que já existem cheguem a todos os agricultores.
+
+Pontos-Chave e Achados:
+
+- O artigo quantifica os hiatos de rendimento (yield gaps) para as principais culturas alimentares do Brasil.
+- Os hiatos são significativamente maiores na agricultura familiar do que na agricultura patronal.
+- A redução desses hiatos representa a principal via para a intensificação sustentável da agricultura brasileira.
+- O estudo conclui que o aumento da produção de alimentos no Brasil é mais um desafio de difusão de tecnologia do que de falta de tecnologia.
+
+Palavras-Chave:
+Técnicas: [Hiato de rendimento (yield gap), produtividade agrícola, intensificação sustentável, segurança alimentar, difusão de tecnologia, culturas alimentares, agricultura familiar]
+
+Conceituais: [Fronteira de produção, eficiência técnica, P&D agrícola, desenvolvimento sustentável, segurança alimentar, poupança de terra (land sparing)]
+
+Linguagem Natural: [O que é hiato de rendimento na agricultura?, O quanto o Brasil pode aumentar sua produção de alimentos?, Como aumentar a produtividade do feijão e do arroz?, o desafio de levar tecnologia para o pequeno agricultor, intensificação sustentável da agricultura]

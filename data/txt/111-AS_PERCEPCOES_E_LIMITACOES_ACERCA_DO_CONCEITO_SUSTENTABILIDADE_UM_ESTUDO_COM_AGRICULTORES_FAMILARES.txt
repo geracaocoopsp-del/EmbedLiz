@@ -1,0 +1,26 @@
+ID do Artigo: 111
+Título Oficial:
+AS PERCEPÇÕES E LIMITAÇÕES ACERCA DO CONCEITO SUSTENTABILIDADE: UM ESTUDO COM AGRICULTORES FAMILIARES
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo investiga as percepções e as limitações do conceito de sustentabilidade entre agricultores familiares. A pesquisa, de natureza qualitativa, busca compreender como os agricultores traduzem o conceito abstrato de "sustentabilidade" para a sua realidade prática. Os resultados mostram que a percepção dos agricultores é predominantemente focada na dimensão econômica da sustentabilidade, ou seja, na capacidade de a propriedade "se pagar" e garantir o sustento da família. As dimensões ambiental e social, embora presentes, são secundárias. O estudo conclui que, para que a sustentabilidade seja adotada de forma mais ampla, é preciso que as propostas técnicas e as políticas públicas "conversem" com a lógica do agricultor, mostrando que as práticas ambientalmente corretas também podem ser economicamente vantajosas.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa foi conversar com os pequenos agricultores para saber o que eles entendem pela palavra "sustentabilidade", que todo mundo fala. O estudo descobriu que, para o agricultor, a "sustentabilidade" tem um significado muito prático: é a fazenda "dar conta do recado", ou seja, pagar as contas e botar comida na mesa. A preocupação com o meio ambiente e com a comunidade existe, mas vem em segundo lugar. A prioridade número um é a sobrevivência. A conclusão é que não adianta o técnico chegar na propriedade com um discurso ecológico que não para em pé do ponto de vista do bolso. Para o agricultor abraçar a causa da sustentabilidade, ele precisa ver, na prática, que cuidar da natureza também pode dar mais dinheiro.
+
+Pontos-Chave e Achados:
+
+- O artigo analisa as representações sociais da sustentabilidade entre agricultores familiares.
+- A percepção dos agricultores é pragmática e fortemente ancorada na dimensão da viabilidade econômica da propriedade.
+- A sustentabilidade ambiental é frequentemente vista como um custo adicional ou como uma restrição, e não como um investimento.
+- Para promover a transição para sistemas mais sustentáveis, é crucial demonstrar os benefícios econômicos das práticas conservacionistas.
+
+Palavras-Chave:
+Técnicas: [Sustentabilidade, percepção do agricultor, agricultura familiar, estudo qualitativo, representações sociais, adoção de práticas]
+
+Conceituais: [Racionalidade camponesa, viabilidade econômica, sustentabilidade forte vs. fraca, desenvolvimento rural, sociologia ambiental]
+
+Linguagem Natural: [O que os agricultores pensam sobre sustentabilidade?, A visão do pequeno produtor sobre o meio ambiente, como convencer o agricultor a ser mais sustentável?, a dimensão econômica da sustentabilidade para a agricultura familiar, percepção e prática da sustentabilidade no campo]

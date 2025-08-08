@@ -1,0 +1,28 @@
+### **Síntese Otimizada para IA**
+
+**Identificação Básica:**
+*   **ID do Artigo:** 91
+*   **Título Oficial:** ANÁLISE DOS INDICADORES DE DESEMPENHO UTILIZADOS POR COOPERATIVAS DE CRÉDITO BRASILEIRAS
+*   **Link para Download:** (Será adicionado posteriormente)
+
+**Resumo Sintético:**
+Este estudo investiga quais indicadores de desempenho (financeiros e não financeiros) são mais utilizados por cooperativas de crédito no Brasil. Através de um questionário com 35 cooperativas, a pesquisa compara os indicadores práticos com os recomendados pela literatura acadêmica e propõe um conjunto de 25 indicadores essenciais que tiveram alta aderência, visando criar um modelo de avaliação de desempenho mais adequado à realidade e aos objetivos dessas instituições, que não visam apenas o lucro.
+
+**Expansão Semântica:**
+
+*   **Descrição Expandida em Linguagem Natural:**
+    *   O artigo busca entender como as cooperativas de crédito no Brasil medem seu próprio sucesso. Diferente dos bancos tradicionais, elas não focam apenas no lucro, então precisam de outras formas de avaliar se estão indo bem. A pesquisa perguntou a várias cooperativas quais métricas elas usam no dia a dia e comparou com o que os especialistas da área sugerem. O resultado é uma lista de 25 indicadores-chave, misturando finanças e aspectos sociais (como a participação dos membros), que serve como um guia para qualquer cooperativa de crédito avaliar sua saúde e eficiência de forma completa.
+    *   Este trabalho explora as ferramentas que as cooperativas de crédito brasileiras usam para monitorar sua performance. A ideia central é que medir o desempenho dessas organizações é mais complexo do que apenas olhar para o lucro, pois seu objetivo principal é servir aos associados. O estudo fez um levantamento para descobrir quais são os indicadores mais populares na prática e, com base nisso, sugeriu um painel de controle com 25 métricas financeiras e sociais, ajudando os gestores a terem uma visão mais clara da sustentabilidade e do crescimento da cooperativa.
+
+*   **Pontos-Chave e Achados Específicos:**
+    *   **Problema Central:** Cooperativas de crédito não podem ser avaliadas apenas pelo lucro, necessitando de um conjunto de indicadores mais amplo que abranja aspectos financeiros e sociais.
+    *   **Metodologia:** Foi realizada uma pesquisa (survey) com 1050 cooperativas de crédito singulares listadas no Banco Central, obtendo 35 respostas válidas.
+    *   **Principal Achado:** As cooperativas utilizam na prática muitos dos indicadores sugeridos pela literatura, mas não de forma sistematizada. O sistema PEARLS, um modelo internacional, não é formalmente conhecido ou aplicado pela maioria, embora muitos de seus indicadores sejam usados isoladamente.
+    *   **Resultado Proposto:** O estudo propõe um conjunto de 25 indicadores (financeiros e não financeiros) que tiveram mais de 59% de aderência entre as respondentes, servindo como um modelo de avaliação de desempenho adaptado à realidade brasileira.
+    *   **Indicadores Populares:** Indicadores de crescimento (como "Crescimento das Operações de Crédito" e "Crescimento do Ativo Total") e de sobras ("Sobras do Exercício") foram os mais utilizados.
+    *   **Indicadores Menos Utilizados:** Métricas como "Índice Overhead" e "Margem de Atividade Bancária" tiveram baixa adesão, indicando menor difusão de seu uso.
+
+*   **Palavras-Chave (O "Mapa" para a IA):**
+    *   **Termos Técnicos:** Indicadores de Desempenho, Cooperativas de Crédito, Análise de Demonstrações Financeiras, Sistema PEARLS, ROA (Retorno sobre o Ativo), ROE (Retorno sobre o Patrimônio Líquido), Alavancagem, Liquidez, Governança Corporativa, Indicadores Econômico-Financeiros.
+    *   **Termos Conceituais:** Avaliação de Desempenho, Saúde Financeira de Cooperativas, Gestão de Cooperativas, Sustentabilidade Cooperativa, Desempenho Social, Eficiência Operacional, Métricas de Crescimento.
+    *   **Termos em Linguagem Natural (Sinônimos e Perguntas):** "como medir o sucesso de uma cooperativa de crédito?", "quais os principais indicadores para cooperativas?", "diferença entre banco e cooperativa de crédito", "análise de desempenho de cooperativas no Brasil", "o que são sobras em uma cooperativa?", "como saber se uma cooperativa é saudável?", "ferramentas de gestão para cooperativas financeiras".

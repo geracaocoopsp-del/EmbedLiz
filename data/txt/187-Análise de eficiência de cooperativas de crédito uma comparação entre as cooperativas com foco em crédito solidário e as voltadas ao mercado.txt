@@ -1,0 +1,22 @@
+Identificação Básica:
+ID do Artigo: 187
+Título Oficial: Análise de eficiência de cooperativas de crédito: uma comparação entre as cooperativas com foco em crédito solidário e as voltadas ao mercado
+Link para Download: (A ser adicionado)
+
+Resumo Sintético:
+O artigo compara a eficiência de cooperativas de crédito com foco em crédito solidário e cooperativas voltadas ao mercado no Brasil. A pesquisa, utilizando Análise Envoltória de Dados (DEA) em uma amostra de 69 cooperativas, conclui que o posicionamento com foco em crédito solidário, além de sua relevância social, tem potencial para gerar e manter eficiência técnica. O estudo destaca que, embora o objetivo das cooperativas seja reduzir desigualdades sociais, o foco estratégico atual está mais voltado para a eficiência econômico-financeira.
+
+Expansão Semântica:
+Descrição Expandida em Linguagem Natural: Este estudo investiga se as cooperativas de crédito que focam em ajudar pessoas com menos acesso a serviços financeiros (crédito solidário) são tão eficientes quanto as cooperativas que atuam mais como bancos tradicionais. A pesquisa compara o desempenho financeiro e operacional desses dois tipos de cooperativas, usando uma técnica avançada de análise de dados. O artigo mostra que as cooperativas de crédito solidário, mesmo com seu foco social, podem ser muito eficientes. A pesquisa é relevante para gestores de cooperativas, formuladores de políticas públicas e pesquisadores interessados em modelos de negócio que conciliam impacto social e sustentabilidade econômica.
+
+Pontos-Chave e Achados Específicos:
+- O estudo analisou dados contábeis-financeiros de 69 cooperativas de crédito no Brasil.
+- A metodologia utilizada foi a Análise Envoltória de Dados (DEA), que mede a eficiência técnica.
+- O estudo comparou cooperativas com foco em crédito solidário (como CRESOL) e cooperativas voltadas ao mercado (como SICREDI).
+- Os resultados indicam que o posicionamento com foco em crédito solidário tem potencial para gerar e manter eficiência técnica.
+- O artigo aponta que a eficiência gerencial é crucial para o bom desempenho das cooperativas, independentemente do seu foco.
+
+Palavras-Chave:
+Termos Técnicos: Cooperativas de Crédito, Crédito Solidário, Análise de Eficiência, DEA (Análise Envoltória de Dados), Eficiência Técnica, Eficiência Financeira.
+Termos Conceituais: Inclusão Financeira, Desigualdade Social, Modelo de Negócio Cooperativo, Sustentabilidade Econômica, Impacto Social.
+Termos em Linguagem Natural: "cooperativas de crédito social", "comparação de cooperativas financeiras", "eficiência de cooperativas", "crédito para pequenos produtores", "como cooperativas de crédito funcionam", "modelos de cooperativas financeiras".

@@ -1,0 +1,38 @@
+**Identificação Básica:**
+
+*   **ID do Artigo:** 338
+*   **Título Oficial:** DISCLOSURE DAS PRÁTICAS DE SUSTENTABILIDADE E O DESEMPENHO FINANCEIRO DAS COOPERATIVAS DE CRÉDITO
+*   **Link para Download:** (Será adicionado posteriormente)
+
+**Resumo Sintético:**
+
+Este estudo investiga a relação entre o nível de divulgação das práticas de sustentabilidade (*disclosure*) e o desempenho financeiro (Retorno sobre os Ativos - ROA) de cooperativas de crédito na Alemanha, Brasil, Espanha e Portugal. A pesquisa, utilizando um modelo econométrico, identificou que as cooperativas espanholas apresentam maior nível de *disclosure* e que existe uma relação positiva e significativa entre o *disclosure* das práticas de sustentabilidade e o ROA. Isso sugere que a transparência sobre as ações de sustentabilidade legitima as cooperativas perante a comunidade, contribuindo para um melhor desempenho financeiro. O estudo ressalta a importância da divulgação de informações de sustentabilidade para a manutenção da sustentabilidade financeira das cooperativas.
+
+**Expansão Semântica:**
+
+*   **Descrição Expandida em Linguagem Natural:**
+    *   O artigo analisa se as cooperativas de crédito que são mais transparentes sobre suas ações de sustentabilidade (divulgando relatórios, por exemplo) têm um desempenho financeiro melhor. A pesquisa comparou cooperativas da Alemanha, Brasil, Espanha e Portugal e descobriu que as espanholas são as mais transparentes. Além disso, o estudo encontrou uma ligação positiva: quanto mais uma cooperativa divulga suas práticas de sustentabilidade, melhor é seu retorno financeiro. Isso significa que ser transparente sobre o que se faz em termos de sustentabilidade não é só bom para a imagem, mas também para o bolso da cooperativa, pois aumenta a confiança da comunidade e dos membros.
+    *   Este trabalho explora a conexão entre a divulgação de informações sobre sustentabilidade e o sucesso financeiro das cooperativas de crédito. Ele argumenta que a assimetria de informação pode prejudicar a sustentabilidade financeira das cooperativas, e que a transparência (disclosure) é uma forma de mitigar esse problema. O estudo mostra que a divulgação de práticas de sustentabilidade, especialmente as sociais, ambientais e culturais, pode legitimar a cooperativa e atrair mais membros e depósitos. A pesquisa sugere que as cooperativas devem investir em relatórios de sustentabilidade para fortalecer sua relação com a comunidade e melhorar seu desempenho.
+
+*   **Pontos-Chave e Achados Específicos:**
+    *   **Objetivo:** Verificar a relação entre o nível de *disclosure* das práticas de sustentabilidade e o Retorno sobre os Ativos (ROA) das cooperativas de crédito.
+    *   **Países Analisados:** Alemanha, Brasil, Espanha e Portugal.
+    *   **Metodologia:** Modelo econométrico (Mínimos Quadrados Ordinários - MQO) com 59 indicadores de sustentabilidade (econômicos, sociais, ambientais e culturais) de 120 cooperativas.
+    *   **Principal Achado:** Existe uma relação positiva e significativa entre o *disclosure* das práticas de sustentabilidade e o ROA.
+    *   **Diferenças entre Países:** Cooperativas espanholas apresentam maior nível de *disclosure* em comparação com os demais países.
+    *   **Implicações:** A divulgação de práticas de sustentabilidade legitima as cooperativas perante a comunidade, melhora a confiança e contribui para um melhor desempenho financeiro.
+    *   **Assimetria de Informação:** O *disclosure* é uma forma de mitigar problemas de assimetria de informação, que podem prejudicar a sustentabilidade financeira das cooperativas.
+
+*   **Palavras-Chave:**
+    *   **Termos Técnicos:** *Disclosure*, Sustentabilidade, Cooperativas de Crédito, Desempenho Financeiro, Retorno sobre Ativos (ROA), Teoria da Legitimidade, Assimetria de Informação, Indicadores de Sustentabilidade.
+    *   **Termos Conceituais:** Transparência, Governança, Confiança, Capital Social, Inclusão Financeira, Responsabilidade Social Corporativa (RSC), Relatórios de Sustentabilidade.
+    *   **Termos em Linguagem Natural (Sinônimos e Perguntas):**
+        *   "transparência em cooperativas de crédito"
+        *   "sustentabilidade e lucro em cooperativas"
+        *   "como cooperativas divulgam ações sociais"
+        *   "impacto da sustentabilidade no desempenho financeiro"
+        *   "confiança em cooperativas"
+        *   "relatórios de sustentabilidade de cooperativas"
+        *   "cooperativas são mais transparentes?"
+        *   "legitimidade de cooperativas"
+        *   "como a transparência afeta o desempenho"

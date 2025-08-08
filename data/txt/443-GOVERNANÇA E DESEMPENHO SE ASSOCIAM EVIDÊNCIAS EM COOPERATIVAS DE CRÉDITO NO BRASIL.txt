@@ -1,0 +1,22 @@
+Identificação Básica:
+ID do Artigo: 443
+Título Oficial: GOVERNANÇA E DESEMPENHO SE ASSOCIAM? EVIDÊNCIAS EM COOPERATIVAS DE CRÉDITO NO BRASIL
+Link para Download: (A ser adicionado)
+
+Resumo Sintético:
+O artigo investiga a relação entre governança corporativa e desempenho financeiro em cooperativas de crédito no Brasil. A pesquisa, de natureza exploratória e descritiva, utilizou uma amostra de 994 cooperativas de crédito e dados do Banco Central do Brasil (2013-2014), aplicando análise de regressão robusta. Os resultados indicam uma relação positiva entre os índices de governança (IGOVFIS, IGOVDIR, IGOVRP) e os indicadores financeiros do sistema PEARLS, sugerindo que a governança contribui para o melhor desempenho financeiro das cooperativas. O estudo destaca a importância da governança para a sustentabilidade e a credibilidade do setor cooperativista.
+
+Expansão Semântica:
+Descrição Expandida em Linguagem Natural: Este estudo explora se a forma como as cooperativas de crédito são gerenciadas (governança) afeta seus resultados financeiros. A pesquisa analisa dados de muitas cooperativas no Brasil para ver se aquelas com boas práticas de governança têm um desempenho financeiro melhor. O artigo mostra que, de fato, existe uma relação positiva entre governança e desempenho, o que significa que investir em boas práticas de gestão pode trazer benefícios financeiros para as cooperativas. A pesquisa é relevante para gestores de cooperativas de crédito, reguladores e pesquisadores interessados em governança corporativa e finanças cooperativas.
+
+Pontos-Chave e Achados Específicos:
+- A pesquisa analisou 994 cooperativas de crédito no Brasil, com dados de 2013 e 2014.
+- Foram utilizados índices de governança (IGOVFIS, IGOVDIR, IGOVRP) e indicadores financeiros (PEARLS).
+- Os resultados indicam uma relação positiva entre governança e desempenho financeiro.
+- O estudo destaca a importância da transparência, equidade, prestação de contas e responsabilidade corporativa na governança.
+- A pesquisa sugere que a governança contribui para a sustentabilidade e a credibilidade das cooperativas.
+
+Palavras-Chave:
+Termos Técnicos: Governança Corporativa, Desempenho Financeiro, Cooperativas de Crédito, PEARLS, Regressão Robusta, Indicadores de Governança.
+Termos Conceituais: Sustentabilidade, Credibilidade, Gestão, Finanças Cooperativas, Teoria da Agência, Estrutura de Propriedade.
+Termos em Linguagem Natural: "governança em cooperativas de crédito", "desempenho financeiro de cooperativas", "como a governança afeta o lucro", "boas práticas de governança em cooperativas", "investimento em governança", "cooperativas de crédito e governança".

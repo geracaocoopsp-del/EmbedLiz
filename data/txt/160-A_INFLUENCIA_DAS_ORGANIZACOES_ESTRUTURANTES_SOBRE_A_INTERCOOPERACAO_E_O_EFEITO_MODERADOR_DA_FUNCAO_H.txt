@@ -1,0 +1,26 @@
+ID do Artigo: 160
+Título Oficial:
+A INFLUÊNCIA DAS ORGANIZAÇÕES ESTRUTURANTES SOBRE A INTERCOOPERAÇÃO E O EFEITO MODERADOR DA FUNÇÃO HORIZONTAL
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo analisa a influência de organizações estruturantes, como as cooperativas centrais e as federações, sobre a prática da intercooperação (cooperação entre cooperativas). A pesquisa investiga como essas entidades de representação e coordenação podem fomentar ou inibir a colaboração entre as cooperativas de base. Os resultados sugerem que as organizações estruturantes desempenham um papel crucial como articuladoras e mediadoras, facilitando a intercooperação. No entanto, o estudo também aponta que uma atuação excessivamente centralizadora pode inibir a autonomia e a cooperação horizontal (direta entre as cooperativas), mostrando a necessidade de um equilíbrio delicado na governança do sistema.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa estuda o papel das "chefes" das cooperativas, como as Centrais e as Federações, na promoção da união entre as cooperativas menores. O estudo mostra que essas grandes organizações podem ser uma "mão na roda", ajudando a conectar as cooperativas, a resolver conflitos e a criar projetos em conjunto. Mas também existe um perigo: se a "chefe" for muito mandona e centralizadora, ela pode acabar atrapalhando a conversa direta entre as cooperativas, que é a cooperação "horizontal". A conclusão é que o papel ideal dessas grandes organizações é o de ser uma "maestrina", que ajuda a orquestra a tocar em harmonia, mas sem tirar a liberdade de cada músico improvisar e conversar com o colega do lado.
+
+Pontos-Chave e Achados:
+
+- O artigo analisa o papel das cooperativas de segundo e terceiro grau (centrais, federações) como "organizações estruturantes" da intercooperação.
+- Essas organizações podem atuar como catalisadoras da intercooperação, reduzindo os custos de transação e construindo confiança.
+- No entanto, uma governança excessivamente verticalizada pode criar dependência e desestimular a cooperação horizontal, que é mais ágil e flexível.
+- O estudo defende um modelo de governança sistêmica que equilibre a coordenação vertical com o estímulo às redes horizontais de colaboração.
+
+Palavras-Chave:
+Técnicas: [Intercooperação, organizações estruturantes, cooperativas centrais, federações, governança de sistemas, redes de cooperação, cooperativismo]
+
+Conceituais: [Governança em redes, custos de transação, capital social, poder, centralização vs. descentralização, estratégia cooperativa]
+
+Linguagem Natural: [Qual o papel das cooperativas centrais como a Aurora ou a Cocamar?, Como as federações ajudam as cooperativas?, Desafios da governança em sistemas cooperativos, cooperação vertical vs. horizontal, o que são organizações estruturantes?]

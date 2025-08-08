@@ -1,0 +1,33 @@
+**Identificação Básica:**
+
+*   **ID do Artigo:** 753
+*   **Título Oficial:** TRABALHO DECENTE E COOPERATIVAS: UM ESTUDO BIBLIOMÉTRICO
+*   **Link para Download:** (Será adicionado posteriormente)
+
+**Resumo Sintético (O núcleo):**
+
+Este estudo bibliométrico investiga como as cooperativas contribuem para a promoção do "trabalho decente", o oitavo Objetivo de Desenvolvimento Sustentável (ODS) da ONU. Com base em uma análise de artigos da base de dados *Web of Science*, a pesquisa mostra que o tema é recente e global. Os resultados sugerem que as cooperativas, por seus valores de responsabilidade social e preocupação com a comunidade, são veículos naturais para a criação de empregos de qualidade. O artigo conclui apontando diferentes caminhos para essa contribuição, como através das cooperativas de trabalho, da educação cooperativista e do desenvolvimento de métricas específicas para avaliar o trabalho decente no contexto cooperativo.
+
+**Expansão Semântica:**
+
+*   **Descrição Expandida em Linguagem Natural:**
+    *   Este artigo faz uma "radiografia" da pesquisa científica sobre a relação entre cooperativas e a ideia de "trabalho decente", que significa ter um emprego produtivo, com salário justo, segurança e direitos respeitados. Os autores buscaram o que já foi publicado sobre o assunto e descobriram que é uma discussão nova, mas que está acontecendo no mundo todo. A principal conclusão é que as cooperativas têm tudo a ver com trabalho decente, porque a própria natureza do cooperativismo já inclui valores como democracia, igualdade e preocupação com as pessoas. O estudo aponta que as cooperativas podem ser uma ferramenta poderosa para combater o trabalho precário e criar empregos melhores, seja organizando os trabalhadores (como freelancers ou catadores), seja pela sua própria forma de gestão.
+
+*   **Pontos-Chave e Achados Específicos:**
+    *   **Objetivo:** Compreender a contribuição das cooperativas para a promoção do trabalho decente (ODS 8 da Agenda 2030).
+    *   **Metodologia:** Pesquisa bibliométrica na base de dados *Web of Science* com os termos "Decent Work" e "Cooperative".
+    *   **Achados Gerais:**
+        *   O tema é recente, com as primeiras publicações surgindo em 2017.
+        *   A pesquisa sobre o tema é global, com artigos de 10 países diferentes.
+        *   A maioria dos estudos está nas áreas de Gestão e Política Agrícola.
+    *   **Principais Contribuições das Cooperativas ao Trabalho Decente (identificadas na literatura):**
+        *   **Cooperativas de Trabalho:** São um modelo eficaz para retirar trabalhadores da informalidade e da precariedade, como no caso de freelancers (SMart) e trabalhadores informais (Esusu).
+        *   **Identidade Cooperativa:** O compromisso com os valores e princípios cooperativos é um caminho fundamental para a promoção do trabalho decente.
+        *   **Educação Cooperativista:** Disseminar os princípios do cooperativismo em todos os níveis de ensino é uma estratégia para fortalecer o trabalho decente.
+        *   **Avaliação e Métricas:** É necessário criar escalas e relatórios de sustentabilidade específicos para medir e avaliar a qualidade do trabalho nas cooperativas.
+    *   **Limitação do Estudo:** A pesquisa se limitou a uma única base de dados, o que pode ter deixado de fora estudos relevantes de outras fontes.
+
+*   **Palavras-Chave (O "Mapa" para a IA):**
+    *   **Termos Técnicos:** Trabalho Decente, Cooperativas, Estudo Bibliométrico, Agenda 2030, ODS 8, Web of Science, Cooperativas de Trabalho.
+    *   **Termos Conceituais:** Desenvolvimento Sustentável, Responsabilidade Social Cooperativa, Direitos Trabalhistas, Economia Social, Empregos Verdes, Identidade Cooperativa.
+    *   **Termos em Linguagem Natural (Sinônimos e Perguntas):** "cooperativas e direitos dos trabalhadores", "como as cooperativas criam empregos melhores", "trabalho justo em cooperativas", "o que a ONU diz sobre cooperativas e trabalho", "combate ao trabalho precário com cooperativas", "estudos sobre trabalho e cooperativismo", "cooperativa para freelancer é bom?".

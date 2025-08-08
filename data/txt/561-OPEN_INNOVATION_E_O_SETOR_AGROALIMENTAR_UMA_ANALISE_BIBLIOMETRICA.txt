@@ -1,0 +1,23 @@
+Identificação Básica:
+*   **ID do Artigo:** 561
+Título Oficial: OPEN INNOVATION E O SETOR AGROALIMENTAR: UMA ANÁLISE BIBLIOMÉTRICA
+Link para Download: (Não disponível)
+
+Resumo Sintético (O núcleo):
+Este artigo realiza uma análise bibliométrica da produção científica sobre "Inovação Aberta" (Open Innovation) no setor agroalimentar. O estudo mapeia os principais autores, periódicos, países e palavras-chave, identificando o estado da arte da pesquisa na área e apontando tendências e lacunas para estudos futuros, concluindo que é um campo de pesquisa emergente e em crescimento.
+
+Expansão Semântica (A parte crucial para a busca):
+Descrição Expandida em Linguagem Natural:
+A pesquisa funciona como um censo ou um "mapa" da pesquisa acadêmica sobre "Inovação Aberta" no setor de alimentos e agricultura. O conceito de Inovação Aberta refere-se à prática de empresas buscarem ideias e tecnologias fora de seus muros, colaborando com universidades, startups e até concorrentes. O estudo analisa quem são os pesquisadores mais influentes, quais revistas científicas mais publicam sobre o tema e de quais países vêm a maioria das pesquisas. O objetivo é entender como esse campo de estudo evoluiu, quais são os tópicos mais quentes e o que ainda precisa ser investigado, fornecendo um panorama completo para quem quer entender a intersecção entre colaboração, inovação e o agronegócio.
+
+Pontos-Chave e Achados Específicos:
+- Metodologia: O estudo utiliza a análise bibliométrica, uma técnica quantitativa para analisar publicações científicas.
+- Tema: A intersecção entre os conceitos de Inovação Aberta (Open Innovation) e o setor agroalimentar.
+- Resultados: O mapeamento identifica os principais autores de referência, os periódicos mais relevantes para o tema, as instituições e os países com maior produção científica.
+- Tendências: A análise revela que o interesse no tema é crescente, mas ainda é um campo de estudo relativamente novo e com muitas oportunidades de pesquisa.
+- Lacunas de Pesquisa: O artigo aponta áreas que ainda são pouco exploradas e que merecem mais atenção dos pesquisadores, como a aplicação de inovação aberta em pequenas e médias empresas do setor.
+
+Palavras-Chave (O "Mapa" para a IA):
+- Termos Técnicos: Inovação Aberta, Open Innovation, Setor Agroalimentar, Análise Bibliométrica, Mapeamento Científico, Produção Científica, Gestão da Inovação.
+- Termos Conceituais: Inovação Colaborativa, P&D (Pesquisa e Desenvolvimento), Ecossistemas de Inovação, Transferência de Tecnologia, Estratégia Empresarial, Agronegócio.
+- Termos em Linguagem Natural (Sinônimos e Perguntas): "inovação no agronegócio", "colaboração entre empresas e universidades no agro", "o que é inovação aberta?", "estudo sobre a pesquisa em inovação alimentar", "mapeamento de artigos científicos sobre agricultura", "tendências de pesquisa no setor de alimentos", "como empresas de alimentos inovam em parceria?".

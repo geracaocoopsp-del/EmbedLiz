@@ -1,0 +1,26 @@
+ID do Artigo: 205
+Título Oficial:
+CARACTERIZAÇÃO DO MERCADO DE TRABALHO DE CAMINHONEIROS DO TRANSPORTE DE CARGA FORMAIS E AUTÔNOMOS NO BRASIL
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo caracteriza e compara o mercado de trabalho dos caminhoneiros formais (empregados) e autônomos no Brasil. Utilizando microdados de pesquisas domiciliares, o estudo traça o perfil socioeconômico dos dois grupos, analisando variáveis como idade, escolaridade, rendimento e jornada de trabalho. Os resultados revelam diferenças significativas: os caminhoneiros autônomos tendem a ser mais velhos, ter jornadas mais longas e rendimentos mais voláteis, enquanto os formais possuem maior estabilidade e acesso a direitos trabalhistas. O estudo conclui que, apesar de ambos enfrentarem condições de trabalho desgastantes, os autônomos estão expostos a uma maior precarização e vulnerabilidade.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa faz um raio-x da vida dos caminhoneiros no Brasil, separando o joio do trigo: de um lado, os que são empregados com carteira assinada; do outro, os que são donos do próprio caminhão (os autônomos). O estudo usa dados do governo para comparar os dois grupos e descobre que a vida deles é bem diferente. O autônomo, em geral, é mais velho, trabalha mais horas por dia e nunca sabe direito quanto vai ganhar no final do mês. Já o empregado tem um salário mais certo e os direitos garantidos. A conclusão é que, embora a profissão seja dura para todos, o caminhoneiro autônomo vive uma situação de muito mais instabilidade e precariedade.
+
+Pontos-Chave e Achados:
+
+- O artigo compara o perfil dos caminhoneiros formais e autônomos no Brasil usando dados da PNAD.
+- Caminhoneiros autônomos apresentam maior idade média e menor escolaridade em comparação com os empregados.
+- A jornada de trabalho dos autônomos é significativamente mais longa e irregular.
+- Embora o rendimento médio possa ser similar, a volatilidade da renda e a ausência de proteção social (férias, 13º) tornam o trabalho autônomo mais precário.
+
+Palavras-Chave:
+Técnicas: [Mercado de trabalho, caminhoneiros, transporte de cargas, trabalho autônomo, trabalho formal, PNAD, sociologia do trabalho, logística]
+
+Conceituais: [Precarização do trabalho, informalidade, relações de trabalho, perfil profissional, vulnerabilidade social, regulação do trabalho]
+
+Linguagem Natural: [Qual a diferença entre caminhoneiro autônomo e empregado?, Condições de trabalho dos caminhoneiros no Brasil, perfil do caminhoneiro brasileiro, precarização do trabalho no transporte de cargas, análise do mercado de fretes]

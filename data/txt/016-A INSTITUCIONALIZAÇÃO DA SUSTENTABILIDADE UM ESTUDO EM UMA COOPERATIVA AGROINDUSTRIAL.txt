@@ -1,0 +1,23 @@
+ID do Artigo: 16
+Título Oficial: A INSTITUCIONALIZAÇÃO DA SUSTENTABILIDADE: UM ESTUDO EM UMA COOPERATIVA AGROINDUSTRIAL
+Link para Download: (Adicionar depois)
+
+Resumo Sintético: Este estudo de caso qualitativo investiga o grau de institucionalização das práticas de sustentabilidade em uma cooperativa agroindustrial, correlacionando-as ao planejamento estratégico. Através de pesquisa documental e entrevistas, identificou-se que a cooperativa está no estágio de Habitualização (pré-institucionalização) da sustentabilidade, com ações voltadas para o tema, mas ainda necessitando de estruturação e organização para comprovar sua efetividade aos stakeholders. O estudo ressalta a importância do monitoramento interorganizacional e da teorização para o desenvolvimento da sustentabilidade alinhada aos objetivos estratégicos.
+
+Expansão Semântica:
+Descrição Expandida em Linguagem Natural: Este artigo explora como uma grande cooperativa agroindustrial está incorporando a sustentabilidade em suas operações e estratégias. Ele investiga se as práticas sustentáveis são apenas iniciativas isoladas ou se já estão profundamente enraizadas na cultura e nos processos da organização. O estudo analisa documentos internos e entrevistas com a liderança para entender como a cooperativa lida com as demandas de sustentabilidade de seus clientes e da sociedade em geral. Em outras palavras, o artigo busca compreender o nível de maturidade da cooperativa em relação à sustentabilidade, e como ela pode avançar para integrar plenamente as dimensões econômica, social e ambiental em seu modelo de negócio, garantindo sua longevidade e impacto positivo na comunidade.
+Pontos-Chave e Achados Específicos:
+- A sustentabilidade é um tema relevante e crescente na gestão organizacional, com stakeholders cobrando ações de empresas e cooperativas.
+- O estudo de caso focou em uma cooperativa agroindustrial, utilizando pesquisa documental e entrevistas.
+- A cooperativa está no estágio de Habitualização (pré-institucionalização) da sustentabilidade, conforme o modelo de Tolbert e Zucker (1999).
+- A organização possui ações e práticas voltadas à sustentabilidade, mas ainda falta estruturação e organização para comprovação.
+- A preocupação com a sustentabilidade está alinhada ao planejamento estratégico e à criação de valor.
+- A cooperativa busca atender às exigências dos clientes e do mercado em relação à sustentabilidade.
+- A plataforma SAI é uma referência para a cooperativa em práticas de agricultura sustentável.
+- A Matriz de Materialidade dos Indicadores Ethos é utilizada para identificar os temas mais importantes para os stakeholders.
+- A pesquisa sugere a necessidade de monitoramento interorganizacional e teorização para o avanço da institucionalização da sustentabilidade.
+
+Palavras-Chave:
+Termos Técnicos: Institucionalização, Sustentabilidade, Cooperativa Agroindustrial, Estudo de Caso, Pesquisa Qualitativa, Tolbert e Zucker (1999), Habitualização, Objetificação, Sedimentação, Triple Bottom Line (TBL), Stakeholders, Pesquisa Documental, Entrevistas Semiestruturadas, Indicadores Ethos, Matriz de Materialidade, SAI Platform, ISO 14001, ISO 22000.
+Termos Conceituais: Desenvolvimento Socioeconômico, Gestão Organizacional, Planejamento Estratégico, Criação de Valor, Responsabilidade Social Empresarial, Meio Ambiente, Legitimidade, Isomorfismo, Cultura Organizacional, Práticas de Gestão.
+Termos em Linguagem Natural (Sinônimos e Perguntas): Como cooperativas se tornam sustentáveis? O que é sustentabilidade em cooperativas? Como implementar práticas sustentáveis em cooperativas agrícolas? Como medir a sustentabilidade de uma empresa? Desafios da sustentabilidade em cooperativas, como cooperativas geram valor sustentável, o papel dos stakeholders na sustentabilidade, como a cultura organizacional afeta a sustentabilidade.

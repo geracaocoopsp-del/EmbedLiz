@@ -1,0 +1,23 @@
+ID do Artigo: 265
+Título Oficial: COOPERATIVAS DE ELETRIFICAÇÃO DE SANTA CATARINA NO AMBIENTE REGULADO E A SATISFAÇÃO DO CONSUMIDOR
+Link para Download: (Adicionar depois)
+
+Resumo Sintético: Este trabalho analisa a relação entre a satisfação do consumidor e os indicadores regulatórios de duração (DEC) e frequência (FEC) de interrupção de energia em Cooperativas de Eletrificação (CEs) de Santa Catarina. Utilizando dados secundários de 2015 e regressão linear simples, o estudo conclui que há uma relação negativa entre a satisfação do consumidor e a duração da falta de energia (relação moderada), e uma relação fraca com a frequência. Isso sugere que a duração da interrupção tem maior impacto na satisfação do que a frequência, e que outros fatores além desses indicadores influenciam a percepção do consumidor.
+
+Expansão Semântica:
+Descrição Expandida em Linguagem Natural: Este artigo investiga o que faz os consumidores de energia elétrica em Santa Catarina ficarem satisfeitos com as cooperativas de eletrificação. Ele analisa se a quantidade de tempo que a energia fica fora (duração) e a frequência com que ela falta (frequência) afetam a satisfação dos clientes. O estudo também explora como essas cooperativas se encaixam no ambiente regulado do setor elétrico brasileiro. Em outras palavras, o artigo busca entender como a qualidade do serviço de energia elétrica, especialmente a estabilidade do fornecimento, impacta a percepção dos consumidores, e como as cooperativas de eletrificação se adaptam às regras e exigências da agência reguladora (ANEEL).
+Pontos-Chave e Achados Específicos:
+- As Cooperativas de Eletrificação (CEs) surgiram para levar energia elétrica a áreas de baixa densidade demográfica, como as rurais.
+- A Constituição Federal de 1988 e a reforma liberal do Estado nos anos 90 inseriram as CEs no ambiente regulado.
+- A ANEEL (Agência Nacional de Energia Elétrica) monitora as CEs através de indicadores regulatórios (DEC e FEC) e pesquisas de satisfação (IASC).
+- O estudo utilizou dados de 2015 de CEs de Santa Catarina.
+- Há uma relação negativa e moderada entre a satisfação do consumidor (IASC) e a duração da falta de energia (DEC).
+- Há uma relação negativa e fraca entre a satisfação do consumidor (IASC) e a frequência da falta de energia (FEC).
+- A duração da interrupção de energia tem maior influência na satisfação do consumidor do que a frequência.
+- Outros fatores além de DEC e FEC afetam a satisfação do consumidor.
+- O estudo sugere a necessidade de futuras pesquisas para identificar outras variáveis que influenciam a satisfação do consumidor.
+
+Palavras-Chave:
+Termos Técnicos: Cooperativas de Eletrificação (CEs), Satisfação do Consumidor (IASC), Índice Aneel de Satisfação do Consumidor (IASC), Duração Equivalente de Interrupção por Unidade Consumidora (DEC), Frequência Equivalente de Interrupção por Unidade Consumidora (FEC), ANEEL (Agência Nacional de Energia Elétrica), Regulação, Setor Elétrico, Regressão Linear Simples, Dados Secundários, Monopólio Natural, Qualidade de Energia.
+Termos Conceituais: Infraestrutura, Ambiente Regulado, Qualidade de Serviço, Gestão, Políticas Públicas, Desenvolvimento Regional, Confiabilidade do Serviço, Percepção do Consumidor.
+Termos em Linguagem Natural (Sinônimos e Perguntas): Como cooperativas de energia funcionam? O que é o IASC da ANEEL? Como a falta de luz afeta a satisfação do cliente? Qualidade da energia elétrica em cooperativas, regulamentação do setor elétrico, como medir a satisfação do consumidor de energia, desafios das cooperativas de eletrificação, energia elétrica em áreas rurais.

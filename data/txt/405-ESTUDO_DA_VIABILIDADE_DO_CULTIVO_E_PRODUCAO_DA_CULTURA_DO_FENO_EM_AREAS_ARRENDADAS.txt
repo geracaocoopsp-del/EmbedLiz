@@ -1,0 +1,26 @@
+ID do Artigo: 405
+Título Oficial:
+ESTUDO DA VIABILIDADE DO CULTIVO E PRODUÇÃO DA CULTURA DO FENO EM ÁREAS ARRENDADAS
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo realiza um estudo de viabilidade econômica para a produção de feno em áreas arrendadas. A pesquisa, utilizando a metodologia de análise de investimentos (VPL, TIR), avalia a rentabilidade do negócio, considerando os custos de produção (incluindo o arrendamento da terra) e as receitas com a venda do feno. Os resultados indicam que a produção de feno pode ser uma atividade altamente rentável, especialmente em regiões com pecuária intensiva (de leite ou de corte) que demandam forragem de alta qualidade. O estudo conclui que a "fenação" em terras arrendadas é um modelo de negócio viável e com potencial de expansão, mas que exige um bom conhecimento técnico e uma gestão de custos rigorosa para ser bem-sucedido.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa faz um plano de negócios para ver se dá dinheiro produzir feno em terra alugada. O estudo colocou na ponta do lápis todos os custos: o aluguel da terra, as sementes, os adubos, as máquinas para cortar e enfardar. Do outro lado, colocou o preço de venda do feno. A conclusão é que, sim, o negócio é bom e dá lucro. Produzir feno para vender para os criadores de gado, principalmente os de leite, que precisam de comida de primeira para as vacas, é uma atividade muito rentável. O estudo mostra que esse é um mercado com muito espaço para crescer, mas avisa: para ganhar dinheiro com feno, não basta só saber plantar; é preciso ser um bom gerente e controlar os custos na unha.
+
+Pontos-Chave e Achados:
+
+- O artigo é um estudo de viabilidade econômica da produção de feno em terras arrendadas.
+- A análise de rentabilidade (VPL, TIR) demonstra a atratividade do investimento.
+- A proximidade de bacias leiteiras ou de confinamentos de gado de corte é um fator-chave para o sucesso do negócio, por reduzir os custos de frete.
+- A produção de feno é uma atividade intensiva em capital (maquinário) e em conhecimento técnico, exigindo um perfil de produtor profissionalizado.
+
+Palavras-Chave:
+Técnicas: [Viabilidade econômica, feno, produção de forragem, arrendamento de terras, custo de produção, VPL, TIR, agronegócio]
+
+Conceituais: [Análise de investimentos, rentabilidade, modelo de negócio, pecuária intensiva, mercado de insumos, gestão rural]
+
+Linguagem Natural: [Dá dinheiro produzir feno para vender?, Análise de viabilidade da produção de feno, como calcular o custo de produção de feno?, o mercado de feno no Brasil, arrendamento de terra para produzir feno]

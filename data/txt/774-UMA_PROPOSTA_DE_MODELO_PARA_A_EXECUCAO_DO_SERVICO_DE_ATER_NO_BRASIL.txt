@@ -1,0 +1,26 @@
+ID do Artigo: 774
+Título Oficial:
+UMA PROPOSTA DE MODELO PARA A EXECUÇÃO DO SERVIÇO DE ATER NO BRASIL
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo propõe um novo modelo para a execução do serviço de Assistência Técnica e Extensão Rural (ATER) no Brasil, buscando superar as limitações do modelo difusionista tradicional. A proposta se baseia em uma abordagem pluralista e orientada pela demanda, onde diferentes prestadores de serviços (públicos, privados, ONGs, cooperativas) competem e colaboram para atender às diversas necessidades dos agricultores. O modelo proposto inclui a criação de um sistema de "crédito para ATER", onde o agricultor receberia um voucher para contratar o serviço que melhor lhe convém. O estudo conclui que essa mudança de um modelo estatal centralizado para um modelo de mercado regulado poderia aumentar a eficiência, a qualidade e a capilaridade da ATER no país.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa propõe uma revolução no jeito como a assistência técnica chega ao agricultor no Brasil. Em vez do modelo atual, onde o governo oferece um serviço "tamanho único" para todos, a ideia é criar um "mercado de ATER". Nesse novo modelo, o agricultor receberia um "vale-assistência técnica" do governo e poderia escolher quem contratar: a EMATER, um técnico de uma cooperativa, um agrônomo particular, etc. A competição entre os prestadores de serviço, segundo o estudo, faria a qualidade aumentar e o preço baixar. A conclusão é que essa mudança de um sistema monopolista para um sistema de mercado regulado poderia deixar a ATER muito mais eficiente e, o mais importante, muito mais focada em resolver o problema real do agricultor.
+
+Pontos-Chave e Achados:
+
+- O artigo faz uma crítica ao modelo estatal e centralizado de ATER e propõe um novo modelo, pluralista e orientado pela demanda.
+- A proposta central é a criação de um mercado regulado de serviços de ATER, com a utilização de vouchers ou "crédito para ATER".
+- Esse modelo busca aumentar a eficiência e a qualidade da ATER através da competição entre os prestadores de serviço.
+- A implementação de tal modelo exigiria uma profunda reforma institucional, com o Estado assumindo um novo papel de financiador e regulador, em vez de executor direto.
+
+Palavras-Chave:
+Técnicas: [Assistência Técnica e Extensão Rural (ATER), modelo de ATER, política agrícola, pluralismo, orientação à demanda, vouchers, reforma institucional]
+
+Conceituais: [Falhas de governo, falhas de mercado, quasi-mercado, agência, regulação, política pública, desenvolvimento rural]
+
+Linguagem Natural: [Como melhorar a assistência técnica rural no Brasil?, Uma proposta de novo modelo para a EMATER, o que é um sistema de vouchers para ATER?, a privatização da extensão rural, como tornar a ATER mais eficiente?]

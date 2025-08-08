@@ -1,0 +1,26 @@
+ID do Artigo: 725
+Título Oficial:
+Relações hierárquicas e adoção de tecnologia pelos produtores de tomate para mesa no Distrito Federal
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo analisa como as relações hierárquicas na cadeia produtiva do tomate de mesa, especialmente a dependência em relação a grandes compradores (como supermercados e atacadistas), influenciam a adoção de tecnologia pelos produtores no Distrito Federal. A pesquisa, por meio de um estudo de caso, investiga como as exigências dos compradores por padronização, qualidade e volume forçam os produtores a adotarem um determinado pacote tecnológico. Os resultados mostram que os produtores com contratos mais formais e dependentes de grandes redes tendem a ser mais tecnificados. O estudo conclui que a adoção de tecnologia na cadeia do tomate é, em grande medida, um processo induzido pelo poder de mercado dos elos a jusante, o que pode levar à modernização, mas também à perda de autonomia do produtor.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa estuda quem manda na cadeia do tomate no Distrito Federal e como isso afeta a vida do agricultor. O estudo mostra que quem dá as cartas são os grandes compradores, como as redes de supermercado. São eles que dizem como o tomate tem que ser, qual o tamanho, qual a cor, etc. Para conseguir atender a todas essas exigências, o produtor não tem escolha: ele é "forçado" a comprar as sementes, os adubos e os venenos que garantem aquele padrão. A conclusão é que essa relação de poder acaba empurrando o agricultor para a modernização, o que pode ser bom por um lado. Mas, por outro, ele perde toda a sua liberdade de decidir como vai produzir, virando quase que um "funcionário" do supermercado.
+
+Pontos-Chave e Achados:
+
+- O artigo analisa a adoção de tecnologia como um processo induzido pela governança da cadeia produtiva.
+- O poder de mercado dos grandes compradores (varejistas e atacadistas) é o principal indutor da tecnificação na produção de tomate de mesa.
+- As exigências de qualidade e padronização dos compradores funcionam como um mecanismo de coordenação que "puxa" a inovação no campo.
+- Essa relação hierárquica, ao mesmo tempo que moderniza, pode levar a uma perda de autonomia e a uma apropriação da maior parte do valor pelo elo mais forte da cadeia.
+
+Palavras-Chave:
+Técnicas: [Adoção de tecnologia, governança de cadeias de valor, poder de mercado, tomate de mesa, Distrito Federal, relações contratuais, estudo de caso]
+
+Conceituais: [Economia dos Custos de Transação (ECT), coordenação de cadeia, relações de poder, agricultura contratual, autonomia do produtor]
+
+Linguagem Natural: [Quem manda na cadeia do tomate?, Como os supermercados influenciam a produção de tomate?, Adoção de tecnologia por imposição do mercado, o poder dos grandes compradores no agronegócio, perda de autonomia do agricultor]

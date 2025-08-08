@@ -1,0 +1,26 @@
+ID do Artigo: 633
+Título Oficial:
+POLÍTICAS PÚBLICAS DE ADAPTAÇÃO À SECA PROLONGADA NO NORDESTE: O PAPEL DO PRONAF E DO GARANTIA-SAFRA
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo analisa o papel de duas políticas públicas centrais, o Pronaf e o Garantia-Safra, como estratégias de adaptação da agricultura familiar à seca prolongada no Nordeste. A pesquisa avalia como o crédito rural (Pronaf) e o seguro agrícola (Garantia-Safra) contribuem para a resiliência dos produtores. Os resultados indicam que as duas políticas são complementares e fundamentais: o Garantia-Safra atua como uma rede de segurança de curto prazo, garantindo uma renda mínima após a perda da safra, enquanto o Pronaf, especialmente em suas linhas de investimento, tem o potencial de financiar tecnologias de convivência com o semiárido, promovendo a adaptação de longo prazo.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa estuda como dois programas do governo, o Pronaf e o Garantia-Safra, ajudam os pequenos agricultores do Nordeste a enfrentar as secas, que estão cada vez mais longas. O estudo mostra que os dois programas funcionam de forma diferente, mas se completam. O Garantia-Safra é o "socorro" imediato: quando a seca destrói a lavoura, ele garante um dinheirinho para a família não passar fome. Já o Pronaf é o investimento no futuro: com ele, o agricultor pode, por exemplo, construir uma cisterna ou comprar um sistema de irrigação, se preparando para as próximas secas. A conclusão é que, para a agricultura familiar do semiárido ser forte e resiliente, é preciso que essas duas políticas funcionem bem e de forma articulada.
+
+Pontos-Chave e Achados:
+
+- O Pronaf e o Garantia-Safra são os principais instrumentos de política pública para a adaptação da agricultura familiar à seca no Nordeste.
+- O Garantia-Safra funciona como uma política de gestão de risco de curto prazo (coping), enquanto o Pronaf tem potencial para ser uma política de adaptação de longo prazo.
+- A efetividade do Pronaf para a adaptação depende do direcionamento do crédito para investimentos em tecnologias de convivência com o semiárido.
+- A articulação entre as duas políticas é crucial para construir a resiliência dos agricultores familiares, combinando segurança de renda com capacidade de investimento.
+
+Palavras-Chave:
+Técnicas: [Seca, adaptação, Pronaf, Garantia-Safra, agricultura familiar, Nordeste, semiárido, políticas públicas, resiliência, gestão de risco]
+
+Conceituais: [Convivência com o semiárido, vulnerabilidade climática, segurança alimentar, política agrícola, seguro agrícola, crédito rural]
+
+Linguagem Natural: [Como o Pronaf e o Garantia-Safra ajudam na seca?, Políticas para a seca no Nordeste, adaptação da agricultura às mudanças climáticas, resiliência do agricultor familiar, crédito para convivência com o semiárido]

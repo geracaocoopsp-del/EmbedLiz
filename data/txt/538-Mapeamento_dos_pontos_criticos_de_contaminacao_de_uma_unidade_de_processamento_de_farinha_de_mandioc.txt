@@ -1,0 +1,26 @@
+ID do Artigo: 538
+Título Oficial:
+Mapeamento dos pontos críticos de contaminação de uma unidade de processamento de farinha de mandioca
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo realiza um mapeamento dos pontos críticos de contaminação em uma unidade de processamento de farinha de mandioca (casa de farinha), utilizando a metodologia de Análise de Perigos e Pontos Críticos de Controle (APPCC). A pesquisa identifica as etapas do processo, desde o recebimento da mandioca até o ensacamento da farinha, com maior risco de contaminação microbiológica ou física. Os resultados apontam a etapa de descascamento e a higiene inadequada de equipamentos e manipuladores como os principais pontos críticos. O estudo conclui que a implementação de um plano APPCC é fundamental para garantir a segurança e a qualidade do produto final, sendo uma ferramenta essencial para a formalização e a melhoria da competitividade das casas de farinha.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa funciona como uma "vigilância sanitária" dentro de uma casa de farinha, buscando encontrar os lugares e os momentos em que a farinha tem mais chance de ser contaminada por micróbios ou sujeiras. Usando uma metodologia chamada APPCC, o estudo analisou todo o processo, desde a chegada da mandioca até a farinha pronta. A conclusão é que os maiores perigos estão na hora de descascar a mandioca e na falta de limpeza correta das máquinas e das mãos de quem trabalha. O estudo mostra que, para garantir uma farinha segura e de boa qualidade, é essencial que as casas de farinha adotem um plano de controle de higiene rigoroso, como o APPCC.
+
+Pontos--Chave e Achados:
+
+- O estudo aplica a metodologia APPCC para identificar os pontos críticos de controle em uma casa de farinha.
+- As etapas de recepção da matéria-prima, descascamento manual e a higiene dos utensílios e superfícies foram identificadas como os principais pontos de risco.
+- A falta de Boas Práticas de Fabricação (BPF) é a causa raiz da maioria dos perigos de contaminação.
+- A implementação de um plano APPCC é crucial para a produção de um alimento seguro e para a adequação às normas sanitárias.
+
+Palavras-Chave:
+Técnicas: [Segurança de alimentos, APPCC (Análise de Perigos e Pontos Críticos de Controle), farinha de mandioca, casa de farinha, Boas Práticas de Fabricação (BPF), contaminação de alimentos]
+
+Conceituais: [Qualidade de alimentos, vigilância sanitária, processamento de alimentos, agricultura familiar, agroindústria rural, gestão da qualidade]
+
+Linguagem Natural: [Como garantir a higiene na produção de farinha de mandioca?, O que é APPCC na indústria de alimentos?, Pontos críticos de contaminação em casas de farinha, segurança alimentar na produção artesanal, Boas Práticas de Fabricação para farinha]

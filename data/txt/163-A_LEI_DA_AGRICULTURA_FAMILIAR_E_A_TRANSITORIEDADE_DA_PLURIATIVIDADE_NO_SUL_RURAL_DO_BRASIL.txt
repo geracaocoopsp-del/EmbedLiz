@@ -1,0 +1,26 @@
+ID do Artigo: 163
+Título Oficial:
+A LEI DA AGRICULTURA FAMILIAR E A TRANSITORIEDADE DA PLURIATIVIDADE NO SUL RURAL DO BRASIL
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo analisa a Lei da Agricultura Familiar (Lei nº 11.326/2006) e suas implicações para o fenômeno da pluriatividade no Sul do Brasil. A pesquisa argumenta que a lei, ao definir o agricultor familiar com base na renda originada predominantemente do estabelecimento, trata a pluriatividade (combinação de rendas agrícolas e não-agrícolas) como uma condição transitória ou secundária. Os resultados da análise documental e de dados secundários mostram que a pluriatividade é, na verdade, uma estratégia estrutural e permanente para a maioria das famílias. O estudo conclui que a lei, embora importante, possui uma visão restritiva que não reflete a complexidade da realidade rural, o que pode gerar exclusões e dificultar o acesso a políticas públicas por parte de famílias pluriativas.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa faz uma crítica à principal lei que define quem é "agricultor familiar" no Brasil. O estudo mostra que a lei foi escrita pensando naquele agricultor "das antigas", que tira todo o seu sustento da roça. O problema é que a realidade mudou. Hoje, a maioria das famílias do campo tem outras fontes de renda: um filho que trabalha na cidade, a esposa que vende artesanato, etc. (a tal da "pluriatividade"). A conclusão é que a lei está "atrasada": ao não reconhecer a pluriatividade como algo normal e permanente, ela acaba deixando de fora um monte de gente que também é da agricultura familiar, mas que não se encaixa nesse modelo idealizado. Isso pode fazer com que essas famílias percam o acesso a programas importantes, como o Pronaf.
+
+Pontos-Chave e Achados:
+
+- O artigo faz uma análise crítica da definição legal de agricultura familiar presente na Lei nº 11.326/2006.
+- A lei adota uma visão "agrarista", que subestima a importância das rendas não-agrícolas (pluriatividade) para a reprodução social das famílias.
+- A pluriatividade no Sul do Brasil não é um fenômeno transitório, mas uma estratégia consolidada e estrutural.
+- A definição restritiva da lei pode criar barreiras para o acesso de famílias pluriativas a políticas públicas desenhadas para a agricultura familiar.
+
+Palavras-Chave:
+Técnicas: [Lei da Agricultura Familiar, pluriatividade, agricultura familiar, Sul do Brasil, políticas públicas, definição legal, sociologia rural]
+
+Conceituais: [Novo rural, ruralidade, reprodução social, marco legal, exclusão, desenvolvimento rural, pluriatividade]
+
+Linguagem Natural: [O que a Lei da Agricultura Familiar diz sobre pluriatividade?, Críticas à Lei 11.326, a definição de agricultor familiar está ultrapassada?, a importância da pluriatividade no Sul do Brasil, acesso de pluriativos a políticas públicas]

@@ -1,0 +1,26 @@
+ID do Artigo: 178
+Título Oficial:
+A TRAJETÓRIA DO PRONAF: ANÁLISE DAS OPERAÇÕES DE CRÉDITO NOS MUNICÍPIOS BRASILEIROS ENTRE 2013 E 2020
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo analisa a trajetória recente do Programa Nacional de Fortalecimento da Agricultura Familiar (Pronaf), focando na evolução do número e do volume das operações de crédito nos municípios brasileiros entre 2013 e 2020. Utilizando dados públicos do Banco Central, a pesquisa mapeia a distribuição do crédito no período, que foi marcado por instabilidade econômica e política. Os resultados mostram uma tendência de estagnação e, em alguns anos, de retração real dos recursos do Pronaf, além da manutenção do padrão histórico de concentração do crédito na Região Sul. O estudo conclui que, após um longo período de expansão, o Pronaf enfrentou nos últimos anos um processo de enfraquecimento, com impactos diretos na capacidade de investimento da agricultura familiar.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa faz um raio-x do Pronaf, o principal programa de crédito para a agricultura familiar, para ver o que aconteceu com ele entre 2013 e 2020, um período de muita crise no Brasil. O estudo, usando os dados oficiais, mostra que o programa, que vinha crescendo forte, "andou de lado" e até encolheu nesses anos. Além disso, o velho problema da concentração continuou: a maior parte do dinheiro ficou, como sempre, na mão dos agricultores da Região Sul. A conclusão é que o Pronaf, que sempre foi a "mola mestra" da agricultura familiar, perdeu força nos últimos anos, o que significa que os pequenos agricultores tiveram menos dinheiro para investir e para tocar a produção.
+
+Pontos-Chave e Achados:
+
+- O artigo analisa a evolução do crédito do Pronaf no Brasil entre 2013 e 2020, um período de crise e de mudança política.
+- Os dados revelam uma estagnação no volume de recursos e no número de contratos, interrompendo a trajetória de crescimento das décadas anteriores.
+- O padrão de concentração regional do crédito na Região Sul se manteve e, em alguns aspectos, se aprofundou.
+- O enfraquecimento do Pronaf é um indicador da perda de prioridade da agricultura familiar na agenda de políticas públicas do governo federal no período.
+
+Palavras-Chave:
+Técnicas: [Pronaf, crédito rural, agricultura familiar, política agrícola, análise de dados, Banco Central, evolução do crédito, distribuição regional]
+
+Conceituais: [Política pública, desenvolvimento rural, financiamento agrícola, crise econômica, desmonte de políticas, desigualdade regional]
+
+Linguagem Natural: [O que aconteceu com o Pronaf nos últimos anos?, Evolução do crédito para a agricultura familiar, o Pronaf diminuiu?, concentração do crédito rural no Sul do Brasil, a crise e o Pronaf]

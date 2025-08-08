@@ -1,0 +1,26 @@
+ID do Artigo: 635
+Título Oficial:
+POLÍTICAS PÚBLICAS E AGRICULTURA FAMILIAR: ANÁLISE DA DINÂMICA RECENTE DO PROGRAMA TERRA BOA/SUBPROGRAMA VAMOS PLANTAR
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo analisa a dinâmica recente do programa Terra Boa e seu subprograma "Vamos Plantar", uma política pública do estado de Santa Catarina de apoio à agricultura familiar. A pesquisa investiga a distribuição de recursos e o tipo de apoio oferecido, como o subsídio para a aquisição de sementes de milho e calcário. Os resultados mostram que o programa é de grande importância para a redução dos custos de produção dos agricultores familiares catarinenses, contribuindo para a sua capitalização. No entanto, o estudo também aponta para uma concentração do apoio em insumos para a produção de commodities (milho para ração), com menor incentivo à diversificação produtiva e à transição agroecológica.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa faz um raio-x do "Terra Boa", um programa do governo de Santa Catarina que ajuda os pequenos agricultores, principalmente dando um subsídio para a compra de sementes de milho e de calcário para corrigir o solo. O estudo mostra que esse programa é uma mão na roda para os agricultores, pois ajuda a diminuir os custos da produção. O problema, segundo a pesquisa, é que o programa acaba incentivando todo mundo a plantar a mesma coisa: milho, que na maioria das vezes vai virar ração para porcos e frangos. A conclusão é que o programa é bom, mas poderia ser melhor se também desse apoio para quem quer diversificar a produção e plantar outras coisas, especialmente de forma mais ecológica.
+
+Pontos-Chave e Achados:
+
+- O programa Terra Boa é uma política estadual consolidada e de grande capilaridade na agricultura familiar de Santa Catarina.
+- O subsídio para a compra de insumos (calcário e sementes de milho) é o principal mecanismo do programa e contribui para a redução dos custos de produção.
+- A análise crítica aponta que o foco do programa em insumos para a cadeia de grãos e carnes pode desestimular a diversificação produtiva.
+- O artigo sugere a possibilidade de redesenhar o programa para incluir o apoio a práticas mais sustentáveis e à produção de alimentos para o consumo humano.
+
+Palavras-Chave:
+Técnicas: [Política agrícola estadual, Terra Boa, agricultura familiar, Santa Catarina, subsídios agrícolas, política pública, insumos agrícolas, milho]
+
+Conceituais: [Desenvolvimento rural, política de subvenção, diversificação produtiva, transição agroecológica, modelo de desenvolvimento agrícola, segurança alimentar]
+
+Linguagem Natural: [Como funciona o programa Terra Boa de Santa Catarina?, Apoio do governo para agricultores catarinenses, subsídio para compra de calcário e sementes, crítica ao modelo de desenvolvimento agrícola de SC, políticas para a agricultura familiar em Santa Catarina]

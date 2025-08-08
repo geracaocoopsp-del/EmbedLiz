@@ -1,0 +1,26 @@
+ID do Artigo: 382
+Título Oficial:
+EMPOWERMENT AND GENDER EQUITY IN AGRICULTURE: EVIDENCE OF SMALLHOLDER FARMERS IN WESTERN PARANÁ, BRAZIL
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo investiga o nível de empoderamento e de equidade de gênero entre mulheres agricultoras familiares no Oeste do Paraná. Utilizando o Women's Empowerment in Agriculture Index (WEAI), a pesquisa mede o grau de participação das mulheres em cinco domínios: decisões sobre a produção, controle sobre o uso da renda, posse de ativos, liderança e gestão do tempo. Os resultados mostram que, apesar do Oeste do Paraná ser uma região desenvolvida, as mulheres agricultoras ainda enfrentam significativa desigualdade, com baixos escores de empoderamento especialmente nos domínios de posse de ativos e de participação em grupos de liderança. O estudo conclui que o empoderamento feminino é um processo multidimensional e que, mesmo em contextos de modernização agrícola, as barreiras de gênero persistem.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa usa uma "régua" internacional, chamada WEAI, para medir o "poder" das mulheres agricultoras no Oeste do Paraná, uma das regiões mais ricas do agronegócio brasileiro. Essa régua mede cinco coisas: se a mulher participa das decisões da fazenda, se ela tem controle sobre o dinheiro, se ela tem bens em seu nome, se ela é líder na comunidade e se ela não está sobrecarregada de trabalho. A conclusão é que, mesmo no "paraíso" do agro, a situação da mulher não é tão boa assim. Elas ainda têm pouco poder, principalmente na hora de serem donas da terra e de ocuparem cargos de chefia. O estudo mostra que o dinheiro e a modernidade, por si sós, não acabam com o machismo.
+
+Pontos-Chave e Achados:
+
+- O artigo utiliza o Women's Empowerment in Agriculture Index (WEAI) para medir a equidade de gênero no Oeste do Paraná.
+- Os resultados indicam um nível de empoderamento feminino moderado, com déficits significativos em domínios-chave.
+- A posse de ativos (terra e bens) e a participação em liderança comunitária são as dimensões com maior desigualdade de gênero.
+- O estudo demonstra a utilidade do WEAI como ferramenta de diagnóstico para orientar políticas públicas de promoção da equidade de gênero no meio rural.
+
+Palavras-Chave:
+Técnicas: [Empoderamento feminino, equidade de gênero, Women's Empowerment in Agriculture Index (WEAI), agricultura familiar, Oeste do Paraná, mulheres rurais]
+
+Conceituais: [Relações de gênero, empoderamento, desigualdade, desenvolvimento rural, sociologia rural, feminismo, agência]
+
+Linguagem Natural: [Qual o nível de empoderamento das mulheres agricultoras no Brasil?, Como medir a equidade de gênero no campo?, O que é o índice WEAI?, a situação da mulher no Oeste do Paraná, desafios para o empoderamento feminino na agricultura]

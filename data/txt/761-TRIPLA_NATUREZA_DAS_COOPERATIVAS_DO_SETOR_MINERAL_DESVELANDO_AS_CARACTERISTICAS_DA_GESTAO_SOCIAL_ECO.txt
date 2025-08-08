@@ -1,0 +1,26 @@
+ID do Artigo: 761
+Título Oficial:
+TRIPLA NATUREZA DAS COOPERATIVAS DO SETOR MINERAL: DESVELANDO AS CARACTERÍSTICAS DA GESTÃO SOCIAL, ECONÔMICA E AMBIENTAL
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo analisa as cooperativas do setor mineral a partir de uma "tripla natureza", investigando as características de sua gestão nas dimensões social, econômica e ambiental. A pesquisa argumenta que, para entender essas organizações, é preciso ir além da visão puramente econômica, reconhecendo-as como empreendimentos que buscam equilibrar a viabilidade do negócio (econômico), a melhoria das condições de vida dos cooperados (social) e a mitigação dos impactos da atividade mineradora (ambiental). O estudo conclui que a gestão dessas cooperativas é extremamente complexa, marcada por tensões e trade-offs constantes entre essas três dimensões, e que seu sucesso depende da capacidade de construir uma governança que integre e equilibre esses múltiplos objetivos.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa propõe um novo jeito de olhar para as cooperativas de garimpeiros, enxergando-as por três lados ao mesmo tempo: o social, o econômico e o ambiental. O estudo mostra que a gestão dessas cooperativas é um verdadeiro malabarismo. Elas precisam, ao mesmo tempo, dar lucro para os cooperados (lado econômico), garantir condições de trabalho justas e melhorar a vida da comunidade (lado social) e, ainda por cima, tentar diminuir o estrago que a mineração causa na natureza (lado ambiental). A conclusão é que administrar uma cooperativa mineral é uma tarefa muito complexa, cheia de decisões difíceis onde, muitas vezes, para ganhar de um lado é preciso perder do outro. O sucesso, portanto, depende de encontrar um equilíbrio delicado entre essas três forças.
+
+Pontos-Chave e Achados:
+
+- O artigo propõe um framework de análise da "tripla natureza" (social, econômica, ambiental) para as cooperativas minerais.
+- A gestão dessas cooperativas é marcada por um trade-off permanente entre a rentabilidade econômica, a equidade social e a responsabilidade ambiental.
+- A dimensão social está ligada à formalização e à melhoria das condições de trabalho, enquanto a econômica se refere à competitividade e ao acesso a mercados.
+- A dimensão ambiental é a mais desafiadora, devido aos altos custos da mineração sustentável e à dificuldade de fiscalização.
+
+Palavras-Chave:
+Técnicas: [Cooperativismo mineral, tripla natureza, gestão socioambiental, sustentabilidade na mineração, garimpo, estudo de caso, governança]
+
+Conceituais: [Triple Bottom Line (TBL), trade-off, gestão de cooperativas, responsabilidade socioambiental, mineração de pequena escala, desenvolvimento sustentável]
+
+Linguagem Natural: [Quais os desafios da gestão de cooperativas de garimpeiros?, A tripla natureza do cooperativismo, como equilibrar lucro e sustentabilidade na mineração?, gestão social, econômica e ambiental em cooperativas, mineração sustentável]

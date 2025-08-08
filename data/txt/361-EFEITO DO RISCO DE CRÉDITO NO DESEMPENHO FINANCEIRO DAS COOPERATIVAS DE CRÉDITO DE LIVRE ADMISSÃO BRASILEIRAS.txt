@@ -1,0 +1,22 @@
+Identificação Básica:
+ID do Artigo: 361
+Título Oficial: EFEITO DO RISCO DE CRÉDITO NO DESEMPENHO FINANCEIRO DAS COOPERATIVAS DE CRÉDITO DE LIVRE ADMISSÃO BRASILEIRAS
+Link para Download: (A ser adicionado)
+
+Resumo Sintético:
+O artigo analisa o efeito do risco de crédito no desempenho financeiro das cooperativas de crédito de livre admissão no Brasil, utilizando dados de balancetes semestrais de 263 cooperativas entre 2014 e 2018. A pesquisa, por meio de Regressão de Dados em Painel, conclui que o risco de crédito é um fator determinante no desempenho financeiro dessas cooperativas. O estudo destaca a importância da gestão adequada do risco de crédito para garantir a sobrevivência e o crescimento das cooperativas, e que o provisionamento para créditos de liquidação duvidosa está negativamente relacionado com o retorno sobre o ativo e o patrimônio líquido.
+
+Expansão Semântica:
+Descrição Expandida em Linguagem Natural: Este estudo investiga como o risco de crédito, ou seja, a chance de os empréstimos não serem pagos, afeta a saúde financeira das cooperativas de crédito no Brasil. A pesquisa analisa dados de várias cooperativas para entender como a inadimplência impacta seus lucros e sua capacidade de crescer. O artigo mostra que uma boa gestão do risco de crédito é fundamental para o sucesso das cooperativas, e que a forma como elas provisionam (reservam dinheiro para perdas) seus créditos duvidosos é um indicador importante. A pesquisa é relevante para gestores de cooperativas de crédito, reguladores e pesquisadores interessados em gestão de riscos e desempenho financeiro.
+
+Pontos-Chave e Achados Específicos:
+- A pesquisa utilizou dados de 263 cooperativas de crédito de livre admissão no Brasil.
+- O risco de crédito é um fator determinante no desempenho financeiro das cooperativas.
+- O provisionamento para créditos de liquidação duvidosa está negativamente relacionado com o retorno sobre o ativo (ROA) e o patrimônio líquido (ROE).
+- O estudo destaca a importância da gestão adequada do risco de crédito para a sobrevivência e o crescimento das cooperativas.
+- A pesquisa sugere que a análise de dados em painel é uma ferramenta eficaz para investigar o efeito do risco de crédito no desempenho financeiro.
+
+Palavras-Chave:
+Termos Técnicos: Risco de Crédito, Desempenho Financeiro, Cooperativas de Crédito de Livre Admissão, Regressão de Dados em Painel, ROA, ROE.
+Termos Conceituais: Inadimplência, Provisão para Créditos de Liquidação Duvidosa, Gestão de Riscos, Sustentabilidade Financeira, Sistema Financeiro Nacional.
+Termos em Linguagem Natural: "risco de crédito em cooperativas", "desempenho financeiro de cooperativas de crédito", "como gerenciar o risco de crédito", "inadimplência em cooperativas", "lucratividade de cooperativas financeiras", "saúde financeira de cooperativas".

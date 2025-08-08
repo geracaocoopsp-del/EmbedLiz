@@ -1,0 +1,26 @@
+ID do Artigo: 184
+Título Oficial:
+Análise da dinâmica canavieira no Centro-Oeste brasileiro
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo analisa a dinâmica da expansão da cultura de cana-de-açúcar na região Centro-Oeste do Brasil, impulsionada pela demanda por etanol e açúcar. Utilizando dados de produção, área plantada e número de usinas, o estudo mapeia o crescimento do setor na região, com foco nos estados de Goiás, Mato Grosso e Mato Grosso do Sul. A pesquisa conclui que o Centro-Oeste se consolidou como uma nova e importante fronteira para o setor sucroenergético, mas essa expansão traz consigo desafios significativos relacionados a questões ambientais, como o uso da terra, e sociais, como as condições de trabalho e a relação com a agricultura familiar.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa investiga o crescimento da produção de cana-de-açúcar na região Centro-Oeste do Brasil. O estudo analisa como a área plantada com cana e o número de usinas de açúcar e etanol aumentaram nos últimos anos, transformando a região em um polo importante para esse setor. O foco da análise está nos estados de Goiás, Mato Grosso e Mato Grosso do Sul. A conclusão é que, embora essa expansão seja economicamente positiva, ela também gera preocupações. O avanço da cana sobre novas terras levanta questões sobre o impacto ambiental, a competição com a produção de alimentos e as condições de trabalho nos canaviais, mostrando que o crescimento do setor precisa ser gerenciado com cuidado.
+
+Pontos-Chave e Achados:
+
+- O Centro-Oeste brasileiro experimentou uma rápida expansão da lavoura de cana-de-açúcar nas últimas décadas.
+- O estado de Goiás lidera a produção na região, seguido por Mato Grosso do Sul.
+- A expansão foi motivada principalmente pela demanda por biocombustíveis (etanol) e pela saturação de terras no Sudeste.
+- A dinâmica de expansão levanta debates sobre seus impactos ambientais (desmatamento, uso de agrotóxicos) e sociais (concentração de terras, condições de trabalho).
+
+Palavras-Chave:
+Técnicas: [Cana-de-açúcar, setor sucroenergético, etanol, fronteira agrícola, Centro-Oeste, análise espacial, dinâmica agrícola, uso do solo]
+
+Conceituais: [Expansão do agronegócio, desenvolvimento regional, impacto ambiental, questão agrária, commodities agrícolas, matriz energética]
+
+Linguagem Natural: [Expansão da cana no Centro-Oeste, produção de etanol em Goiás, impacto do setor sucroalcooleiro, nova fronteira da cana-de-açúcar, desafios da produção de cana no Brasil]

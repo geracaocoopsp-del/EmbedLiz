@@ -1,0 +1,26 @@
+ID do Artigo: 299
+Título Oficial:
+Comportamento do consumidor residente nos Estados Unidos sobre produtos certificados: um olhar a partir da Teoria do Comportamento Planejado
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo investiga os fatores que influenciam a intenção de compra de produtos com certificação de sustentabilidade (como orgânico ou fair trade) por consumidores nos Estados Unidos, utilizando a Teoria do Comportamento Planejado (TCP) como referencial teórico. Por meio da aplicação de um survey, o estudo analisa como as atitudes, as normas subjetivas (influência social) e o controle percebido (facilidade de compra) afetam a decisão do consumidor. Os resultados indicam que os três componentes da TCP são preditores significativos da intenção de compra, com as atitudes pessoais em relação aos benefícios dos produtos certificados sendo o fator de maior influência.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa busca entender o que leva um consumidor nos Estados Unidos a decidir comprar um produto que tem um selo de sustentabilidade, como o de orgânico ou de comércio justo. Para isso, o estudo usa uma teoria da psicologia chamada "Teoria do Comportamento Planejado", que diz que nossa intenção de fazer algo é influenciada por três coisas: o que nós mesmos pensamos sobre aquilo (nossa atitude), o que achamos que as outras pessoas importantes para nós pensam (influência social) e o quão fácil ou difícil acreditamos que seja fazer aquilo (facilidade percebida). A pesquisa aplicou um questionário e confirmou que os três fatores são importantes, mas o que mais pesa na decisão é a própria crença do consumidor de que aquele produto certificado é realmente melhor para ele e para o mundo.
+
+Pontos-Chave e Achados:
+
+- A Teoria do Comportamento Planejado (TCP) é um modelo robusto para explicar a intenção de compra de produtos certificados.
+- A atitude do consumidor, ou seja, sua avaliação pessoal positiva sobre os produtos sustentáveis, é o principal motor da intenção de compra.
+- A norma subjetiva (pressão social de amigos e familiares) e o controle comportamental percebido (disponibilidade e preço dos produtos) também influenciam significativamente a decisão.
+- O estudo oferece insights para empresas e profissionais de marketing sobre como comunicar os atributos de sustentabilidade de forma mais eficaz para o mercado americano.
+
+Palavras-Chave:
+Técnicas: [Comportamento do consumidor, Teoria do Comportamento Planejado (TCP), produtos certificados, marketing de sustentabilidade, survey, análise de regressão, mercado americano]
+
+Conceituais: [Intenção de compra, atitude, norma subjetiva, controle comportamental percebido, consumo sustentável, certificação de produtos]
+
+Linguagem Natural: [O que leva o consumidor a comprar produtos orgânicos?, Teoria do Comportamento Planejado aplicada ao consumo, marketing de produtos sustentáveis nos EUA, influência social na compra de alimentos, como vender produtos certificados?]

@@ -1,0 +1,26 @@
+ID do Artigo: 519
+Título Oficial:
+MERCADO DE TRABALHO FORMAL EM SEGMENTOS DO AGRONEGÓCIO NAS MESORREGIÕES PARANAENSES
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo analisa a distribuição e a dinâmica do mercado de trabalho formal em diferentes segmentos do agronegócio nas mesorregiões do Paraná. Utilizando dados da RAIS, a pesquisa mapeia a concentração do emprego com carteira assinada nos setores da agropecuária, da agroindústria e dos serviços de apoio. Os resultados mostram que o emprego formal no agronegócio paranaense é altamente concentrado, tanto setorialmente (com destaque para a agroindústria de carnes e o cooperativismo) quanto regionalmente (com a mesorregião Oeste se destacando como o principal polo empregador). O estudo conclui que a dinâmica do emprego formal no agronegócio do Paraná é fortemente influenciada pelo modelo de produção integrado e cooperativo, que caracteriza as cadeias de carnes e grãos no estado.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa faz um mapa do emprego com carteira assinada no agronegócio do Paraná, para mostrar onde estão as vagas e em quais setores. O estudo, usando dados oficiais, descobre que o emprego não é espalhado por igual. A grande maioria das vagas está concentrada na agroindústria (principalmente nos frigoríficos) e nas cooperativas, e geograficamente, a região Oeste do estado é a grande campeã de empregos. A conclusão é que o "jeito paranaense" de organizar o agronegócio, com grandes cooperativas que comandam toda a produção, desde a ração até o abatedouro, é o que define o mapa do emprego formal no campo e na agroindústria do estado.
+
+Pontos-Chave e Achados:
+
+- O artigo mapeia a distribuição do emprego formal do agronegócio nas mesorregiões do Paraná.
+- A agroindústria, especialmente a de abate de aves e suínos, é o segmento que mais gera empregos formais.
+- A mesorregião Oeste do Paraná, polo do cooperativismo e da produção de carnes, concentra a maior parte dos postos de trabalho.
+- O modelo de integração vertical e o cooperativismo são os principais vetores da formalização do trabalho no agronegócio paranaense.
+
+Palavras-Chave:
+Técnicas: [Mercado de trabalho formal, agronegócio, Paraná, mesorregiões, RAIS, emprego agrícola, agroindústria, cooperativismo]
+
+Conceituais: [Desenvolvimento regional, especialização produtiva, cluster agroindustrial, emprego e renda, economia paranaense, relações de trabalho]
+
+Linguagem Natural: [Onde estão os empregos do agronegócio no Paraná?, Qual setor do agro mais emprega no PR?, a importância da agroindústria para o emprego, o papel das cooperativas na geração de empregos, mercado de trabalho em Cascavel/Toledo]

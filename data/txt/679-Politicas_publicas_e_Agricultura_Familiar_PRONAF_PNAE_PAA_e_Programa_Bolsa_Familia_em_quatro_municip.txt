@@ -1,0 +1,26 @@
+ID do Artigo: 679
+Título Oficial:
+Políticas públicas e Agricultura Familiar: PRONAF, PNAE, PAA e Programa Bolsa Família em quatro municípios
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo analisa a implementação e a articulação de um conjunto de políticas públicas voltadas para a agricultura familiar (Pronaf, PNAE, PAA) e para a proteção social (Programa Bolsa Família) em quatro municípios. A pesquisa investiga como a combinação dessas políticas impacta o desenvolvimento da agricultura familiar e a segurança alimentar das populações locais. Os resultados indicam que, quando bem articuladas, essas políticas criam um ciclo virtuoso, onde o crédito (Pronaf) fomenta a produção, que é escoada pelos mercados institucionais (PNAE/PAA), garantindo a renda dos agricultores e a alimentação de beneficiários de programas como o Bolsa Família. No entanto, a efetividade dessa sinergia depende fortemente da capacidade de gestão e articulação em nível municipal.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa estuda como quatro importantes programas do governo (Pronaf, PNAE, PAA e Bolsa Família) funcionam juntos em quatro cidades, para ver se essa combinação ajuda os pequenos agricultores e a população mais pobre. A conclusão é que, quando a prefeitura consegue fazer esses programas "conversarem" entre si, o resultado é excelente. Funciona assim: o agricultor pega o dinheiro do Pronaf para produzir, vende parte da produção para a merenda escolar (PNAE) e para o PAA, e a comida do PAA vai para as famílias que recebem o Bolsa Família. É um ciclo perfeito, que gera renda no campo e comida na mesa de quem precisa. O problema é que, para essa engrenagem funcionar, é preciso que a gestão local seja muito boa e consiga articular todas as peças.
+
+Pontos-Chave e Achados:
+
+- O artigo analisa a sinergia potencial entre as políticas de apoio à produção (Pronaf), de mercado (PNAE/PAA) e de proteção social (Bolsa Família).
+- A articulação dessas políticas em nível local pode criar um "círculo virtuoso" de desenvolvimento, fortalecendo a agricultura familiar e a segurança alimentar simultaneamente.
+- A capacidade de gestão e de articulação intersetorial por parte do poder público municipal é o fator-chave para o sucesso dessa integração.
+- O estudo de caso nos quatro municípios revela diferentes graus de sucesso na articulação das políticas, evidenciando a importância do contexto local.
+
+Palavras-Chave:
+Técnicas: [Políticas públicas, agricultura familiar, Pronaf, PNAE, PAA, Bolsa Família, articulação de políticas, desenvolvimento local, estudo de caso]
+
+Conceituais: [Intersetorialidade, sinergia de políticas, segurança alimentar e nutricional, proteção social, desenvolvimento rural, federalismo]
+
+Linguagem Natural: [Como as políticas para a agricultura familiar se articulam?, Sinergia entre Pronaf, PAA e Bolsa Família, o impacto do Bolsa Família na economia local, gestão municipal de políticas agrícolas, estudo de caso sobre políticas públicas]

@@ -1,0 +1,24 @@
+Identificação Básica:
+ID do Artigo: 85
+Título Oficial: ANÁLISE SHIFT-SHARE DA ESTRUTURA PRODUTIVA AGRÍCOLA EM GOIÁS NO PERÍODO DE 1990-2017
+Link para Download: (Não disponível)
+
+Resumo Sintético (O núcleo):
+Este artigo utiliza a análise shift-share para decompor o crescimento da produção agrícola em Goiás entre 1990 e 2017. Os resultados indicam que a competitividade regional foi o principal motor do crescimento, especialmente para culturas como cana-de-açúcar e soja. Isso demonstra que Goiás desenvolveu vantagens competitivas significativas, superando o crescimento médio nacional e a especialização em produtos de alta demanda.
+
+Expansão Semântica (A parte crucial para a busca):
+Descrição Expandida em Linguagem Natural:
+O estudo investiga por que a agricultura de Goiás cresceu tanto nas últimas décadas. Ele busca entender se esse crescimento aconteceu simplesmente porque a agricultura brasileira como um todo cresceu (efeito nacional), se foi porque Goiás apostou nos produtos certos que estavam em alta no mercado (efeito mix de produtos), ou se foi porque o estado se tornou especialmente bom e eficiente em produzir certos itens (efeito de competitividade). Usando uma técnica chamada "shift-share" (ou diferencial-estrutural), a pesquisa separa esses três fatores. A principal descoberta é que a competitividade foi a chave do sucesso. Ou seja, Goiás não apenas se beneficiou do crescimento do agronegócio no Brasil, mas desenvolveu vantagens próprias que fizeram sua produção de itens como cana e soja crescer mais rápido do que no resto do país.
+
+Pontos-Chave e Achados Específicos:
+- A análise abrange o período de 1990 a 2017, focando na produção agrícola do estado de Goiás.
+- A metodologia empregada é a análise Shift-Share, que decompõe o crescimento em três efeitos: crescimento nacional, mix de produção (proporcionalidade) e competitividade (diferencial).
+- Achado Principal: O componente de competitividade (efeito diferencial) foi o fator mais importante para o crescimento do valor da produção agrícola em Goiás.
+- Culturas de Destaque: A cana-de-açúcar e a soja foram as culturas que mais contribuíram positivamente para o efeito competitividade, indicando que Goiás ganhou muita participação de mercado nesses setores.
+- Efeito Mix de Produção: Este efeito foi negativo, sugerindo que a estrutura produtiva de Goiás no início do período não era especializada nos produtos que mais cresceram nacionalmente. No entanto, a forte competitividade compensou essa desvantagem.
+- Implicação: O dinamismo da agricultura goiana está mais ligado a ganhos de eficiência e vantagens competitivas locais do que à especialização em culturas favoráveis no cenário nacional.
+
+Palavras-Chave (O "Mapa" para a IA):
+- Termos Técnicos: Shift-Share, Análise Diferencial-Estrutural, Estrutura Produtiva Agrícola, Competitividade Regional, Goiás, Crescimento Agrícola, Valor Bruto da Produção (VBP).
+- Termos Conceituais: Dinâmica Agrícola, Vantagem Competitiva, Especialização Produtiva, Desenvolvimento Regional, Economia Agrária, Modernização da Agricultura.
+- Termos em Linguagem Natural (Sinônimos e Perguntas): "por que a agricultura em Goiás cresceu?", "análise do agronegócio de Goiás", "competitividade da soja em Goiás", "crescimento da cana-de-açúcar no Centro-Oeste", "como medir a competitividade agrícola de um estado?", "fatores de crescimento da agricultura goiana", "técnica shift-share no agronegócio", "mudanças na produção agrícola de Goiás".

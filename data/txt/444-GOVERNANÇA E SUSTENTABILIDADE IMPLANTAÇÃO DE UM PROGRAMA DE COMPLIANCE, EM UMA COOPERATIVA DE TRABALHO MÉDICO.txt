@@ -1,0 +1,23 @@
+ID do Artigo: 444
+Título Oficial: GOVERNANÇA E SUSTENTABILIDADE: IMPLANTAÇÃO DE UM PROGRAMA DE COMPLIANCE, EM UMA COOPERATIVA DE TRABALHO MÉDICO.
+Link para Download: (Adicionar depois)
+
+Resumo Sintético: Este trabalho compartilha a experiência da Unimed Belo Horizonte na construção e implementação de seu Programa de Compliance, visando fortalecer a cultura de integridade, ética e conformidade. O programa, proativo e preventivo, busca alinhar a cooperativa a valores internacionais de governança e negócios limpos, contribuindo para sua sustentabilidade e credibilidade no mercado. A metodologia e as ferramentas desenvolvidas buscam maior assertividade e adesão das pessoas às propostas, além da melhoria contínua.
+
+Expansão Semântica:
+Descrição Expandida em Linguagem Natural: Este artigo descreve como uma cooperativa de trabalho médico, a Unimed Belo Horizonte, implementou um programa de compliance para garantir que suas operações sejam éticas, transparentes e em conformidade com as leis. Ele detalha as estratégias e ferramentas utilizadas para promover uma cultura de integridade entre seus colaboradores e cooperados, combatendo a corrupção e garantindo a sustentabilidade do negócio. O estudo serve como um guia para outras organizações que desejam adotar práticas de governança e compliance, mostrando como uma cooperativa pode se adaptar às exigências de um mercado cada vez mais regulado e demandante por conduta ética.
+Pontos-Chave e Achados Específicos:
+- A corrupção e a necessidade de integridade nos negócios impulsionam a criação de programas de Compliance.
+- A Unimed-BH desenvolveu um Programa de Compliance proativo e preventivo.
+- O Compliance busca conformidade dos processos e integridade das pessoas.
+- Os pilares do programa incluem: patrocínio da alta direção, riscos identificados, códigos de conduta/políticas/procedimentos, processos internos/controles, comunicação/treinamento, e monitoramento/auditoria.
+- A Unimed-BH integrou o Compliance à sua estrutura de governança corporativa.
+- O programa define responsabilidades para conselhos, diretoria, cooperados, colaboradores e parceiros.
+- As estratégias de implementação incluem treinamentos (presenciais e virtuais), comunicação interna (Saber faz Bem), interação com as áreas, relatórios de gestão, mapeamento de normas, organização de obrigações legais, e monitoramento de indicadores.
+- O programa contribui para a sustentabilidade da cooperativa e sua credibilidade no mercado.
+- A adequação das práticas de governança e compliance à realidade interna da cooperativa é crucial para o sucesso do programa.
+
+Palavras-Chave:
+Termos Técnicos: Compliance, Governança Corporativa, Sustentabilidade, Integridade, Ética, Unimed Belo Horizonte, Cooperativa de Trabalho Médico, Lei Anticorrupção Brasileira (Lei nº 12.846/2013), Decreto nº 8.420/2015, Pilares do Compliance, Gestão de Riscos, Auditoria, ISO 9001, OCB, IBGC, ANS (Agência Nacional de Saúde Suplementar), SIC (Sistema de Integridade Corporativa).
+Termos Conceituais: Cultura de Integridade, Negócios Limpos, Conformidade Legal, Transparência, Responsabilidade Social, Conduta Empresarial, Prevenção de Corrupção, Gestão de Processos, Engajamento de Pessoas, Melhoria Contínua.
+Termos em Linguagem Natural (Sinônimos e Perguntas): Como implementar compliance em cooperativas? O que é um programa de integridade? Como garantir ética nos negócios de cooperativas? Prevenção de corrupção em cooperativas, governança para cooperativas de saúde, como a Unimed BH lida com compliance, regras de conduta para cooperativas, como criar um ambiente de negócios ético, sustentabilidade em cooperativas médicas.

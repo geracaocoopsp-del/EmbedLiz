@@ -1,0 +1,26 @@
+ID do Artigo: 346
+Título Oficial:
+DOCENTES EM COOPERATIVISMO E A ESTRUTURA DE RELAÇÕES NO CAMPO SOCIAL
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo analisa a estrutura de relações e o perfil dos docentes e pesquisadores que atuam no campo do cooperativismo no Brasil. Utilizando a teoria de campos de Pierre Bourdieu e a análise de redes sociais, o estudo mapeia as conexões entre os acadêmicos, suas instituições e suas linhas de pesquisa. Os resultados revelam a formação de um campo acadêmico específico, com seus polos de poder e influência, mas que ainda busca maior legitimação e diálogo com outras áreas do conhecimento. A pesquisa contribui para a compreensão da dinâmica social da produção de conhecimento sobre o cooperativismo no país.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa faz um mapa do mundo dos professores e pesquisadores que estudam cooperativismo no Brasil. Usando as ideias do sociólogo Pierre Bourdieu, o estudo investiga quem são esses acadêmicos, onde eles trabalham, com quem eles mais colaboram e quais são os temas que eles mais pesquisam. A conclusão é que já existe um "clube" ou um "campo" bem definido de especialistas em cooperativismo, com suas universidades e pesquisadores mais importantes. No entanto, esse campo ainda luta para ser mais reconhecido e para conversar mais com outras áreas do saber, como a economia e a sociologia em geral.
+
+Pontos-Chave e Achados:
+
+- O estudo aplica a teoria de campos de Bourdieu para analisar a comunidade acadêmica de cooperativismo no Brasil.
+- A análise de redes sociais permite visualizar as conexões e os clusters de colaboração entre os pesquisadores.
+- Identifica-se a existência de um "capital científico" específico do campo, com autores e instituições de referência.
+- O campo do cooperativismo, embora consolidado, ainda apresenta características de um campo em busca de maior autonomia e reconhecimento acadêmico.
+
+Palavras-Chave:
+Técnicas: [Campo científico, Pierre Bourdieu, análise de redes sociais, cooperativismo, produção de conhecimento, sociologia da ciência, epistemologia]
+
+Conceituais: [Capital científico, habitus, estrutura social, comunidade acadêmica, legitimação, autonomia de campo, sociologia do conhecimento]
+
+Linguagem Natural: [Quem são os principais pesquisadores de cooperativismo no Brasil?, Análise da comunidade acadêmica de cooperativismo, teoria de Bourdieu aplicada à ciência, redes de colaboração entre professores, como se produz conhecimento sobre cooperativismo?]

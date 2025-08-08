@@ -1,0 +1,25 @@
+**Identificação Básica:**
+
+*   **ID do Artigo:** 15
+*   **Título Oficial:** A INFLUÊNCIA DAS DIMENSÕES CULTURA, LIDERANÇA E APRENDIZAGEM NA INOVATIVIDADE DE UMA ORGANIZAÇÃO COOPERATIVA
+*   **Link para Download:** (Você adicionará este campo depois)
+
+**Resumo Sintético (O núcleo):**
+
+Este artigo investiga como a cultura organizacional, a liderança e a aprendizagem influenciam a capacidade de inovação de uma cooperativa de crédito no Paraná. A pesquisa conclui que, embora a cooperativa tenha uma cultura que valoriza a inovação e demonstre orgulho por parte dos funcionários, ela ainda é muito dependente de estruturas tradicionais e tem aversão ao risco, o que limita a criatividade e a agilidade. A liderança e a aprendizagem, por outro lado, são vistas como fatores-chave que impulsionam a inovação, com a liderança buscando ativamente novas ideias e a aprendizagem sendo incentivada por meio de várias ferramentas e programas.
+
+**Expansão Semântica (A parte crucial para a busca):**
+
+*   **Descrição Expandida em Linguagem Natural:** O estudo explora a tensão entre o desejo de inovar e a necessidade de segurança em uma cooperativa. Ele analisa como a maneira como as pessoas pensam (cultura), como os líderes agem (liderança) e como a organização aprende (aprendizagem) afetam a capacidade da cooperativa de criar novos produtos e serviços. A pesquisa mostra que, embora haja um ambiente positivo para a inovação, a burocracia e o medo de cometer erros ainda são grandes obstáculos. A liderança é vista como um motor para a mudança, enquanto a aprendizagem é a ferramenta que permite que a mudança aconteça.
+
+*   **Pontos-Chave e Achados Específicos:**
+    *   A cultura da cooperativa é favorável à inovação, mas ainda "engessada" por estruturas tradicionalistas.
+    *   A liderança é um fator determinante para a inovação, mesmo com um perfil intolerante ao risco.
+    *   A aprendizagem é um ponto forte, com investimentos em ferramentas e programas de formação.
+    *   A cooperativa tem dificuldade em traduzir a cultura de inovação em resultados concretos.
+    *   Existe uma lacuna entre a intenção de inovar e a capacidade de executar a inovação.
+
+*   **Palavras-Chave (O "Mapa" para a IA):**
+    *   **Termos Técnicos:** Inovatividade, Cooperativismo, Cultura Organizacional, Liderança, Aprendizagem Organizacional, Gestão da Inovação, Estudo de Caso.
+    *   **Termos Conceituais:** Inovação em Cooperativas, Cultura de Inovação, Liderança Inovadora, Capacidade de Inovação, Barreiras à Inovação, Fatores de Sucesso da Inovação.
+    *   **Termos em Linguagem Natural (Sinônimos e Perguntas):** "como inovar em cooperativas?", "cultura que atrapalha a inovação", "o papel do líder na inovação", "como as cooperativas aprendem a inovar?", "medo de risco em cooperativas", "inovação vs. tradição em cooperativas", "como criar uma cultura de inovação em cooperativas de crédito?".

@@ -1,0 +1,26 @@
+ID do Artigo: 408
+Título Oficial: EVIDÊNCIAS DO IMPACTO DO ACESSO AO CRÉDITO RURAL, VIA COOPERATIVAS DE CRÉDITO E VIA BANCOS, NOS INDICADORES DE PRODUTIVIDADE DA AGROPECUÁRIA BRASILEIRA
+Link para Download: (Adicionar depois)
+
+Resumo Sintético: Este estudo mensura o impacto do acesso ao crédito rural (via cooperativas de crédito e bancos) na produtividade do trabalho e da terra e na eficiência técnica de estabelecimentos agropecuários brasileiros. Utilizando microdados do Censo Agropecuário 2006 do IBGE e a metodologia Propensity Score Matching, a pesquisa revela que o acesso ao crédito, de ambas as fontes, melhora o desempenho produtivo. No entanto, a comparação entre cooperativas de crédito e bancos mostra efeitos diversos por região: positivo no Sudeste e Centro-Oeste, e até negativo no Sul para a produtividade da terra, e não significativo no Norte e Nordeste.
+
+Expansão Semântica:
+Descrição Expandida em Linguagem Natural: Este artigo investiga como o acesso a empréstimos para a agricultura, seja por meio de cooperativas de crédito ou bancos tradicionais, afeta a produtividade das fazendas no Brasil. Ele analisa se os agricultores que conseguem crédito produzem mais e de forma mais eficiente do que aqueles que não têm acesso. O estudo também compara o impacto do crédito vindo de cooperativas versus bancos em diferentes regiões do país, revelando que os resultados podem variar significativamente. Em outras palavras, o artigo busca entender o papel do crédito rural no desenvolvimento da agropecuária brasileira, destacando as diferenças entre os canais de acesso e seus efeitos na produtividade e eficiência das propriedades rurais.
+Pontos-Chave e Achados Específicos:
+- O acesso ao crédito rural é fundamental para o crescimento econômico e o aumento da produtividade nas zonas rurais.
+- O estudo utilizou microdados do Censo Agropecuário 2006 do IBGE e a metodologia Propensity Score Matching (PSM).
+- Foram comparados três grupos: sem acesso a crédito, acesso via cooperativas de crédito, e acesso via bancos.
+- Estabelecimentos com acesso a crédito (cooperativas ou bancos) apresentaram melhor desempenho em produtividade do trabalho e da terra, e eficiência técnica, comparados aos sem acesso.
+- A comparação entre cooperativas de crédito e bancos mostrou efeitos diversos por região:
+    - **Brasil (geral):** Cooperativas de crédito apresentaram desempenho ligeiramente superior em produtividade do trabalho e eficiência técnica.
+    - **Norte e Nordeste:** Não houve diferença significativa entre cooperativas e bancos.
+    - **Sudeste:** Cooperativas de crédito tiveram desempenho superior em produtividade do trabalho e da terra.
+    - **Sul:** Cooperativas de crédito tiveram desempenho menor na produtividade da terra.
+    - **Centro-Oeste:** Cooperativas de crédito tiveram desempenho superior em todas as variáveis.
+- Fatores como assistência técnica e participação em cooperativas/entidades de classe influenciam positivamente o acesso ao crédito.
+- A pesquisa destaca a importância de considerar as disparidades regionais na análise do impacto do crédito rural.
+
+Palavras-Chave:
+Termos Técnicos: Crédito Rural, Cooperativas de Crédito, Bancos, Produtividade do Trabalho, Produtividade da Terra, Eficiência Técnica, Censo Agropecuário 2006 (IBGE), Propensity Score Matching (PSM), Microdados, Logit, Bootstrapping, Assimetria de Informação, Racionamento de Crédito.
+Termos Conceituais: Desenvolvimento Agrícola, Impacto Econômico, Desempenho Produtivo, Canais de Crédito, Políticas de Crédito, Disparidades Regionais, Aversão ao Risco, Inovação Tecnológica.
+Termos em Linguagem Natural (Sinônimos e Perguntas): Como o crédito rural afeta a agricultura? Qual a diferença entre crédito de cooperativas e bancos? Como aumentar a produtividade na fazenda? Impacto do financiamento agrícola, acesso a empréstimos para agricultores, como o crédito ajuda o agronegócio, produtividade agrícola no Brasil, desafios do crédito rural.

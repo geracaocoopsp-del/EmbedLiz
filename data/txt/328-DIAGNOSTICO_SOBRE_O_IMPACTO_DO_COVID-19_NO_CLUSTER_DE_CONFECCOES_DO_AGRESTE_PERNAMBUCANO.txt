@@ -1,0 +1,26 @@
+ID do Artigo: 328
+Título Oficial:
+DIAGNÓSTICO SOBRE O IMPACTO DO COVID-19 NO CLUSTER DE CONFECÇÕES DO AGRESTE PERNAMBUCANO
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo apresenta um diagnóstico dos impactos da pandemia de COVID-19 no cluster de confecções do Agreste Pernambucano, um dos principais polos têxteis do Brasil. A pesquisa, baseada em um survey com empresários da região, analisa os efeitos da crise na produção, no emprego, no faturamento e nas estratégias de adaptação das empresas. Os resultados revelam um impacto severo e generalizado, com queda abrupta nas vendas, demissões em massa e o fechamento de muitas pequenas empresas. O estudo também mostra uma rápida, porém limitada, adaptação para a produção de máscaras e para as vendas online, concluindo que a crise expôs a vulnerabilidade do cluster e a necessidade de políticas de apoio para sua reestruturação.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa faz um raio-x do estrago que a pandemia da COVID-19 causou no polo de confecções do Agreste de Pernambuco, famoso por suas feiras como a de Caruaru. O estudo ouviu os donos das fábricas e facções e o cenário encontrado foi de terra arrasada: as vendas despencaram, muita gente foi demitida e várias empresas pequenas fecharam as portas. A pesquisa mostra que, para sobreviver, muitas empresas correram para produzir máscaras ou para tentar vender pela internet, mas isso não foi suficiente para cobrir o rombo. A conclusão é que a pandemia bateu muito forte no coração da economia da região, e que será preciso muita ajuda do governo para que o setor consiga se reerguer.
+
+Pontos-Chave e Achados:
+
+- A pandemia de COVID-19 provocou uma crise sem precedentes no cluster de confecções do Agreste Pernambucano.
+- Os principais impactos foram a queda drástica do faturamento, devido ao fechamento das feiras e do comércio, e o aumento do desemprego.
+- A migração para a produção de máscaras foi uma estratégia de sobrevivência de curto prazo, mas com baixas margens de lucro.
+- A crise acelerou a necessidade de digitalização do cluster, mas a maioria das empresas não estava preparada para a venda online em larga escala.
+
+Palavras-Chave:
+Técnicas: [Impacto da COVID-19, cluster industrial, indústria de confecções, Agreste Pernambucano, arranjo produtivo local (APL), survey, crise econômica]
+
+Conceituais: [Resiliência, adaptação estratégica, vulnerabilidade econômica, desenvolvimento regional, economia informal, cadeia produtiva têxtil]
+
+Linguagem Natural: [Como a pandemia afetou o polo de confecções de Caruaru?, Impacto da COVID-19 na indústria da moda, crise no Agreste de Pernambuco, o que aconteceu com a Feira da Sulanca na pandemia?, estratégias de empresas de confecção na crise]

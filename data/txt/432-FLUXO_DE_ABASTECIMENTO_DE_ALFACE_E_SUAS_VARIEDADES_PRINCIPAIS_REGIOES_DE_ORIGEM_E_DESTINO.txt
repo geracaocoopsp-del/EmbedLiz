@@ -1,0 +1,26 @@
+ID do Artigo: 432
+Título Oficial:
+FLUXO DE ABASTECIMENTO DE ALFACE E SUAS VARIEDADES: PRINCIPAIS REGIÕES DE ORIGEM E DESTINO
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo mapeia e analisa o fluxo de abastecimento de alface e suas principais variedades no Brasil, identificando as principais regiões produtoras (origem) e os grandes centros consumidores (destino). Utilizando dados de Centrais de Abastecimento (CEASAs), a pesquisa descreve a geografia da produção e da comercialização da principal hortaliça folhosa consumida no país. Os resultados mostram que a produção é concentrada em "cinturões verdes" no entorno das grandes metrópoles, como São Paulo e Belo Horizonte, que abastecem a si mesmas e outras regiões. O estudo conclui que, apesar de ser uma cultura de ciclo curto, a cadeia da alface possui uma logística complexa e especializada, fundamental para garantir o abastecimento diário dos centros urbanos.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa faz o mapa do caminho da alface no Brasil, mostrando de onde ela vem e para onde ela vai. O estudo usa os dados das CEASAs (os grandes "mercadões" que abastecem as cidades) para descobrir que a maior parte da alface que a gente come é produzida bem pertinho das grandes cidades, nos chamados "cinturões verdes". São Paulo, por exemplo, é um gigante na produção e abastece não só a capital, mas manda alface para um monte de outros lugares. A conclusão é que, por trás daquela simples salada no nosso prato, existe uma operação de logística muito complexa e rápida, que funciona todo santo dia para garantir que a alface chegue fresquinha na nossa mesa.
+
+Pontos-Chave e Achados:
+
+- O artigo mapeia os fluxos comerciais de alface no Brasil, identificando as principais rotas de abastecimento.
+- A produção de alface é geograficamente concentrada nos "cinturões verdes" das principais regiões metropolitanas.
+- São Paulo se destaca como o principal estado produtor e distribuidor de alface para o restante do país.
+- A logística da cadeia da alface é caracterizada pela necessidade de rapidez e de cadeia de frio para garantir a qualidade do produto, que é altamente perecível.
+
+Palavras-Chave:
+Técnicas: [Fluxo de abastecimento, alface, horticultura, cadeia de suprimentos, CEASA, logística agroalimentar, cinturão verde, comercialização]
+
+Conceituais: [Geografia agrícola, logística de perecíveis, sistemas de abastecimento, circuitos de comercialização, segurança alimentar, agronegócio]
+
+Linguagem Natural: [De onde vem a alface que comemos?, Mapa da produção de alface no Brasil, como funciona o abastecimento de hortaliças nas cidades?, a importância dos cinturões verdes, logística de alimentos frescos]

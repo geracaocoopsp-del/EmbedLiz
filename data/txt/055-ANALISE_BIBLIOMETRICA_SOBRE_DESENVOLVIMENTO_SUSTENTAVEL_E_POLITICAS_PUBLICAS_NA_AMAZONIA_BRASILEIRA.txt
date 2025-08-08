@@ -1,0 +1,28 @@
+**Identificação Básica:**
+*   **ID do Artigo:** 55
+*   **Título Oficial:** ANÁLISE BIBLIOMÉTRICA SOBRE DESENVOLVIMENTO SUSTENTÁVEL E POLÍTICAS PÚBLICAS NA AMAZÔNIA BRASILEIRA
+*   **Link para Download:** (Será adicionado posteriormente)
+
+**Resumo Sintético (O núcleo):**
+Este artigo apresenta uma análise bibliométrica da produção científica sobre desenvolvimento sustentável e políticas públicas na Amazônia brasileira entre 2001 e 2020. A tese central é que, apesar do tema ser de crescente interesse acadêmico e da Amazônia ser um foco de pesquisa para diversos países, a produção científica ainda é limitada e enfrenta desafios, como a necessidade de maior interdisciplinaridade e a inclusão de outras fontes de informação (teses e dissertações) para uma compreensão mais completa da complexidade socioambiental da região.
+
+**Expansão Semântica:**
+
+*   **Descrição Expandida em Linguagem Natural:**
+    *   O estudo faz um levantamento de todos os artigos científicos publicados sobre como o desenvolvimento sustentável e as políticas do governo estão sendo pesquisados na Amazônia brasileira.
+    *   Analisa quem está pesquisando (países, instituições), quais são os temas mais abordados e como a produção científica sobre a Amazônia tem evoluído ao longo do tempo.
+    *   Mostra que, embora a Amazônia seja um tema muito importante e que o Brasil seja o país que mais pesquisa sobre ela, ainda há poucos estudos aprofundados sobre o desenvolvimento sustentável na região.
+    *   Aponta que a pesquisa sobre a Amazônia precisa ser mais completa, envolvendo diferentes áreas do conhecimento e incluindo trabalhos acadêmicos mais detalhados, como teses de doutorado, para entender melhor os problemas e as soluções para a região.
+
+*   **Pontos-Chave e Achados Específicos:**
+    *   **Metodologia:** Análise bibliométrica, utilizando as bases de dados Scopus e Web of Science, com foco em artigos publicados em português e inglês entre 2001 e 2020.
+    *   **Produção Científica:** Foram selecionados 18 artigos. A produção é considerada limitada, mas em ascensão, indicando um crescente interesse acadêmico pelo tema.
+    *   **Países Envolvidos:** O Brasil é o país com maior número de publicações (53,7%), seguido pelos Estados Unidos (21,4%). Há uma rede de coautoria entre países como Brasil, França, Portugal, Canadá, Colômbia, Alemanha, Reino Unido e Japão.
+    *   **Temas Emergentes:** Foram identificados 14 temas relevantes, distribuídos em quatro dimensões: econômica, social, ambiental e institucional. Os temas mais citados incluem desmatamento, pobreza e desigualdades sociais, sistemas agroflorestais e governança participativa.
+    *   **Limitações da Pesquisa:** A principal limitação apontada é a não inclusão de teses de doutorado e dissertações de mestrado, que poderiam fornecer informações mais detalhadas e aprofundadas sobre a temática.
+    *   **Conclusão Principal:** A pesquisa sobre desenvolvimento sustentável e políticas públicas na Amazônia brasileira é um campo em crescimento, mas ainda incipiente. É fundamental fortalecer a pesquisa interdisciplinar e ampliar as fontes de dados para abordar a complexidade da região e subsidiar políticas públicas mais eficazes.
+
+*   **Palavras-Chave (O "Mapa" para a IA):**
+    *   **Termos Técnicos:** Análise Bibliométrica, Desenvolvimento Sustentável, Políticas Públicas, Amazônia Brasileira, Produção Científica, Scopus, Web of Science, Coautoria, Temas Emergentes.
+    *   **Termos Conceituais:** Sustentabilidade Ambiental, Governança Ambiental, Impacto Social, Economia da Amazônia, Pesquisa Interdisciplinar, Conhecimento Científico.
+    *   **Termos em Linguagem Natural (Sinônimos e Perguntas):** "pesquisa sobre Amazônia", "artigos científicos sobre sustentabilidade na Amazônia", "políticas públicas para a Amazônia", "quem pesquisa sobre a Amazônia?", "desafios da pesquisa na Amazônia", "desenvolvimento sustentável na floresta", "impacto da ciência na Amazônia", "temas de pesquisa ambiental no Brasil".

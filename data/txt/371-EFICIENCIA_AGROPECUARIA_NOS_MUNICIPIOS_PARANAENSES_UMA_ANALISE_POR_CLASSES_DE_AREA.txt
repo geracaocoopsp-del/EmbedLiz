@@ -1,0 +1,26 @@
+ID do Artigo: 371
+Título Oficial:
+EFICIÊNCIA AGROPECUÁRIA NOS MUNICÍPIOS PARANAENSES: UMA ANÁLISE POR CLASSES DE ÁREA
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo analisa a eficiência da produção agropecuária nos municípios do Paraná, segmentando a análise por classes de área dos estabelecimentos rurais. Utilizando a metodologia de Análise Envoltória de Dados (DEA), a pesquisa mede e compara os escores de eficiência entre municípios com predominância de agricultura familiar (pequenas áreas) e aqueles com predominância do agronegócio (grandes áreas). Os resultados indicam que não há uma relação direta e simples entre o tamanho da propriedade e a eficiência. Municípios com forte presença da agricultura familiar organizada em cooperativas podem atingir altos níveis de eficiência, enquanto municípios de grandes propriedades podem apresentar ineficiências, sugerindo que a gestão e a organização são mais importantes do que a simples escala.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa busca responder a uma pergunta clássica: quem é mais eficiente, o pequeno ou o grande produtor? O estudo usa uma ferramenta estatística (DEA) para dar uma "nota de eficiência" para a agricultura de todos os municípios do Paraná, separando-os entre os que têm mais agricultura familiar e os que têm mais agronegócio. A conclusão quebra um mito: ser grande não é garantia de ser eficiente. O estudo encontrou muitos municípios de pequenos agricultores, principalmente aqueles bem organizados em cooperativas, que são "nota 10" em eficiência. Por outro lado, encontrou municípios de grandes fazendas com notas baixas. Isso mostra que, na agricultura, o que mais importa não é o tamanho da terra, mas a qualidade da gestão e da organização.
+
+Pontos-Chave e Achados:
+
+- O artigo utiliza a Análise Envoltória de Dados (DEA) para medir a eficiência agropecuária dos municípios do Paraná.
+- A análise segmentada por classes de área permite comparar a eficiência da agricultura familiar e da agricultura patronal.
+- Os resultados desmistificam a relação direta entre escala e eficiência, mostrando que municípios de pequeno porte podem ser altamente eficientes.
+- A organização dos produtores, especialmente através do cooperativismo, é apontada como um fator-chave para a obtenção de altos escores de eficiência.
+
+Palavras-Chave:
+Técnicas: [Eficiência agropecuária, Análise Envoltória de Dados (DEA), agricultura familiar, agronegócio, Paraná, dados municipais, produtividade]
+
+Conceituais: [Eficiência produtiva, economias de escala, organização da produção, cooperativismo, desenvolvimento rural, estrutura agrária]
+
+Linguagem Natural: [Quem é mais eficiente: agricultura familiar ou agronegócio?, Medindo a eficiência da agricultura no Paraná, o que é Análise Envoltória de Dados (DEA)?, a relação entre tamanho da propriedade e eficiência, o papel das cooperativas na eficiência agrícola]

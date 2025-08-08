@@ -1,0 +1,26 @@
+ID do Artigo: 543
+Título Oficial:
+Mudanças alimentares no consumo de proteína animal durante a pandemia de Covid-19 na Região Sul Brasileira
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo analisa as mudanças no padrão de consumo de proteínas animais (carne bovina, suína, de frango e ovos) na Região Sul do Brasil durante a pandemia de COVID-19. Por meio de um survey online, a pesquisa investiga como a crise sanitária e econômica influenciou as escolhas dos consumidores. Os resultados apontam para uma "migração" no consumo: houve uma redução na frequência de consumo de carne bovina, a mais cara, e um aumento no consumo de carne de frango e, principalmente, de ovos, que são fontes de proteína mais baratas. O estudo conclui que a crise provocou um "trade-down" no consumo de proteínas, com os consumidores buscando alternativas mais acessíveis para se adaptar à perda de renda, sem, contudo, abandonar o consumo de proteína animal.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa foi investigar se a pandemia mudou o churrasco do gaúcho (e do catarinense e do paranaense). O estudo aplicou um questionário online para saber o que o pessoal do Sul andou comendo de carne durante a crise. A conclusão é que o bife de boi perdeu espaço no prato. Com o dinheiro mais curto, as pessoas diminuíram o consumo de carne vermelha, que é mais cara, e passaram a comer mais frango e, principalmente, mais ovo. O estudo mostra que a crise forçou as pessoas a procurarem as proteínas mais baratas, fazendo uma espécie de "rebaixamento" no cardápio. O pessoal não deixou de comer proteína, mas trocou a picanha pelo ovinho.
+
+Pontos-Chave e Achados:
+
+- A pandemia de COVID-19 alterou o padrão de consumo de proteínas animais na Região Sul do Brasil.
+- Houve um efeito-substituição, com a queda no consumo de carne bovina sendo compensada pelo aumento no consumo de frango e ovos.
+- A perda de renda causada pela crise econômica foi o principal motor dessa mudança no comportamento do consumidor.
+- O ovo se consolidou como a "proteína da crise", por seu baixo custo e alta versatilidade.
+
+Palavras-Chave:
+Técnicas: [Consumo de proteína animal, comportamento do consumidor, COVID-19, Região Sul, carne bovina, frango, ovos, survey, efeito-substituição]
+
+Conceituais: [Hábitos alimentares, segurança alimentar, crise econômica, elasticidade-preço da demanda, transição nutricional, consumo de alimentos]
+
+Linguagem Natural: [Como a pandemia mudou o consumo de carne no Sul?, O brasileiro comeu menos carne vermelha na crise?, Aumento do consumo de ovo na pandemia, substituição de carnes na alimentação, impacto da renda no consumo de proteína]

@@ -1,0 +1,26 @@
+ID do Artigo: 419
+Título Oficial:
+EXTENSÃO RURAL NO CONTEXTO DO DESENVOLVIMENTO RURAL SUSTENTÁVEL: UMA ANÁLISE NA REGIÃO MÉDIO ALTO URUGUAI/RS
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo analisa a prática da extensão rural (ATER) na região do Médio Alto Uruguai, no Rio Grande do Sul, e sua contribuição para o Desenvolvimento Rural Sustentável (DRS). A pesquisa investiga se o modelo de ATER praticado na região superou a visão produtivista tradicional e incorporou as múltiplas dimensões da sustentabilidade (ambiental, social, cultural, etc.). Os resultados apontam para uma transição lenta e incompleta. Embora haja uma crescente incorporação de temas como a agroecologia, o modelo de extensão ainda é predominantemente focado no aumento da produtividade, com dificuldades de adotar uma abordagem mais sistêmica e participativa, que seria necessária para promover efetivamente o DRS.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa vai a campo em uma região do Rio Grande do Sul para ver se o trabalho dos técnicos da extensão rural está realmente ajudando a construir um desenvolvimento mais sustentável no campo. O estudo mostra que a mudança está acontecendo, mas em ritmo de tartaruga. Os técnicos já começam a falar de agroecologia e de cuidar do meio ambiente, mas, na hora do "vamos ver", a maior parte do trabalho ainda é focada em fazer o agricultor produzir mais e mais, no modelo antigo. A conclusão é que, para que a extensão rural seja uma verdadeira ferramenta para o desenvolvimento sustentável, ela precisa passar por uma reforma profunda, deixando de ser apenas uma "empurradora de tecnologia" para se tornar uma parceira do agricultor na construção de um sistema mais equilibrado.
+
+Pontos-Chave e Achados:
+
+- O artigo analisa a aderência da prática de ATER ao paradigma do Desenvolvimento Rural Sustentável (DRS).
+- A extensão rural na região do Médio Alto Uruguai ainda opera, em grande medida, sob a lógica do modelo produtivista de modernização agrícola.
+- A incorporação das dimensões social e ambiental do desenvolvimento ainda é um desafio para os serviços de ATER.
+- O estudo defende a necessidade de uma reorientação da ATER, com base em metodologias participativas e no diálogo de saberes, para que ela possa se tornar uma promotora do DRS.
+
+Palavras-Chave:
+Técnicas: [Extensão rural (ATER), desenvolvimento rural sustentável (DRS), produtivismo, agroecologia, Médio Alto Uruguai-RS, análise de políticas]
+
+Conceituais: [Paradigma de desenvolvimento, sustentabilidade, abordagem sistêmica, participação, diálogo de saberes, modernização agrícola]
+
+Linguagem Natural: [A extensão rural promove o desenvolvimento sustentável?, Crítica ao modelo produtivista da ATER, desafios da extensão rural no Rio Grande do Sul, o que é Desenvolvimento Rural Sustentável?, por uma ATER agroecológica]

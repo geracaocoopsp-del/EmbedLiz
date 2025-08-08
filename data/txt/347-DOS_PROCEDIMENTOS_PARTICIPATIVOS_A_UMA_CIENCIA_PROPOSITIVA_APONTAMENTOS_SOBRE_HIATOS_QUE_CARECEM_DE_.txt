@@ -1,0 +1,26 @@
+ID do Artigo: 347
+Título Oficial:
+DOS PROCEDIMENTOS PARTICIPATIVOS A UMA CIÊNCIA PROPOSITIVA: APONTAMENTOS SOBRE HIATOS QUE CARECEM DE MAIOR ATENÇÃO
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo realiza uma reflexão crítica sobre os limites dos procedimentos participativos na pesquisa e na extensão rural, defendendo a necessidade de uma transição para uma "ciência propositiva". A pesquisa argumenta que muitas metodologias participativas são eficazes no diagnóstico dos problemas, mas falham em construir, junto com os agricultores, soluções concretas e viáveis. O estudo conclui que, para superar esse hiato, a ciência precisa ir além da escuta e da denúncia, assumindo um papel mais proativo e engajado na co-criação de inovações técnicas, sociais e organizacionais que respondam aos desafios do desenvolvimento rural de forma efetiva.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa faz uma autocrítica ao trabalho de muitos pesquisadores e extensionistas que trabalham com agricultura familiar. O estudo argumenta que não adianta mais só ir para o campo, fazer um monte de reunião, ouvir os problemas dos agricultores, escrever um belo relatório e ir embora. Esse modelo de "ouvir e diagnosticar" já deu o que tinha que dar. A pesquisa defende que é preciso dar um passo além, para uma "ciência propositiva". Isso significa que o pesquisador tem que sentar junto com o agricultor e, de mão na massa, ajudar a construir e a testar as soluções para os problemas. A conclusão é que a ciência precisa ser menos "de prancheta" e mais "de botina", se envolvendo de verdade na busca por soluções, e não só no diagnóstico dos problemas.
+
+Pontos-Chave e Achados:
+
+- O artigo faz uma crítica aos limites das metodologias participativas, que muitas vezes se restringem ao diagnóstico.
+- Defende-se a transição de uma ciência que "escuta" para uma ciência que "propõe" e "constrói junto" (propositiva).
+- A ciência propositiva implica um maior engajamento do pesquisador no processo de inovação e de transformação social.
+- A pesquisa-ação e o codesign são apontados como abordagens metodológicas alinhadas a essa perspectiva.
+
+Palavras-Chave:
+Técnicas: [Ciência propositiva, metodologias participativas, pesquisa-ação, extensão rural, codesign, inovação, desenvolvimento rural]
+
+Conceituais: [Diálogo de saberes, engajamento, práxis, transformação social, pertinência social da ciência, pesquisa e desenvolvimento]
+
+Linguagem Natural: [Os limites das metodologias participativas, o que é uma ciência propositiva?, o papel do pesquisador na construção de soluções, como ir além do diagnóstico nos projetos de extensão?, a crítica à pesquisa-ação tradicional]

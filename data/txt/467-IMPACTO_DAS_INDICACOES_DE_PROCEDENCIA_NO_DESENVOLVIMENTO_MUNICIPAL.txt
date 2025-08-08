@@ -1,0 +1,26 @@
+ID do Artigo: 467
+Título Oficial:
+IMPACTO DAS INDICAÇÕES DE PROCEDÊNCIA NO DESENVOLVIMENTO MUNICIPAL
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo avalia o impacto da obtenção de um selo de Indicação de Procedência (IP) sobre o desenvolvimento dos municípios. A pesquisa compara a trajetória de indicadores socioeconômicos (como o PIB per capita e o emprego) de municípios que obtiveram uma IP com a de municípios de controle (com perfil similar, mas sem o selo). Utilizando uma metodologia de avaliação de impacto, os resultados sugerem que a Indicação de Procedência tem um impacto positivo no desenvolvimento local, contribuindo para o aumento da renda, a dinamização do turismo e o fortalecimento da identidade territorial. O estudo conclui que as IPs são uma estratégia eficaz de desenvolvimento, que vai além da simples agregação de valor ao produto.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa busca responder a uma pergunta: ter um selo de "Indicação de Procedência" (como o do Queijo Canastra ou do Vinho do Vale dos Vinhedos) realmente ajuda uma cidade a se desenvolver? Para isso, o estudo comparou as cidades que têm esses selos com outras parecidas que não têm. A conclusão, baseada em análise estatística, é que sim, o selo faz uma grande diferença. As cidades com Indicação de Procedência tendem a ter uma renda maior, mais turistas e uma identidade local mais forte. O estudo mostra que o selo não é só um "enfeite" no produto; ele é um verdadeiro motor para o desenvolvimento, que gera orgulho na comunidade e atrai novas oportunidades.
+
+Pontos-Chave e Achados:
+
+- O artigo utiliza uma metodologia de avaliação de impacto para medir os efeitos das Indicações de Procedência (IPs) no desenvolvimento municipal.
+- Os resultados indicam que os municípios com IPs apresentam, em média, um desempenho socioeconômico superior ao de seus pares sem o selo.
+- O impacto das IPs se manifesta no aumento da renda agrícola, na geração de empregos e na dinamização de setores correlatos, como o turismo.
+- As IPs são confirmadas como uma política de desenvolvimento territorial eficaz, que promove a valorização dos ativos locais e o fortalecimento do capital social.
+
+Palavras-Chave:
+Técnicas: [Indicação de Procedência (IP), Indicação Geográfica (IG), avaliação de impacto, desenvolvimento municipal, diferenças em diferenças, PIB per capita]
+
+Conceituais: [Desenvolvimento territorial, valorização da origem, capital social, identidade cultural, agronegócio, política de desenvolvimento]
+
+Linguagem Natural: [Qual o impacto de um selo de Indicação Geográfica?, A Indicação de Procedência ajuda a desenvolver uma cidade?, Estudo sobre o Queijo Canastra/Vale dos Vinhedos, como a valorização de produtos locais gera desenvolvimento?, avaliação de impacto de políticas de IG]

@@ -1,0 +1,26 @@
+ID do Artigo: 740
+Título Oficial:
+SUBVENÇÃO FEDERAL E A ADOÇÃO DO SEGURO RURAL NAS PRINCIPAIS LAVOURAS DE MINAS GERAIS
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo analisa o impacto do Programa de Subvenção ao Prêmio do Seguro Rural (PSR) na adoção do seguro agrícola pelos produtores das principais lavouras de Minas Gerais. A pesquisa investiga se o subsídio federal, que barateia o custo do seguro, tem sido eficaz para aumentar a contratação e a área coberta. Os resultados indicam que a subvenção tem um impacto positivo e significativo na adesão ao seguro rural, especialmente para culturas de alto valor como o café. No entanto, o estudo também aponta que a baixa previsibilidade e a insuficiência dos recursos orçamentários para o PSR ainda são grandes entraves para a massificação do seguro como principal instrumento de gestão de risco no estado.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa estuda se a ajuda que o governo federal dá para pagar o seguro agrícola está funcionando em Minas Gerais. Esse programa de "subvenção" funciona como um desconto, tornando o seguro mais barato para o agricultor. O estudo mostra que, sim, o programa funciona: quanto maior o desconto, mais agricultores contratam o seguro, principalmente os produtores de café. O problema, segundo a pesquisa, é que o dinheiro que o governo destina para esse programa é pouco e incerto. Essa falta de recursos e de previsibilidade é o que impede que o seguro rural se torne a principal ferramenta de proteção para a maioria dos agricultores do estado.
+
+Pontos-Chave e Achados:
+
+- O Programa de Subvenção ao Prêmio do Seguro Rural (PSR) é um importante indutor da demanda por seguro agrícola em Minas Gerais.
+- A adesão ao seguro é elástica à subvenção, ou seja, a contratação aumenta significativamente quando o subsídio está disponível.
+- A cultura do café é a que mais utiliza o programa no estado, devido ao seu alto valor e risco.
+- A limitação orçamentária e a descontinuidade dos recursos do PSR são os principais gargalos para a universalização do seguro rural.
+
+Palavras-Chave:
+Técnicas: [Seguro rural, subvenção ao prêmio (PSR), gestão de risco agrícola, política agrícola, Minas Gerais, café, milho, soja]
+
+Conceituais: [Mitigação de risco, política de subsídios, tomada de decisão sob risco, mercado de seguros, agronegócio, finanças rurais]
+
+Linguagem Natural: [Como funciona a subvenção ao seguro rural?, O programa de seguro agrícola do governo funciona?, adesão ao seguro rural em Minas Gerais, importância do seguro para a lavoura de café, desafios do mercado de seguro agrícola no Brasil]

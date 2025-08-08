@@ -1,0 +1,26 @@
+ID do Artigo: 605
+Título Oficial:
+Os mercados e os canais de comercialização da piscicultura: um estudo de caso no sul do Amazonas
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo analisa os mercados e os canais de comercialização da piscicultura no sul do estado do Amazonas. Por meio de um estudo de caso, a pesquisa mapeia a cadeia produtiva do pescado de cativeiro, identificando os principais canais de venda utilizados pelos piscicultores (venda direta, intermediários, frigoríficos) e os desafios enfrentados. Os resultados indicam que a comercialização é o principal gargalo da piscicultura na região, marcada pela informalidade, pela forte presença de intermediários ("atravessadores") e pela dificuldade de acesso a mercados mais estruturados, como o de Manaus, devido a deficiências de logística e infraestrutura de frio.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa faz um diagnóstico da criação de peixes em cativeiro no sul do Amazonas, focando em um problema central: como os produtores fazem para vender seu peixe? O estudo mostra que a venda é a parte mais difícil do negócio. A maioria dos piscicultores depende da venda direta na beira do tanque ou para "atravessadores", que pagam pouco. Chegar aos grandes mercados, como a capital Manaus, é quase impossível por causa das estradas ruins e da falta de caminhões refrigerados. A conclusão é que, para a piscicultura crescer na região, é preciso resolver esses problemas de logística e ajudar os produtores a se organizarem para acessar mercados melhores.
+
+Pontos-Chave e Achados:
+
+- A comercialização é o principal entrave para o desenvolvimento da piscicultura no sul do Amazonas.
+- A cadeia produtiva é dominada por canais informais e pela figura do atravessador, que reduz a margem de lucro do produtor.
+- A deficiência de infraestrutura de transporte e de cadeia do frio impede o acesso a mercados consumidores mais distantes e rentáveis.
+- O estudo sugere que o fortalecimento do associativismo e a criação de pequenas agroindústrias de processamento podem ser estratégias para superar os gargalos.
+
+Palavras-Chave:
+Técnicas: [Piscicultura, comercialização, canais de marketing, cadeia produtiva, estudo de caso, Amazonas, logística, agronegócio]
+
+Conceituais: [Gargalos de comercialização, intermediação, informalidade, desenvolvimento regional, segurança alimentar, arranjos produtivos locais (APL)]
+
+Linguagem Natural: [Desafios da piscicultura no Amazonas, como vender peixe de cativeiro?, o papel do atravessador na cadeia do pescado, logística de transporte de peixe na Amazônia, mercado de peixe em Manaus]

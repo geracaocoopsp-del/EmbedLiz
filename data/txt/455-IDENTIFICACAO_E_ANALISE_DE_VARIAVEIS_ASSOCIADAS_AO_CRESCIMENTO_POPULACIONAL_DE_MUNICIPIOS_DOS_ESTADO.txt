@@ -1,0 +1,26 @@
+ID do Artigo: 455
+Título Oficial:
+IDENTIFICAÇÃO E ANÁLISE DE VARIÁVEIS ASSOCIADAS AO CRESCIMENTO POPULACIONAL DE MUNICÍPIOS DOS ESTADOS DO SUL DO BRASIL
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo investiga as variáveis socioeconômicas associadas ao crescimento populacional dos municípios da Região Sul do Brasil. Utilizando um modelo de regressão com dados municipais, a pesquisa analisa o impacto de fatores como o dinamismo econômico (crescimento do PIB), a estrutura do mercado de trabalho e a qualidade de vida (IDH) sobre a variação populacional. Os resultados indicam que o crescimento econômico e a geração de empregos, especialmente em setores não-agrícolas, são os principais fatores de atração populacional. O estudo conclui que a dinâmica demográfica dos municípios do Sul está fortemente ligada à sua capacidade de gerar oportunidades econômicas, com os municípios mais dinâmicos apresentando crescimento e os de economia estagnada, encolhimento populacional.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa busca entender por que algumas cidades do Sul do Brasil crescem e outras encolhem. O estudo usa um modelo estatístico para cruzar os dados de todos os municípios da região e descobrir o que mais influencia a população a aumentar ou diminuir. A conclusão é que o "emprego é o rei". As cidades que conseguem gerar mais empregos, principalmente fora da agricultura (no comércio, na indústria, em serviços), são as que mais atraem gente nova e conseguem segurar seus jovens. Já as cidades onde a economia está parada, tendem a perder população. O estudo mostra que, no final das contas, o que define se uma cidade cresce ou não é a sua capacidade de oferecer oportunidades de trabalho e de renda para as pessoas.
+
+Pontos-Chave e Achados:
+
+- O artigo utiliza um modelo econométrico para identificar os determinantes do crescimento populacional municipal na Região Sul.
+- O dinamismo econômico, medido pelo crescimento do PIB e do emprego, é o principal fator de atração populacional.
+- Municípios com uma economia mais diversificada e com um setor de serviços mais forte tendem a crescer mais.
+- A análise revela um processo de "esvaziamento" de municípios pequenos e com economia baseada exclusivamente na agricultura.
+
+Palavras-Chave:
+Técnicas: [Crescimento populacional, dinâmica demográfica, desenvolvimento regional, dados municipais, econometria, Região Sul, migração]
+
+Conceituais: [Economia regional, desenvolvimento econômico, mercado de trabalho, atratividade territorial, urbanização, demografia]
+
+Linguagem Natural: [O que faz uma cidade crescer?, Fatores que influenciam o crescimento populacional no Sul do Brasil, por que as cidades do interior estão perdendo população?, relação entre economia e demografia, análise do crescimento de municípios]

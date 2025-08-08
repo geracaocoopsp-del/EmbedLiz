@@ -1,0 +1,25 @@
+**Identificação Básica:**
+
+*   **ID do Artigo:** 744
+*   **Título Oficial:** SURVIVAL AND FAILURE OF BRAZILIAN CREDIT UNIONS: AN ANALYSIS OF CORPORATE GOVERNANCE CHARACTERISTICS
+*   **Link para Download:** (Você adicionará este campo depois)
+
+**Resumo Sintético (O núcleo):**
+
+Este artigo investiga os fatores de governança corporativa que influenciam a sobrevivência e a falência de cooperativas de crédito no Brasil. Analisando dados de 2005 a 2015, o estudo conclui que características como o tamanho do conselho de administração, a dualidade do cargo de CEO (quando o presidente do conselho é também o principal executivo) e a existência de um comitê de auditoria são determinantes para a longevidade da cooperativa. Os resultados sugerem que boas práticas de governança são cruciais para a sobrevivência das cooperativas de crédito no sistema financeiro brasileiro.
+
+**Expansão Semântica (A parte crucial para a busca):**
+
+*   **Descrição Expandida em Linguagem Natural:** Este estudo busca entender por que algumas cooperativas de crédito brasileiras sobrevivem e prosperam enquanto outras fecham as portas. A pesquisa foca nas "regras do jogo" internas dessas cooperativas – sua governança corporativa. Os autores descobriram que fatores como o número de membros no conselho de administração, o fato de o principal executivo ser também o presidente do conselho e a existência de um comitê dedicado a fiscalizar as finanças desempenham um papel fundamental na probabilidade de uma cooperativa continuar existindo a longo prazo. Em resumo, o estudo mostra que cooperativas bem administradas e com controles internos sólidos têm mais chances de sucesso.
+
+*   **Pontos-Chave e Achados Específicos:**
+    *   A governança corporativa é fundamental para a sobrevivência das cooperativas de crédito.
+    *   O tamanho do conselho de administração é um fator significativo: conselhos maiores estão associados a uma maior probabilidade de sobrevivência.
+    *   A dualidade do cargo de CEO (presidente do conselho e executivo principal) tem um impacto negativo na sobrevivência.
+    *   A presença de um comitê de auditoria está positivamente relacionada à sobrevivência.
+    *   O estudo utiliza o modelo de riscos proporcionais de Cox para analisar os dados.
+
+*   **Palavras-Chave (O "Mapa" para a IA):**
+    *   **Termos Técnicos:** Cooperativas de Crédito, Governança Corporativa, Análise de Sobrevivência, Falência, Dualidade do CEO, Tamanho do Conselho, Comitê de Auditoria, Modelo de Cox.
+    *   **Termos Conceituais:** Instituições Financeiras, Longevidade, Falha Organizacional, Conselho de Administração, Mecanismos de Governança, Gestão de Riscos.
+    *   **Termos em Linguagem Natural (Sinônimos e Perguntas):** "por que cooperativas de crédito quebram?", "como fazer uma cooperativa de crédito dar certo?", "governança em cooperativas financeiras", "o que faz uma empresa durar muito tempo?", "sobrevivência de instituições financeiras", "problemas da dualidade de CEO", "importância do conselho de administração".

@@ -1,0 +1,26 @@
+ID do Artigo: 31
+Título Oficial:
+ADERÊNCIA DAS COOPERATIVAS DA REGIÃO METROPOLITANA DE BELÉM ÀS LEGISLAÇÕES VIGENTES DO COOPERATIVISMO
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo analisa o grau de aderência das cooperativas da Região Metropolitana de Belém à legislação cooperativista brasileira (Lei nº 5.764/71). A pesquisa, por meio de análise documental e entrevistas, investiga se as práticas de governança e gestão dessas cooperativas estão em conformidade com os princípios e as exigências legais, como a realização de assembleias, a composição dos conselhos e a destinação das sobras. Os resultados apontam para um baixo grau de aderência em muitas cooperativas, especialmente as de menor porte, que apresentam fragilidades na gestão, na transparência e na participação dos associados. O estudo conclui que a falta de conhecimento da lei e a carência de capacitação em governança são os principais desafios para a profissionalização e a sustentabilidade do cooperativismo na região.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa funciona como uma "auditoria" para ver se as cooperativas da Grande Belém estão seguindo a lei que rege o cooperativismo no Brasil. O estudo foi olhar os documentos e conversar com os diretores para saber se elas fazem as assembleias direitinho, se os conselhos funcionam como deveriam e se a divisão das sobras é feita de forma correta. A conclusão é preocupante: muitas cooperativas, principalmente as pequenas, não cumprem a lei à risca. Os principais problemas são a falta de conhecimento sobre as regras e a falta de preparo dos diretores para administrar o negócio. O estudo mostra que, para o cooperativismo da região se fortalecer, é preciso investir pesado em treinar e capacitar os cooperados e os gestores.
+
+Pontos-Chave e Achados:
+
+- O artigo avalia a conformidade (compliance) das cooperativas de Belém com a Lei nº 5.764/71.
+- Foi identificado um baixo nível de aderência à legislação, especialmente em aspectos relacionados à governança democrática e à transparência.
+- A falta de capacitação dos gestores e a baixa participação dos associados são as principais causas do descumprimento da lei.
+- O estudo reforça a importância da educação cooperativista e da fiscalização pelos órgãos de controle para a saúde e a legitimidade do sistema cooperativo.
+
+Palavras-Chave:
+Técnicas: [Aderência à legislação, compliance, Lei do Cooperativismo (Lei 5.764/71), governança cooperativa, Belém-PA, estudo de caso, análise documental]
+
+Conceituais: [Conformidade legal, governança, participação, transparência, profissionalização, sustentabilidade organizacional, cooperativismo]
+
+Linguagem Natural: [As cooperativas de Belém cumprem a lei?, Desafios da governança em cooperativas na Amazônia, o que diz a Lei 5.764 de 1971?, problemas de gestão em cooperativas, a importância da transparência no cooperativismo]

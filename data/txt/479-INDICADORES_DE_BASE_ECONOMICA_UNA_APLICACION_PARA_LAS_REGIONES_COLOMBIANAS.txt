@@ -1,0 +1,26 @@
+ID do Artigo: 479
+Título Oficial:
+INDICADORES DE BASE ECONÓMICA: UNA APLICACIÓN PARA LAS REGIONES COLOMBIANAS
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo aplica a teoria da base econômica para analisar a estrutura produtiva das regiões da Colômbia. A pesquisa utiliza indicadores como o Quociente Locacional (QL) para identificar os setores "básicos" ou "exportadores" de cada região, ou seja, aqueles que produzem mais do que o necessário para o consumo local e, portanto, vendem para outras regiões ou países, trazendo recursos para a economia local. Os resultados mapeiam a especialização produtiva de cada região colombiana, mostrando, por exemplo, a importância da indústria em Antioquia ou do setor de petróleo em outras. O estudo conclui que a identificação dos setores de base é fundamental para a formulação de políticas de desenvolvimento regional que fortaleçam os motores do crescimento econômico.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa funciona como um "exame de DNA" da economia de cada região da Colômbia. Usando uma teoria chamada "base econômica", o estudo consegue descobrir qual é o "motor" da economia de cada lugar. Esse motor são os setores que produzem mais do que a região consome e que, por isso, "exportam" seus produtos, trazendo dinheiro novo para a cidade. O estudo faz um mapa, mostrando, por exemplo, que o motor de uma região é a indústria, o de outra é o petróleo, e assim por diante. A conclusão é que, para um governo criar um bom plano de desenvolvimento, a primeira coisa que ele precisa saber é qual é o motor da economia daquela região, para poder colocar mais "combustível" nele.
+
+Pontos-Chave e Achados:
+
+- O artigo aplica a metodologia da base econômica e o Quociente Locacional (QL) para identificar os setores de especialização das regiões colombianas.
+- A análise revela a estrutura e a diversidade da economia regional da Colômbia, mapeando seus principais setores "exportadores".
+- A teoria da base econômica postula que o crescimento dos setores básicos tem um efeito multiplicador sobre o restante da economia local.
+- A identificação desses setores é uma informação estratégica para o planejamento do desenvolvimento regional.
+
+Palavras-Chave:
+Técnicas: [Base econômica, Quociente Locacional (QL), economia regional, desenvolvimento regional, especialização produtiva, Colômbia, análise regional]
+
+Conceituais: [Teoria da base econômica, efeito multiplicador, cluster industrial, desenvolvimento econômico, geografia econômica, política industrial]
+
+Linguagem Natural: [O que é a teoria da base econômica?, Como identificar os setores mais importantes de uma região?, Análise da economia da Colômbia, o que é o Quociente Locacional?, planejamento do desenvolvimento regional]

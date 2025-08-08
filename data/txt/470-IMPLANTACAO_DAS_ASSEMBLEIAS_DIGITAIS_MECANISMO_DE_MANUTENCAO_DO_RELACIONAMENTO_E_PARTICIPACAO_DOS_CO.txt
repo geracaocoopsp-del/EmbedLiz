@@ -1,0 +1,26 @@
+ID do Artigo: 470
+Título Oficial:
+IMPLANTAÇÃO DAS ASSEMBLEIAS DIGITAIS: MECANISMO DE MANUTENÇÃO DO RELACIONAMENTO E PARTICIPAÇÃO DOS COOPERADOS
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo analisa a implantação das assembleias digitais em cooperativas como um mecanismo para manter o relacionamento e garantir a participação dos cooperados, especialmente em contextos como a pandemia de COVID-19. A pesquisa investiga os desafios e as oportunidades dessa transição do modelo presencial para o virtual. Os resultados indicam que, embora as assembleias digitais tenham sido uma solução emergencial crucial, elas apresentam tanto vantagens, como o potencial aumento do alcance, quanto desvantagens, como a exclusão de cooperados com pouco acesso ou familiaridade com a tecnologia e a perda da dimensão social do encontro presencial.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa estuda a grande mudança que as cooperativas tiveram que fazer: transformar suas assembleias, que sempre foram encontros presenciais, em eventos online. O estudo mostra que essa foi a única saída para continuar envolvendo os cooperados nas decisões durante a pandemia. A conclusão é que a assembleia digital tem dois lados. Por um lado, ela pode até fazer com que mais gente participe, já que a pessoa não precisa se deslocar. Por outro, ela cria um problema sério de exclusão para os cooperados mais velhos ou que moram em lugares com internet ruim. Além disso, perde-se todo o lado social do encontro, do "olho no olho", que é tão importante para o cooperativismo.
+
+Pontos-Chave e Achados:
+
+- As assembleias digitais surgiram como uma resposta necessária às restrições de distanciamento social.
+- A transição para o modelo digital apresenta o potencial de aumentar o número de participantes, superando barreiras geográficas.
+- Os principais desafios são a exclusão digital de parte dos cooperados e a dificuldade de replicar a riqueza da interação social do modelo presencial.
+- O artigo sugere que o futuro pode estar em modelos híbridos, que combinem as vantagens do presencial e do digital para maximizar a participação democrática.
+
+Palavras-Chave:
+Técnicas: [Assembleia digital, participação do cooperado, governança cooperativa, transformação digital, COVID-19, cooperativismo, democracia digital]
+
+Conceituais: [Participação, democracia, exclusão digital, capital social, governança, inovação, adaptação organizacional]
+
+Linguagem Natural: [Como funcionam as assembleias digitais em cooperativas?, Vantagens e desvantagens da assembleia online, participação de cooperados na era digital, impacto da pandemia na governança das cooperativas, o futuro das assembleias cooperativas]

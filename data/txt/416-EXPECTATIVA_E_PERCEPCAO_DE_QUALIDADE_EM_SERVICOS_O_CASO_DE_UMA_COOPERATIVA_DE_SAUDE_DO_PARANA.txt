@@ -1,0 +1,26 @@
+ID do Artigo: 416
+Título Oficial:
+EXPECTATIVA E PERCEPÇÃO DE QUALIDADE EM SERVIÇOS: O CASO DE UMA COOPERATIVA DE SAÚDE DO PARANÁ
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo avalia a qualidade dos serviços de uma cooperativa de saúde do Paraná, comparando a expectativa dos usuários com a sua percepção após o atendimento. Utilizando a metodologia SERVQUAL, a pesquisa mede os "gaps" ou lacunas de qualidade nas cinco dimensões do serviço: tangibilidade, confiabilidade, presteza, segurança e empatia. Os resultados indicam que, embora a cooperativa seja bem avaliada em alguns aspectos, existem gaps negativos, principalmente na dimensão de presteza (agilidade no atendimento), mostrando que a percepção dos usuários ficou abaixo de suas expectativas e apontando áreas prioritárias para a melhoria da gestão de serviços.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa funciona como um "check-up" da qualidade do atendimento de uma cooperativa de saúde (um plano de saúde, como a Unimed) no Paraná. O estudo perguntou aos usuários o que eles esperavam do serviço e, depois, o que eles realmente acharam do atendimento que receberam. Usando uma ferramenta chamada SERVQUAL, a pesquisa mediu a diferença entre a expectativa e a realidade. A conclusão é que, em geral, os usuários estão satisfeitos, mas existe uma "lacuna" importante: as pessoas esperavam um atendimento mais rápido e ágil do que o que foi oferecido. Esse resultado serve como um alerta para a cooperativa, mostrando exatamente onde ela precisa melhorar para deixar seus clientes plenamente satisfeitos.
+
+Pontos-Chave e Achados:
+
+- A metodologia SERVQUAL foi aplicada para medir a qualidade percebida dos serviços da cooperativa de saúde.
+- Foram identificados "gaps" (lacunas) entre a expectativa e a percepção dos usuários, indicando pontos de insatisfação.
+- A dimensão "presteza" (tempo de espera, agilidade) foi a que apresentou a maior lacuna negativa, sendo a principal fonte de insatisfação.
+- As dimensões "segurança" e "empatia" foram as mais bem avaliadas, indicando pontos fortes no atendimento.
+
+Palavras-Chave:
+Técnicas: [Qualidade em serviços, SERVQUAL, gap de qualidade, cooperativa de saúde, satisfação do cliente, marketing de serviços, gestão da qualidade]
+
+Conceituais: [Percepção do cliente, expectativa do cliente, gestão de serviços de saúde, experiência do paciente, Unimed, avaliação de desempenho]
+
+Linguagem Natural: [Como medir a qualidade de um plano de saúde?, Avaliação da Unimed Paraná, o que é a metodologia SERVQUAL?, satisfação de clientes de cooperativas de saúde, principais reclamações de planos de saúde]

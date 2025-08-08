@@ -1,0 +1,26 @@
+ID do Artigo: 372
+Título Oficial:
+EFICIÊNCIA DAS COOPERATIVAS DE CRÉDITO: UMA REVISÃO DA LITERATURA
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo realiza uma revisão sistemática da literatura nacional e internacional sobre a eficiência das cooperativas de crédito. A pesquisa mapeia os principais métodos utilizados para medir a eficiência (como a Análise Envoltória de Dados - DEA) e os principais fatores que a influenciam, como escala, governança e o ambiente competitivo. A revisão conclui que, embora os resultados variem, há um consenso de que as cooperativas de crédito podem atingir níveis de eficiência comparáveis aos dos bancos comerciais, e que a boa governança e a escala de operações são determinantes-chave para o seu desempenho.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa faz um grande levantamento de tudo o que já foi escrito em estudos acadêmicos sobre a eficiência das cooperativas de crédito. O objetivo é organizar o conhecimento, mostrando quais são as ferramentas que os pesquisadores mais usam para medir se uma cooperativa é eficiente (como a Análise Envoltória de Dados, ou DEA) e quais são os fatores que mais ajudam ou atrapalham (como o tamanho da cooperativa e a qualidade da sua diretoria). A conclusão geral da revisão é que as cooperativas de crédito, quando bem administradas e com um tamanho razoável, podem ser tão eficientes quanto os grandes bancos, provando que o modelo cooperativo é competitivo e viável.
+
+Pontos-Chave e Achados:
+
+- A Análise Envoltória de Dados (DEA) é a metodologia predominante nos estudos sobre eficiência de cooperativas de crédito.
+- A escala de operações é consistentemente apontada como um fator importante para a eficiência, indicando a presença de economias de escala.
+- A qualidade da governança corporativa, incluindo a participação dos membros e a competência da gestão, é um determinante crucial do desempenho.
+- A revisão da literatura serve como um guia para futuras pesquisas na área, apontando lacunas e consolidando o conhecimento existente.
+
+Palavras-Chave:
+Técnicas: [Eficiência, cooperativas de crédito, revisão da literatura, Análise Envoltória de Dados (DEA), fronteira estocástica (SFA), desempenho financeiro]
+
+Conceituais: [Eficiência produtiva, economia de escala, governança corporativa, intermediação financeira, teoria da firma, cooperativismo]
+
+Linguagem Natural: [Cooperativas de crédito são eficientes?, Como medir a eficiência de uma instituição financeira?, Análise Envoltória de Dados (DEA) em bancos, o que torna uma cooperativa de crédito bem-sucedida?, revisão de estudos sobre cooperativas]

@@ -1,0 +1,25 @@
+**Identificação Básica:**
+
+*   **ID do Artigo:** 718
+*   **Título Oficial:** RETORNO DE INVESTIMENTOS EM CAPACITAÇÕES EM COOPERATIVAS AGROPECUÁRIAS DO ESTADO DO RIO GRANDE DO SUL/BR
+*   **Link para Download:** (Você adicionará este campo depois)
+
+**Resumo Sintético (O núcleo):**
+
+Este artigo avalia o retorno dos investimentos em capacitação de funcionários e associados em cooperativas agropecuárias do Rio Grande do Sul. Utilizando la Análise Envoltória de Dados (DEA) e o Indicador de Potencial dos Empregados para Gerar Riqueza (PEGR), o estudo conclui que o investimento em capacitação aumenta o potencial dos empregados de gerar riqueza para as cooperativas. Os resultados indicam que o investimento em treinamento e capacitação contribui para a manutenção do modelo cooperativista, melhora a qualidade do trabalho e aumenta a produtividade individual, o que, por sua vez, melhora a eficiência do processo cooperativo.
+
+**Expansão Semântica (A parte crucial para a busca):**
+
+*   **Descrição Expandida em Linguagem Natural:** O estudo investiga se vale a pena para as cooperativas investirem em cursos e treinamentos para seus funcionários e associados. A resposta é sim. A pesquisa mostra que, quanto mais as cooperativas investem em capacitação, maior é a capacidade de seus colaboradores de gerar riqueza. Isso significa que o investimento em pessoas se traduz em melhores resultados para a cooperativa. O artigo defende que a capacitação não é um custo, mas um investimento que fortalece o modelo cooperativista, melhora o ambiente de trabalho e aumenta a produtividade.
+
+*   **Pontos-Chave e Achados Específicos:**
+    *   O investimento em capacitação tem um retorno positivo para as cooperativas agropecuárias.
+    *   O aumento do investimento em treinamento está correlacionado com o aumento do potencial dos empregados de gerar riqueza.
+    *   A capacitação contribui para a manutenção do modelo cooperativista e para a melhoria da eficiência.
+    *   A utilização da Análise Envoltória de Dados (DEA) e do Indicador do Potencial dos Empregados para Gerar Riqueza (PEGR) são ferramentas úteis para avaliar o retorno do investimento em capacitação.
+    *   As cooperativas COOPEROQUE e COTRIJUC apresentaram os melhores retornos de eficiência nos períodos analisados.
+
+*   **Palavras-Chave (O "Mapa" para a IA):**
+    *   **Termos Técnicos:** Cooperativas Agropecuárias, Investimento em Capacitação, Análise Envoltória de Dados (DEA), Indicador do Potencial dos Empregados para Gerar Riqueza (PEGR), Eficiência, Retorno sobre o Investimento (ROI).
+    *   **Termos Conceituais:** Capital Humano, Desenvolvimento de Pessoas, Produtividade, Geração de Riqueza, Educação Cooperativa, Gestão de Pessoas em Cooperativas.
+    *   **Termos em Linguagem Natural (Sinônimos e Perguntas):** "vale a pena investir em treinamento de funcionários?", "retorno sobre investimento em capacitação", "como medir o resultado de um treinamento?", "treinamento em cooperativas", "capacitação de associados", "aumentar a produtividade dos funcionários".

@@ -1,0 +1,26 @@
+ID do Artigo: 468
+Título Oficial:
+IMPACTO NA SUSTENTABILIDADE DA PRODUÇÃO DE FRANGOS DE CORTE A PARTIR DA TRANSIÇÃO DE UM SISTEMA CONVENCIONAL PARA UM SISTEMA AGROECOLÓGICO
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo avalia o impacto na sustentabilidade da transição de um sistema convencional de produção de frangos de corte para um sistema de base agroecológica. Por meio de um estudo de caso, a pesquisa compara os dois sistemas utilizando indicadores das dimensões ambiental, social e econômica. Os resultados mostram que o sistema agroecológico apresenta um desempenho ambiental e social superior, com maior bem-estar animal e menor dependência de insumos externos. No entanto, enfrenta desafios na dimensão econômica, como maior custo de produção e menor produtividade, evidenciando os trade-offs envolvidos na transição para modelos de produção mais sustentáveis.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa compara, lado a lado, duas formas de criar frango: o jeito convencional, de granja industrial, e o jeito agroecológico, mais natural e solto. O estudo analisa qual dos dois é mais sustentável, olhando para o impacto no meio ambiente, para o bem-estar dos animais e das pessoas, e também para o lado financeiro. A conclusão é que o frango agroecológico ganha de lavada nas questões ambiental e social. O problema é que produzir assim custa mais caro e o retorno por ave é menor. Isso mostra que a transição para uma avicultura mais sustentável não é simples, e que é preciso encontrar um equilíbrio entre o que é bom para o planeta e o que é viável para o bolso do produtor.
+
+Pontos-Chave e Achados:
+
+- A transição para um sistema agroecológico de produção de frangos de corte melhora significativamente os indicadores de sustentabilidade ambiental e social.
+- O bem-estar animal é um dos principais diferenciais positivos do sistema agroecológico.
+- O sistema agroecológico apresenta desafios de viabilidade econômica, incluindo maiores custos com ração e menor ganho de peso das aves.
+- O estudo de caso ilustra os trade-offs entre as dimensões da sustentabilidade, mostrando que o sistema mais sustentável ecologicamente não é, necessariamente, o mais rentável economicamente no curto prazo.
+
+Palavras-Chave:
+Técnicas: [Sustentabilidade, frango de corte, avicultura, transição agroecológica, sistema de produção, estudo de caso, bem-estar animal, análise de sustentabilidade]
+
+Conceituais: [Agroecologia, trade-off, sistemas agroalimentares, produção sustentável, viabilidade econômica, impacto ambiental]
+
+Linguagem Natural: [Qual a diferença entre frango de granja e frango caipira/agroecológico?, Vantagens do frango agroecológico, a produção de frango orgânico é lucrativa?, sustentabilidade na avicultura, desafios da transição para a agroecologia]

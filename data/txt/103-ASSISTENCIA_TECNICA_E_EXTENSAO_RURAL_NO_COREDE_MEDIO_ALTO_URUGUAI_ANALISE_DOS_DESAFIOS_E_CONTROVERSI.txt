@@ -1,0 +1,26 @@
+ID do Artigo: 103
+Título Oficial:
+ASSISTÊNCIA TÉCNICA E EXTENSÃO RURAL NO COREDE MÉDIO ALTO URUGUAI: ANÁLISE DOS DESAFIOS E CONTROVÉRSIAS
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo analisa os desafios e as controvérsias do serviço de Assistência Técnica e Extensão Rural (ATER) na região do COREDE Médio Alto Uruguai, no Rio Grande do Sul. A pesquisa, baseada na percepção de agricultores e extensionistas, investiga os problemas do modelo atual de ATER, como o foco excessivo no produtivismo, a falta de uma abordagem sistêmica e a dificuldade de atender à diversidade da agricultura familiar. Os resultados apontam para uma crise do modelo tradicional de extensão e para a necessidade de uma reorientação, com práticas mais dialógicas, participativas e que valorizem os conhecimentos locais, em linha com os princípios da agroecologia e do desenvolvimento rural sustentável.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa faz um diagnóstico do serviço de assistência técnica (ATER) em uma região do Rio Grande do Sul e mostra que o modelo está em crise. O estudo ouviu os agricultores e os próprios técnicos e concluiu que o jeito como a extensão rural é feita hoje não está mais funcionando bem. O principal problema é que a ATER ainda está muito presa à ideia de que "produzir mais é sempre melhor", e acaba não dando atenção para a sustentabilidade ou para a diversidade da agricultura familiar. A conclusão é que a extensão rural precisa se reinventar: em vez de só "levar tecnologia", ela precisa "construir conhecimento" junto com o agricultor, ouvindo mais, dialogando e valorizando as práticas que já existem na comunidade.
+
+Pontos--Chave e Achados:
+
+- O artigo apresenta um diagnóstico crítico do serviço de ATER na região do Médio Alto Uruguai (RS).
+- O modelo difusionista de "transferência de tecnologia" é apontado como ultrapassado e inadequado para a complexidade da agricultura familiar.
+- Há uma demanda por parte dos agricultores por uma ATER mais holística, que aborde não apenas a produção, mas também a gestão, a comercialização e a sustentabilidade.
+- A pesquisa defende a transição para um modelo de ATER baseado no diálogo de saberes e nos princípios da agroecologia.
+
+Palavras-Chave:
+Técnicas: [Assistência Técnica e Extensão Rural (ATER), desenvolvimento rural, agricultura familiar, modelo difusionista, agroecologia, COREDE Médio Alto Uruguai-RS]
+
+Conceituais: [Diálogo de saberes, desenvolvimento rural sustentável, crítica à modernização agrícola, extensão rural, participação, conhecimento local]
+
+Linguagem Natural: [Quais os problemas da extensão rural hoje?, Crítica ao modelo de ATER no Rio Grande do Sul, o que os agricultores pensam da assistência técnica?, por uma nova extensão rural, desafios da EMATER]

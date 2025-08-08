@@ -1,0 +1,26 @@
+ID do Artigo: 246
+Título Oficial:
+CONSUMER-BRAND RELATIONSHIPS (CBR): Um estudo empírico de um modelo integrativo em uma cooperativa de crédito
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo investiga a construção do relacionamento entre consumidor e marca (Consumer-Brand Relationship - CBR) no contexto de uma cooperativa de crédito. A pesquisa aplica um modelo teórico que integra conceitos como qualidade do relacionamento, confiança, comprometimento e satisfação para entender como os cooperados se relacionam com a marca da cooperativa. Por meio de um survey com os membros, os resultados confirmam que a percepção de um relacionamento de qualidade, baseado na confiança e no comprometimento, leva a uma maior satisfação e lealdade, demonstrando que os princípios do CBR são aplicáveis e estrategicamente importantes para o setor cooperativista.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa busca entender como os membros de uma cooperativa de crédito se "relacionam" com a marca da instituição, quase como se fosse um relacionamento entre duas pessoas. O estudo usa um modelo de marketing que junta várias peças: a qualidade desse relacionamento, a confiança que o membro tem na cooperativa, o seu nível de comprometimento e, por fim, sua satisfação. Ao aplicar um questionário aos cooperados, a pesquisa descobriu que, quando o membro sente que tem um relacionamento de qualidade com a cooperativa, baseado em confiança, ele fica mais satisfeito e se torna mais fiel. Isso mostra que, para uma cooperativa de crédito, não basta oferecer bons produtos; é fundamental construir uma marca forte e um relacionamento positivo com seus donos, os cooperados.
+
+Pontos-Chave e Achados:
+
+- O modelo de Consumer-Brand Relationship (CBR) é aplicável ao contexto de cooperativas de crédito.
+- A qualidade do relacionamento percebido pelo cooperado é o principal antecedente da confiança e do comprometimento.
+- Confiança e comprometimento são mediadores essenciais que transformam um bom relacionamento em satisfação e lealdade à marca.
+- O estudo reforça a importância do marketing de relacionamento para as cooperativas, que devem ir além da transação financeira e construir laços com seus membros.
+
+Palavras-Chave:
+Técnicas: [Relacionamento consumidor-marca (CBR), marketing de relacionamento, cooperativa de crédito, confiança na marca, comprometimento, satisfação do cliente, modelagem de equações estruturais]
+
+Conceituais: [Lealdade à marca, qualidade do relacionamento, marketing de serviços, comportamento do consumidor, gestão de marca, valor da marca]
+
+Linguagem Natural: [Como construir um bom relacionamento com o cliente de banco?, Marketing para cooperativas de crédito, o que é Consumer-Brand Relationship?, como aumentar a lealdade de clientes em cooperativas?, estudo sobre marca de cooperativa]

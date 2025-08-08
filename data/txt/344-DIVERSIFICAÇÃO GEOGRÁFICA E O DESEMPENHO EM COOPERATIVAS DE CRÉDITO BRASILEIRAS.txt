@@ -1,0 +1,39 @@
+**Identificação Básica:**
+
+*   **ID do Artigo:** 344
+*   **Título Oficial:** DIVERSIFICAÇÃO GEOGRÁFICA E O DESEMPENHO EM COOPERATIVAS DE CRÉDITO BRASILEIRAS
+*   **Link para Download:** (Será adicionado posteriormente)
+
+**Resumo Sintético:**
+
+Este trabalho investiga a relação entre a diversificação geográfica e o desempenho de cooperativas de crédito singulares brasileiras. Analisando dados de 644 cooperativas entre 2016 e 2022, o estudo, utilizando o Método dos Momentos Generalizados Sistêmico, encontrou uma relação distinta: a diversificação geográfica afeta negativamente o desempenho financeiro, mas positivamente o desempenho social. Isso sugere que a expansão geográfica é mais uma estratégia para captar associados e promover o crescimento social, em vez de gerar retornos financeiros imediatos. O estudo destaca a importância de discutir os efeitos da diversificação geográfica no desempenho das cooperativas de crédito.
+
+**Expansão Semântica:**
+
+*   **Descrição Expandida em Linguagem Natural:**
+    *   O artigo explora se as cooperativas de crédito brasileiras que se expandem para várias cidades ou estados (diversificação geográfica) têm um desempenho melhor. A pesquisa descobriu que, financeiramente, essa expansão pode até ser negativa, mas socialmente, ela é positiva, pois ajuda a atrair mais membros e a crescer. Isso significa que, para as cooperativas, expandir não é só sobre ganhar mais dinheiro, mas também sobre aumentar sua base de associados e seu impacto social. O estudo convida a uma reflexão sobre os verdadeiros objetivos da diversificação em cooperativas de crédito.
+    *   Este trabalho analisa os impactos da expansão geográfica das cooperativas de crédito no Brasil. Ele mostra que, ao contrário do que se poderia pensar, expandir para novas regiões pode não trazer um retorno financeiro imediato, e até mesmo gerar deseconomias. No entanto, a diversificação geográfica é benéfica para o crescimento social da cooperativa, aumentando o número de cooperados ativos. O artigo sugere que as cooperativas de crédito, por terem um apelo social, podem usar a expansão geográfica como uma estratégia para fortalecer sua base de membros e sua presença nas comunidades, mesmo que isso não se traduza em lucros maiores no curto prazo.
+
+*   **Pontos-Chave e Achados Específicos:**
+    *   **Objetivo:** Identificar se a diversificação geográfica afeta o desempenho de cooperativas de crédito singulares brasileiras.
+    *   **Metodologia:** Análise de dados em painel de 644 cooperativas (2016-2022), utilizando o Método dos Momentos Generalizados Sistêmico.
+    *   **Relação Identificada:**
+        *   **Desempenho Financeiro:** Relação negativa (diversificação geográfica afeta negativamente o ROA).
+        *   **Desempenho Social:** Relação positiva (diversificação geográfica aumenta o número de cooperados ativos e o crescimento do quadro social).
+    *   **Implicações:** A diversificação geográfica é mais uma estratégia para captar associados e promover o crescimento social do que para gerar retornos financeiros imediatos.
+    *   **Limitações:** O estudo foca em cooperativas singulares e não inclui cooperativas centrais e federações.
+    *   **Conclusão:** A diversificação geográfica afeta o desempenho das cooperativas de crédito de forma distinta, com efeitos negativos no financeiro e positivos no social. Isso ressalta a importância do apelo social das cooperativas e a necessidade de considerar múltiplos objetivos na estratégia de expansão.
+
+*   **Palavras-Chave:**
+    *   **Termos Técnicos:** Diversificação Geográfica, Cooperativas de Crédito, Desempenho Financeiro, Desempenho Social, Método dos Momentos Generalizados Sistêmico (GMM), Retorno sobre Ativos (ROA), Postos de Atendimento (PACs).
+    *   **Termos Conceituais:** Expansão de Mercado, Crescimento Social, Captação de Associados, Deseconomias Organizacionais, Teoria da Agência, Estratégias de Crescimento.
+    *   **Termos em Linguagem Natural (Sinônimos e Perguntas):**
+        *   "expansão de cooperativas de crédito"
+        *   "impacto da diversificação geográfica em cooperativas"
+        *   "cooperativas de crédito e crescimento social"
+        *   "desempenho financeiro de cooperativas"
+        *   "como cooperativas crescem"
+        *   "riscos da expansão geográfica"
+        *   "cooperativas e novos mercados"
+        *   "estratégias de cooperativas de crédito"
+        *   "análise de desempenho de cooperativas"

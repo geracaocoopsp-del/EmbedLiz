@@ -1,0 +1,26 @@
+ID do Artigo: 409
+Título Oficial:
+EVOLUÇÃO DO ACESSO A BENS DE CONSUMO POR TIPO DE ATIVIDADE NOS DOMICÍLIOS RURAIS DO NORDESTE E SUL DO BRASIL
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo analisa a evolução do acesso a bens de consumo duráveis (como geladeira, TV, máquina de lavar) nos domicílios rurais do Nordeste e do Sul do Brasil, comparando famílias agrícolas, não-agrícolas e pluriativas. Utilizando dados da PNAD, a pesquisa investiga se a diversificação da fonte de renda (pluriatividade) está associada a um maior acesso a bens. Os resultados mostram que, em ambas as regiões, o acesso a bens de consumo aumentou significativamente para todos os grupos. No entanto, as famílias pluriativas e as não-agrícolas apresentam, consistentemente, melhores indicadores de acesso do que as famílias que dependem apenas da agricultura, especialmente no Nordeste. O estudo conclui que a pluriatividade é um importante vetor de modernização e de melhoria das condições de vida no meio rural.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa faz um "antes e depois" da casa do homem do campo, para ver se ele está conseguindo comprar mais coisas, como geladeira, televisão e máquina de lavar. O estudo compara a situação no Sul e no Nordeste, e também separa as famílias em três grupos: as que vivem só da roça, as que vivem só de outras coisas, e as que misturam as duas. A conclusão é que a vida melhorou para todo mundo, e o acesso a esses bens aumentou em todos os grupos. Mas o estudo mostra que quem consegue ter uma renda de fora da agricultura, seja de forma exclusiva ou complementar, consegue comprar mais coisas e ter uma vida mais confortável. Isso é especialmente verdade no Nordeste, onde a pluriatividade se mostra uma escada fundamental para sair da pobreza.
+
+Pontos-Chave e Achados:
+
+- O artigo compara a evolução do acesso a bens de consumo duráveis em domicílios rurais do Sul e do Nordeste.
+- Houve uma melhora generalizada nos indicadores de acesso para todos os grupos e regiões.
+- As famílias pluriativas e não-agrícolas apresentam um padrão de consumo superior ao das famílias estritamente agrícolas.
+- A pluriatividade funciona como uma estratégia que não apenas aumenta a renda, mas também moderniza os padrões de vida no meio rural.
+
+Palavras-Chave:
+Técnicas: [Acesso a bens de consumo, condições de vida, pluriatividade, meio rural, Nordeste, Sul, PNAD, análise comparativa]
+
+Conceituais: [Padrão de consumo, modernização, qualidade de vida, bem-estar, desigualdade regional, estratificação social, desenvolvimento rural]
+
+Linguagem Natural: [A vida no campo melhorou?, Acesso a eletrodomésticos na zona rural do Nordeste vs. Sul, a importância da pluriatividade para a qualidade de vida, comparação das condições de vida no meio rural brasileiro, o que mudou na casa do agricultor?]

@@ -1,0 +1,26 @@
+ID do Artigo: 648
+Título Oficial:
+PRÁTICAS AMBIENTALMENTE SUSTENTÁVEIS EM EMPREENDIMENTOS TURÍSTICOS
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo investiga a adoção de práticas ambientalmente sustentáveis por empreendimentos turísticos, como hotéis e pousadas. A pesquisa, por meio de um survey ou estudo de caso, mapeia o nível de implementação de práticas como a gestão de resíduos, a economia de água e energia, e o uso de fontes renováveis. Os resultados indicam que, embora haja uma crescente conscientização, a adoção de práticas sustentáveis ainda é heterogênea e muitas vezes motivada mais pela redução de custos (ecoeficiência) do que por uma preocupação genuína com a sustentabilidade. O estudo conclui que, para avançar, o setor precisa de mais informação, de linhas de financiamento para tecnologias limpas e de uma maior pressão por parte dos consumidores por um turismo mais responsável.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa faz um levantamento para saber o quão "verdes" são os hotéis e as pousadas. O estudo investiga se eles se preocupam em separar o lixo, em economizar água e luz, etc. A conclusão é que a coisa está melhorando, mas devagar. Muitos hotéis adotam práticas sustentáveis, mas geralmente são aquelas que também ajudam a economizar dinheiro, como trocar as lâmpadas por LED. A pesquisa mostra que, para o turismo ser realmente sustentável, é preciso ir além. Falta mais informação para os donos dos hotéis, mais crédito para comprar equipamentos ecológicos e, também, mais gente (os turistas) exigindo e escolhendo se hospedar em lugares que realmente se preocupam com o planeta.
+
+Pontos-Chave e Achados:
+
+- A adoção de práticas sustentáveis no setor hoteleiro é crescente, mas ainda concentrada em ações de baixo custo e alto retorno financeiro (ecoeficiência).
+- A gestão de resíduos e a economia de água e energia são as práticas mais comuns.
+- A falta de capital para investimentos em tecnologias mais limpas (como a solar) e a falta de conhecimento são as principais barreiras.
+- A percepção de que a sustentabilidade pode ser um diferencial de marketing ("marketing verde") é um importante indutor da adoção de práticas.
+
+Palavras-Chave:
+Técnicas: [Turismo sustentável, práticas ambientais, gestão ambiental, hotelaria, ecoturismo, sustentabilidade, certificação hoteleira]
+
+Conceituais: [Ecoeficiência, marketing verde, responsabilidade socioambiental, desenvolvimento sustentável, comportamento do consumidor, gestão de serviços]
+
+Linguagem Natural: [Como um hotel pode ser mais sustentável?, Práticas de sustentabilidade em pousadas, o que é turismo sustentável?, gestão ambiental no setor hoteleiro, certificação para hotéis ecológicos]

@@ -1,0 +1,26 @@
+ID do Artigo: 474
+Título Oficial:
+INCORPORAÇÕES ENTRE COOPERATIVAS DE CRÉDITO BRASILEIRAS: UMA ANÁLISE DA EFICIÊNCIA DE INCORPORADORAS E INCORPORADAS
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo analisa os processos de incorporação entre cooperativas de crédito no Brasil, comparando os níveis de eficiência das cooperativas incorporadoras e das incorporadas antes e depois da fusão. Utilizando a Análise Envoltória de Dados (DEA), a pesquisa mede a eficiência operacional das cooperativas envolvidas. Os resultados geralmente indicam que as cooperativas incorporadoras já são, em média, mais eficientes do que as que são incorporadas. O estudo sugere que as incorporações são um mecanismo de consolidação do sistema, onde cooperativas mais eficientes absorvem as menos eficientes, buscando ganhos de escala e maior solidez, embora o ganho de eficiência pós-fusão não seja sempre garantido.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa estuda o que acontece quando uma cooperativa de crédito "engole" outra. O estudo usa uma ferramenta chamada DEA para medir a eficiência das cooperativas antes e depois desses processos de fusão. A principal descoberta é que, na maioria das vezes, as cooperativas que compram as outras já eram mais eficientes para começo de conversa. Isso mostra que as incorporações funcionam como um mecanismo de "seleção natural" no sistema cooperativo, onde as mais fortes e bem administradas absorvem as mais fracas. O objetivo é criar cooperativas maiores e mais sólidas, mas o estudo alerta que o simples fato de se fundir não é garantia de que a nova cooperativa será automaticamente mais eficiente.
+
+Pontos-Chave e Achados:
+
+- O estudo utiliza a Análise Envoltória de Dados (DEA) para comparar a eficiência de cooperativas de crédito envolvidas em processos de incorporação.
+- Cooperativas incorporadoras tendem a apresentar maiores índices de eficiência do que as cooperativas incorporadas no período pré-fusão.
+- As incorporações são um importante vetor de concentração e consolidação no Sistema Nacional de Crédito Cooperativo (SNCC).
+- A análise pós-fusão da eficiência é complexa, indicando que os ganhos de escala esperados nem sempre se materializam no curto prazo.
+
+Palavras-Chave:
+Técnicas: [Incorporação, fusões e aquisições (F&A), cooperativas de crédito, Análise Envoltória de Dados (DEA), eficiência operacional, consolidação de mercado]
+
+Conceituais: [Ganhos de escala, governança corporativa, reestruturação organizacional, estratégia de crescimento, desempenho financeiro, Sistema Nacional de Crédito Cooperativo (SNCC)]
+
+Linguagem Natural: [Por que as cooperativas de crédito se fundem?, Análise de fusões no Sicoob/Sicredi, a incorporação aumenta a eficiência da cooperativa?, estudo sobre consolidação de cooperativas, usando DEA para medir eficiência bancária]

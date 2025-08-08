@@ -1,0 +1,22 @@
+Identificação Básica:
+ID do Artigo: 485
+Título Oficial: INFLUÊNCIA DO COOPERATIVISMO NO DESENVOLVIMENTO HUMANO MUNICIPAL
+Link para Download: (A ser adicionado)
+
+Resumo Sintético:
+O artigo analisa a influência do cooperativismo no desenvolvimento humano municipal em Minas Gerais. A pesquisa, utilizando regressão linear múltipla com dados em painel de 2007 a 2014, investiga como a presença de cooperativas e o vínculo cooperativista afetam indicadores de desenvolvimento humano. Os resultados indicam que o cooperativismo tem um impacto positivo no desenvolvimento humano municipal, especialmente na promoção do bem-estar socioeconômico e na redução de desigualdades. O estudo destaca o papel das cooperativas como agentes de desenvolvimento local e a importância de políticas públicas que incentivem sua propagação.
+
+Expansão Semântica:
+Descrição Expandida em Linguagem Natural: Este estudo explora como a presença de cooperativas em um município pode melhorar a qualidade de vida das pessoas. A pesquisa investiga se o cooperativismo, ao promover a inclusão social e econômica, contribui para o desenvolvimento humano, medido por indicadores como renda, educação e saúde. O artigo mostra que as cooperativas têm um papel importante no desenvolvimento local, especialmente em áreas onde o acesso a serviços e oportunidades é limitado. A pesquisa é relevante para formuladores de políticas públicas, gestores de cooperativas e pesquisadores interessados em desenvolvimento local e responsabilidade social.
+
+Pontos-Chave e Achados Específicos:
+- A pesquisa utilizou dados de 2.695 municípios mineiros entre 2007 e 2014.
+- O Índice FIRJAN de Desenvolvimento Municipal (IFDM) foi utilizado como proxy para o desenvolvimento humano.
+- A presença de cooperativas e o vínculo cooperativista (número de estabelecimentos com vínculo cooperativista) influenciam positivamente o IFDM.
+- O estudo destaca o papel das cooperativas como agentes de desenvolvimento local e a promoção do bem-estar socioeconômico.
+- A pesquisa sugere que a implementação de iniciativas cooperativistas e políticas públicas que visem sua propagação podem melhorar o desenvolvimento humano municipal.
+
+Palavras-Chave:
+Termos Técnicos: Cooperativismo, Desenvolvimento Humano Municipal, IFDM, Regressão de Dados em Painel, Minas Gerais, Inclusão Social.
+Termos Conceituais: Desenvolvimento Local, Qualidade de Vida, Impacto Social, Políticas Públicas, Responsabilidade Social, Economia Solidária.
+Termos em Linguagem Natural: "cooperativas e desenvolvimento local", "impacto social de cooperativas", "qualidade de vida em municípios", "políticas públicas para cooperativas", "desenvolvimento humano em Minas Gerais", "cooperativismo e bem-estar social".

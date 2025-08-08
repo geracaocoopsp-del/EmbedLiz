@@ -1,0 +1,25 @@
+**Identificação Básica:**
+
+*   **ID do Artigo:** 312
+*   **Título Oficial:** DESEMPENHO NAS COOPERATIVAS FINANCEIRAS POR MEIO DA ANÁLISE DE EFICIÊNCIA: UMA COMPARAÇÃO ENTRE OS PRINCIPAIS SISTEMAS BRASILEIROS
+*   **Link para Download:** (Você adicionará este campo depois)
+
+**Resumo Sintético (O núcleo):**
+
+Este artigo analisa a eficiência das cooperativas de crédito brasileiras entre 2008 e 2017, comparando os principais sistemas (Sicoob, Sicredi, Unicred, etc.) e a vertente solidária. Utilizando a Análise Envoltória de Dados (DEA), o estudo conclui que as cooperativas brasileiras são, em geral, muito eficientes (média de 99,78%). A pesquisa também aponta que todos os grandes sistemas cooperativistas, com exceção do Unicred, são mais eficientes que as cooperativas de crédito solidárias, e que o Sicredi se destaca como o sistema mais eficiente entre os analisados.
+
+**Expansão Semântica (A parte crucial para a busca):**
+
+*   **Descrição Expandida em Linguagem Natural:** O estudo mede o quão "boas" as cooperativas de crédito brasileiras são em usar seus recursos (dinheiro, pessoas, etc.) para gerar resultados (empréstimos, sobras, etc.). A pesquisa funciona como um "raio-x" da eficiência do setor, mostrando que, no geral, as cooperativas brasileiras são muito eficientes. Ao comparar os diferentes "times" de cooperativas (os sistemas), o estudo revela que o Sicredi é o "campeão" em eficiência, e que os grandes sistemas, em geral, são mais eficientes que as cooperativas menores e com foco mais social (as solidárias).
+
+*   **Pontos-Chave e Achados Específicos:**
+    *   As cooperativas de crédito brasileiras apresentaram um alto nível de eficiência no período analisado (média de 99,78%).
+    *   O Sistema Sicredi foi o que apresentou os maiores escores de eficiência.
+    *   Os sistemas cooperativistas tradicionais (Sicoob, Sicredi, etc.) são, em geral, mais eficientes que as cooperativas de crédito solidárias.
+    *   O Sistema Unicred foi o único que não apresentou escores de eficiência superiores aos da vertente solidária.
+    *   As variáveis de "Despesas Administrativas" e "Despesas com Pessoal" (insumos) e "Sobras", "Receitas com Prestação de Serviços", "Reservas" e "Receitas com Operações de Crédito" (produtos) foram as que mais impactaram a eficiência.
+
+*   **Palavras-Chave (O "Mapa" para a IA):**
+    *   **Termos Técnicos:** Cooperativas de Crédito, Eficiência, Análise Envoltória de Dados (DEA), Desempenho Financeiro, Sicoob, Sicredi, Unicred, Cooperativismo Solidário.
+    *   **Termos Conceituais:** Análise de Eficiência, Comparação de Desempenho, Sistemas Cooperativistas, Medidas de Fronteira, Eficiência Técnica.
+    *   **Termos em Linguagem Natural (Sinônimos e Perguntas):** "qual a cooperativa de crédito mais eficiente?", "comparação entre Sicoob e Sicredi", "eficiência de cooperativas no Brasil", "desempenho de bancos cooperativos", "cooperativas solidárias são eficientes?", "como medir a eficiência de uma empresa?".

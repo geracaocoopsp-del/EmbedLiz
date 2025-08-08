@@ -1,0 +1,26 @@
+ID do Artigo: 333
+Título Oficial:
+DIGITALIZAÇÃO DA COMERCIALIZAÇÃO NA AGRICULTURA FAMILIAR E USO E APROPRIAÇÃO DAS TICs: DESAFIOS PARA A EXTENSÃO RURAL
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo analisa os desafios e as oportunidades da digitalização da comercialização para a agricultura familiar, com foco no papel da extensão rural nesse processo. A pesquisa investiga como os agricultores familiares estão utilizando as Tecnologias de Informação e Comunicação (TICs), como redes sociais e aplicativos de mensagens, para vender seus produtos, especialmente em circuitos curtos. Os resultados apontam que, embora as TICs ofereçam um grande potencial, sua apropriação efetiva é desigual e enfrenta barreiras de conectividade, letramento digital e capacidade de gestão. O estudo conclui que a extensão rural precisa se reinventar para apoiar os agricultores nessa transição digital, oferecendo não apenas assistência técnica agronômica, mas também capacitação em marketing digital, logística e gestão de plataformas online.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa estuda como os pequenos agricultores estão usando a internet, o WhatsApp e as redes sociais para vender seus produtos diretamente aos consumidores. O estudo mostra que essas ferramentas digitais abriram um novo mundo de possibilidades, mas que a maioria dos agricultores ainda enfrenta muitos problemas para aproveitá-las bem, como a falta de acesso à internet de qualidade no campo e a falta de conhecimento sobre como usar essas tecnologias para fazer marketing e gerenciar as vendas. A conclusão é que o serviço de extensão rural (os técnicos que ajudam os agricultores) precisa se modernizar. Além de ensinar sobre plantio e colheita, os extensionistas agora precisam também ensinar os agricultores a serem "digitais", ajudando-os a criar suas redes sociais, a organizar as entregas e a gerenciar esse novo canal de vendas.
+
+Pontos-Chave e Achados:
+
+- As TICs estão transformando os canais de comercialização da agricultura familiar, fortalecendo a venda direta.
+- A exclusão digital, seja por falta de infraestrutura ou de conhecimento, é a principal barreira para a apropriação dessas tecnologias.
+- O uso das TICs exige novas competências dos agricultores, que vão além da produção e englobam marketing, logística e relacionamento com o cliente.
+- A extensão rural (ATER) tem o desafio de se atualizar para oferecer um suporte adequado à agricultura familiar na era digital.
+
+Palavras-Chave:
+Técnicas: [Digitalização, comercialização, agricultura familiar, TICs (Tecnologias de Informação e Comunicação), extensão rural (ATER), circuitos curtos, marketing digital]
+
+Conceituais: [Inclusão digital, exclusão digital, letramento digital, inovação social, desenvolvimento rural, e-commerce]
+
+Linguagem Natural: [Como agricultores familiares podem vender pela internet?, Uso de WhatsApp para vendas na agricultura, desafios da internet no campo, o papel da extensão rural na era digital, marketing digital para pequenos produtores]

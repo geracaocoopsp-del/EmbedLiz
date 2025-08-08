@@ -1,0 +1,26 @@
+ID do Artigo: 668
+Título Oficial:
+PRONAF: programa para a agricultura familiar na Amazônia
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo analisa a implementação do Programa Nacional de Fortalecimento da Agricultura Familiar (Pronaf) na região amazônica. A pesquisa investiga os desafios específicos que a política de crédito enfrenta no contexto da Amazônia, como as grandes distâncias, a precariedade da assistência técnica, a complexidade da regularização fundiária e a necessidade de linhas de crédito adaptadas aos sistemas produtivos da sociobiodiversidade. Os resultados apontam que, apesar de sua importância, o Pronaf tem baixa execução na região, com os recursos concentrados em poucas atividades e municípios. O estudo conclui que, para que o Pronaf seja um vetor de desenvolvimento sustentável na Amazônia, ele precisa ser redesenhado para superar as barreiras estruturais e atender às especificidades do público e dos ecossistemas locais.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa faz um diagnóstico de como o Pronaf, o principal programa de crédito para pequenos agricultores, está funcionando (ou não) na Amazônia. O estudo mostra que aplicar o Pronaf lá é muito mais complicado do que no resto do Brasil. Os problemas são enormes: as distâncias são gigantescas, faltam técnicos para ajudar a fazer os projetos, muitos agricultores não têm o documento da terra e as linhas de crédito normais não servem para quem trabalha com açaí ou castanha. A conclusão é que, do jeito que está, o Pronaf não consegue ajudar a maioria dos agricultores da região. Para que o programa realmente faça a diferença e ajude a desenvolver a Amazônia de forma sustentável, ele precisa ser reinventado, com regras e linhas de crédito especiais, pensadas para a realidade da floresta.
+
+Pontos-Chave e Achados:
+
+- A execução do Pronaf na Amazônia é historicamente baixa e concentrada, não atingindo a maior parte de seu público potencial.
+- Barreiras estruturais, como a questão fundiária e a logística, são os principais entraves para a expansão do crédito.
+- A falta de uma Assistência Técnica e Extensão Rural (ATER) capilar e qualificada é um gargalo crítico.
+- O artigo defende a necessidade de "amazonizar" o Pronaf, criando linhas de crédito e condições específicas para os sistemas produtivos da sociobiodiversidade.
+
+Palavras-Chave:
+Técnicas: [Pronaf, crédito rural, agricultura familiar, Amazônia, política agrícola, desenvolvimento sustentável, sociobiodiversidade, ATER]
+
+Conceituais: [Desenvolvimento regional, barreiras institucionais, questão fundiária, finanças sustentáveis, política pública, economia da floresta]
+
+Linguagem Natural: [Por que o Pronaf não funciona bem na Amazônia?, Desafios do crédito rural para agricultores da Amazônia, como adaptar o Pronaf para a realidade amazônica?, financiamento para produtos da floresta, política agrícola para a Amazônia]

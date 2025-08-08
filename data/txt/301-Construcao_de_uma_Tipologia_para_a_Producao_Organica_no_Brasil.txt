@@ -1,0 +1,26 @@
+ID do Artigo: 301
+Título Oficial:
+Construção de uma Tipologia para a Produção Orgânica no Brasil
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo propõe a construção de uma tipologia para classificar os diferentes perfis de produtores orgânicos no Brasil. A pesquisa argumenta que o universo da produção orgânica é heterogêneo e não pode ser tratado como um bloco monolítico. Utilizando a análise de clusters com dados de produtores, o estudo identifica diferentes "tipos" de agricultores orgânicos, que se distinguem por sua escala de produção, nível tecnológico, motivações (ideológicas ou de mercado) e canais de comercialização. Os resultados revelam a existência de, pelo menos, um perfil mais "familiar-ideológico", focado em circuitos curtos, e um perfil mais "empresarial-exportador", focado em commodities e grandes redes. O estudo conclui que o reconhecimento dessa diversidade é fundamental para a formulação de políticas públicas mais adequadas ao setor.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa defende que não existe "um" tipo de produtor orgânico, mas vários. O estudo, então, faz uma "separação em tribos" dos agricultores orgânicos do Brasil. Usando uma técnica estatística, a pesquisa mostra que dá para identificar pelo menos dois grandes grupos. De um lado, tem o agricultor "raiz", o pequeno produtor familiar que produz orgânicos por filosofia de vida e que vende na feirinha da cidade. Do outro, tem o agricultor "empresário", o grande produtor que planta orgânicos de olho no mercado, principalmente na exportação. A conclusão é que o mundo dos orgânicos é muito mais diverso do que parece, e que o governo precisa entender essa diferença para criar políticas que ajudem tanto o "seu Zé" da feira quanto a grande fazenda de soja orgânica.
+
+Pontos-Chave e Achados:
+
+- O artigo propõe uma tipologia para a produção orgânica no Brasil, revelando sua heterogeneidade interna.
+- A análise de clusters permite identificar diferentes perfis de produtores, com lógicas e estratégias distintas.
+- Foram identificados dois tipos ideais principais: o "orgânico familiar de base agroecológica" e o "orgânico empresarial focado no mercado".
+- A coexistência desses diferentes "mundos" dentro da produção orgânica gera debates e tensões sobre os rumos do movimento.
+
+Palavras-Chave:
+Técnicas: [Tipologia de produtores, agricultura orgânica, análise de clusters, heterogeneidade, sistemas de produção, Brasil, sociologia rural]
+
+Conceituais: [Estilos de agricultura, estratégias de produção, mercados de nicho, certificação orgânica, agroecologia, desenvolvimento rural]
+
+Linguagem Natural: [Quais os tipos de produtores orgânicos no Brasil?, A diferença entre a agricultura orgânica familiar e a empresarial, tipologia da produção orgânica, o mercado de orgânicos no Brasil, os diferentes perfis de agricultores orgânicos]

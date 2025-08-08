@@ -1,0 +1,26 @@
+ID do Artigo: 726
+Título Oficial:
+SATISFAÇÃO DE AGRICULTORES EM DIFERENTES CANAIS DE COMERCIALIZAÇÃO
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo compara o nível de satisfação de agricultores familiares que utilizam diferentes canais de comercialização para escoar sua produção. A pesquisa, por meio de um survey, mede e compara a satisfação de agricultores que vendem para canais como feiras livres, mercados institucionais (PNAE/PAA), cooperativas e atravessadores. Os resultados indicam que os agricultores que vendem em canais de circuito curto, como feiras livres, tendem a apresentar maior nível de satisfação geral, valorizando a autonomia e o contato direto com o consumidor, apesar de a venda para cooperativas e mercados institucionais oferecer maior segurança e volume. A menor satisfação está associada à venda para atravessadores, devido aos baixos preços e à falta de poder de barganha.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa foi perguntar para os pequenos agricultores o quão satisfeitos eles estão com a forma como vendem seus produtos. O estudo comparou a satisfação de quem vende na feira, de quem vende para a merenda escolar, de quem vende para a cooperativa e de quem vende para o atravessador. A conclusão é que, no geral, os mais felizes são os feirantes. Mesmo que o trabalho seja duro, eles gostam da independência e do contato direto com quem compra. Vender para o governo e para a cooperativa dá mais segurança, mas a satisfação não é tão alta. E, sem surpresa, os mais insatisfeitos de todos são os que dependem do atravessador, que paga pouco e explora o produtor.
+
+Pontos-Chave e Achados:
+
+- O nível de satisfação dos agricultores varia significativamente conforme o canal de comercialização utilizado.
+- Canais de circuito curto (venda direta), como as feiras, estão associados a maiores níveis de satisfação, principalmente por fatores não-econômicos como autonomia e reconhecimento.
+- Canais de circuito longo, mediados por cooperativas ou pelo PNAE, oferecem maior segurança de mercado, mas podem gerar menor satisfação com o preço e a burocracia.
+- A venda para atravessadores é o canal com o menor nível de satisfação, devido à assimetria de poder e à baixa remuneração.
+
+Palavras-Chave:
+Técnicas: [Satisfação de agricultores, canais de comercialização, circuitos curtos, agricultura familiar, feiras livres, PNAE, cooperativas, survey]
+
+Conceituais: [Comportamento do produtor, tomada de decisão, poder de barganha, custos de transação, mercados, desenvolvimento rural]
+
+Linguagem Natural: [Qual o melhor canal de venda para o pequeno agricultor?, Satisfação de feirantes, vantagens e desvantagens de vender para o PNAE, por que vender para atravessador é ruim?, comparação entre canais de comercialização agrícola]

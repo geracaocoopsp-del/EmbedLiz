@@ -1,0 +1,26 @@
+ID do Artigo: 32
+Título Oficial:
+AGRICULTURA FAMILIAR ASSOCIADA EM COOPERATIVAS NO BRASIL: UMA CARACTERIZAÇÃO A PARTIR DO CENSO AGROPECUÁRIO 2017
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo traça um perfil da agricultura familiar associada a cooperativas no Brasil, utilizando os microdados do Censo Agropecuário de 2017. A pesquisa caracteriza esses estabelecimentos em termos de área, valor da produção, nível tecnológico, acesso a assistência técnica e perfil do produtor. Os resultados mostram que os agricultores familiares cooperados representam a vanguarda do setor: são, em média, mais capitalizados, mais tecnificados e com maior produtividade do que os não-cooperados. O estudo conclui que o cooperativismo é um poderoso instrumento de modernização e de inserção competitiva para a agricultura familiar, embora sua distribuição ainda seja bastante desigual pelo território brasileiro, com forte concentração na Região Sul.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa faz um raio-x do agricultor familiar que é sócio de cooperativa, para ver quem ele é e como ele se diferencia dos que não são. Usando os dados do Censo Agropecuário, o estudo mostra que o agricultor cooperado é a "tropa de elite" da agricultura familiar. Em geral, ele tem mais terra, produz mais, usa mais tecnologia e recebe mais assistência técnica. A conclusão é que a cooperativa funciona como uma "escada" para o pequeno agricultor subir na vida, se modernizar e competir em pé de igualdade no mercado. O problema, como o estudo também mostra, é que essa "escada" ainda não está disponível para todos, já que a maioria esmagadora dos agricultores familiares cooperados está na Região Sul do Brasil.
+
+Pontos-Chave e Achados:
+
+- O artigo utiliza os dados do Censo Agro 2017 para traçar um perfil detalhado do agricultor familiar cooperado.
+- Os agricultores familiares associados a cooperativas apresentam indicadores de desempenho (produtividade, valor da produção) sistematicamente superiores aos dos não-associados.
+- O cooperativismo está fortemente associado a um maior nível de tecnificação e de acesso à assistência técnica.
+- A análise confirma a forte concentração do cooperativismo da agricultura familiar na Região Sul, evidenciando uma grande desigualdade regional no acesso a esse importante arranjo organizacional.
+
+Palavras-Chave:
+Técnicas: [Agricultura familiar, cooperativismo, Censo Agropecuário 2017, perfil do produtor, associativismo, análise de dados, estatística descritiva]
+
+Conceituais: [Desenvolvimento rural, modernização agrícola, capital social, ação coletiva, desigualdade regional, estratificação social]
+
+Linguagem Natural: [Qual o perfil do agricultor familiar cooperado no Brasil?, O agricultor cooperado é mais produtivo?, Análise do Censo Agro 2017 sobre cooperativas, a importância do cooperativismo para a agricultura familiar, onde se concentram os agricultores familiares cooperados?]

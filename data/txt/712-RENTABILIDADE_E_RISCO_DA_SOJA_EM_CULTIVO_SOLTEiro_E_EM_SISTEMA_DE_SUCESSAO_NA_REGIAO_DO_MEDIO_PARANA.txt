@@ -1,0 +1,26 @@
+ID do Artigo: 712
+Título Oficial:
+RENTABILIDADE E RISCO DA SOJA EM CULTIVO SOLTEIRO E EM SISTEMA DE SUCESSÃO NA REGIÃO DO MÉDIO PARANAPANEMA
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo compara a rentabilidade e o risco de dois sistemas de produção de soja na região do Médio Paranapanema: o cultivo solteiro (apenas soja na safra de verão) e o sistema de sucessão (soja no verão seguida por milho safrinha). Utilizando dados de custo de produção e simulação de risco, a pesquisa avalia qual sistema oferece a melhor relação retorno-risco para o agricultor. Os resultados indicam que, embora o sistema de sucessão soja-milho exija maior investimento e apresente maior complexidade de manejo, ele geralmente proporciona maior rentabilidade e, crucialmente, uma diluição do risco, pois o resultado de uma cultura pode compensar o da outra, tornando-se a estratégia economicamente mais racional para a região.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa compara duas formas de se plantar soja na região do Médio Paranapanema: plantar só soja no verão, ou plantar soja no verão e, logo em seguida, plantar milho na mesma área (a famosa "safrinha"). O estudo fez as contas do custo, do lucro e do risco de cada uma dessas opções. A conclusão é que plantar soja e depois o milho safrinha, apesar de dar mais trabalho e exigir mais investimento, vale mais a pena. Esse sistema não só costuma dar mais lucro no final do ano, como também é mais seguro. Se o preço da soja cair, por exemplo, o agricultor ainda tem a chance de ganhar um bom dinheiro com o milho, e vice-versa. Ou seja, a dobradinha soja-milho é a jogada mais inteligente para o agricultor daquela região.
+
+Pontos-Chave e Achados:
+
+- O estudo compara a viabilidade econômica e o risco de dois sistemas: soja em cultivo solteiro e soja em sucessão com milho safrinha.
+- O sistema de sucessão soja-milho, apesar de mais intensivo em capital, apresenta maior rentabilidade média.
+- A principal vantagem do sistema de sucessão é a diversificação, que atua como um mecanismo de mitigação de risco (risco de preço e de clima).
+- A análise de risco-retorno demonstra a superioridade econômica do sistema de sucessão para as condições da região do Médio Paranapanema.
+
+Palavras-Chave:
+Técnicas: [Rentabilidade, análise de risco, sistema de sucessão, cultivo solteiro, soja, milho safrinha, Médio Paranapanema, viabilidade econômica, diversificação]
+
+Conceituais: [Gestão de risco agrícola, diversificação de culturas, sistemas de produção, tomada de decisão, custo de produção, intensificação sustentável]
+
+Linguagem Natural: [O que dá mais lucro: plantar só soja ou soja e milho safrinha?, Análise de risco da safrinha de milho, rentabilidade da soja no Paranapanema, como a diversificação diminui o risco na agricultura?, comparação de sistemas de cultivo de soja]

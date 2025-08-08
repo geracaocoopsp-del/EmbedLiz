@@ -1,0 +1,23 @@
+ID do Artigo: 441
+Título Oficial: GOVERNANÇA COOPERATIVA: AS PRÁTICAS DE GOVERNANÇA CONSIDERAM OS PRINCÍPIOS COOPERATIVISTAS? UMA ANÁLISE ACERCA DE MANUAIS DE BOAS PRÁTICAS
+Link para Download: (Adicionar depois)
+
+Resumo Sintético: Este estudo teórico-empírico analisa se os Manuais de Boas Práticas de Governança Cooperativa, publicados pela OCB e IBGC, consideram os princípios cooperativistas e as especificidades das cooperativas. Através da análise de conteúdo de dois manuais, concluiu-se que esses documentos ainda precisam de revisões para representar todo o sistema cooperativista, alinhando as práticas de governança corporativa aos ideais e valores cooperativistas e às necessidades do público-alvo.
+
+Expansão Semântica:
+Descrição Expandida em Linguagem Natural: Este artigo investiga a compatibilidade entre as diretrizes de governança corporativa e os princípios fundamentais das cooperativas. Ele examina manuais de boas práticas desenvolvidos por grandes instituições brasileiras (OCB e IBGC) para verificar se eles realmente refletem a essência do cooperativismo, que é diferente de empresas tradicionais. A pesquisa questiona se as recomendações desses manuais são adequadas para a realidade das cooperativas, que valorizam a participação democrática e o interesse dos associados. Em outras palavras, o estudo busca entender se as regras de governança propostas para cooperativas estão alinhadas com seus valores únicos, ou se elas tendem a impor um modelo de gestão mais corporativo que pode descaracterizar o movimento cooperativista.
+Pontos-Chave e Achados Específicos:
+- O tema Governança Corporativa tem crescido em estudos, mas há uma lacuna em Governança Cooperativa.
+- O estudo analisou dois manuais: "Guia das Melhores Práticas de Governança para Cooperativas" (IBGC) e "Manual de Boas Práticas de Governança Cooperativa" (OCB).
+- A pesquisa é teórico-empírica, descritiva, explicativa e qualitativa, utilizando análise de conteúdo.
+- Os manuais foram construídos por comissões que não incluíram representantes de todos os ramos do cooperativismo, nem um processo de base com a participação direta dos cooperados.
+- A adoção desses manuais pode ferir a autonomia e a prática democrática das cooperativas, pois são propostas externas.
+- Muitas das práticas sugeridas nos manuais já são obrigações legais (Lei 5.764/71), não inovações.
+- Sugere-se a criação de um único documento conjunto entre IBGC e OCB, com maior participação dos cooperados na sua elaboração.
+- A baixa rotatividade dos membros do Conselho de Administração (CA) é um ponto fraco na governança cooperativa, não abordado adequadamente nos manuais.
+- A sobrevivência e o sucesso das cooperativas dependem da aplicação dos princípios cooperativistas.
+
+Palavras-Chave:
+Termos Técnicos: Governança Cooperativa, Governança Corporativa, Princípios Cooperativistas, Manuais de Boas Práticas, OCB (Organização das Cooperativas Brasileiras), IBGC (Instituto Brasileiro de Governança Corporativa), Análise de Conteúdo, Estudo Teórico-Empírico, Lei 5.764/71, Custos de Agência, Teoria da Agência, Rochdale, Aliança Cooperativa Internacional (ACI).
+Termos Conceituais: Gestão Democrática, Autonomia Cooperativa, Participação dos Associados, Valores Cooperativistas, Especificidades Cooperativas, Sustentabilidade Organizacional, Conflitos de Interesse, Transparência, Prestação de Contas, Eficiência Organizacional, Desenvolvimento Cooperativo.
+Termos em Linguagem Natural (Sinônimos e Perguntas): Como as cooperativas são governadas? As regras de governança corporativa se aplicam a cooperativas? Como garantir que as cooperativas sigam seus princípios? Qual a diferença entre governança corporativa e cooperativa? Melhores práticas para cooperativas, gestão de cooperativas no Brasil, desafios da governança em cooperativas, como alinhar princípios e práticas em cooperativas, o papel da OCB e IBGC em cooperativas.

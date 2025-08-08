@@ -1,0 +1,33 @@
+**Identificação Básica:**
+*   **ID do Artigo:** 124
+*   **Título Oficial:** AVALIAÇÃO DOS IMPACTOS DA POLÍTICA NACIONAL DOS PISOS MÍNIMOS DO TRANSPORTE RODOVIÁRIO DE CARGAS NO BRASIL: UMA ANÁLISE SOB A ÓTICA DE UM MODELO DE EQUILÍBRIO GERAL COMPUTÁVEL
+*   **Link para Download:** (Será adicionado posteriormente)
+
+**Resumo Sintético (O núcleo):**
+Este artigo avalia os impactos econômicos e sociais da Política Nacional de Pisos Mínimos do Transporte Rodoviário de Cargas (PNPMC) no Brasil, instituída após a paralisação dos caminhoneiros em 2018. A tese central é que, embora a política vise garantir uma remuneração justa aos transportadores, ela gera consequências negativas para a economia brasileira como um todo, incluindo redução do PIB, do consumo das famílias, dos investimentos, das exportações e dos salários reais. Além disso, a política provoca um aumento nos custos de transporte, com impactos mais severos nas regiões mais pobres e distantes.
+
+**Expansão Semântica:**
+
+*   **Descrição Expandida em Linguagem Natural:**
+    *   O estudo analisa as consequências de uma lei que define um preço mínimo para o frete de caminhões no Brasil, criada depois da greve dos caminhoneiros.
+    *   Explica que, apesar de a lei ter sido feita para ajudar os caminhoneiros, ela acaba prejudicando a economia do país, diminuindo o crescimento, o consumo das famílias e as exportações.
+    *   Mostra que o aumento do custo do frete afeta mais as regiões mais pobres e distantes, que dependem mais do transporte rodoviário para escoar sua produção e receber produtos.
+    *   O artigo serve como um alerta para o governo e a sociedade sobre os efeitos complexos de políticas que, embora bem-intencionadas, podem ter impactos negativos não previstos em outras áreas da economia.
+
+*   **Pontos-Chave e Achados Específicos:**
+    *   **Contexto:** A PNPMC foi instituída em 2018, após a paralisação dos caminhoneiros, com o objetivo de garantir uma remuneração mínima para o frete rodoviário.
+    *   **Metodologia:** Utiliza um Modelo de Equilíbrio Geral Computável (TERM-BR) para simular os impactos da política em diferentes setores e regiões da economia brasileira.
+    *   **Impactos Econômicos Negativos:**
+        1.  **Redução do PIB:** O PIB real do Brasil apresentou uma redução de 0,583%.
+        2.  **Consumo das Famílias:** Redução no consumo, especialmente nas famílias de baixa renda.
+        3.  **Investimentos:** Queda nos investimentos.
+        4.  **Comércio Exterior:** Redução nas exportações e importações.
+        5.  **Salário Real:** Diminuição do salário real dos trabalhadores.
+    *   **Aumento dos Custos de Transporte:** A política de piso mínimo de frete resultou em um aumento dos custos de transporte para diversos setores, com destaque para os insumos da agropecuária.
+    *   **Impacto Regional Desigual:** Os estados mais pobres e distantes (como Amazonas, Acre, Rondônia) foram os mais afetados pela redução do PIB e do consumo das famílias, enquanto os estados do Sul e Sudeste tiveram menor impacto.
+    *   **Conclusão Principal:** A Política Nacional de Pisos Mínimos do Transporte Rodoviário de Cargas, apesar de seus objetivos sociais, gera externalidades negativas significativas para a economia brasileira, afetando a competitividade e o bem-estar social. A pesquisa sugere que a política pode não ser eficaz no longo prazo e que o problema social do transporte autônomo de cargas precisa ser equacionado de forma mais abrangente.
+
+*   **Palavras-Chave (O "Mapa" para a IA):**
+    *   **Termos Técnicos:** Política Nacional de Pisos Mínimos do Transporte Rodoviário de Cargas (PNPMC), Modelo de Equilíbrio Geral Computável (CGE), Impactos Econômicos, Frete Rodoviário, Agronegócio, PIB, Consumo das Famílias, Exportações.
+    *   **Termos Conceituais:** Políticas Públicas, Regulação de Mercado, Custos de Transporte, Competitividade, Desenvolvimento Econômico, Impacto Social, Barreiras Comerciais Internas.
+    *   **Termos em Linguagem Natural (Sinônimos e Perguntas):** "lei do piso mínimo do frete", "impacto do frete na economia", "custo do transporte no Brasil", "agronegócio e frete", "consequências da greve dos caminhoneiros", "preço do frete aumenta o custo de vida?", "política de frete e PIB", "como o frete afeta as exportações".

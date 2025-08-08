@@ -1,0 +1,37 @@
+**Identificação Básica:**
+
+*   **ID do Artigo:** 415
+*   **Título Oficial:** EXPECTATIVA E PERCEPÇÃO DE QUALIDADE EM SERVIÇOS: O CASO DE UMA COOPERATIVA DE SAÚDE DO PARANÁ
+*   **Link para Download:** (Será adicionado posteriormente)
+
+**Resumo Sintético:**
+
+Este estudo mensura as lacunas de qualidade em serviços de uma cooperativa de saúde no Paraná, comparando as expectativas e percepções dos clientes. Utilizando uma adaptação do instrumento SERVQUAL, a pesquisa identificou que a dimensão "Confiabilidade" apresenta a maior lacuna (maior diferença entre o esperado e o percebido). Além disso, o estudo introduziu uma dimensão específica ao cooperativismo, que demonstrou ter um efeito moderador significativo na percepção de qualidade. Conclui-se que a cooperativa precisa focar em aprimorar a confiabilidade de seus serviços e que o cooperativismo, como elemento de diferenciação, influencia a percepção de qualidade dos clientes.
+
+**Expansão Semântica:**
+
+*   **Descrição Expandida em Linguagem Natural:**
+    *   O artigo investiga o que os clientes de uma cooperativa de saúde no Paraná esperam e o que eles realmente recebem em termos de qualidade de serviço. A pesquisa usou um questionário para identificar as "lacunas" (diferenças) entre a expectativa e a percepção. A maior lacuna foi encontrada na "Confiabilidade", ou seja, os clientes esperam que a cooperativa cumpra o que promete, mas nem sempre isso acontece. O estudo também descobriu que o fato de ser uma cooperativa (o "cooperativismo") influencia a percepção de qualidade, mostrando que a identidade cooperativa é um diferencial importante, mas que precisa ser bem gerenciada para gerar satisfação.
+    *   Este trabalho analisa a qualidade dos serviços de uma cooperativa de saúde sob a ótica do cliente. Ele explora as "lacunas da qualidade", que são as diferenças entre o que o cliente espera e o que ele percebe. A pesquisa identificou que a confiabilidade é o ponto mais crítico, onde a cooperativa precisa melhorar. Além disso, o estudo mostra que o conceito de cooperativismo, por si só, já gera uma expectativa de qualidade nos clientes, o que é uma vantagem competitiva. A pesquisa sugere que a cooperativa deve focar em aprimorar a entrega de serviços e em comunicar de forma eficaz seus valores cooperativistas para aumentar a satisfação dos clientes.
+
+*   **Pontos-Chave e Achados Específicos:**
+    *   **Objetivo:** Mensurar as lacunas de qualidade em serviços de uma cooperativa de saúde, comparando expectativas e percepções dos clientes.
+    *   **Instrumento:** Adaptação do SERVQUAL, com cinco dimensões (Tangibilidade, Confiabilidade, Responsividade, Segurança, Empatia) e uma dimensão específica ao cooperativismo.
+    *   **Principal Lacuna:** "Confiabilidade" (maior diferença entre o esperado e o percebido).
+    *   **Efeito do Cooperativismo:** A dimensão "cooperativismo" tem um efeito moderador significativo na percepção de qualidade dos serviços.
+    *   **Implicações:** A cooperativa precisa focar em aprimorar a confiabilidade de seus serviços e em comunicar de forma eficaz seus valores cooperativistas para gerar maior satisfação.
+    *   **Limitações:** A pesquisa é um estudo de caso em uma única cooperativa de saúde, o que limita a generalização dos resultados.
+
+*   **Palavras-Chave:**
+    *   **Termos Técnicos:** Qualidade em Serviços, SERVQUAL, Lacunas da Qualidade, Cooperativismo Médico, Satisfação do Cliente, Percepção de Qualidade, Confiabilidade, Responsividade, Tangibilidade, Segurança, Empatia.
+    *   **Termos Conceituais:** Gestão da Qualidade, Marketing de Serviços, Experiência do Cliente, Valor Percebido, Diferenciação Competitiva.
+    *   **Termos em Linguagem Natural (Sinônimos e Perguntas):**
+        *   "qualidade de serviço em cooperativas de saúde"
+        *   "satisfação do cliente em planos de saúde"
+        *   "como medir a qualidade de serviços"
+        *   "o que os clientes esperam de uma cooperativa"
+        *   "confiabilidade em serviços de saúde"
+        *   "cooperativa de saúde é boa?"
+        *   "diferença entre expectativa e percepção"
+        *   "como melhorar a qualidade de atendimento"
+        *   "marketing para cooperativas de saúde"

@@ -1,0 +1,26 @@
+ID do Artigo: 173
+Título Oficial:
+A REGULARIZAÇÃO FUNDIÁRIA RURAL NO CEARÁ ENTRE 2004 E 2017
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo analisa a política de regularização fundiária rural no estado do Ceará entre 2004 e 2017. A pesquisa investiga o avanço do programa estadual de titulação de terras, avaliando o número de títulos emitidos e a área regularizada. Os resultados mostram que, apesar dos esforços e dos avanços significativos no período, o Ceará ainda possui um enorme passivo de imóveis rurais sem documentação, especialmente na agricultura familiar. O estudo conclui que a insegurança jurídica sobre a posse da terra continua sendo um grande entrave para o desenvolvimento rural, dificultando o acesso dos agricultores a crédito e a outras políticas públicas, e demandando a continuidade e o fortalecimento da política de regularização.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa faz um balanço do programa do governo do Ceará que dá o "papel da terra" para os agricultores que vivem e produzem nela há anos, mas não têm o documento. O estudo mostra que, entre 2004 e 2017, o programa avançou e muita gente conseguiu o tão sonhado título. No entanto, o problema ainda está longe de ser resolvido. Existe uma quantidade imensa de pequenos agricultores no estado que continuam "sem papel passado", vivendo na insegurança. A conclusão é que essa falta do documento da terra é uma trava para o desenvolvimento: sem o título, o agricultor não consegue pegar financiamento no banco nem acessar uma série de outras políticas. Por isso, é fundamental que o programa de regularização continue e seja fortalecido.
+
+Pontos-Chave e Achados:
+
+- O artigo faz uma análise quantitativa da política de regularização fundiária rural no Ceará no período de 2004-2017.
+- A política de titulação de terras avançou, beneficiando milhares de agricultores familiares, mas o passivo de irregularidade ainda é muito grande.
+- A insegurança jurídica da posse da terra é um dos principais gargalos para o acesso ao crédito rural (Pronaf) e para a realização de investimentos na propriedade.
+- A continuidade e a celeridade da política de regularização fundiária são estratégicas para o desenvolvimento da agricultura familiar cearense.
+
+Palavras-Chave:
+Técnicas: [Regularização fundiária, posse da terra, titulação de terras, política agrária, Ceará, agricultura familiar, desenvolvimento rural, IDACE]
+
+Conceituais: [Insegurança jurídica, questão agrária, direito de propriedade, acesso à terra, políticas públicas, desenvolvimento rural sustentável]
+
+Linguagem Natural: [Como funciona a regularização de terras rurais no Ceará?, A importância do título da terra para o agricultor, desafios da regularização fundiária no Nordeste, política de terras do governo do Ceará, acesso ao Pronaf e posse da terra]

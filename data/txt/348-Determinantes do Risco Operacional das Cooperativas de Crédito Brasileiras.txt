@@ -1,0 +1,41 @@
+**Identificação Básica:**
+
+*   **ID do Artigo:** 348
+*   **Título Oficial:** Determinantes do Risco Operacional das Cooperativas de Crédito Brasileiras
+*   **Link para Download:** (Será adicionado posteriormente)
+
+**Resumo Sintético:**
+
+Este estudo investiga os determinantes do risco operacional em cooperativas de crédito brasileiras, utilizando uma amostra de 817 cooperativas singulares entre 2013 e 2020. A pesquisa, que empregou o Método dos Momentos Generalizado (GMM), identificou que o porte da cooperativa e a quantidade de operações ativas são os principais fatores internos que influenciam o risco operacional. Além disso, fatores macroeconômicos como recessões e altas taxas de desemprego também aumentam a exposição ao risco. O estudo conclui que, embora o risco operacional seja crescente, cooperativas maiores e com menor dependência de capital de terceiros tendem a mitigar esse risco, ressaltando a importância de uma gestão de riscos eficaz.
+
+**Expansão Semântica:**
+
+*   **Descrição Expandida em Linguagem Natural:**
+    *   O artigo analisa o que faz com que as cooperativas de crédito no Brasil corram mais riscos de ter problemas operacionais (erros, fraudes, falhas de sistema). A pesquisa descobriu que o tamanho da cooperativa e o volume de suas operações são os principais fatores internos que aumentam esse risco. Além disso, em tempos de crise econômica, como recessões e alto desemprego, o risco operacional também aumenta. No entanto, cooperativas maiores e que dependem menos de dinheiro de fora (capital de terceiros) conseguem lidar melhor com esses riscos. Em resumo, o estudo mostra que é fundamental que as cooperativas tenham uma boa gestão de riscos para evitar prejuízos e manter a confiança dos seus membros.
+    *   Este trabalho investiga os fatores que influenciam o risco operacional em cooperativas de crédito. Ele mostra que, assim como os bancos, as cooperativas também estão expostas a falhas internas e externas. A pesquisa utilizou dados de centenas de cooperativas para identificar que o tamanho e a complexidade das operações, bem como o cenário econômico (recessão, desemprego), são determinantes importantes. O artigo sugere que uma gestão de riscos proativa e a solidez financeira são cruciais para a sustentabilidade dessas instituições, especialmente em períodos de instabilidade.
+
+*   **Pontos-Chave e Achados Específicos:**
+    *   **Objetivo:** Identificar os determinantes do risco operacional em cooperativas de crédito brasileiras.
+    *   **Metodologia:** Estudo quantitativo com amostra de 817 cooperativas singulares (2013-2020), utilizando o Método dos Momentos Generalizado (GMM).
+    *   **Determinantes Internos:**
+        *   **Porte da cooperativa (TAM):** Quanto maior o porte, maior o risco operacional.
+        *   **Quantidade de operações ativas (QOA):** Quanto maior o volume de operações, maior o risco operacional.
+    *   **Determinantes Externos:**
+        *   **Recessão econômica (CRISES):** Períodos de recessão aumentam o risco operacional.
+        *   **Taxa de desemprego (TDES):** Altas taxas de desemprego aumentam o risco operacional.
+    *   **Fatores Mitigadores:** Cooperativas com maior capital próprio (menor dependência de capital de terceiros) e maior porte tendem a mitigar o risco operacional.
+    *   **Conclusão:** A gestão eficaz do risco operacional é crucial para a sustentabilidade das cooperativas de crédito, especialmente em cenários de instabilidade econômica. A pesquisa contribui para a literatura ao mensurar o risco operacional com dados públicos.
+
+*   **Palavras-Chave:**
+    *   **Termos Técnicos:** Risco Operacional, Cooperativas de Crédito, Determinantes, Método dos Momentos Generalizado (GMM), Análise de Componentes Principais (ACP), Indicador Básico (BIA), Processos Judiciais Trabalhistas (PTRAB), Operações (OP).
+    *   **Termos Conceituais:** Gestão de Riscos, Estabilidade Financeira, Macroeconomia, Recessão Econômica, Taxa de Desemprego, Capital Próprio, Operações Ativas.
+    *   **Termos em Linguagem Natural (Sinônimos e Perguntas):**
+        *   "riscos em cooperativas de crédito"
+        *   "como gerenciar riscos financeiros"
+        *   "impacto da economia nas cooperativas"
+        *   "fraudes em instituições financeiras"
+        *   "segurança em cooperativas"
+        *   "o que é risco operacional"
+        *   "como o desemprego afeta cooperativas"
+        *   "solidez financeira de cooperativas"
+        *   "análise de desempenho de cooperativas de crédito"

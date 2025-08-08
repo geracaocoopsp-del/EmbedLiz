@@ -1,0 +1,26 @@
+ID do Artigo: 82
+Título Oficial:
+ANÁLISE ESPACIAL DA PRODUÇÃO DE LEITE NO BRASIL
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo realiza uma análise espacial da produção de leite no Brasil, identificando os padrões de concentração e a formação de clusters produtivos. Utilizando dados da Pesquisa da Pecuária Municipal (PPM/IBGE) e técnicas de econometria espacial, a pesquisa mapeia a distribuição da produção leiteira nos municípios brasileiros. Os resultados mostram uma forte concentração da produção em bacias leiteiras tradicionais, como as de Minas Gerais e da Região Sul, com a formação de clusters de alta produção. O estudo também identifica a emergência de novas fronteiras leiteiras, como em Goiás e em Rondônia, revelando a complexa e dinâmica geografia da pecuária leiteira no país.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa faz o "mapa do leite" do Brasil, para mostrar onde o país produz mais e como a produção está organizada. O estudo usa dados do IBGE e ferramentas de geoprocessamento para desenhar esse mapa. A conclusão é que a produção de leite no Brasil é muito concentrada. Existem as "superpotências" do leite, como Minas Gerais e o Sul do país, onde as cidades de alta produção são vizinhas umas das outras, formando grandes "manchas" no mapa. Mas o estudo também mostra que o mapa está mudando, com o surgimento de novas e importantes regiões produtoras, como em Goiás e em Rondônia.
+
+Pontos-Chave e Achados:
+
+- O artigo utiliza a Análise Exploratória de Dados Espaciais (AEDE) para mapear a produção de leite no Brasil.
+- A produção leiteira é espacialmente concentrada, com a formação de clusters de alta produção em Minas Gerais, no Sul e em Goiás.
+- A análise espacial permite identificar as "bacias leiteiras" e as novas fronteiras da atividade.
+- A concentração espacial da produção está fortemente associada à presença de laticínios e de cooperativas, que funcionam como polos de atração.
+
+Palavras-Chave:
+Técnicas: [Análise espacial, produção de leite, pecuária leiteira, Brasil, I de Moran, clusters espaciais, bacia leiteira, PPM/IBGE]
+
+Conceituais: [Concentração espacial, cluster produtivo, geografia agrícola, desenvolvimento regional, agronegócio, cadeia produtiva do leite]
+
+Linguagem Natural: [Onde se produz mais leite no Brasil?, Mapa da produção de leite, o que são bacias leiteiras?, a geografia da pecuária leiteira brasileira, análise espacial da produção agrícola]

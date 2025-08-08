@@ -1,0 +1,26 @@
+ID do Artigo: 34
+Título Oficial:
+AGRICULTURA FAMILIAR E PANDEMIA: POLÍTICAS DESENVOLVIDAS PELOS GOVERNOS URUGUAIO E CHILENO
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo realiza uma análise comparativa das políticas públicas desenvolvidas pelos governos do Uruguai e do Chile para apoiar a agricultura familiar durante a pandemia de COVID-19. Por meio de uma revisão documental de medidas oficiais e notícias, o estudo mapeia e contrasta as estratégias adotadas em áreas como crédito emergencial, auxílio financeiro direto e canais de comercialização. Os resultados indicam que, embora ambos os países tenham implementado ações, houve diferenças significativas na abrangência e no foco das políticas, refletindo distintas prioridades e capacidades estatais, com lições importantes para o desenho de políticas de resiliência para o setor.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa compara o que os governos do Uruguai e do Chile fizeram para ajudar seus pequenos agricultores a enfrentar a crise da COVID-19. O estudo olhou para documentos oficiais e reportagens para entender as diferentes medidas de apoio, como a liberação de crédito com juros baixos, o pagamento de auxílios em dinheiro e a criação de novas formas de vender os produtos, já que as feiras estavam fechadas. A análise mostra que os dois países agiram, mas de maneiras diferentes. A comparação revela as prioridades de cada governo e o que cada um foi capaz de fazer, oferecendo um aprendizado sobre quais tipos de políticas funcionam melhor para tornar a agricultura familiar mais forte e preparada para futuras crises.
+
+Pontos-Chave e Achados:
+
+- O estudo compara as respostas políticas à pandemia de COVID-19 para a agricultura familiar no Uruguai e no Chile.
+- As políticas analisadas incluem apoio à renda, crédito rural emergencial e facilitação do acesso a mercados.
+- O Chile focou mais em transferências diretas de renda, enquanto o Uruguai implementou medidas mais voltadas para a sustentação da produção e comercialização.
+- As diferenças nas respostas políticas refletem as distintas estruturas institucionais de apoio à agricultura familiar em cada país.
+
+Palavras-Chave:
+Técnicas: [Agricultura familiar, COVID-19, políticas públicas, análise comparativa, Uruguai, Chile, segurança alimentar, resposta à crise]
+
+Conceituais: [Estado de bem-estar social, resiliência, capacidade estatal, desenvolvimento rural, política agrícola, governança]
+
+Linguagem Natural: [Como Uruguai e Chile ajudaram agricultores na pandemia?, Políticas para agricultura familiar durante a COVID-19, comparação de políticas agrícolas na América do Sul, apoio governamental ao campo na pandemia]

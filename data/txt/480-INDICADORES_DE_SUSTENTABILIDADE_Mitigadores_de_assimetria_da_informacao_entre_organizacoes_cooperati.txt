@@ -1,0 +1,26 @@
+ID do Artigo: 480
+Título Oficial:
+INDICADORES DE SUSTENTABILIDADE: Mitigadores de assimetria da informação entre organizações cooperativas e seus stakeholders
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo analisa como a divulgação de indicadores de sustentabilidade pode funcionar como um mecanismo para mitigar a assimetria de informação entre as cooperativas e seus stakeholders (cooperados, clientes, financiadores, etc.). A pesquisa, de natureza teórica, argumenta que os relatórios de sustentabilidade, ao fornecerem informações transparentes sobre o desempenho social e ambiental da cooperativa, reduzem a incerteza e aumentam a confiança. O estudo conclui que a adoção de frameworks de relato, como o Global Reporting Initiative (GRI), não é apenas uma ferramenta de comunicação, mas uma estratégia de governança que pode fortalecer o relacionamento com os stakeholders e melhorar o acesso a recursos.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa discute como a divulgação de informações sobre sustentabilidade pode ajudar as cooperativas a construir confiança com seus públicos. A ideia central é que existe uma "assimetria de informação": a diretoria da cooperativa sabe muito mais sobre o que acontece lá dentro do que os cooperados, os clientes ou os bancos. O estudo argumenta que, quando uma cooperativa publica um relatório de sustentabilidade, mostrando de forma clara e honesta o que ela faz pelo meio ambiente e pela comunidade, ela diminui essa desconfiança. Essa transparência funciona como uma ponte, aumentando a confiança de todos na gestão e podendo até facilitar a obtenção de crédito e a atração de novos membros.
+
+Pontos-Chave e Achados:
+
+- A divulgação de indicadores de sustentabilidade é uma ferramenta para reduzir a assimetria de informação.
+- Relatórios de sustentabilidade, baseados em padrões como o GRI, aumentam a transparência e a accountability da gestão cooperativa.
+- A transparência sobre o desempenho socioambiental pode fortalecer a confiança e a lealdade dos cooperados e de outros stakeholders.
+- O artigo posiciona o relato de sustentabilidade como uma prática de governança estratégica, que pode gerar valor tangível e intangível para a cooperativa.
+
+Palavras-Chave:
+Técnicas: [Indicadores de sustentabilidade, assimetria de informação, relatórios de sustentabilidade, Global Reporting Initiative (GRI), governança cooperativa, stakeholders]
+
+Conceituais: [Transparência, accountability, teoria da agência, teoria dos stakeholders, confiança, legitimidade organizacional, valor compartilhado]
+
+Linguagem Natural: [Por que as cooperativas devem publicar relatórios de sustentabilidade?, Como a transparência ajuda a governança?, O que é assimetria de informação em empresas?, GRI para cooperativas, comunicação com stakeholders]

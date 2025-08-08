@@ -1,0 +1,26 @@
+ID do Artigo: 183
+Título Oficial:
+Alocação do tempo das crianças e o PRONAF no meio rural brasileiro
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo investiga o impacto do acesso ao crédito do Pronaf na alocação do tempo das crianças e adolescentes em domicílios rurais no Brasil. A pesquisa, utilizando microdados e um modelo econométrico, analisa se o acesso ao crédito, ao aumentar a renda e a produtividade da propriedade, altera o tempo que os filhos dedicam aos estudos, ao trabalho (agrícola e doméstico) e ao lazer. Os resultados indicam que o Pronaf tem um efeito positivo: em famílias beneficiadas, as crianças tendem a dedicar mais tempo à escola e menos tempo ao trabalho. O estudo conclui que o Pronaf, além de ser uma política de desenvolvimento agrícola, também funciona como uma política social que contribui para a redução do trabalho infantil e para o aumento do capital humano da nova geração.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa estuda uma consequência inesperada e muito positiva do Pronaf: o que acontece com o tempo das crianças quando a família consegue o crédito? O estudo, usando dados e estatística, mostra que, quando o dinheiro do Pronaf entra na propriedade, a vida dos filhos melhora. Com a família mais estruturada, as crianças passam a frequentar mais a escola e a trabalhar menos na roça. A conclusão é que o Pronaf não é só um programa que ajuda a comprar trator ou a aumentar a produção. Ele é também um programa social poderoso, que ajuda a tirar as crianças do trabalho pesado e a colocá-las onde elas deveriam estar: na sala de aula.
+
+Pontos-Chave e Achados:
+
+- O artigo analisa o impacto do Pronaf na alocação do tempo de crianças e adolescentes rurais.
+- O acesso ao crédito do Pronaf está associado a uma maior frequência escolar e a uma menor participação dos filhos no trabalho agrícola.
+- O Pronaf, ao melhorar a condição econômica da família, reduz a necessidade de utilização da mão de obra infantil.
+- O estudo revela uma externalidade positiva do Pronaf, que atua como uma política de combate ao trabalho infantil e de promoção do capital humano.
+
+Palavras-Chave:
+Técnicas: [Alocação do tempo, trabalho infantil, Pronaf, crédito rural, avaliação de impacto, capital humano, economia da família, microeconometria]
+
+Conceituais: [Desenvolvimento humano, política social, externalidades, agricultura familiar, bem-estar infantil, economia do desenvolvimento]
+
+Linguagem Natural: [O Pronaf ajuda a diminuir o trabalho infantil?, Impacto do crédito rural na educação dos filhos de agricultores, como o Pronaf afeta a vida das crianças no campo?, relação entre renda e trabalho infantil, política para combater o trabalho infantil rural]

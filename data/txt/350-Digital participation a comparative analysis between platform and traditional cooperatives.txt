@@ -1,0 +1,22 @@
+Identificação Básica:
+ID do Artigo: 350
+Título Oficial: Digital participation: a comparative analysis between platform and traditional cooperatives
+Link para Download: (A ser adicionado)
+
+Resumo Sintético:
+O artigo compara a participação digital em cooperativas de plataforma e cooperativas tradicionais, analisando aspectos de comunicação, transparência, cocriação de serviços e tomada de decisão. A pesquisa, de natureza qualitativa, utilizou análise documental, questionários e entrevistas com líderes de cooperativas. Os resultados indicam que, apesar das possibilidades oferecidas pela literatura, tanto cooperativas tradicionais quanto de plataforma têm poucas iniciativas de participação digital. O estudo sugere que a digitalização pode beneficiar a comunicação e a transparência, mas que a cultura organizacional e a resistência à mudança são desafios a serem superados.
+
+Expansão Semântica:
+Descrição Expandida em Linguagem Natural: Este estudo investiga como as cooperativas, tanto as mais antigas quanto as mais novas (plataformas digitais), estão usando a tecnologia para se comunicar com seus membros e envolvê-los nas decisões. A pesquisa compara o que a literatura diz sobre a participação digital com o que realmente acontece nas cooperativas, mostrando que ainda há muito a ser feito. O artigo discute os desafios de implementar ferramentas digitais em cooperativas, como a resistência à mudança e a cultura organizacional. A pesquisa é relevante para gestores de cooperativas, desenvolvedores de plataformas digitais e pesquisadores interessados em governança cooperativa e transformação digital.
+
+Pontos-Chave e Achados Específicos:
+- A pesquisa analisou 91 cooperativas tradicionais e 282 cooperativas de plataforma no Brasil.
+- A comunicação e a transparência são aspectos importantes da participação digital.
+- A cocriação de serviços e a tomada de decisão são áreas com poucas iniciativas de participação digital.
+- O estudo destaca a importância de superar a resistência à mudança e a cultura organizacional para promover a participação digital.
+- A pesquisa sugere que a digitalização pode beneficiar a comunicação e a transparência, mas que ainda há muito a ser feito.
+
+Palavras-Chave:
+Termos Técnicos: Participação Digital, Cooperativas de Plataforma, Cooperativas Tradicionais, Governança Democrática, Digitalização, Economia Compartilhada.
+Termos Conceituais: Comunicação, Transparência, Cocriação de Serviços, Tomada de Decisão, Cultura Organizacional, Transformação Digital.
+Termos em Linguagem Natural: "cooperativas e tecnologia", "participação digital em cooperativas", "economia compartilhada e cooperativismo", "governança em cooperativas digitais", "desafios da digitalização em cooperativas", "como cooperativas usam a tecnologia".

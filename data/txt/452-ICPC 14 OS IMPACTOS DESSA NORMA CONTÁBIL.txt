@@ -1,0 +1,27 @@
+### **Síntese Otimizada para IA**
+
+**Identificação Básica:**
+*   **ID do Artigo:** 452
+*   **Título Oficial:** ICPC 14: OS IMPACTOS DESSA NORMA CONTÁBIL NAS SOCIEDADES COOPERATIVAS
+*   **Link para Download:** (Será adicionado posteriormente)
+
+**Resumo Sintético:**
+Este estudo verifica os impactos da potencial adoção da norma contábil ICPC 14 nos índices econômico-financeiros de 35 cooperativas agropecuárias brasileiras. A norma exige a reclassificação das cotas dos cooperados do patrimônio líquido para o passivo. A simulação mostrou que a adoção da ICPC 14 causa alterações estatisticamente significativas: o índice de endividamento médio aumenta 8%, o de liquidez corrente cai 9,9%, e o de retorno sobre o patrimônio líquido (ROE) melhora. A pesquisa conclui que a norma, se adotada, alterará significativamente a imagem financeira das cooperativas, podendo dificultar o acesso a crédito.
+
+**Expansão Semântica:**
+
+*   **Descrição Expandida em Linguagem Natural:**
+    *   O artigo analisa o que aconteceria com a saúde financeira das cooperativas agrícolas se uma nova e polêmica regra contábil (ICPC 14) fosse implementada. Essa regra basicamente força as cooperativas a tratarem o capital dos sócios (as cotas) como uma dívida (passivo), em vez de patrimônio. Ao simular essa mudança nos balanços de 35 grandes cooperativas, os pesquisadores viram que o resultado é drástico: elas pareceriam muito mais endividadas e com menos liquidez. Embora o retorno sobre o patrimônio pareça melhor, o efeito geral é negativo, podendo prejudicar a imagem das cooperativas e dificultar a obtenção de empréstimos.
+
+*   **Pontos-Chave e Achados Específicos:**
+    *   **Problema Central:** A aplicação da norma ICPC 14 (relacionada à IFRIC 2 e IAS 32) exige a reclassificação das cotas dos cooperados de patrimônio líquido para passivo, gerando grande debate e potenciais impactos negativos.
+    *   **Metodologia:** Simulação dos efeitos da ICPC 14 nos índices de endividamento, rentabilidade e liquidez de 35 cooperativas agropecuárias, com comparação das médias (antes e depois) via Teste T de Wilcoxon.
+    *   **Impacto no Endividamento:** A simulação resulta em um aumento médio de 8% no índice de endividamento, com algumas cooperativas apresentando variações de até 32%.
+    *   **Impacto na Liquidez:** O índice de liquidez corrente médio sofre uma redução de 9,9%.
+    *   **Impacto na Rentabilidade:** O Retorno sobre o Patrimônio Líquido (ROE) apresenta uma melhora, pois o denominador (patrimônio líquido) é drasticamente reduzido pela reclassificação.
+    *   **Conclusão:** A adoção da ICPC 14 tem impactos estatisticamente significativos e, em geral, negativos sobre a percepção da saúde financeira das cooperativas, podendo afetar sua competitividade e acesso a crédito.
+
+*   **Palavras-Chave (O "Mapa" para a IA):**
+    *   **Termos Técnicos:** ICPC 14, IFRIC 2, IAS 32, Sociedades Cooperativas, Cotas, Capital Social, Patrimônio Líquido, Passivo, Índices Econômico-Financeiros, Endividamento, Liquidez, Rentabilidade.
+    *   **Termos Conceituais:** Normas Contábeis, Reclassificação Contábil, Análise de Balanços, Impacto Regulatório, Contabilidade de Cooperativas.
+    *   **Termos em Linguagem Natural (Sinônimos e Perguntas):** "impacto da icpc 14 em cooperativas", "reclassificação de cotas de cooperados", "nova regra contábil para cooperativas", "capital social vira dívida?", "análise financeira de cooperativas agrícolas", "problemas da contabilidade em cooperativas".

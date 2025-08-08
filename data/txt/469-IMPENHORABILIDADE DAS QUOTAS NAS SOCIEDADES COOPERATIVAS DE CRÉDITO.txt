@@ -1,0 +1,27 @@
+### **Síntese Otimizada para IA**
+
+**Identificação Básica:**
+*   **ID do Artigo:** 469
+*   **Título Oficial:** IMPENHORABILIDADE DAS QUOTAS NAS SOCIEDADES COOPERATIVAS DE CRÉDITO
+*   **Link para Download:** (Será adicionado posteriormente)
+
+**Resumo Sintético:**
+Este artigo defende a tese da impenhorabilidade das quotas-partes de capital social em sociedades cooperativas de crédito. A argumentação se baseia na natureza jurídica dessas entidades como sociedades de pessoas (e não de capital), e na legislação específica (Lei nº 5.764/71 e Código Civil) que estabelece a intransferibilidade das quotas a terceiros estranhos à cooperativa. O texto conclui que, sendo as quotas intransferíveis, elas são, por consequência, impenhoráveis, e qualquer decisão judicial em contrário afronta a legislação e o princípio da *affectio societatis* (vínculo pessoal entre os sócios), essencial para o funcionamento do cooperativismo.
+
+**Expansão Semântica:**
+
+*   **Descrição Expandida em Linguagem Natural:**
+    *   O artigo discute se a justiça pode tomar as cotas de um membro de uma cooperativa de crédito para pagar uma dívida que ele tenha. A resposta defendida é um claro "não". O argumento central é que cooperativas são clubes de pessoas, não apenas investimentos. A lei brasileira diz que a cota de um membro não pode ser vendida para alguém de fora do "clube". Se não pode ser vendida livremente, também não pode ser penhorada para ser leiloada. Permitir a penhora seria como forçar a cooperativa a aceitar um sócio desconhecido, quebrando o laço de confiança que é a base de tudo. Portanto, a penhora das cotas é ilegal e prejudicial à saúde do sistema cooperativista.
+
+*   **Pontos-Chave e Achados Específicos:**
+    *   **Problema Central:** Decisões judiciais têm determinado a penhora de quotas-partes de cooperados em cooperativas de crédito para quitar dívidas, ameaçando a saúde financeira dessas entidades.
+    *   **Tese Principal:** As quotas-partes do capital social de cooperativas são impenhoráveis.
+    *   **Fundamento Legal:** A impenhorabilidade decorre da intransferibilidade das quotas a terceiros, conforme o Art. 4º, inciso IV, da Lei nº 5.764/71 e o Art. 1.094, inciso IV, do Código Civil.
+    *   **Natureza Jurídica:** Cooperativas são sociedades de pessoas (natureza civil/simples), não sociedades empresárias. O Código de Processo Civil (art. 655, VI) só autoriza a penhora de quotas de "sociedades empresárias".
+    *   **Princípio da *Affectio Societatis*:** A penhora e eventual arrematação por um terceiro estranho violaria o vínculo pessoal e de confiança que une os membros da cooperativa.
+    *   **Exceção:** A penhora só seria admissível se o credor (exequente) também fosse membro da mesma cooperativa, pois nesse caso não haveria ingresso de um terceiro estranho.
+
+*   **Palavras-Chave (O "Mapa" para a IA):**
+    *   **Termos Técnicos:** Impenhorabilidade, Quotas-Partes, Capital Social, Sociedade Cooperativa de Crédito, Penhora, *Affectio Societatis*, Intransferibilidade, Lei nº 5.764/71, Código Civil.
+    *   **Termos Conceituais:** Direito Cooperativo, Natureza Jurídica, Sociedade de Pessoas, Execução Judicial, Segurança Jurídica, Direito Societário.
+    *   **Termos em Linguagem Natural (Sinônimos e Perguntas):** "penhora de cotas de cooperativa", "capital social pode ser penhorado?", "dívida de cooperado pode ser paga com cotas?", "impenhorabilidade de quotas", "direitos de sócio de cooperativa", "execução de dívida contra cooperado".

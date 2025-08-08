@@ -1,0 +1,26 @@
+ID do Artigo: 341
+Título Oficial:
+DISTRIBUIÇÃO ESPACIAL DO ÍNDICE REGIONAL DO CRÉDITO RURAL PARA O PARANÁ (2008-2018)
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo analisa a distribuição espacial do crédito rural no estado do Paraná entre 2008 e 2018. Utilizando técnicas de análise espacial e dados do Banco Central, a pesquisa mapeia a concentração dos recursos de crédito nos municípios paranaenses, criando um Índice Regional de Crédito Rural. Os resultados revelam uma forte desigualdade na distribuição do crédito, com uma alta concentração nas regiões Oeste e Sudoeste, áreas de agricultura mais capitalizada e com forte presença do cooperativismo. O estudo conclui que, embora o Paraná seja um dos estados com maior acesso ao crédito rural no Brasil, a distribuição interna dos recursos é desigual, o que pode reforçar as disparidades de desenvolvimento entre as diferentes regiões do estado.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa faz um mapa do crédito rural no Paraná para ver para onde o dinheiro está indo. O estudo mostra que a distribuição do bolo não é nada igual. A maior parte dos financiamentos fica concentrada nas regiões Oeste e Sudoeste do estado, que são as áreas onde o agronegócio é mais forte e onde as cooperativas são mais presentes. As outras regiões, especialmente as que têm uma agricultura familiar menos capitalizada, recebem uma fatia muito menor. A conclusão é que, mesmo que o Paraná seja um campeão de crédito rural no Brasil, dentro do próprio estado existe uma grande desigualdade, e o crédito, em vez de diminuir, pode estar ajudando a aumentar a diferença entre as regiões mais ricas e as mais pobres.
+
+Pontos-Chave e Achados:
+
+- O artigo utiliza a análise espacial para mapear a distribuição do crédito rural no Paraná.
+- A distribuição do crédito é espacialmente concentrada, favorecendo as regiões com agricultura mais moderna e organizada em cooperativas.
+- As regiões Oeste e Sudoeste do Paraná são os principais polos de atração de crédito rural.
+- A desigualdade na distribuição do crédito pode ser um fator que acentua as disparidades de desenvolvimento regional dentro do estado.
+
+Palavras-Chave:
+Técnicas: [Crédito rural, análise espacial, distribuição espacial, Paraná, desenvolvimento regional, geoprocessamento, econometria espacial, cooperativismo]
+
+Conceituais: [Desigualdade regional, política agrícola, acesso ao crédito, desenvolvimento econômico, cluster agrícola, geografia econômica]
+
+Linguagem Natural: [Para onde vai o crédito rural no Paraná?, Análise da distribuição de crédito no agronegócio paranaense, desigualdade regional no Paraná, o papel das cooperativas no acesso ao crédito, mapa do crédito rural no Brasil]

@@ -1,0 +1,29 @@
+ID do Artigo: 227
+Título Oficial: COMPETÊNCIAS PROFISSIONAIS E SUAS EXIGÊNCIAS NAS ORGANIZAÇÕES COOPERATIVISTAS
+Link para Download: (Adicionar depois)
+
+Resumo Sintético: Este artigo identifica e agrupa as competências profissionais priorizadas por organizações cooperativistas para a contratação de profissionais de gestão. Utilizando levantamento de formulários de inscrição e análise de cluster, a pesquisa revela que competências de caráter social são amplamente requisitadas. Há uma compensação entre formação profissional específica (em cooperativismo) e experiência profissional. O estudo conclui que as competências demandadas por cooperativas diferem dos padrões do mercado de trabalho convencional, exigindo uma formação diferenciada que combine conhecimento técnico, habilidades sociais e comportamentais, e experiência prática.
+
+Expansão Semântica:
+Descrição Expandida em Linguagem Natural: Este artigo investiga quais habilidades e conhecimentos as cooperativas buscam em seus profissionais de gestão. A pesquisa analisou anúncios de vagas e formulários de contratação para entender o perfil ideal. Os resultados mostram que, além da formação acadêmica e da experiência, as cooperativas valorizam muito as competências sociais, como a capacidade de trabalhar em equipe, a comunicação e o dinamismo. O estudo também aponta que ter uma formação específica em cooperativismo ou experiência prévia no setor é um grande diferencial. Em resumo, o artigo sugere que o mercado de trabalho cooperativista tem exigências únicas, que vão além do que é tradicionalmente valorizado em outras empresas, e que os profissionais precisam desenvolver um conjunto diversificado de competências para se destacarem nesse setor.
+Pontos-Chave e Achados Específicos:
+- O mercado de trabalho exige profissionais com competências e qualificações atualizadas.
+- Organizações cooperativistas buscam competências específicas para profissionais de gestão.
+- Metodologia: levantamento de formulários de contratação (2014-2017) e análise de cluster.
+- Agrupamento de Competências:
+    - Competências Comportamentais: iniciativa, liderança, pós-graduação, criatividade (natureza pessoal, intrínsecas).
+    - Competências Técnico-Profissionais: CNH, disponibilidade para viagens, superior em cooperativismo, experiências (compensação entre formação e experiência).
+    - Competências Sociais: trabalho em equipe, dinamismo, facilidade de comunicação (essenciais para o sistema cooperativista).
+    - Competências Técnicas Fundamentais: ensino superior, experiência em cooperativismo, Pacote Office (requisitos básicos).
+- Competências sociais são amplamente requisitadas.
+- Há uma compensação entre formação específica em cooperativismo e experiência profissional.
+- A CNH e a disponibilidade para viagens são importantes devido à atuação em áreas rurais.
+- O sistema cooperativista oferece vagas em diversos estados, com destaque para o Sudeste (São Paulo).
+- Cargos de "coordenador" e "instrutor" possuem os maiores salários.
+- As competências demandadas por cooperativas diferem dos padrões do mercado de trabalho convencional.
+- A formação em cooperativismo é uma forma de qualificar formalmente para o segmento.
+
+Palavras-Chave:
+Termos Técnicos: Competências Profissionais, Organizações Cooperativistas, Mercado de Trabalho, Análise de Cluster, Competências Comportamentais, Competências Técnico-Profissionais, Competências Sociais, Competências Técnicas Fundamentais, CNH, Pós-Graduação, SESCOOP, OCB, UNISOL, UNICAFES.
+Termos Conceituais: Qualificação Profissional, Empregabilidade, Liderança, Trabalho em Equipe, Comunicação, Dinamismo, Iniciativa, Criatividade, Experiência Profissional, Formação Acadêmica, Cultura Organizacional.
+Termos em Linguagem Natural (Sinônimos e Perguntas): Quais habilidades cooperativas buscam? Como se preparar para trabalhar em cooperativas? O que é importante para ser um gestor em cooperativas? Perfil profissional em cooperativismo, exigências do mercado cooperativista, como desenvolver competências para cooperativas.

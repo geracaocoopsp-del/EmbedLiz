@@ -1,0 +1,26 @@
+ID do Artigo: 50
+Título Oficial:
+ALIMENTAÇÃO E DESEMPENHO ESCOLAR: UMA AVALIAÇÃO DA INFLUÊNCIA DO PRONAF SOBRE OS RESULTADOS DO IDEB
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo investiga a relação indireta entre o Programa Nacional de Fortalecimento da Agricultura Familiar (Pronaf) e o desempenho escolar dos alunos, medido pelo IDEB. A pesquisa parte da hipótese de que municípios com maior acesso ao Pronaf possuem uma agricultura familiar mais forte, o que, por sua vez, pode levar a uma melhor qualidade da alimentação escolar via PNAE, impactando positivamente a saúde e o desempenho dos estudantes. Utilizando um modelo econométrico com dados municipais, os resultados sugerem uma correlação positiva, indicando que o fortalecimento da agricultura familiar, promovido pelo Pronaf, pode gerar externalidades positivas para a educação, embora a relação seja complexa e mediada por outros fatores.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa estuda uma ideia interessante: será que o Pronaf, que é um programa de crédito para pequenos agricultores, pode ajudar a melhorar as notas dos alunos na escola? A lógica é a seguinte: cidades onde os agricultores têm mais acesso ao Pronaf tendem a ter uma produção de alimentos mais forte e diversificada. Com isso, a merenda escolar (PNAE) pode ser de melhor qualidade, com mais produtos frescos e saudáveis. E, comendo melhor, os alunos aprendem mais. O estudo cruzou os dados e encontrou uma pista de que essa relação existe. Ou seja, investir no pequeno agricultor não é bom só para o campo; pode ser bom também para a educação na cidade.
+
+Pontos-Chave e Achados:
+
+- O artigo testa a hipótese de que o Pronaf tem um impacto indireto e positivo no desempenho escolar (IDEB).
+- O canal de transmissão desse impacto é a melhoria da qualidade da alimentação escolar (PNAE), viabilizada por uma agricultura familiar mais fortalecida.
+- A análise econométrica com dados municipais encontra uma correlação positiva e estatisticamente significativa entre o volume de crédito do Pronaf e as notas do IDEB.
+- O estudo destaca a importância da articulação de políticas (neste caso, agrícola e educacional) para a geração de sinergias e de impactos sociais ampliados.
+
+Palavras-Chave:
+Técnicas: [Desempenho escolar, IDEB, Pronaf, PNAE, alimentação escolar, avaliação de impacto, econometria, dados municipais, externalidades]
+
+Conceituais: [Capital humano, nutrição e cognição, articulação de políticas, desenvolvimento rural, política educacional, segurança alimentar]
+
+Linguagem Natural: [A merenda escolar melhora as notas dos alunos?, Relação entre Pronaf e IDEB, impacto da alimentação na educação, como o fortalecimento da agricultura familiar ajuda as escolas?, avaliação de impacto de políticas públicas na educação]

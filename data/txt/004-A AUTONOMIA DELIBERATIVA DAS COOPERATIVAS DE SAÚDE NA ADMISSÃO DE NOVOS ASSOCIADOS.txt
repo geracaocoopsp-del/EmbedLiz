@@ -1,0 +1,22 @@
+Identificação Básica:
+ID do Artigo: 4
+Título Oficial: A AUTONOMIA DELIBERATIVA DAS COOPERATIVAS DE SAÚDE NA ADMISSÃO DE NOVOS ASSOCIADOS
+Link para Download: (A ser adicionado)
+
+Resumo Sintético:
+Este artigo analisa o entendimento do Poder Judiciário sobre a autonomia das cooperativas de saúde para admitir novos sócios no Paraná, entre 2015 e 2017. A pesquisa, de natureza documental, investiga a jurisprudência da Seção Cível do Tribunal de Justiça do Paraná, à luz dos princípios da Adesão Voluntária e Livre e da Autonomia e Independência. O estudo conclui que as decisões judiciais são divididas: algumas favorecem o solicitante, com base na livre adesão, e outras favorecem a cooperativa, com base na sua autonomia e na legislação específica.
+
+Expansão Semântica:
+Descrição Expandida em Linguagem Natural: Este estudo investiga um conflito comum em cooperativas de saúde: a recusa em admitir novos membros e a subsequente judicialização da questão. A pesquisa analisa como o Tribunal de Justiça do Paraná tem decidido esses casos, considerando os princípios do cooperativismo. De um lado, o princípio da "porta aberta" sugere que qualquer pessoa qualificada deveria poder se associar. De outro, o princípio da autonomia garante à cooperativa o direito de se auto-organizar e tomar suas próprias decisões. O artigo explora os argumentos usados por ambos os lados e como os juízes têm interpretado a legislação para resolver esses conflitos. A pesquisa é relevante para gestores de cooperativas, advogados e profissionais de saúde que desejam entender melhor os limites da autonomia das cooperativas e os direitos dos profissionais que desejam se associar.
+
+Pontos-Chave e Achados Específicos:
+- O estudo analisou 12 casos julgados pelo Tribunal de Justiça do Paraná entre 2015 e 2017.
+- Em 6 casos, o ganho de causa foi do solicitante, e nos outros 6, da cooperativa.
+- Argumentos a favor do solicitante: a Lei 5764/71 garante a adesão livre e voluntária; o processo seletivo da cooperativa é inidôneo se o profissional já tem capacidade técnica comprovada; a recusa à admissão viola a regra da "porta aberta".
+- Argumentos a favor da cooperativa: o Poder Judiciário não deve interferir na autonomia da cooperativa; a cooperativa tem o direito de deliberar sobre a admissão de novos sócios; a impossibilidade técnica de prestação de serviços é uma justificativa válida para a recusa.
+- O artigo destaca a importância de as cooperativas terem critérios claros e objetivos para a admissão de novos sócios, a fim de evitar questionamentos judiciais.
+
+Palavras-Chave:
+Termos Técnicos: Cooperativas de Saúde, Autonomia Deliberativa, Admissão de Associados, Livre Adesão, Jurisprudência, Direito Cooperativo, Lei 5764/71.
+Termos Conceituais: Conflito de Interesses, Gestão de Cooperativas, Governança Corporativa, Princípios Cooperativistas, Poder Judiciário, Tomada de Decisão.
+Termos em Linguagem Natural: "recusa de admissão em cooperativa de saúde", "processo para entrar em cooperativa médica", "direitos de quem quer se associar a uma cooperativa", "limites da autonomia de cooperativas", "briga judicial contra cooperativa", "decisões da justiça sobre cooperativas de saúde".

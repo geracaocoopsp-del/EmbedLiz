@@ -1,0 +1,26 @@
+ID do Artigo: 38
+Título Oficial:
+AGRICULTURA FAMILIAR NO PARÁ E AS LIMITAÇÕES DO PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR (PNAE)
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo analisa as limitações e os desafios para a implementação do Programa Nacional de Alimentação Escolar (PNAE) junto à agricultura familiar no estado do Pará. A pesquisa investiga os principais gargalos que dificultam a execução da lei que obriga a compra de, no mínimo, 30% da merenda escolar de produtores locais. Os resultados apontam que, no contexto amazônico, os desafios são amplificados: a logística de transporte é extremamente complexa, a organização dos agricultores em cooperativas ainda é frágil e a capacidade de gestão das prefeituras é baixa. O estudo conclui que, para que o PNAE funcione efetivamente no Pará, são necessárias políticas complementares de fortalecimento do cooperativismo, de melhoria da infraestrutura e de capacitação dos gestores públicos.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa estuda por que é tão difícil fazer o programa da merenda escolar (PNAE) funcionar direito no Pará. O estudo mostra que os problemas, que já existem no resto do Brasil, na Amazônia são muito maiores. As distâncias são gigantescas, o que torna o transporte da comida um pesadelo. Os pequenos agricultores têm dificuldade para se organizar em cooperativas para conseguir entregar os produtos. E, para piorar, muitas prefeituras não têm gente preparada para lidar com a burocracia da compra. A conclusão é que, para que a comida do pequeno produtor do Pará chegue de verdade na merenda das crianças, não basta só a lei; é preciso um grande investimento para ajudar os agricultores a se organizarem, para melhorar as estradas e os barcos, e para treinar o pessoal das prefeituras.
+
+Pontos-Chave e Achados:
+
+- O artigo analisa os desafios específicos da implementação do PNAE no contexto amazônico do Pará.
+- A logística de coleta e distribuição de alimentos perecíveis em grandes distâncias é o principal gargalo operacional.
+- A baixa capacidade organizacional da agricultura familiar, com um cooperativismo ainda incipiente, dificulta a organização da oferta.
+- A baixa capacidade institucional das prefeituras para a realização das chamadas públicas e a gestão dos contratos é uma barreira crítica.
+
+Palavras-Chave:
+Técnicas: [PNAE, agricultura familiar, Pará, Amazônia, implementação de políticas, desafios logísticos, mercados institucionais, cooperativismo]
+
+Conceituais: [Capacidade estatal, governança, logística amazônica, desenvolvimento rural, política de alimentação escolar, circuitos curtos]
+
+Linguagem Natural: [Quais os desafios do PNAE na Amazônia?, Dificuldades da agricultura familiar no Pará, logística de alimentos na Amazônia, por que é difícil comprar para a merenda escolar no Pará?, gestão de políticas públicas em municípios amazônicos]

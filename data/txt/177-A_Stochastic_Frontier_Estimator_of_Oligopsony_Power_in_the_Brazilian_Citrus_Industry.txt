@@ -1,0 +1,27 @@
+**Identificação Básica:**
+*   **ID do Artigo:** 177
+*   **Título Oficial:** A STOCHASTIC FRONTIER ESTIMATOR OF OLIGOPSONY POWER IN THE BRAZILIAN CITRUS INDUSTRY
+*   **Link para Download:** (Será adicionado posteriormente)
+
+**Resumo Sintético (O núcleo):**
+Este artigo utiliza um modelo econométrico avançado (Fronteira Estocástica) para medir o poder de mercado das indústrias de suco de laranja (compradores) sobre os citricultores (vendedores) no Brasil. A tese central é que a indústria citrícola brasileira, altamente concentrada, exerce um significativo poder de oligopsônio. Isso significa que as poucas grandes empresas compradoras conseguem pagar aos produtores um preço pela laranja que é inferior ao que seria pago em um mercado competitivo, transferindo renda dos agricultores para a indústria.
+
+**Expansão Semântica:**
+
+*   **Descrição Expandida em Linguagem Natural:**
+    *   O estudo usa uma técnica estatística complexa para investigar se as grandes indústrias de suco de laranja no Brasil (como Cutrale, Citrosuco) se aproveitam de sua posição dominante para pagar um preço injusto pela laranja dos agricultores.
+    *   Explica o conceito de "oligopsônio": uma situação de mercado onde existem muitos vendedores (os citricultores) e poucos compradores (as indústrias). Nesse cenário, quem manda no preço são os compradores.
+    *   A pesquisa busca medir o tamanho desse "poder de mercado", ou seja, o quanto o preço pago pela laranja é menor do que deveria ser se houvesse uma concorrência justa entre as indústrias para comprar a fruta.
+    *   Os resultados confirmam que as indústrias de fato têm um poder considerável, o que significa que uma parte da riqueza que deveria ser do produtor acaba ficando com a indústria processadora.
+
+*   **Pontos-Chave e Achados Específicos:**
+    *   **Base Teórica:** O artigo se baseia na teoria da Organização Industrial, especificamente nos modelos de poder de mercado e oligopsônio.
+    *   **Metodologia:** A principal inovação é o uso de um modelo de Fronteira de Produção Estocástica para estimar o poder de oligopsônio. Essa abordagem permite medir o desvio do preço pago em relação ao custo marginal do insumo (a laranja), que seria o preço de equilíbrio em um mercado competitivo.
+    *   **Oligopsônio:** O mercado de laranja para processamento no Brasil é um exemplo clássico de oligopsônio, com poucas grandes empresas processadoras (compradoras) e milhares de citricultores (vendedores).
+    *   **Resultados:** A análise econométrica encontra evidências estatisticamente significativas da existência de poder de oligopsônio. O modelo consegue quantificar o "markdown" do preço, ou seja, a porcentagem que o preço pago está abaixo do valor competitivo.
+    *   **Conclusão Principal:** A estrutura de mercado da indústria citrícola brasileira permite que as processadoras exerçam poder de mercado sobre os produtores, resultando em preços mais baixos para a matéria-prima. Isso tem implicações diretas para a distribuição de renda ao longo da cadeia produtiva e para a viabilidade econômica dos citricultores, especialmente os de menor porte.
+
+*   **Palavras-Chave (O "Mapa" para a IA):**
+    *   **Termos Técnicos:** Oligopsônio, Poder de Mercado, Fronteira Estocástica, Indústria de Citros, Cadeia Produtiva da Laranja, Econometria, Organização Industrial, Markdown de Preço.
+    *   **Termos Conceituais:** Concentração de Mercado, Concorrência Imperfeita, Relação Produtor-Indústria, Formação de Preços, Análise da Cadeia de Valor.
+    *   **Termos em Linguagem Natural (Sinônimos e Perguntas):** "poder das indústrias de suco de laranja", "preço da laranja para a indústria", "quem define o preço da laranja?", "exploração de citricultores", "mercado de suco de laranja no Brasil", "poucos compradores e muitos vendedores", "concorrência entre indústrias de suco", "análise do mercado de citros", "lucro na cadeia da laranja".

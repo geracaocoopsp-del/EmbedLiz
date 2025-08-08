@@ -1,0 +1,26 @@
+ID do Artigo: 585
+Título Oficial:
+O ESTADO DA ARTE DO COOPERATIVISMO MINERAL: UMA REVISÃO SISTEMÁTICA DA LITERATURA MUNDIAL
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo apresenta uma revisão sistemática da literatura mundial sobre o cooperativismo no setor mineral. A pesquisa mapeia a produção científica existente para caracterizar o estado da arte da pesquisa sobre cooperativas de garimpeiros e pequenos mineradores, identificando os principais temas estudados, os desafios e as potencialidades desse modelo. Os resultados mostram que o cooperativismo mineral surge frequentemente como uma resposta à informalidade e à precarização do trabalho no garimpo, mas enfrenta enormes desafios de gestão, acesso a tecnologia, regularização ambiental e conflitos com grandes mineradoras, sendo um campo ainda pouco explorado pela academia.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa faz um grande pente-fino em tudo o que já foi publicado no mundo sobre cooperativas de garimpeiros. O objetivo é entender o que a ciência já sabe sobre esse tipo de cooperativismo e o que ainda falta estudar. A conclusão é que, na maioria das vezes, os garimpeiros se juntam em cooperativas para tentar sair da ilegalidade e melhorar suas condições de trabalho. No entanto, a vida dessas cooperativas é muito difícil: elas sofrem com a falta de máquinas modernas, com a dificuldade de conseguir as licenças ambientais e com a briga por espaço com as grandes empresas de mineração. O estudo também mostra que esse é um assunto sobre o qual os pesquisadores ainda sabem muito pouco.
+
+Pontos-Chave e Achados:
+
+- A literatura sobre cooperativismo mineral é escassa em comparação com outros ramos do cooperativismo, como o agropecuário e o de crédito.
+- O cooperativismo mineral é frequentemente associado à mineração de pequena escala e ao garimpo, sendo um instrumento de formalização da atividade.
+- Os principais desafios apontados pela literatura são a governança interna, a segurança do trabalho, o acesso a capital e tecnologia, e a conformidade ambiental.
+- A revisão sistemática aponta para a necessidade de mais pesquisas que analisem o impacto socioeconômico e ambiental dessas cooperativas.
+
+Palavras-Chave:
+Técnicas: [Cooperativismo mineral, revisão sistemática, mineração de pequena escala, garimpo, estado da arte, análise bibliométrica]
+
+Conceituais: [Formalização, precarização do trabalho, impacto ambiental da mineração, desenvolvimento local, economia mineral, ação coletiva]
+
+Linguagem Natural: [O que são cooperativas de garimpeiros?, Desafios do cooperativismo mineral no Brasil, estudos sobre garimpo, como formalizar a atividade de garimpo?, impacto das cooperativas de mineração]

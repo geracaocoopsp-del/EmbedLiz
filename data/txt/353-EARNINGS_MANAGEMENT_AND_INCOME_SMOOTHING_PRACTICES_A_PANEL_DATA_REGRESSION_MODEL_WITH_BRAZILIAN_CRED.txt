@@ -1,0 +1,26 @@
+ID do Artigo: 353
+Título Oficial:
+EARNINGS MANAGEMENT AND INCOME SMOOTHING PRACTICES: A PANEL DATA REGRESSION MODEL WITH BRAZILIAN CREDIT UNIONS
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo investiga a ocorrência de práticas de gerenciamento de resultados e suavização de lucros (income smoothing) em cooperativas de crédito brasileiras. Utilizando um modelo de regressão com dados em painel, a pesquisa analisa as provisões para perdas com empréstimos para identificar se os gestores as utilizam de forma discricionária para manipular os resultados contábeis. Os resultados fornecem evidências da prática de suavização de lucros, indicando que as cooperativas tendem a provisionar mais nos anos de lucros altos e menos nos anos de lucros baixos, com o objetivo de apresentar um desempenho mais estável e previsível ao longo do tempo.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa investiga se as cooperativas de crédito no Brasil dão uma "maquiada" nos seus balanços para que os resultados pareçam mais estáveis do que realmente são. O estudo foca em uma conta específica, a de "provisão para devedores duvidosos" (o dinheiro que se guarda para cobrir calotes), para ver se os diretores a manipulam. A conclusão, baseada em uma análise estatística de dados de várias cooperativas, é que sim, essa prática acontece. Quando a cooperativa tem um ano muito bom, ela tende a guardar mais dinheiro nessa provisão. Quando o ano é ruim, ela guarda menos. O objetivo dessa "suavização" é apresentar um crescimento mais constante e sem grandes sustos para os cooperados e para o mercado.
+
+Pontos-Chave e Achados:
+
+- O estudo utiliza um modelo econométrico para detectar práticas de gerenciamento de resultados em cooperativas de crédito.
+- As provisões para perdas com empréstimos (loan loss provisions) são usadas como a principal variável para identificar a manipulação discricionária.
+- As evidências encontradas são consistentes com a hipótese de "income smoothing" (suavização de lucros).
+- A prática pode ter como objetivo reduzir a volatilidade dos resultados, transmitir uma imagem de estabilidade e influenciar a percepção dos cooperados e reguladores.
+
+Palavras-Chave:
+Técnicas: [Gerenciamento de resultados, suavização de lucros (income smoothing), cooperativas de crédito, dados em painel, provisões para perdas com empréstimos (PCLD), contabilidade criativa]
+
+Conceituais: [Assimetria de informação, teoria da agência, governança corporativa, contabilidade financeira, risco de crédito, regulação prudencial]
+
+Linguagem Natural: [Cooperativas de crédito manipulam resultados?, O que é suavização de lucros?, Como funciona o gerenciamento de resultados em bancos?, Análise de balanços de cooperativas, contabilidade criativa em instituições financeiras]

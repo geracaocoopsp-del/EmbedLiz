@@ -1,0 +1,26 @@
+ID do Artigo: 424
+Título Oficial:
+Execução de Compras de Produtos para Alimentação Escolar pelas Prefeituras da Região Metropolitana de Curitiba-PR
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo analisa a execução da compra de produtos da agricultura familiar para a alimentação escolar (PNAE) pelas prefeituras da Região Metropolitana de Curitiba (RMC), Paraná. A pesquisa investiga o percentual de recursos do FNDE efetivamente gasto com a agricultura familiar, os principais desafios operacionais e os arranjos institucionais utilizados. Os resultados mostram uma grande heterogeneidade no desempenho dos municípios, com alguns cumprindo a meta legal de 30% e outros muito abaixo. O estudo conclui que a efetividade do programa na RMC depende de fatores como a capacidade de gestão da prefeitura, a organização dos agricultores em cooperativas e a existência de uma articulação eficiente entre os atores da rede.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa faz um levantamento para ver se as prefeituras da Grande Curitiba estão cumprindo a lei que as obriga a comprar pelo menos 30% da comida da merenda escolar diretamente dos pequenos agricultores da região. O estudo mostra que o resultado é um "8 ou 80": algumas prefeituras são exemplo e cumprem a meta com folga, enquanto outras estão muito longe do objetivo. A conclusão é que o sucesso do programa não é automático. Ele depende de três coisas principais: uma prefeitura organizada e empenhada, agricultores que se juntam em cooperativas para conseguir entregar os produtos e uma boa conversa entre todos os envolvidos para fazer a coisa acontecer.
+
+Pontos-Chave e Achados:
+
+- A execução do PNAE na Região Metropolitana de Curitiba é desigual, com grande variação no percentual de compras da agricultura familiar entre os municípios.
+- A capacidade de gestão municipal e a organização da oferta por parte dos agricultores são os principais determinantes do sucesso do programa.
+- A atuação de cooperativas é um fator-chave para viabilizar a logística e a escala necessárias para atender às chamadas públicas.
+- Desafios como a burocracia, a adequação da oferta à demanda e a formação de preços justos ainda são barreiras importantes.
+
+Palavras-Chave:
+Técnicas: [PNAE, compras públicas, agricultura familiar, alimentação escolar, execução de políticas, estudo de caso, Região Metropolitana de Curitiba, FNDE]
+
+Conceituais: [Implementação de políticas públicas, federalismo, capacidade estatal, governança em redes, mercados institucionais, segurança alimentar]
+
+Linguagem Natural: [As prefeituras de Curitiba compram da agricultura familiar?, Desafios do PNAE na prática, como funciona a compra para a merenda escolar?, o papel das cooperativas no fornecimento da merenda, avaliação do PNAE no Paraná]

@@ -1,0 +1,27 @@
+**Síntese Otimizada para IA**
+
+**Identificação Básica:**
+*   **ID do Artigo:** 460
+*   **Título Oficial:** IMPACTOS DAS ADVERSIDADES AGROCLIMÁTICAS NA PRODUÇÃO AGROPECUÁRIA DO ESPÍRITO SANTO NO PERÍODO DE 2013 A 2017
+*   **Link para Download:** (Será adicionado posteriormente)
+
+**Resumo Sintético (O núcleo):**
+Este estudo quantifica o impacto econômico de eventos climáticos adversos, como seca e chuva excessiva, na agropecuária do Espírito Santo entre 2013 e 2017. Utilizando dados do IBGE e do Zoneamento Agrícola de Risco Climático (ZARC), a pesquisa estima que as perdas totais no valor da produção ultrapassaram R$ 4,5 bilhões no período. A seca foi o evento mais prejudicial, respondendo por 85% das perdas, afetando principalmente as culturas de café, mamão e pimenta-do-reino. O estudo conclui que a crise hídrica severa foi o principal fator de impacto negativo, destacando a vulnerabilidade do setor a eventos climáticos extremos.
+
+**Expansão Semântica:**
+*   **Descrição Expandida em Linguagem Natural:**
+    *   Este trabalho calcula o prejuízo que o clima extremo, especialmente a falta de chuva, causou na agricultura do Espírito Santo durante um período de cinco anos. Os pesquisadores juntaram dados de produção agrícola com informações sobre risco climático para chegar a um número: mais de 4,5 bilhões de reais em perdas. A seca foi a grande vilã, responsável pela maior parte desse prejuízo, prejudicando principalmente as plantações de café, mamão e pimenta. Basicamente, o estudo mostra em números o quanto a agricultura do estado é dependente do clima e o tamanho do rombo que uma crise hídrica pode causar.
+    *   A pesquisa mede o impacto financeiro de problemas climáticos (seca, chuva demais) na produção agrícola do Espírito Santo. O estudo revela que a seca, em particular, causou um prejuízo bilionário entre 2013 e 2017, afetando as principais culturas do estado. Isso demonstra a fragilidade da produção agrícola capixaba diante das mudanças climáticas e de eventos extremos, como a severa crise de falta de água ocorrida no período.
+
+*   **Pontos-Chave e Achados Específicos:**
+    *   **Impacto Econômico Total:** As perdas na agropecuária do Espírito Santo devido a adversidades climáticas somaram R$ 4,58 bilhões entre 2013 e 2017.
+    *   **Principal Causa das Perdas:** A seca foi responsável por 85,1% do prejuízo total, enquanto a chuva excessiva causou 14,9%.
+    *   **Culturas Mais Afetadas:** As três culturas que mais sofreram perdas financeiras foram café conilon, mamão e pimenta-do-reino.
+    *   **Fonte de Dados:** A análise utilizou dados da Produção Agrícola Municipal (PAM) do IBGE e laudos do Zoneamento Agrícola de Risco Climático (ZARC).
+    *   **Período Crítico:** O estudo focou no período de 2013 a 2017, que foi marcado por uma intensa crise hídrica no estado.
+    *   **Vulnerabilidade:** Os resultados ressaltam a alta vulnerabilidade da agropecuária capixaba a eventos climáticos extremos, especialmente a seca.
+
+*   **Palavras-Chave (O "Mapa" para a IA):**
+    *   **Termos Técnicos:** Adversidades agroclimáticas, Zoneamento Agrícola de Risco Climático (ZARC), valor bruto da produção, crise hídrica, perdas agrícolas, Espírito Santo.
+    *   **Termos Conceituais:** Impacto das mudanças climáticas, risco na agricultura, vulnerabilidade climática, gestão de risco agrícola, economia agrícola, seca, chuva excessiva.
+    *   **Termos em Linguagem Natural (Sinônimos e Perguntas):** "prejuízo da seca na agricultura ES", "impacto da chuva na lavoura", "perdas na produção de café por causa do clima", "crise da água no Espírito Santo e agricultura", "estudo sobre risco climático na agricultura", "como o clima afeta a economia agrícola capixaba?", "agricultura e eventos climáticos extremos".

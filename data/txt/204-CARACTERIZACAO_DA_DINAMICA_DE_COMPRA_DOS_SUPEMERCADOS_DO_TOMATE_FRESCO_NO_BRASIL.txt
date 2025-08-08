@@ -1,0 +1,26 @@
+ID do Artigo: 204
+Título Oficial:
+CARACTERIZAÇÃO DA DINÂMICA DE COMPRA DOS SUPERMERCADOS DO TOMATE FRESCO NO BRASIL
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo caracteriza a dinâmica de compra de tomate fresco pelo setor supermercadista no Brasil. A pesquisa investiga os critérios de seleção de fornecedores, as estruturas de governança nas transações e os padrões de qualidade exigidos pelos supermercados. Os resultados mostram que a relação entre supermercados e produtores de tomate é complexa, marcada por uma alta exigência de padronização, volume e regularidade na entrega. Isso favorece produtores de maior escala e tecnificados, criando barreiras significativas para a inserção de agricultores familiares nesse importante canal de comercialização.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa busca entender como os supermercados no Brasil compram tomate fresco. O estudo investiga o que é mais importante para os compradores dos supermercados na hora de escolher de quem comprar, como eles negociam os contratos e quais são os padrões de qualidade que o tomate precisa ter. A conclusão é que os supermercados são muito exigentes: eles querem um produto sempre igual, em grande quantidade e com entrega garantida o ano todo. Essas exigências acabam beneficiando os grandes produtores, que têm mais tecnologia e capacidade de produção, e tornam muito difícil para os pequenos agricultores familiares conseguirem vender seus tomates para as grandes redes.
+
+Pontos-Chave e Achados:
+
+- O setor supermercadista exige altos padrões de qualidade, uniformidade e regularidade no fornecimento de tomate fresco.
+- As relações de compra são frequentemente baseadas em contratos formais ou acordos de longo prazo, que favorecem a previsibilidade.
+- A capacidade de fornecer grandes volumes é um critério de seleção chave, o que marginaliza os pequenos produtores.
+- A dinâmica de compra dos supermercados induz a uma maior profissionalização e tecnificação na cadeia produtiva do tomate.
+
+Palavras-Chave:
+Técnicas: [Cadeia de suprimentos, tomate, supermercados, critérios de compra, estruturas de governança, padrões de qualidade, agronegócio, horticultura]
+
+Conceituais: [Poder de mercado, custos de transação, barreiras à entrada, agricultura familiar, varejo alimentar, coordenação de cadeia]
+
+Linguagem Natural: [Como os supermercados compram tomate?, Critérios de qualidade do tomate para supermercado, como vender para grandes redes de supermercados?, desafios do produtor de tomate, relação entre produtores e supermercados]

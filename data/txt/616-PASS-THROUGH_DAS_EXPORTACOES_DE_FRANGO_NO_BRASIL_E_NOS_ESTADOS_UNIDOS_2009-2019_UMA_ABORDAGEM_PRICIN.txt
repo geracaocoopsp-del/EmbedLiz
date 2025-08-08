@@ -1,0 +1,24 @@
+Identificação Básica:
+*   **ID do Artigo:** 616
+Título Oficial: PASS-THROUGH DAS EXPORTAÇÕES DE FRANGO NO BRASIL E NOS ESTADOS UNIDOS (2009-2019): UMA ABORDAGEM PRICING-TO-MARKET
+Link para Download: (Não disponível)
+
+Resumo Sintético (O núcleo):
+Este artigo investiga o repasse da taxa de câmbio (pass-through) para os preços de exportação de carne de frango do Brasil e dos Estados Unidos, sob a ótica do "Pricing-to-Market" (PTM). A análise conclui que o repasse cambial é incompleto para ambos os países, indicando que os exportadores não repassam integralmente as variações da taxa de câmbio para os preços finais, preferindo ajustar suas margens de lucro. Isso sugere que as empresas exportadoras de ambos os países detêm poder de mercado e adotam estratégias de precificação ativas no comércio internacional.
+
+Expansão Semântica (A parte crucial para a busca):
+Descrição Expandida em Linguagem Natural:
+A pesquisa analisa o que acontece com o preço do frango exportado pelo Brasil e pelos EUA quando suas moedas (o Real e o Dólar) se desvalorizam. A questão é: se o Real desvaloriza 10%, o preço em dólar para o comprador estrangeiro cai os mesmos 10%? O estudo mostra que não. Exportadores de ambos os países aproveitam a desvalorização para aumentar suas margens de lucro, ou seja, eles baixam o preço final em dólar, mas menos do que a desvalorização cambial. Essa estratégia, conhecida como "Pricing-to-Market" (precificar para o mercado), demonstra que essas empresas não são meras tomadoras de preço no mercado global; elas têm poder para ajustar seus preços de forma diferente para cada mercado, visando maximizar seus lucros.
+
+Pontos-Chave e Achados Específicos:
+- Foco: Análise do repasse cambial (exchange rate pass-through) para os preços de exportação de frango.
+- Países: Estudo comparativo entre Brasil e Estados Unidos, dois dos maiores exportadores mundiais.
+- Período: 2009 a 2019.
+- Referencial Teórico: A análise é baseada no modelo de Pricing-to-Market (PTM).
+- Achado Principal: O repasse cambial é incompleto tanto para o Brasil quanto para os EUA. Isso significa que uma variação de 1% na taxa de câmbio não se traduz em uma variação de 1% no preço em moeda estrangeira.
+- Implicação: A incompletude do repasse indica que as firmas exportadoras possuem poder de mercado, permitindo-lhes ajustar seus markups (margens de lucro) em resposta a flutuações cambiais.
+
+Palavras-Chave (O "Mapa" para a IA):
+- Termos Técnicos: Pass-Through Cambial, Pricing-to-Market (PTM), Exportação de Frango, Taxa de Câmbio, Markup, Poder de Mercado, Precificação de Exportação, Séries Temporais.
+- Termos Conceituais: Estratégia de Precificação Internacional, Competitividade Externa, Microeconomia do Comércio, Formação de Preços, Relações de Troca.
+- Termos em Linguagem Natural (Sinônimos e Perguntas): "impacto do dólar no preço do frango de exportação", "como a desvalorização do real afeta as exportações?", "estratégia de preços de exportadores de frango", "repasse da taxa de câmbio para preços", "comparação do mercado de frango Brasil x EUA", "margem de lucro na exportação de frango", "poder de mercado no agronegócio".

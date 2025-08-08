@@ -1,0 +1,24 @@
+*   **ID do Artigo:** 701
+
+**Título Oficial:** RELAÇÃO ENTRE PREÇO DO LEITE E ABATE DE VACAS LEITEIRAS EM SANTA CATARINA
+
+**Link para Download:** (Será adicionado posteriormente)
+
+**Resumo Sintético (O núcleo):**
+Este estudo analisa a relação entre as variações no preço do leite pago ao produtor e o volume de abate de vacas leiteiras no estado de Santa Catarina. A pesquisa busca identificar como as flutuações de preço influenciam a decisão dos produtores de descartar animais do rebanho, revelando a dinâmica econômica e de gestão da pecuária leiteira na região.
+
+**Expansão Semântica:**
+
+*   **Descrição Expandida em Linguagem Natural:** Este trabalho investiga como o valor que os produtores de leite recebem pelo seu produto afeta a quantidade de vacas leiteiras que são enviadas para o abate em Santa Catarina. Ele procura entender se, quando o preço do leite cai, os fazendeiros decidem abater mais vacas, e o que isso significa para a produção de leite na região. É uma análise sobre as escolhas econômicas dos pecuaristas e como elas são influenciadas pelo mercado.
+
+*   **Pontos-Chave e Achados Específicos:**
+    *   O foco é a pecuária leiteira em Santa Catarina.
+    *   A pesquisa explora a correlação entre o preço do leite e a taxa de descarte (abate) de vacas leiteiras.
+    *   Busca-se entender a influência das condições de mercado (preço do leite) nas decisões de manejo do rebanho.
+    *   A análise pode indicar estratégias de adaptação dos produtores às flutuações de preço.
+    *   Implicações para a oferta de leite e carne bovina no estado.
+
+*   **Palavras-Chave (O "Mapa" para a IA):**
+    *   **Termos Técnicos:** Pecuária Leiteira, Abate de Vacas, Preço do Leite, Santa Catarina, Descarte de Animais, Oferta e Demanda, Mercado de Leite, Mercado de Carne Bovina.
+    *   **Termos Conceituais:** Gestão de Rebanho, Economia Agrícola, Tomada de Decisão do Produtor, Flutuações de Mercado, Cadeia Produtiva do Leite, Dinâmica de Preços.
+    *   **Termos em Linguagem Natural:** "preço do leite e descarte de vacas", "quando o produtor de leite abate vaca", "impacto do preço do leite na pecuária", "gestão de gado leiteiro", "mercado de leite em Santa Catarina", "decisão de abater vacas leiteiras", "relação entre preço e produção de leite".

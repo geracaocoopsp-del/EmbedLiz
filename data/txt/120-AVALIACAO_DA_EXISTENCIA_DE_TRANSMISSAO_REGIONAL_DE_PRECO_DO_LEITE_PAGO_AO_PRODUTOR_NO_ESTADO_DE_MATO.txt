@@ -1,0 +1,29 @@
+**Identificação Básica:**
+*   **ID do Artigo:** 120
+*   **Título Oficial:** AVALIAÇÃO DA EXISTÊNCIA DE TRANSMISSÃO REGIONAL DE PREÇO DO LEITE PAGO AO PRODUTOR NO ESTADO DE MATO GROSSO
+*   **Link para Download:** (Será adicionado posteriormente)
+
+**Resumo Sintético (O núcleo):**
+Este artigo avalia a transmissão regional de preços do leite pago ao produtor em Mato Grosso, buscando entender a inter-relação entre as diferentes macrorregiões do estado. A tese central é que, embora não haja uma única região que determine o preço médio do leite em nível estadual, existe uma relação de equilíbrio de longo prazo entre os preços regionais. As regiões Norte, Oeste e Sudeste apresentam maior correlação e transmissão de preços, impulsionadas pela presença de cooperativas, indicando a possibilidade de uma política de preço único para o estado.
+
+**Expansão Semântica:**
+
+*   **Descrição Expandida em Linguagem Natural:**
+    *   O estudo investiga como o preço do leite pago aos produtores em diferentes partes de Mato Grosso se influencia mutuamente e se existe um preço "justo" para todo o estado.
+    *   Analisa se as mudanças de preço em uma região (por exemplo, no Norte) afetam os preços em outras regiões (como no Sul ou Oeste), e se essa influência é de longo prazo.
+    *   Mostra que, embora não haja uma região que "mande" no preço do leite para todo o estado, os preços em diferentes regiões se movem juntos ao longo do tempo, especialmente onde há mais cooperativas.
+    *   O artigo sugere que, por haver essa relação de longo prazo, seria possível criar uma política de preço único para o leite em Mato Grosso, o que poderia beneficiar os produtores.
+
+*   **Pontos-Chave e Achados Específicos:**
+    *   **Contexto:** A pecuária leiteira é importante para a economia de Mato Grosso, com grande número de agricultores familiares envolvidos, mas com baixa produtividade média em comparação com a média nacional.
+    *   **Metodologia:** Utiliza testes de raiz unitária (ADF e Phillips-Perron), correlação de Pearson, cointegração de Johansen e causalidade de Granger para analisar a transmissão de preços entre as sete macrorregiões de Mato Grosso (Centro-Sul, Médio-Norte, Nordeste, Noroeste, Norte, Oeste e Sudeste).
+    *   **Resultados da Cointegração:** Os testes de cointegração de Johansen indicam a existência de pelo menos um vetor de cointegração, confirmando uma relação de equilíbrio de longo prazo entre os preços regionais do leite. Isso significa que, no longo prazo, os preços tendem a se mover juntos.
+    *   **Transmissão de Preços e Correlação:** As regiões Norte, Oeste e Sudeste apresentaram maior correlação e transmissão de preços entre si. A maior intensidade dessas relações está associada à maior presença de cooperativas nessas regiões.
+    *   **Causalidade de Granger:** Os testes de causalidade de Granger mostraram relações bidirecionais e unidirecionais entre as regiões, indicando que as mudanças de preço em uma região podem influenciar as outras.
+    *   **Ausência de Preço Determinante Estadual:** Apesar da integração regional, o estudo conclui que não há uma única região que determine o preço médio pago ao produtor em nível estadual.
+    *   **Conclusão Principal:** A existência de uma relação de equilíbrio de longo prazo entre os preços regionais do leite em Mato Grosso é um indicativo importante para a possibilidade de estabelecer uma política de preço único para o estado, o que poderia trazer maior estabilidade e previsibilidade para os produtores.
+
+*   **Palavras-Chave (O "Mapa" para a IA):**
+    *   **Termos Técnicos:** Transmissão de Preços, Preço do Leite, Mato Grosso, Cointegração, Causalidade de Granger, Séries Temporais, Preço Único, Pecuária Leiteira, Mercados Agrícolas.
+    *   **Termos Conceituais:** Integração de Mercado, Formação de Preços, Política Agrícola, Desenvolvimento Regional, Agricultura Familiar, Economia do Leite.
+    *   **Termos em Linguagem Natural (Sinônimos e Perguntas):** "preço do leite em Mato Grosso", "como o preço do leite é formado?", "influência das cooperativas no preço do leite", "política de preço único para o leite", "mercado de leite no Brasil", "preço do leite para o produtor", "estabilidade de preços do leite", "regiões produtoras de leite em MT".

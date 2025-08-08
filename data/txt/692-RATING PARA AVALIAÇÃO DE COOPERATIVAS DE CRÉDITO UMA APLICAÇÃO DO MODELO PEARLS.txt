@@ -1,0 +1,22 @@
+Identificação Básica:
+ID do Artigo: 692
+Título Oficial: RATING PARA AVALIAÇÃO DE COOPERATIVAS DE CRÉDITO: UMA APLICAÇÃO DO MODELO PEARLS
+Link para Download: (A ser adicionado)
+
+Resumo Sintético:
+O artigo propõe um modelo de rating para avaliação de cooperativas de crédito, utilizando o modelo PEARLS. A pesquisa, de natureza exploratória e descritiva, utilizou dados de 263 cooperativas de crédito brasileiras e aplicou regressão logística multinomial. Os resultados indicam que o modelo PEARLS é eficaz para estimar o risco de crédito e classificar as cooperativas em diferentes níveis de risco, contribuindo para a gestão e a tomada de decisão. O estudo destaca a importância de uma avaliação de risco robusta para a sustentabilidade e a credibilidade do setor cooperativista.
+
+Expansão Semântica:
+Descrição Expandida em Linguagem Natural: Este estudo desenvolve uma ferramenta para avaliar o risco de cooperativas de crédito, como se fosse uma nota de crédito para empresas. A pesquisa usa um modelo chamado PEARLS, que analisa vários indicadores financeiros, para classificar as cooperativas em diferentes níveis de risco. O artigo mostra que essa ferramenta pode ajudar as cooperativas a identificar e gerenciar seus riscos, e também pode ser útil para reguladores e investidores. A pesquisa é relevante para gestores de cooperativas de crédito, analistas financeiros e pesquisadores interessados em gestão de riscos e desempenho financeiro.
+
+Pontos-Chave e Achados Específicos:
+- O modelo PEARLS é composto por 5 pilares: Protection (Proteção), Effective Financial Structure (Estrutura Financeira Efetiva), Asset Quality (Qualidade dos Ativos), Rates of Return and Costs (Taxas de Retorno e Custos) e Liquidity (Liquidez).
+- A pesquisa utilizou dados de 263 cooperativas de crédito brasileiras.
+- O modelo PEARLS é eficaz para estimar o risco de crédito e classificar as cooperativas em diferentes níveis de risco.
+- O estudo destaca a importância de uma avaliação de risco robusta para a sustentabilidade e a credibilidade do setor cooperativista.
+- A pesquisa sugere que o modelo de rating pode ser uma ferramenta para a tomada de decisão e a gestão de riscos.
+
+Palavras-Chave:
+Termos Técnicos: Rating, Cooperativas de Crédito, Modelo PEARLS, Risco de Crédito, Regressão Logística Multinomial, Desempenho Financeiro.
+Termos Conceituais: Avaliação de Risco, Gestão de Riscos, Sustentabilidade Financeira, Credibilidade, Sistema Financeiro Nacional, Indicadores Financeiros.
+Termos em Linguagem Natural: "como avaliar cooperativas de crédito", "risco em cooperativas financeiras", "modelo PEARLS para cooperativas", "gestão de riscos em cooperativas", "rating de cooperativas de crédito", "saúde financeira de cooperativas".

@@ -1,0 +1,23 @@
+ID do Artigo: 129
+Título Oficial: AVALIAÇÃO DO RELACIONAMENTO ENTRE COOPERATIVA E COOPERADOS: UMA APLICAÇÃO DA ESCALA SERVQUAL
+Link para Download: (Adicionar depois)
+
+Resumo Sintético: Este artigo demonstra a aplicabilidade da Escala Servqual para avaliar a qualidade dos serviços em uma cooperativa de crédito (SICOOB CrediAlfa), considerando unidades em diferentes municípios. A pesquisa, que utilizou uma adaptação da Escala Servqual com 442 associados, revelou que a maioria dos cooperados está satisfeita com o atendimento e pretende manter sua conta na cooperativa. No entanto, identificou oportunidades de melhoria em áreas como caixas eletrônicos, taxas de juros, lentidão no atendimento e comunicação, além da necessidade de desenvolver parcerias e projetos sociais.
+
+Expansão Semântica:
+Descrição Expandida em Linguagem Natural: Este artigo investiga o que os membros de uma cooperativa de crédito (SICOOB CrediAlfa) pensam sobre o valor que é criado em conjunto com a cooperativa. Ele explora se a satisfação e a lealdade dos cooperados, a forma como a cooperativa é gerenciada e o horizonte de tempo dos membros (se eles pensam a curto ou longo prazo) influenciam a percepção desse valor compartilhado. O estudo busca entender quais ações da cooperativa são mais valorizadas pelos cooperados e como essas ações podem ser aprimoradas para gerar mais benefícios. Em outras palavras, o artigo analisa como a colaboração entre a cooperativa e seus membros pode criar um valor único e como a percepção desse valor é influenciada por diferentes características dos cooperados.
+Pontos-Chave e Achados Específicos:
+- O cooperativismo de crédito tem crescido vertiginosamente no Brasil.
+- A Escala Servqual é uma ferramenta aplicável para avaliar a qualidade dos serviços em cooperativas de crédito.
+- A pesquisa foi realizada com 442 associados do SICOOB CrediAlfa em três municípios de Minas Gerais.
+- A maioria dos cooperados (97,3%) pretende manter sua conta na cooperativa e a recomendaria a amigos/familiares.
+- Os funcionários receberam as notas mais elevadas de satisfação.
+- Oportunidades de melhoria incluem: caixas eletrônicos (quantidade e serviços), taxas de juros, lentidão no atendimento, comunicação com a diretoria, espaço físico e oferta de produtos/serviços (crédito, financiamentos, cartão de crédito).
+- A cooperativa precisa desenvolver parcerias e projetos sociais para atender às necessidades dos clientes e da comunidade.
+- A adaptabilidade da Escala Servqual ao contexto do cooperativismo de crédito é destacada.
+- A pesquisa sugere que a cooperativa invista em melhorias nos serviços e na comunicação para aumentar a satisfação e fidelização dos cooperados.
+
+Palavras-Chave:
+Termos Técnicos: Escala Servqual, Qualidade de Serviços, Cooperativismo de Crédito, SICOOB CrediAlfa, Satisfação do Consumidor, Fidelidade, Pesquisa de Marketing, Pesquisa Quantitativa, Amostragem Estratificada, Likert, SPSS, OCB (Organização das Cooperativas Brasileiras), Banco Central do Brasil.
+Termos Conceituais: Relacionamento Cooperativa-Cooperado, Expectativas do Cliente, Percepção da Qualidade, Atendimento, Transparência, Confiança, Autogestão, Melhoria Contínua, Engajamento do Associado, Desenvolvimento Local.
+Termos em Linguagem Natural (Sinônimos e Perguntas): Como cooperativas de crédito avaliam a satisfação do cliente? O que é a Escala Servqual? Como melhorar o atendimento em cooperativas? Satisfação dos cooperados com serviços financeiros, como cooperativas podem reter seus membros, desafios do relacionamento com o cliente em cooperativas, como cooperativas podem oferecer melhores serviços.

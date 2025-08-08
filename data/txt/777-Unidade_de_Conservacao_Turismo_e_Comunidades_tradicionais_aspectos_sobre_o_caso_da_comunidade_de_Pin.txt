@@ -1,0 +1,26 @@
+ID do Artigo: 777
+Título Oficial:
+Unidade de Conservação, Turismo e Comunidades tradicionais: aspectos sobre o caso da comunidade de Pinhões
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo analisa a complexa relação entre a criação de uma Unidade de Conservação (UC), o desenvolvimento do turismo e os impactos sobre uma comunidade tradicional, a partir do estudo de caso da comunidade de Pinhões. A pesquisa investiga como a imposição de regras de conservação pela UC afetou os modos de vida tradicionais e como o turismo, que surgiu como uma alternativa econômica, tem gerado tanto oportunidades quanto novos conflitos. Os resultados mostram uma relação tensa, onde a comunidade busca se inserir no turismo para gerar renda, mas ao mesmo tempo luta para manter sua identidade e ter maior controle sobre o desenvolvimento da atividade em seu território. O estudo conclui que, para que a relação entre conservação e turismo seja justa, é fundamental a construção de uma governança participativa, que inclua as comunidades tradicionais como protagonistas, e não como meros coadjuvantes.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa estuda o que aconteceu com uma comunidade tradicional depois que o governo criou um parque nacional em cima da terra onde eles sempre viveram. O estudo mostra que a vida da comunidade virou de cabeça para baixo. As regras do parque proibiram muitas de suas atividades tradicionais. Aí, o turismo apareceu como uma "solução" para gerar renda. O problema é que o turismo também trouxe um monte de conflitos. A conclusão é que não adianta criar um parque para "proteger a natureza" e esquecer das pessoas que vivem lá. Para a coisa dar certo, a comunidade tem que ser chamada para conversar e para decidir junto como o parque e o turismo vão funcionar, para que eles sejam os donos do seu próprio destino, e não apenas uma "atração" para os turistas.
+
+Pontos-Chave e Achados:
+
+- O artigo analisa o conflito socioambiental gerado pela sobreposição de uma Unidade de Conservação sobre um território de comunidade tradicional.
+- O turismo emerge como uma atividade econômica ambivalente, que gera renda, mas também pode aprofundar as desigualdades e os conflitos.
+- A falta de participação da comunidade na gestão da UC e do turismo é a principal fonte de conflito.
+- O estudo de caso ilustra o desafio de conciliar os objetivos de conservação da biodiversidade com os de justiça social e de respeito aos modos de vida tradicionais.
+
+Palavras-Chave:
+Técnicas: [Unidade de Conservação (UC), turismo, comunidades tradicionais, conflitos socioambientais, estudo de caso, governança participativa, ecoturismo]
+
+Conceituais: [Justiça ambiental, conservação da natureza, participação social, desterritorialização, modos de vida, ecologia política]
+
+Linguagem Natural: [Qual o impacto da criação de parques nacionais em comunidades tradicionais?, Conflitos entre turismo e comunidades locais, o desafio de conciliar conservação e desenvolvimento, estudo de caso sobre Unidades de Conservação, governança participativa em áreas protegidas]

@@ -1,0 +1,22 @@
+Identificação Básica:
+ID do Artigo: 186
+Título Oficial: Análise da Percepção dos Controles Internos nas Cooperativas Agropecuárias do Rio Grande do Sul
+Link para Download: (A ser adicionado)
+
+Resumo Sintético:
+O artigo analisa a percepção dos profissionais dos níveis estratégico e operacional sobre os controles internos praticados em cooperativas agropecuárias do Rio Grande do Sul, utilizando o modelo COSO. A pesquisa, de natureza quantitativa, revelou uma estrutura regular de controles internos, mas com margem para melhorias. O estudo destaca a necessidade de fomentar o conhecimento e a importância dos controles internos nas sociedades cooperativas, especialmente no que tange à formalização de códigos de conduta e ética, e à comunicação da importância dos controles.
+
+Expansão Semântica:
+Descrição Expandida em Linguagem Natural: Este estudo investiga como os profissionais de cooperativas agrícolas no Rio Grande do Sul veem os controles internos, que são como regras e procedimentos para garantir a segurança e o bom funcionamento da cooperativa. A pesquisa usa um modelo chamado COSO para avaliar a qualidade desses controles. O artigo mostra que, embora as cooperativas tenham controles internos, ainda há espaço para melhorias, principalmente na forma como esses controles são comunicados e na formalização de regras claras de conduta. A pesquisa é importante para gestores de cooperativas que buscam melhorar a segurança e a eficiência de suas operações, e para auditores e consultores que trabalham com cooperativas.
+
+Pontos-Chave e Achados Específicos:
+- A pesquisa foi realizada com 38 profissionais de 27 cooperativas agropecuárias do Rio Grande do Sul.
+- O modelo COSO, composto por cinco componentes (ambiente de controle, avaliação de risco, atividade de controle, informação e comunicação e monitoramento), foi utilizado para analisar os controles internos.
+- Os resultados indicam que a percepção sobre a qualidade dos controles internos é regular, com oportunidades de aprimoramento.
+- A formalização de códigos de conduta e ética e a comunicação da importância dos controles são áreas que necessitam de melhoria.
+- A pesquisa aponta que a experiência no cargo e o nível de formação influenciam a percepção dos respondentes sobre os controles internos.
+
+Palavras-Chave:
+Termos Técnicos: Controles Internos, COSO, Cooperativas Agropecuárias, Governança Corporativa, Gestão de Riscos, Auditoria Interna.
+Termos Conceituais: Percepção de Profissionais, Qualidade de Controles, Formalização de Processos, Comunicação Interna, Sustentabilidade Organizacional.
+Termos em Linguagem Natural: "controles internos em cooperativas agrícolas", "gestão de riscos em cooperativas", "como melhorar a governança em cooperativas", "auditoria em cooperativas agropecuárias", "regras de cooperativas", "segurança em cooperativas".

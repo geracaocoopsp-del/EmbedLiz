@@ -1,0 +1,25 @@
+**Identificação Básica:**
+
+*   **ID do Artigo:** 766
+*   **Título Oficial:** Tradução e Controle da Estratégia em Cooperativas Agroindustriais: Proposição de um Mapa Estratégico Dinâmico
+*   **Link para Download:** (Você adicionará este campo depois)
+
+**Resumo Sintético (O núcleo):**
+
+Este artigo propõe um modelo qualitativo de mapa estratégico dinâmico para cooperativas agroindustriais, baseado nos conceitos do Balanced Scorecard (BSC) e da Dinâmica de Sistemas. O modelo, validado por meio de um estudo de caso em uma grande cooperativa paranaense, busca traduzir e controlar a estratégia considerando as particularidades dessas organizações, como a necessidade de conciliar os interesses, nem sempre convergentes, da cooperativa e de seus cooperados. O mapa estratégico dinâmico resultante é uma ferramenta de gestão que visa auxiliar no processo decisório e na busca pelo equilíbrio entre os objetivos da cooperativa e dos cooperados.
+
+**Expansão Semântica (A parte crucial para a busca):**
+
+*   **Descrição Expandida em Linguagem Natural:** O estudo cria um "mapa do sucesso" para cooperativas agroindustriais. Esse mapa, chamado de "mapa estratégico dinâmico", ajuda a visualizar como as diferentes partes da cooperativa (financeiro, clientes, processos internos e aprendizado) se conectam e se influenciam. O grande diferencial desse mapa é que ele leva em conta a complexidade das cooperativas, onde os donos são também os fornecedores, e nem sempre o que é bom para a cooperativa é bom para o cooperado, e vice-versa. O mapa ajuda a entender essas tensões e a encontrar um caminho para que todos saiam ganhando.
+
+*   **Pontos-Chave e Achados Específicos:**
+    *   O modelo proposto combina o Balanced Scorecard (BSC) com a Dinâmica de Sistemas.
+    *   O mapa estratégico dinâmico é uma ferramenta qualitativa para a gestão estratégica de cooperativas agroindustriais.
+    *   O modelo considera a dualidade da natureza das cooperativas (associação de pessoas e empresa).
+    *   O mapa é composto por circuitos de feedback de reforço e de equilíbrio, que representam as relações de causa e efeito entre as variáveis.
+    *   O modelo foi validado por especialistas e por um estudo de caso em uma grande cooperativa agroindustrial.
+
+*   **Palavras-Chave (O "Mapa" para a IA):**
+    *   **Termos Técnicos:** Cooperativas Agroindustriais, Gestão Estratégica, Mapa Estratégico Dinâmico, Balanced Scorecard (BSC), Dinâmica de Sistemas, Estudo de Caso.
+    *   **Termos Conceituais:** Controle Estratégico, Alinhamento Estratégico, Dualidade Cooperativa, Complexidade, Pensamento Sistêmico, Modelagem Qualitativa.
+    *   **Termos em Linguagem Natural (Sinônimos e Perguntas):** "como fazer um planejamento estratégico para cooperativas?", "mapa estratégico para o agronegócio", "equilibrar interesses em cooperativas", "gestão de cooperativas agroindustriais", "o que é um mapa estratégico dinâmico?", "pensamento sistêmico na prática".

@@ -1,0 +1,25 @@
+ID do Artigo: 783
+
+**Título Oficial:** VIABILIDADE FINANCEIRA PARA A IMPLANTAÇÃO DE UM VIVEIRO DE MUDAS DE TECA EM MOGI DAS CRUZES-SP
+
+**Link para Download:** (Será adicionado posteriormente)
+
+**Resumo Sintético (O núcleo):**
+Este artigo avalia a viabilidade financeira da implantação de um viveiro de mudas de Teca (Tectona grandis L.f.) no município de Mogi das Cruzes, São Paulo. O estudo utiliza indicadores econômicos como VPL (Valor Presente Líquido), TIR (Taxa Interna de Retorno) e B/C (Benefício/Custo) para determinar a atratividade do investimento, considerando os custos de produção e as receitas esperadas.
+
+**Expansão Semântica:**
+
+*   **Descrição Expandida em Linguagem Natural:** Este trabalho investiga se vale a pena, do ponto de vista financeiro, montar um viveiro para produzir mudas de Teca na cidade de Mogi das Cruzes, em São Paulo. Ele calcula se o dinheiro investido trará um bom retorno, usando ferramentas como o Valor Presente Líquido, a Taxa Interna de Retorno e a relação Benefício/Custo. A análise considera todos os gastos para produzir as mudas e o dinheiro que se espera ganhar com a venda delas, ajudando a decidir se esse tipo de negócio é um bom investimento.
+
+*   **Pontos-Chave e Achados Específicos:**
+    *   O estudo foca na viabilidade financeira de um viveiro de mudas de Teca.
+    *   A localização do viveiro é Mogi das Cruzes, São Paulo.
+    *   Utiliza indicadores econômicos como VPL, TIR e B/C para a análise.
+    *   Considera os custos de produção e as receitas esperadas na avaliação.
+    *   A Teca é uma madeira nobre, o que pode indicar um mercado promissor.
+    *   O estudo pode ser útil para investidores e empreendedores interessados em silvicultura.
+
+*   **Palavras-Chave (O "Mapa" para a IA):**
+    *   **Termos Técnicos:** Viabilidade Financeira, Viveiro de Mudas, Teca (Tectona grandis L.f.), VPL (Valor Presente Líquido), TIR (Taxa Interna de Retorno), B/C (Benefício/Custo), Análise de Investimento, Silvicultura, Custos de Produção, Receita.
+    *   **Termos Conceituais:** Economia Florestal, Agronegócio, Gestão de Projetos, Análise de Mercado, Sustentabilidade, Madeira Nobre.
+    *   **Termos em Linguagem Natural:** "investir em viveiro de teca", "lucratividade viveiro de mudas", "plantio de teca é rentável", "custo para produzir mudas de teca", "negócio de madeira nobre", "análise financeira de projeto florestal", "viveiro de árvores em Mogi das Cruzes".

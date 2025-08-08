@@ -1,0 +1,26 @@
+ID do Artigo: 700
+Título Oficial:
+RELAÇÃO ENTRE COOPERATIVAS AGRÍCOLAS E O PRODUTO INTERNO BRUTO AGROPECUÁRIO DOS MUNICÍPIOS CATARINENSES
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo investiga a relação entre a presença e a força das cooperativas agrícolas e o desempenho do Produto Interno Bruto (PIB) agropecuário nos municípios de Santa Catarina. Utilizando um modelo de regressão com dados municipais, a pesquisa testa a hipótese de que municípios com um setor cooperativo mais desenvolvido apresentam um PIB agropecuário maior. Os resultados confirmam uma correlação positiva e estatisticamente significativa, indicando que as cooperativas são um importante motor do desenvolvimento agrícola local. Elas contribuem para o aumento da produção, da produtividade e da renda, demonstrando seu papel como um vetor de crescimento econômico para os municípios catarinenses.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa busca provar com números uma coisa que muita gente já suspeita: cidades com cooperativas agrícolas fortes são mais ricas no campo. O estudo pegou os dados de todos os municípios de Santa Catarina e cruzou a força das cooperativas de cada um com o tamanho do seu "PIB do agronegócio". A conclusão, baseada em análise estatística, é que a relação é direta: quanto mais forte o cooperativismo, maior a riqueza gerada pela agricultura no município. Isso mostra que as cooperativas não são apenas um negócio para os seus membros, mas funcionam como um verdadeiro motor que puxa para cima toda a economia agrícola da região.
+
+Pontos-Chave e Achados:
+
+- O estudo encontra uma correlação positiva e significativa entre a presença de cooperativas agrícolas e o PIB agropecuário municipal em Santa Catarina.
+- As cooperativas impactam o PIB ao organizar a produção, facilitar o acesso a mercados, promover a adoção de tecnologias e agregar valor.
+- O modelo cooperativista é apresentado como um arranjo institucional que gera externalidades positivas para toda a economia local, para além de seus membros.
+- Os resultados reforçam a importância do cooperativismo como uma estratégia de desenvolvimento econômico para os territórios rurais.
+
+Palavras-Chave:
+Técnicas: [Cooperativismo agrícola, PIB agropecuário, desenvolvimento local, análise de regressão, dados municipais, Santa Catarina, impacto econômico]
+
+Conceituais: [Desenvolvimento econômico, capital social, externalidades positivas, arranjo produtivo local (APL), economia regional, agronegócio]
+
+Linguagem Natural: [As cooperativas aumentam o PIB de um município?, Relação entre cooperativismo e riqueza no campo, impacto econômico das cooperativas em Santa Catarina, o que faz o PIB agropecuário crescer?, cooperativas como motor do desenvolvimento]

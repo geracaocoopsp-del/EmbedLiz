@@ -1,0 +1,26 @@
+ID do Artigo: 662
+Título Oficial:
+PRODUTIVIDADE AGRÍCOLA NO CONTEXTO DA SEGURANÇA ALIMENTAR: UMA ANÁLISE DE EQUILÍBRIO GERAL COMPUTÁVEL
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo utiliza um modelo de Equilíbrio Geral Computável (EGC) para analisar os impactos de um aumento da produtividade agrícola sobre a segurança alimentar e a economia como um todo. A pesquisa simula um choque de produtividade na agricultura e mede seus efeitos sobre variáveis como os preços dos alimentos, o nível de emprego, a renda das famílias e o bem-estar. Os resultados mostram que o aumento da produtividade agrícola gera efeitos positivos em cascata: os preços dos alimentos caem, o que beneficia principalmente os mais pobres, a produção e as exportações aumentam, e a renda e o bem-estar geral da sociedade melhoram. O estudo conclui que o investimento em P&D para o aumento da produtividade agrícola é uma das políticas mais eficazes para promover, simultaneamente, o crescimento econômico e a segurança alimentar.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa usa um super-simulador de computador, chamado "Modelo de Equilíbrio Geral Computável", para responder a uma pergunta: o que aconteceria com o Brasil se a agricultura se tornasse ainda mais produtiva? O simulador mostra que o resultado seria um "efeito dominó" do bem. Com mais comida sendo produzida, o preço no supermercado cairia, o que ajudaria principalmente as famílias mais pobres. Com a comida mais barata, sobraria mais dinheiro para as pessoas gastarem em outras coisas, o que aqueceria a economia e geraria mais empregos. A conclusão é que investir em pesquisa para fazer a agricultura produzir mais não é bom só para o fazendeiro; é bom para todo mundo, sendo uma das melhores estratégias para fazer o país crescer e para combater a fome ao mesmo tempo.
+
+Pontos-Chave e Achados:
+
+- O artigo utiliza um modelo de EGC para simular os impactos macroeconômicos de um ganho de produtividade na agricultura.
+- O aumento da produtividade agrícola tem um efeito positivo sobre a segurança alimentar, via redução dos preços dos alimentos.
+- Os benefícios do choque de produtividade se espalham por toda a economia, aumentando o PIB e o bem-estar geral.
+- Os mais pobres são os mais beneficiados, pois gastam uma parcela maior de sua renda com alimentação.
+
+Palavras-Chave:
+Técnicas: [Produtividade agrícola, segurança alimentar, Equilíbrio Geral Computável (EGC), avaliação de impacto, política agrícola, crescimento econômico]
+
+Conceituais: [Bem-estar social, distribuição de renda, preços relativos, crescimento econômico, P&D agrícola, política de desenvolvimento]
+
+Linguagem Natural: [Como o aumento da produtividade agrícola afeta a economia?, O que é um modelo de Equilíbrio Geral Computável?, Aumento da produção de alimentos diminui a pobreza?, impacto da tecnologia no campo sobre a cidade, políticas para a segurança alimentar]

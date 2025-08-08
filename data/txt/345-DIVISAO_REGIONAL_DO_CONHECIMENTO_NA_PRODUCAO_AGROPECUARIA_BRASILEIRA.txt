@@ -1,0 +1,26 @@
+ID do Artigo: 345
+Título Oficial:
+DIVISÃO REGIONAL DO CONHECIMENTO NA PRODUÇÃO AGROPECUÁRIA BRASILEIRA
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo analisa a divisão regional do conhecimento e da tecnologia na produção agropecuária brasileira. A pesquisa investiga como o capital humano (nível de escolaridade dos produtores) e o capital tecnológico (uso de máquinas, insumos modernos, assistência técnica) estão distribuídos entre as diferentes regiões do país. Os resultados revelam uma profunda desigualdade, com uma forte concentração de conhecimento e de tecnologia nas regiões Sul e Sudeste, em contraste com a precariedade observada na maior parte do Nordeste. O estudo conclui que essa "divisão do conhecimento" é um dos principais fatores que explicam e perpetuam as desigualdades de produtividade e de renda na agricultura brasileira.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa faz um mapa para mostrar como o conhecimento e a tecnologia estão espalhados pela agricultura do Brasil. O estudo mostra que o mapa é muito desigual. De um lado, temos o Sul e o Sudeste, com agricultores com mais anos de estudo, com as melhores máquinas e com acesso fácil aos técnicos. Do outro lado, temos o Nordeste, onde a realidade é, em geral, o oposto. A conclusão é que essa má distribuição do "saber" e do "poder" tecnológico é uma das principais razões para a agricultura do Nordeste ser menos produtiva e gerar menos renda. Para diminuir a desigualdade no campo, não basta dar terra ou crédito; é preciso, antes de tudo, distribuir conhecimento.
+
+Pontos-Chave e Achados:
+
+- O artigo mapeia a desigualdade regional na distribuição de capital humano e tecnológico na agropecuária brasileira.
+- As regiões Sul e Sudeste concentram os maiores níveis de escolaridade dos produtores e os maiores índices de tecnificação.
+- A região Nordeste apresenta os indicadores mais baixos, refletindo uma estrutura agrária e um mercado de trabalho mais precários.
+- Essa divisão regional do conhecimento é um fator estrutural que ajuda a explicar as disparidades de produtividade e de desenvolvimento entre as agriculturas regionais.
+
+Palavras-Chave:
+Técnicas: [Divisão regional do conhecimento, capital humano, tecnologia agrícola, desigualdade regional, produtividade agropecuária, Censo Agropecuário]
+
+Conceituais: [Desenvolvimento desigual, heterogeneidade estrutural, economia do conhecimento, difusão de inovações, geografia econômica, desenvolvimento rural]
+
+Linguagem Natural: [Por que a agricultura do Sul é mais produtiva que a do Nordeste?, Desigualdade de tecnologia no campo brasileiro, a importância da educação para o agricultor, mapa da tecnologia na agricultura do Brasil, concentração de conhecimento no agronegócio]

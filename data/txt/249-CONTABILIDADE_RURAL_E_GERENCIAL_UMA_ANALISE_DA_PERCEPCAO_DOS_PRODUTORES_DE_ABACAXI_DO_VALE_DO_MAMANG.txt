@@ -1,0 +1,31 @@
+**Identificação Básica:**
+*   **ID do Artigo:** 249
+*   **Título Oficial:** CONTABILIDADE RURAL E GERENCIAL: UMA ANÁLISE DA PERCEPÇÃO DOS PRODUTORES DE ABACAXI DO VALE DO MAMANGUAPE SOBRE SUA APLICAÇÃO NA GESTÃO DA PRODUÇÃO
+*   **Link para Download:** (Será adicionado posteriormente)
+
+**Resumo Sintético (O núcleo):**
+Este artigo analisa a percepção dos produtores de abacaxi do Vale do Mamanguape (Paraíba) sobre a aplicação da contabilidade rural e gerencial na gestão de suas produções. A tese central é que, embora os produtores reconheçam a importância do controle de custos para a rentabilidade, a maioria não utiliza ferramentas contábeis adequadas e carece de assistência técnica especializada. Essa lacuna impede a profissionalização da gestão, a agregação de valor ao produto e a melhoria da competitividade da abacaxicultura familiar na região.
+
+**Expansão Semântica:**
+
+*   **Descrição Expandida em Linguagem Natural:**
+    *   O estudo investiga o que os produtores de abacaxi da Paraíba pensam sobre usar ferramentas de contabilidade para gerenciar suas lavouras, e se eles realmente aplicam isso no dia a dia.
+    *   Mostra que, apesar de saberem que controlar os gastos é importante para ganhar mais dinheiro, a maioria dos agricultores não usa planilhas ou sistemas para registrar suas despesas e receitas.
+    *   Aponta que a falta de conhecimento em contabilidade e a pouca ajuda técnica especializada são grandes obstáculos para que esses produtores melhorem seus negócios e vendam o abacaxi por um preço melhor.
+    *   O artigo serve como um alerta para a necessidade de capacitar os agricultores em gestão e contabilidade, e de criar cooperativas ou associações que os ajudem a organizar a produção e a comercialização.
+
+*   **Pontos-Chave e Achados Específicos:**
+    *   **Contexto:** A abacaxicultura é uma atividade importante para a agricultura familiar no Vale do Mamanguape, Paraíba, com potencial de crescimento socioeconômico.
+    *   **Percepção dos Produtores:** Os produtores reconhecem a importância do controle de custos para a rentabilidade, mas a maioria não aplica a contabilidade gerencial de forma sistemática.
+    *   **Gargalos Identificados:**
+        1.  **Baixa Adoção Tecnológica:** Pouco investimento em novas tecnologias e técnicas de manejo.
+        2.  **Falta de Assistência Contábil:** Ausência de apoio especializado em contabilidade rural.
+        3.  **Desorganização:** Falta de organização dos produtores em cooperativas ou associações.
+        4.  **Vulnerabilidade a Pragas:** A produção é suscetível a pragas como cochonilha e vassoura-de-bruxa, e a mancha chocolate, que afetam a qualidade e o rendimento.
+    *   **Oportunidades:** O estudo sugere que a criação de cooperativas, o fomento ao conhecimento contábil e a assistência técnica especializada são cruciais para a profissionalização da gestão, a agregação de valor e a melhoria da competitividade.
+    *   **Conclusão Principal:** A abacaxicultura no Vale do Mamanguape tem potencial, mas sua rentabilidade é limitada pela gestão informal e pela baixa adoção de práticas contábeis e tecnológicas. A profissionalização da gestão, com foco no controle de custos e na organização dos produtores, é essencial para o desenvolvimento sustentável da atividade.
+
+*   **Palavras-Chave (O "Mapa" para a IA):**
+    *   **Termos Técnicos:** Contabilidade Rural, Contabilidade Gerencial, Abacaxicultura, Vale do Mamanguape, Gestão da Produção, Agricultura Familiar, Custos de Produção, Rentabilidade.
+    *   **Termos Conceituais:** Profissionalização da Agricultura, Agregação de Valor, Assistência Técnica, Cooperativismo, Manejo Agrícola, Vulnerabilidade da Produção.
+    *   **Termos em Linguagem Natural (Sinônimos e Perguntas):** "como gerenciar fazenda de abacaxi", "custos na produção de abacaxi", "contabilidade para agricultores", "problemas do produtor de abacaxi", "melhorar a gestão rural", "abacaxi na Paraíba", "organização de produtores de frutas", "rentabilidade da lavoura de abacaxi".

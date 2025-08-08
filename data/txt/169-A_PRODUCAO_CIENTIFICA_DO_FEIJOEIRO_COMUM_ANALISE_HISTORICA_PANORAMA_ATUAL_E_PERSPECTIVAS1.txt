@@ -1,0 +1,26 @@
+ID do Artigo: 169
+Título Oficial:
+A PRODUÇÃO CIENTÍFICA DO FEIJOEIRO COMUM: ANÁLISE HISTÓRICA, PANORAMA ATUAL E PERSPECTIVAS
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo realiza uma análise bibliométrica da produção científica sobre o feijoeiro comum (Phaseolus vulgaris L.), mapeando sua evolução histórica, o panorama atual e as perspectivas futuras. Analisando publicações científicas, o estudo identifica as principais áreas de pesquisa, como melhoramento genético, fitopatologia e manejo agronômico, bem como as instituições e pesquisadores mais proeminentes. Os resultados demonstram um crescimento significativo da pesquisa ao longo dos anos, impulsionado pela importância econômica e social da cultura, e apontam para tendências futuras focadas em resiliência climática, qualidade nutricional e sistemas de produção sustentáveis.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa faz um mapa de todos os estudos científicos já realizados sobre o feijão comum, um alimento essencial no Brasil. O objetivo é entender como a ciência do feijão evoluiu, o que os pesquisadores estão estudando hoje e quais serão os focos no futuro. O estudo mostra que as áreas mais pesquisadas são o desenvolvimento de variedades de feijão mais produtivas e resistentes (melhoramento genético) e o combate a pragas e doenças (fitopatologia). Fica claro que a quantidade de pesquisas sobre o tema aumentou muito, refletindo a importância do feijão. Para o futuro, a tendência é que os cientistas se concentrem em criar feijões que aguentem as mudanças climáticas, que sejam mais nutritivos e que possam ser cultivados de forma mais amigável ao meio ambiente.
+
+Pontos-Chave e Achados:
+
+- A produção científica sobre o feijoeiro comum tem crescido consistentemente ao longo das décadas.
+- As áreas de melhoramento genético e fitopatologia dominam a pesquisa sobre a cultura.
+- Instituições públicas de pesquisa, como a Embrapa, são centrais para os avanços científicos do feijoeiro.
+- A pesquisa futura se concentrará cada vez mais na adaptação do feijão às mudanças climáticas e no aumento de seu valor nutricional.
+
+Palavras-Chave:
+Técnicas: [Feijoeiro comum, Phaseolus vulgaris, bibliometria, prospecção tecnológica, melhoramento genético, fitopatologia, produção científica, Embrapa]
+
+Conceituais: [Segurança alimentar, inovação agrícola, pesquisa e desenvolvimento (P&D), história da ciência, cultura alimentar, agricultura sustentável]
+
+Linguagem Natural: [Pesquisas sobre feijão, melhoramento genético do feijão, história da pesquisa agrícola no Brasil, principais doenças do feijoeiro, futuro da produção de feijão, estudos da Embrapa sobre feijão]

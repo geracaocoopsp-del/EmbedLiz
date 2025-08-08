@@ -1,0 +1,26 @@
+ID do Artigo: 242
+Título Oficial:
+CONSTRUINDO UM INDICADOR DE ACESSIBILIDADE AOS PORTOS PÚBLICOS BRASILEIROS
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo propõe uma metodologia para a construção de um indicador de acessibilidade aos principais portos públicos brasileiros. A pesquisa, utilizando técnicas de geoprocessamento, combina informações sobre a malha de transportes (rodoviária e ferroviária) e a localização da produção agrícola para criar um índice que mede a facilidade (em termos de tempo e custo) de escoamento da safra de cada município até os portos. A aplicação do indicador gera um mapa da acessibilidade logística do Brasil, que evidencia as vantagens competitivas das áreas mais próximas aos portos do Sul e Sudeste e os enormes desafios enfrentados pela produção do Centro-Oeste e do MATOPIBA, que sofrem com a distância e a precariedade da infraestrutura.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa cria um "mapa da sorte" para o agronegócio brasileiro. Esse mapa mostra, para cada cidade do Brasil, o quão fácil ou difícil é levar a sua produção até um porto para ser exportada. Para criar esse mapa, o estudo juntou as informações das estradas e ferrovias com os dados de onde a produção agrícola está. O resultado é um retrato claro da "loteria" da logística no Brasil: quem produz perto dos portos de Santos ou de Paranaguá está no céu. Já quem produz no meio do Mato Grosso ou no MATOPIBA está no inferno, penando com estradas ruins e fretes caríssimos. O mapa serve para mostrar onde o governo precisa investir em infraestrutura para que o país seja mais competitivo.
+
+Pontos-Chave e Achados:
+
+- O artigo desenvolve uma metodologia baseada em geoprocessamento para criar um indicador de acessibilidade aos portos.
+- O mapa de acessibilidade revela a grande heterogeneidade logística do território brasileiro.
+- A região do MATOPIBA e o norte de Mato Grosso são as áreas produtivas com os maiores gargalos de acessibilidade.
+- O indicador proposto é uma ferramenta de planejamento estratégico que pode ajudar a priorizar os investimentos em infraestrutura de transporte.
+
+Palavras-Chave:
+Técnicas: [Acessibilidade, logística, portos, geoprocessamento, infraestrutura de transporte, agronegócio, escoamento da produção, análise espacial]
+
+Conceituais: [Vantagem competitiva, custos de transporte, geografia econômica, planejamento de transportes, corredores de exportação, desenvolvimento regional]
+
+Linguagem Natural: [Qual a facilidade de levar a safra brasileira até os portos?, O mapa da logística do agronegócio no Brasil, os desafios do escoamento da produção no MATOPIBA, como medir a acessibilidade aos portos?, a importância da infraestrutura para a competitividade]

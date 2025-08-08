@@ -1,0 +1,26 @@
+ID do Artigo: 143
+Título Oficial:
+A COMPOSIÇÃO DAS FONTES DE RENDA DE FAMÍLIAS RURAIS LATINO-AMERICANAS
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo realiza uma análise comparativa da composição da renda de famílias rurais em diferentes países da América Latina, com o objetivo de entender a diversidade de suas fontes de rendimento. Utilizando dados de pesquisas domiciliares, o estudo investiga a importância relativa da renda agrícola, não-agrícola (como salários e empreendimentos próprios) e de transferências governamentais. Os resultados destacam a crescente relevância das atividades não-agrícolas e das políticas de transferência de renda como componentes vitais para a subsistência e bem-estar das famílias rurais, desafiando a visão tradicional de que dependem exclusivamente da produção agropecuária e evidenciando a pluriatividade como uma estratégia fundamental de sobrevivência e desenvolvimento.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa examina de onde vem o dinheiro que sustenta as famílias que vivem no campo em vários países da América Latina. Em vez de assumir que elas vivem apenas da agricultura, o estudo analisa dados de entrevistas em domicílios para ver o peso de diferentes fontes de renda: o que ganham com a lavoura e a criação de animais, o que ganham com trabalhos fora da propriedade (seja como empregado ou em um pequeno negócio) e o dinheiro que recebem de programas sociais do governo. A principal descoberta é que, para muitas dessas famílias, as atividades não-agrícolas e os benefícios sociais são tão ou mais importantes que a própria agricultura, mostrando que a diversificação de renda é uma realidade e uma necessidade para a vida no meio rural latino-americano.
+
+Pontos-Chave e Achados:
+
+- A pluriatividade (múltiplas fontes de renda) é uma característica central e crescente entre as famílias rurais na América Latina.
+- A renda não-agrícola (salários, comércio, serviços) representa uma parcela significativa e, em muitos casos, majoritária da renda total.
+- As transferências de renda de programas governamentais (como aposentadorias e bolsas) são cruciais para a redução da pobreza e da desigualdade no meio rural.
+- A dependência exclusiva da renda agrícola é cada vez mais rara, indicando uma profunda transformação nas economias rurais.
+
+Palavras-Chave:
+Técnicas: [Renda rural, pluriatividade, diversificação de renda, renda não-agrícola, transferências de renda, pesquisas domiciliares, América Latina, desenvolvimento rural]
+
+Conceituais: [Pobreza rural, desigualdade social, segurança alimentar, políticas sociais, mercado de trabalho rural, transformação agrária]
+
+Linguagem Natural: [De onde vem a renda das famílias rurais na América Latina?, Importância da renda não-agrícola no campo, O que é pluriatividade?, Como as famílias rurais sobrevivem?, Impacto de programas sociais na zona rural]

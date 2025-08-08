@@ -1,0 +1,26 @@
+ID do Artigo: 252
+Título Oficial: CONTRIBUIÇÃO DAS COOPERATIVAS AGROPECUÁRIAS PARA A GERAÇÃO DE EMPREGO EM MINAS GERAIS
+Link para Download: (Adicionar depois)
+
+Resumo Sintético: Este trabalho avalia a importância das cooperativas agropecuárias na geração de emprego em Minas Gerais, analisando dados da OCEMG de 2006 a 2015. O estudo revela que as cooperativas mineiras, embora representem uma parcela menor do total nacional, produzem resultados diferentes das brasileiras em termos de emprego. Há indícios de que se tornaram empreendimentos intensivos em mão de obra, com crescimento no número de empregados e associados. A análise estatística sugere que as cooperativas mineiras estão alocando seus recursos de forma competente, aumentando seu tamanho e contribuindo para o aumento do emprego local.
+
+Expansão Semântica:
+Descrição Expandida em Linguagem Natural: Este artigo investiga o papel das cooperativas agrícolas em Minas Gerais na criação de empregos. Ele analisa dados de quase uma década para entender como o número de funcionários e membros dessas cooperativas evoluiu. O estudo mostra que, apesar de serem uma parte menor do cenário nacional, as cooperativas mineiras têm um comportamento distinto, indicando que estão se tornando cada vez mais importantes para a geração de postos de trabalho. Além disso, a pesquisa sugere que essas cooperativas estão crescendo e utilizando seus recursos de forma eficiente, o que as torna atraentes tanto para os membros atuais quanto para os novos, e contribui para o desenvolvimento do emprego nas regiões onde atuam. Em resumo, o artigo destaca a relevância econômica e social das cooperativas agropecuárias em Minas Gerais como motores de emprego e crescimento.
+Pontos-Chave e Achados Específicos:
+- O cooperativismo se intensificou após a crise de desemprego da década de 1990.
+- As cooperativas agropecuárias desempenham um papel econômico e social importante, especialmente em Minas Gerais (9,3% do PIB do agronegócio mineiro).
+- A pesquisa utilizou dados da OCEMG de 2006 a 2015, abrangendo cooperativas agropecuárias de Minas Gerais e do Brasil.
+- Metodologia: testes de médias e análise de regressão.
+- Resultados:
+    - As cooperativas mineiras produzem, em média, resultados diferentes das cooperativas brasileiras.
+    - Há indícios de que as cooperativas agropecuárias têm se tornado empreendimentos intensivos em mão de obra.
+    - O número de empregados obteve um maior crescimento em média do que o número de associados, embora ambos tenham crescido.
+    - A razão entre ativos totais e número de empregados cresceu, indicando alocação competente de recursos.
+    - As cooperativas mineiras estão aumentando de tamanho, o que é um atrativo para associados.
+    - O número de empregados cresceu proporcionalmente mais que a população local nas cidades-sede das 20 maiores cooperativas.
+- O trabalho decente e o desenvolvimento humano são conceitos relevantes para a análise do emprego.
+
+Palavras-Chave:
+Termos Técnicos: Cooperativas Agropecuárias, Geração de Emprego, Minas Gerais, OCEMG, Análise Estatística, Teste de Médias, Análise de Regressão, Coeficiente de Determinação (R²), PIB do Agronegócio, Mercado de Trabalho, Trabalho Decente.
+Termos Conceituais: Desenvolvimento Econômico, Desenvolvimento Social, Intensivo em Mão de Obra, Alocação de Recursos, Crescimento Populacional, Sustentabilidade, Crise de Desemprego, Exclusão Social.
+Termos em Linguagem Natural (Sinônimos e Perguntas): Como as cooperativas criam empregos? Qual o impacto das cooperativas na economia de Minas Gerais? O cooperativismo gera mais empregos? Crescimento do emprego em cooperativas agrícolas, papel das cooperativas no desenvolvimento regional, como as cooperativas contribuem para o mercado de trabalho.

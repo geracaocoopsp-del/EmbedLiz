@@ -1,0 +1,22 @@
+Identificação Básica:
+ID do Artigo: 682
+Título Oficial: Processo de controle de estoque com atuação da auditoria interna em uma Fábrica de Rações de uma Cooperativa Agropecuária.
+Link para Download: (A ser adicionado)
+
+Resumo Sintético:
+O artigo analisa o processo de controle de estoque em uma Fábrica de Rações de uma Cooperativa Agropecuária, com foco na atuação da auditoria interna. A pesquisa, de natureza qualitativa e descritiva, utilizou estudo de caso e análise documental. Os resultados indicam que, apesar da existência de controles internos, há deficiências que resultam em perdas financeiras de estoque. O estudo destaca a importância da auditoria interna para identificar e mitigar riscos, otimizar a produção e reduzir custos, contribuindo para a sustentabilidade da cooperativa. O artigo sugere melhorias nos processos de controle interno e na atuação da auditoria interna.
+
+Expansão Semântica:
+Descrição Expandida em Linguagem Natural: Este estudo investiga como uma fábrica de rações de uma cooperativa agrícola controla seu estoque e como a auditoria interna ajuda a garantir que tudo esteja em ordem. A pesquisa analisa os processos de entrada e saída de materiais, a contagem de estoque e a identificação de perdas. O artigo mostra que, embora a fábrica tenha controles internos, ainda há falhas que resultam em perdas financeiras. A pesquisa é relevante para gestores de cooperativas, auditores internos e profissionais da área de logística que buscam melhorar a eficiência e a segurança dos processos de controle de estoque.
+
+Pontos-Chave e Achados Específicos:
+- O estudo de caso foi realizado em uma Fábrica de Rações de uma Cooperativa Agropecuária.
+- A pesquisa analisou o processo de controle de estoque e a atuação da auditoria interna.
+- Foram identificadas deficiências nos controles internos, como inventário anual, falta de conferência na expedição e problemas na comunicação.
+- As perdas financeiras de estoque foram significativas em 2017 (R$ 34.725,17).
+- O estudo destaca a importância da auditoria interna para identificar e mitigar riscos, otimizar a produção e reduzir custos.
+
+Palavras-Chave:
+Termos Técnicos: Controle de Estoque, Auditoria Interna, Cooperativa Agropecuária, Fábrica de Rações, Gestão de Riscos, Perdas Financeiras.
+Termos Conceituais: Eficiência Operacional, Segurança, Sustentabilidade, Processos Internos, Gestão da Produção, Logística.
+Termos em Linguagem Natural: "controle de estoque em cooperativas", "auditoria interna em cooperativas agrícolas", "perdas de estoque em fábricas de rações", "como controlar estoque em cooperativas", "gestão de estoque em agroindústria", "segurança em fábricas de rações".

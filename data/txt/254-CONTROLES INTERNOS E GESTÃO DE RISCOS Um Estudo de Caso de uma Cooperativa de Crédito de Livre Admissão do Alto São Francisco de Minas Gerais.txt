@@ -1,0 +1,22 @@
+Identificação Básica:
+ID do Artigo: 254
+Título Oficial: CONTROLES INTERNOS E GESTÃO DE RISCOS: Um Estudo de Caso de uma Cooperativa de Crédito de Livre Admissão do Alto São Francisco de Minas Gerais
+Link para Download: (A ser adicionado)
+
+Resumo Sintético:
+O artigo analisa a percepção dos profissionais de uma cooperativa de crédito de livre admissão em Minas Gerais sobre os controles internos e a gestão de riscos, utilizando a metodologia COSO. A pesquisa, de natureza exploratória e descritiva, investigou como a cooperativa lida com a segurança de seus ativos e o alcance de seus objetivos. Os resultados indicam que a cooperativa possui uma estrutura regular de controles internos, mas com margem para melhorias, especialmente na formalização de códigos de conduta e ética, e na comunicação da importância dos controles. O estudo destaca a importância da gestão de riscos para a sustentabilidade das cooperativas financeiras.
+
+Expansão Semântica:
+Descrição Expandida em Linguagem Natural: Este estudo investiga como uma cooperativa de crédito em Minas Gerais gerencia seus riscos e controles internos, que são como um conjunto de regras e procedimentos para proteger o dinheiro e os objetivos da cooperativa. A pesquisa usa um modelo chamado COSO para avaliar a qualidade desses controles. O artigo mostra que, embora a cooperativa tenha controles internos, ainda há espaço para melhorias, principalmente na forma como esses controles são comunicados e na formalização de regras claras de conduta. A pesquisa é importante para gestores de cooperativas financeiras, auditores e consultores que trabalham com gestão de riscos e controles internos.
+
+Pontos-Chave e Achados Específicos:
+- O estudo de caso foi realizado em uma cooperativa de crédito de livre admissão no Alto São Francisco de Minas Gerais.
+- A metodologia COSO, composta por cinco componentes (ambiente de controle, avaliação de risco, atividade de controle, informação e comunicação e monitoramento), foi utilizada para analisar os controles internos.
+- Os resultados indicam que a percepção sobre a qualidade dos controles internos é regular, com oportunidades de aprimoramento.
+- A formalização de códigos de conduta e ética e a comunicação da importância dos controles são áreas que necessitam de melhoria.
+- A pesquisa aponta que a experiência no cargo e o nível de formação influenciam a percepção dos respondentes sobre os controles internos.
+
+Palavras-Chave:
+Termos Técnicos: Controles Internos, Gestão de Riscos, Cooperativas de Crédito, COSO, Governança Corporativa, Auditoria Interna.
+Termos Conceituais: Eficiência Operacional, Segurança de Ativos, Sustentabilidade Financeira, Comunicação Interna, Tomada de Decisão.
+Termos em Linguagem Natural: "gestão de riscos em cooperativas financeiras", "controles internos em cooperativas de crédito", "como proteger o dinheiro da cooperativa", "auditoria em cooperativas", "regras de cooperativas financeiras", "segurança em cooperativas de crédito".

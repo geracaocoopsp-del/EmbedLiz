@@ -1,0 +1,24 @@
+ID do Artigo: 263
+Título Oficial: COOPERATIVAS AGROPECUÁRIAS E PROCESSOS SUCESSÓRIOS: UM ESTUDO DE CASO EM MINAS GERAIS
+Link para Download: (Adicionar depois)
+
+Resumo Sintético: Este estudo qualitativo e exploratório investigou as iniciativas da Cooperativa Agropecuária de Patrocínio (COOPA), em Minas Gerais, para auxiliar os processos de sucessão geracional nas propriedades de seus cooperados. Embora a COOPA não possua ações institucionalizadas focadas diretamente na sucessão, foram identificadas duas ações indiretas facilitadoras: o programa COOPAJOVEM e a concessão de bolsas de estudo. A pesquisa, baseada em entrevistas com dirigentes e colaboradores, destaca a importância dos extensionistas como elos entre a cooperativa e as famílias, e a necessidade de um ambiente social, econômico e político que gere expectativas futuras para os jovens no campo.
+
+Expansão Semântica:
+Descrição Expandida em Linguagem Natural: Este artigo analisa como uma cooperativa agrícola em Minas Gerais, a COOPA, lida com a questão da sucessão de gerações nas fazendas de seus membros. Ele explora se a cooperativa tem programas específicos para ajudar os filhos dos agricultores a assumirem os negócios da família e a permanecerem no campo. A pesquisa, feita através de conversas com a liderança e funcionários da cooperativa, mostra que, embora não haja programas diretos de sucessão, iniciativas como um grupo de jovens (COOPAJOVEM) e bolsas de estudo indiretamente contribuem para isso. O estudo também ressalta que, para os jovens quererem ficar no campo, é fundamental que haja boas condições de vida, oportunidades econômicas e acesso a tecnologias modernas. Em resumo, o artigo busca entender o papel das cooperativas na garantia da continuidade da agricultura familiar e na atração de novas gerações para o setor.
+Pontos-Chave e Achados Específicos:
+- O problema da sucessão geracional em propriedades familiares rurais é um tema relevante no Brasil.
+- As cooperativas agropecuárias podem auxiliar nesse processo, mas muitas não possuem ações institucionalizadas diretas.
+- Estudo de caso na COOPA (Cooperativa Agropecuária de Patrocínio, MG) com 13 entrevistas.
+- Ações indiretas da COOPA que auxiliam a sucessão: COOPAJOVEM (grupo de jovens) e bolsas de estudo.
+- O COOPAJOVEM visa desenvolver lideranças e aproximar jovens da cooperativa, mas tem baixa adesão e não foca diretamente na sucessão da propriedade.
+- As bolsas de estudo, embora não tenham como objetivo principal a permanência no campo, são majoritariamente para cursos ligados à agropecuária.
+- A falta de infraestrutura, rentabilidade econômica e perspectivas futuras são fatores que desmotivam os jovens a permanecerem no campo.
+- A tecnologia e a formação superior são importantes para atrair e reter os jovens no meio rural.
+- Os extensionistas são vistos como agentes importantes para incentivar os jovens e conectar a cooperativa às famílias.
+- A pesquisa sugere a necessidade de estudos mais aprofundados e ações mais específicas para a sucessão geracional em cooperativas agropecuárias.
+
+Palavras-Chave:
+Termos Técnicos: Sucessão Geracional, Cooperativismo Agropecuário, Juventude Rural, Estudo de Caso, Pesquisa Qualitativa, COOPAJOVEM, Bolsas de Estudo, Extensão Rural, OQS (Organização do Quadro Social), RH (Recursos Humanos), OCEMG/SESCOOP-MG, Dia C.
+Termos Conceituais: Agricultura Familiar, Reprodução Social, Desenvolvimento Rural, Permanência no Campo, Liderança Juvenil, Engajamento, Políticas Públicas, Multifuncionalidade, Pluriatividade, Sustentabilidade Geracional.
+Termos em Linguagem Natural (Sinônimos e Perguntas): Como garantir a sucessão nas fazendas? O que as cooperativas fazem pelos jovens do campo? Como atrair jovens para a agricultura? Desafios da juventude rural, programas para jovens agricultores, o futuro da agricultura familiar, papel das cooperativas no desenvolvimento rural.

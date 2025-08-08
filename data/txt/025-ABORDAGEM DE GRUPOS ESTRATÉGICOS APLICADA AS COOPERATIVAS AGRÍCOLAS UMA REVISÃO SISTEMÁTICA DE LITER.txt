@@ -1,0 +1,39 @@
+**Identificação Básica:**
+
+*   **ID do Artigo:** 25
+*   **Título Oficial:** ABORDAGEM DE GRUPOS ESTRATÉGICOS APLICADA AS COOPERATIVAS AGRÍCOLAS: UMA REVISÃO SISTEMÁTICA DE LITERATURA
+*   **Link para Download:** (Será adicionado posteriormente)
+
+**Resumo Sintético:**
+
+Este artigo realiza uma revisão sistemática da literatura sobre o uso da abordagem de "grupos estratégicos" em cooperativas agrícolas. A pesquisa, que analisou trabalhos de 2003 a 2022, identificou que essa abordagem tem sido utilizada para três finalidades principais: (i) análise de desempenho, (ii) geração e caracterização de grupos, e (iii) geração e caracterização de grupos para tomada de decisão. O estudo conclui que, apesar de sua utilidade, a aplicação do conceito em cooperativas ainda é limitada e sugere um maior foco na categoria de "tomada de decisão" para gerar contribuições mais práticas e reais para a gestão das cooperativas.
+
+**Expansão Semântica:**
+
+*   **Descrição Expandida em Linguagem Natural:**
+    *   O artigo faz um levantamento de como a ideia de "grupos estratégicos" tem sido usada para estudar cooperativas agrícolas. A teoria de grupos estratégicos serve para agrupar empresas com características e estratégias parecidas para entendê-las melhor. A pesquisa descobriu que os estudos usam essa teoria basicamente para três coisas: medir e comparar o desempenho das cooperativas, simplesmente criar e descrever esses grupos, ou usar a formação dos grupos para ajudar os gestores a tomar decisões. A conclusão é que a teoria é útil, mas ainda pouco explorada no cooperativismo, e que deveria ser mais usada para ajudar na tomada de decisão, o que seria mais prático e benéfico para as cooperativas.
+    *   Este trabalho é uma revisão de como a pesquisa acadêmica tem aplicado o conceito de "grupos estratégicos" ao universo das cooperativas agrícolas. A ideia é entender para que serve agrupar cooperativas com estratégias similares. A análise da literatura mostrou que essa abordagem é usada principalmente para avaliar o desempenho, para classificar e para subsidiar decisões. O artigo aponta que a literatura internacional sobre o tema é escassa e que, no Brasil, o interesse diminuiu nos últimos anos. A principal sugestão é que futuros estudos foquem mais em como a análise de grupos pode ser uma ferramenta para a tomada de decisão, gerando conhecimento mais aplicável.
+
+*   **Pontos-Chave e Achados Específicos:**
+    *   **Objetivo:** Fazer um levantamento e descrever as finalidades do uso da abordagem de grupos estratégicos aplicada a cooperativas agrícolas.
+    *   **Metodologia:** Revisão sistemática de literatura nas bases Google Scholar, Capes e Scopus, no período de 2003 a 2022.
+    *   **Finalidades Identificadas:** A abordagem de grupos estratégicos foi usada para:
+        1.  **Análise de desempenho:** Avaliar e comparar a eficiência de diferentes grupos de cooperativas.
+        2.  **Geração e caracterização de grupos:** Identificar e descrever os grupos existentes, sem necessariamente avaliar o desempenho.
+        3.  **Geração de grupos para tomada de decisão:** Usar a análise para resolver problemas práticos e subsidiar decisões internas das cooperativas.
+    *   **Lacunas na Literatura:** A produção científica sobre o tema é limitada, especialmente a nível internacional. A categoria "tomada de decisão" é a menos explorada, mas a que tem maior potencial de contribuição prática.
+    *   **Sugestão para Pesquisas Futuras:** Focar em análises que utilizem a abordagem de grupos estratégicos para gerar subsídios para a formação de redes, alianças e outras decisões estratégicas nas cooperativas.
+
+*   **Palavras-Chave:**
+    *   **Termos Técnicos:** Grupos Estratégicos, Cooperativas Agrícolas, Estratégia, Análise de Cluster, Análise de Desempenho, Tomada de Decisão, Revisão Sistemática de Literatura.
+    *   **Termos Conceituais:** Agrupamento de Cooperativas, Análise Competitiva, Estrutura da Indústria, Vantagem Competitiva, Intercooperação, Classificação de Cooperativas.
+    *   **Termos em Linguagem Natural (Sinônimos e Perguntas):**
+        *   "como agrupar cooperativas"
+        *   "análise de estratégia em cooperativas"
+        *   "grupos de empresas com estratégias parecidas"
+        *   "comparar desempenho de cooperativas"
+        *   "tomada de decisão em cooperativas agrícolas"
+        *   "estratégias de cooperação entre cooperativas"
+        *   "revisão de literatura sobre estratégia"
+        *   "como classificar cooperativas"
+        *   "ferramentas para análise de cooperativas"

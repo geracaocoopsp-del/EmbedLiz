@@ -1,0 +1,26 @@
+ID do Artigo: 465
+Título Oficial:
+IMPACTOS ECONÔMICOS E AMBIENTAIS ex-ante DA ADOÇÃO DA CULTIVAR DE CANA-DE-AÇÚCAR BRS3280BtRR NO CENTRO-SUL DO BRASIL
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo realiza uma avaliação de impacto ex ante (prévia) dos potenciais efeitos econômicos e ambientais da adoção da cultivar de cana-de-açúcar transgênica BRS3280BtRR, resistente à broca-da-cana e tolerante a herbicidas. A pesquisa estima os benefícios em diferentes cenários de adoção, calculando o ganho de produtividade (pela redução de perdas) e a redução no uso de inseticidas. Os resultados indicam um potencial de impacto econômico agregado altamente positivo para o setor sucroenergético do Centro-Sul, além de benefícios ambientais significativos pela diminuição da aplicação de agrotóxicos, demonstrando o valor da biotecnologia para a intensificação sustentável da canavicultura.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa faz uma "previsão do futuro" para calcular os benefícios que uma nova variedade de cana transgênica, que é resistente à principal praga da cultura (a broca) e também a herbicidas, pode trazer para o Brasil. O estudo estima o quanto os produtores economizariam em inseticida e o quanto deixariam de perder em produtividade se adotassem essa nova tecnologia. A conclusão é que os ganhos seriam enormes, tanto para o bolso do produtor, que gastaria menos e colheria mais, quanto para o meio ambiente, que receberia uma carga menor de veneno. O estudo serve para mostrar, com números, como a biotecnologia pode ajudar a agricultura a ser, ao mesmo tempo, mais produtiva e mais sustentável.
+
+Pontos-Chave e Achados:
+
+- O artigo utiliza a metodologia de avaliação de impacto ex ante para estimar os benefícios de uma inovação biotecnológica.
+- A cultivar BRS3280BtRR tem o potencial de gerar impactos positivos duplos: econômicos (aumento da produtividade) e ambientais (redução do uso de inseticidas).
+- A redução de perdas causadas pela broca-da-cana é o principal componente do benefício econômico.
+- A pesquisa reforça o papel estratégico da P&D em biotecnologia para o avanço da sustentabilidade no agronegócio.
+
+Palavras-Chave:
+Técnicas: [Avaliação de impacto ex ante, cana-de-açúcar transgênica, biotecnologia, broca-da-cana, impacto econômico, impacto ambiental, setor sucroenergético]
+
+Conceituais: [Intensificação sustentável, inovação tecnológica, controle de pragas, P&D agrícola, adoção de tecnologia, sustentabilidade]
+
+Linguagem Natural: [Quais os benefícios da cana transgênica Bt?, Impacto da cana resistente a insetos, avaliação de novas tecnologias para a cana-de-açúcar, como a biotecnologia pode reduzir o uso de agrotóxicos?, futuro da produção de cana no Brasil]

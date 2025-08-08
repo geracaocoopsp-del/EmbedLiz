@@ -1,0 +1,25 @@
+**Identificação Básica:**
+
+*   **ID do Artigo:** 751
+*   **Título Oficial:** TERCEIRIZAÇÃO VIA COOPERATIVISMO: O CENÁRIO ANTES DA REFORMA TRABALHISTA E ALGUMAS PERSPECTIVAS
+*   **Link para Download:** (Você adicionará este campo depois)
+
+**Resumo Sintético (O núcleo):**
+
+Este artigo analisa como o Tribunal Regional do Trabalho da 3ª Região (TRT-3) julgava a terceirização por meio de cooperativas de trabalho antes da Reforma Trabalhista de 2017. A pesquisa jurisprudencial revela que o TRT-3, em sua maioria, considerava ilícita a terceirização da atividade-fim, seguindo a Súmula 331 do TST, e reconhecia o vínculo empregatício diretamente com a empresa tomadora dos serviços. O artigo conclui com uma reflexão sobre as perspectivas pós-reforma, que permitiu a terceirização irrestrita, e a preocupação com o aumento da precarização do trabalho.
+
+**Expansão Semântica (A parte crucial para a busca):**
+
+*   **Descrição Expandida em Linguagem Natural:** O estudo investiga como a Justiça do Trabalho em Minas Gerais lidava com a "pejotização" através de cooperativas antes da grande mudança na lei trabalhista em 2017. A pesquisa mostra que, na maioria dos casos, os juízes entendiam que a terceirização da atividade principal da empresa era uma fraude para não pagar direitos trabalhistas e, por isso, declaravam o vínculo de emprego. O artigo também discute como a nova lei, que liberou geral a terceirização, pode piorar a situação dos trabalhadores, aumentando a precarização e a exploração.
+
+*   **Pontos-Chave e Achados Específicos:**
+    *   A terceirização via cooperativas de trabalho é frequentemente utilizada de forma fraudulenta para precarizar as relações de trabalho.
+    *   Antes da Reforma Trabalhista, o TRT-3 majoritariamente considerava ilícita a terceirização da atividade-fim.
+    *   A jurisprudência do TRT-3 se baseava na Súmula 331 do TST e nos princípios do cooperativismo (dupla qualidade e retribuição pessoal diferenciada).
+    *   A Reforma Trabalhista (Leis 13.429/17 e 13.467/17) e as decisões do STF (ADPF 324 e RE 958252) permitiram a terceirização irrestrita, inclusive da atividade-fim.
+    *   A nova legislação tende a agravar a precarização do trabalho, mas não impede a análise da fraude e o reconhecimento do vínculo empregatício quando presentes os requisitos da relação de emprego.
+
+*   **Palavras-Chave (O "Mapa" para a IA):**
+    *   **Termos Técnicos:** Cooperativa de Trabalho, Terceirização, Atividade-Fim, Reforma Trabalhista, Súmula 331 TST, Pejotização, Fraude Trabalhista, Vínculo Empregatício.
+    *   **Termos Conceituais:** Precarização do Trabalho, Direito do Trabalho, Jurisprudência Trabalhista, Princípios do Cooperativismo, Subordinação.
+    *   **Termos em Linguagem Natural (Sinônimos e Perguntas):** "terceirização por cooperativa é legal?", "fraude em cooperativa de trabalho", "Reforma Trabalhista e terceirização", "o que é atividade-fim?", "vínculo de emprego com cooperativa", "pejotização é crime?", "direitos trabalhistas na terceirização".

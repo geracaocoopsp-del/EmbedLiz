@@ -1,0 +1,26 @@
+ID do Artigo: 658
+Título Oficial:
+PROCURA POR CRÉDITO EM COOPERATIVAS E BANCOS COMERCIAIS BRASILEIROS: HÁ RELAÇÃO COM A ATIVIDADE ECONÔMICA?
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo investiga a relação entre a procura por crédito em cooperativas e em bancos comerciais e o ciclo da atividade econômica no Brasil. A pesquisa analisa se a demanda por crédito nessas instituições se comporta de forma pró-cíclica (aumenta quando a economia cresce) ou anticíclica (aumenta quando a economia está em crise). Os resultados sugerem que a procura por crédito nos bancos comerciais é fortemente pró-cíclica, enquanto nas cooperativas de crédito essa relação é menos intensa ou até mesmo anticíclica, indicando que, em momentos de crise, as cooperativas podem ter um papel estabilizador, mantendo a oferta de crédito quando os bancos a restringem.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa estuda se as pessoas e empresas procuram mais crédito nos bancos ou nas cooperativas dependendo do momento da economia. A conclusão é que existe uma diferença clara: quando a economia está bombando, todo mundo corre para os grandes bancos para pegar dinheiro emprestado. Mas, quando a crise aperta, acontece um fenômeno interessante: a procura por crédito nas cooperativas tende a se manter ou até a aumentar, enquanto nos bancos ela despenca. Isso mostra que as cooperativas funcionam como um "porto seguro" para o crédito em tempos difíceis, continuando a emprestar dinheiro e a ajudar a economia a girar quando os grandes bancos "fecham a torneira".
+
+Pontos-Chave e Achados:
+
+- A demanda por crédito em bancos comerciais no Brasil é fortemente pró-cíclica, acompanhando o ritmo do PIB.
+- A demanda por crédito em cooperativas de crédito mostra um comportamento menos pró-cíclico, e em alguns casos, anticíclico.
+- Este comportamento sugere que as cooperativas de crédito desempenham um papel estabilizador no sistema financeiro, especialmente durante recessões.
+- A natureza do relacionamento mais próximo com os associados pode explicar por que as cooperativas mantêm o crédito fluindo em períodos de crise.
+
+Palavras-Chave:
+Técnicas: [Procura por crédito, ciclo econômico, cooperativas de crédito, bancos comerciais, comportamento pró-cíclico, comportamento anticíclico, sistema financeiro]
+
+Conceituais: [Crédito e economia, política monetária, estabilidade financeira, intermediação financeira, racionamento de crédito, risco sistêmico]
+
+Linguagem Natural: [As pessoas pegam mais empréstimo quando a economia está bem?, Onde as empresas buscam crédito na crise?, Cooperativas emprestam mais que bancos na recessão?, comportamento do crédito no Brasil, papel estabilizador das cooperativas de crédito]

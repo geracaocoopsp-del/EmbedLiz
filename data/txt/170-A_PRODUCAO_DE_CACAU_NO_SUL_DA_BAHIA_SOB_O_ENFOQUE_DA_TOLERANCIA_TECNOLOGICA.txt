@@ -1,0 +1,27 @@
+**Identificação Básica:**
+*   **ID do Artigo:** 170
+*   **Título Oficial:** A PRODUÇÃO DE CACAU NO SUL DA BAHIA SOB O ENFOQUE DA TOLERÂNCIA TECNOLÓGICA
+*   **Link para Download:** (Será adicionado posteriormente)
+
+**Resumo Sintético (O núcleo):**
+Este artigo investiga o nível de "tolerância tecnológica" entre os produtores de cacau no Sul da Bahia, analisando sua disposição para adotar ou rejeitar novas tecnologias e práticas de manejo. A tese central é que a maioria dos cacauicultores da região exibe baixa tolerância tecnológica, ou seja, uma forte resistência à mudança, preferindo manter os métodos tradicionais de produção. Essa aversão à inovação, influenciada por fatores culturais, econômicos e pela crise da "vassoura-de-bruxa", é um dos principais gargalos que impedem a recuperação da produtividade e da competitividade da cacauicultura baiana.
+
+**Expansão Semântica:**
+
+*   **Descrição Expandida em Linguagem Natural:**
+    *   O estudo tenta entender por que muitos produtores de cacau no Sul da Bahia resistem a adotar novas tecnologias e formas mais modernas de cuidar de suas lavouras.
+    *   Ele explora a mentalidade do agricultor, mostrando que a decisão de inovar (ou não) não é apenas uma questão de dinheiro, mas também de cultura, tradição e das experiências passadas, como o trauma deixado pela praga da "vassoura-de-bruxa".
+    *   A pesquisa define o conceito de "tolerância tecnológica" como a maior ou menor abertura das pessoas para experimentar coisas novas na sua atividade profissional.
+    *   Argumenta que a falta de vontade de mudar é um dos maiores problemas que travam o desenvolvimento da produção de cacau na região, fazendo com que as lavouras produzam menos do que poderiam.
+
+*   **Pontos-Chave e Achados Específicos:**
+    *   **Conceito de Tolerância Tecnológica:** Refere-se à propensão de um indivíduo ou grupo para aceitar e incorporar novas tecnologias em seus processos produtivos. Pode variar de alta (inovadores) a baixa (tradicionalistas/resistentes).
+    *   **Contexto Histórico:** A cacauicultura do Sul da Bahia viveu um período de glória seguido por uma crise devastadora nos anos 80/90, causada pela praga da "vassoura-de-bruxa". Essa crise gerou desconfiança e dificuldades financeiras que ainda hoje afetam a disposição para investir e inovar.
+    *   **Perfil do Produtor:** A pesquisa identifica que uma parcela significativa dos produtores é mais velha, tem baixa escolaridade e segue práticas de manejo passadas de geração em geração, o que contribui para a baixa tolerância tecnológica.
+    *   **Fatores de Resistência:** Os principais motivos para a não adoção de tecnologia são: 1) **Custo:** Falta de recursos para investir. 2) **Risco:** Medo de que a nova tecnologia não funcione e piore a situação. 3) **Cultura:** Apego às tradições e desconfiança em relação a técnicas "de fora". 4) **Falta de Informação:** Dificuldade de acesso a assistência técnica de qualidade.
+    *   **Conclusão Principal:** Para revitalizar a cacauicultura na Bahia, não basta apenas desenvolver novas tecnologias. É crucial entender os fatores sociais e culturais que moldam a "tolerância tecnológica" dos produtores e criar estratégias de extensão rural que construam confiança e demonstrem o valor da inovação de forma prática e acessível.
+
+*   **Palavras-Chave (O "Mapa" para a IA):**
+    *   **Termos Técnicos:** Tolerância Tecnológica, Adoção de Tecnologia, Cacauicultura, Sul da Bahia, Vassoura-de-Bruxa, Inovação Agrícola, Extensão Rural, Sociologia Rural.
+    *   **Termos Conceituais:** Resistência à Mudança, Comportamento do Produtor, Difusão de Inovações, Fatores Socioculturais na Agricultura, Crise Agrícola, Desenvolvimento Regional.
+    *   **Termos em Linguagem Natural (Sinônimos e Perguntas):** "por que produtores não adotam tecnologia?", "produção de cacau na Bahia hoje", "problemas da lavoura de cacau", "história da vassoura-de-bruxa", "modernização da agricultura do cacau", "resistência à inovação no campo", "ajuda técnica para produtor de cacau", "cultura e tradição na agricultura", "como convencer agricultor a mudar?".

@@ -1,0 +1,30 @@
+**Identificação Básica:**
+*   **ID do Artigo:** 67
+*   **Título Oficial:** ANÁLISE DA INTEGRAÇÃO E TRANSMISSÃO DE PREÇOS DA MANDIOCA ENTRE OS MERCADOS DE TARRAFAL, SANTA CATARINA E SÃO MIGUEL DA ILHA DE SANTIAGO
+*   **Link para Download:** (Será adicionado posteriormente)
+
+**Resumo Sintético (O núcleo):**
+Este artigo analisa a integração e a transmissão de preços da mandioca entre três mercados na Ilha de Santiago, Cabo Verde (Tarrafal, Santa Catarina e São Miguel), no período de 2006 a 2018. A tese central é que, embora haja uma integração de preços entre os mercados, a transmissão de choques de preço não é simétrica. Variações de preço são transmitidas de forma bidirecional entre todos os mercados, mas a transmissão unidirecional (causalidade de Granger) ocorre principalmente de Tarrafal e São Miguel para os outros mercados, indicando que esses mercados têm maior influência na formação de preços.
+
+**Expansão Semântica:**
+
+*   **Descrição Expandida em Linguagem Natural:**
+    *   O estudo investiga como os preços da mandioca se comportam em diferentes mercados de uma ilha em Cabo Verde, para entender se eles se influenciam mutuamente e como essa influência acontece.
+    *   Explica que, mesmo em uma ilha pequena, os preços da mandioca não são sempre os mesmos em todos os lugares, mas que as mudanças de preço em um mercado acabam afetando os outros.
+    *   A pesquisa usa técnicas estatísticas para descobrir quais mercados são os "líderes" na formação de preços, ou seja, quais mercados têm mais poder para influenciar os preços nos outros.
+    *   O artigo serve para ajudar produtores e comerciantes a entenderem melhor a dinâmica de preços da mandioca, o que pode auxiliar na tomada de decisões sobre onde e quando vender ou comprar.
+
+*   **Pontos-Chave e Achados Específicos:**
+    *   **Contexto:** Cabo Verde é um país arquipelágico com pouca terra arável e dependência de importação de alimentos. A mandioca é um produto importante para a segurança alimentar e a agricultura familiar.
+    *   **Metodologia:** Utiliza testes de raiz unitária (ADF) e cointegração de Johansen para verificar a relação de longo prazo entre as séries de preços. A causalidade de Granger é empregada para identificar a direção da transmissão de preços.
+    *   **Integração de Preços:** Os resultados indicam que os mercados de mandioca em Tarrafal, Santa Catarina e São Miguel estão integrados, ou seja, os preços se movem juntos no longo prazo.
+    *   **Transmissão de Preços (Causalidade de Granger):**
+        *   **Bidirecional:** Variações de preço são transmitidas de forma bidirecional entre todos os mercados.
+        *   **Unidirecional:** A transmissão unidirecional (causalidade de Granger) ocorre principalmente de Tarrafal e São Miguel para os outros mercados, sugerindo que esses mercados têm maior poder de influência na formação de preços.
+    *   **Implicações:** A integração de mercados é importante para a eficiência do comércio e para a tomada de decisões dos agentes econômicos. A compreensão da transmissão de preços pode auxiliar na formulação de políticas agrícolas e comerciais.
+    *   **Conclusão Principal:** Os mercados de mandioca na Ilha de Santiago são integrados, mas a transmissão de preços não é simétrica, com alguns mercados exercendo maior influência. Isso destaca a importância de monitorar os mercados líderes para prever movimentos de preços e otimizar as estratégias de comercialização.
+
+*   **Palavras-Chave (O "Mapa" para a IA):**
+    *   **Termos Técnicos:** Integração de Preços, Transmissão de Preços, Mandioca, Causalidade de Granger, Cointegração, VAR (Vetor Autorregressivo), Econometria, Mercados Agrícolas, Cabo Verde.
+    *   **Termos Conceituais:** Eficiência de Mercado, Formação de Preços, Segurança Alimentar, Agricultura Familiar, Análise de Mercado, Dinâmica de Preços.
+    *   **Termos em Linguagem Natural (Sinônimos e Perguntas):** "preço da mandioca em Cabo Verde", "como os preços de alimentos se influenciam?", "mercado de mandioca na Ilha de Santiago", "quem define o preço da mandioca?", "análise de preços agrícolas", "integração de mercados de alimentos", "dinâmica de preços da mandioca", "comércio de mandioca em Cabo Verde".

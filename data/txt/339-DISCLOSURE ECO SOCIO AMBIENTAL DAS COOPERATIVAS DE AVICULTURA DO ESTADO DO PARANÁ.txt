@@ -1,0 +1,38 @@
+**Identificação Básica:**
+
+*   **ID do Artigo:** 339
+*   **Título Oficial:** DISCLOSURE ECO SOCIO AMBIENTAL DAS COOPERATIVAS DE AVICULTURA DO ESTADO DO PARANÁ
+*   **Link para Download:** (Será adicionado posteriormente)
+
+**Resumo Sintético:**
+
+Este artigo investiga o nível de *disclosure* (divulgação) das informações eco-socioambientais nas demonstrações financeiras de cooperativas agropecuárias de avicultura no Paraná. A pesquisa, de caráter descritivo-explicativo, analisou dados de 2018 e concluiu que, embora todas as cooperativas apresentem algum nível de divulgação ambiental, há necessidade de ampliar a transparência, especialmente em categorias como Mercado de Créditos de Carbono e Impactos dos Produtos e Processos no Meio Ambiente. O estudo ressalta que a divulgação voluntária de informações ambientais é uma estratégia para melhorar a imagem da empresa e atrair investidores, mas que a falta de obrigatoriedade legal no Brasil ainda limita essa prática.
+
+**Expansão Semântica:**
+
+*   **Descrição Expandida em Linguagem Natural:**
+    *   O artigo analisa o quanto as cooperativas de frango no Paraná contam para o público sobre suas ações de sustentabilidade (meio ambiente e social). A pesquisa descobriu que elas divulgam algumas informações, mas ainda podem melhorar muito, principalmente sobre o impacto de seus produtos no meio ambiente e sobre o mercado de carbono. O estudo mostra que, mesmo não sendo obrigatório por lei, ser transparente sobre essas práticas ajuda a cooperativa a ter uma boa imagem e a atrair mais investimentos. Em resumo, é um convite para que as cooperativas de avicultura sejam mais abertas sobre o que fazem para proteger o planeta e a sociedade.
+    *   Este trabalho investiga a transparência das cooperativas de avicultura do Paraná em relação às suas práticas ambientais e sociais. Ele avalia o nível de divulgação dessas informações e os motivos por trás dessa transparência. O estudo conclui que, apesar de haver alguma divulgação, ela ainda é limitada e não abrange todos os aspectos importantes. A pesquisa sugere que a divulgação voluntária de informações de sustentabilidade é uma estratégia para as cooperativas se destacarem no mercado e construírem uma imagem positiva, mas que a ausência de uma legislação mais rigorosa no Brasil ainda é um obstáculo para uma maior transparência.
+
+*   **Pontos-Chave e Achados Específicos:**
+    *   **Objetivo:** Determinar o nível de *disclosure* de informações eco-socioambientais em cooperativas agropecuárias de avicultura no Paraná.
+    *   **Metodologia:** Pesquisa descritiva-explicativa, documental, com análise de conteúdo e desenvolvimento de três índices de avaliação de *disclosure*.
+    *   **Principal Achado:** Todas as cooperativas analisadas apresentam algum nível de divulgação ambiental, mas há necessidade de ampliar a transparência.
+    *   **Categorias com Menor Divulgação:** Mercado de Créditos de Carbono e Impactos dos Produtos e Processo no Meio Ambiente.
+    *   **Motivações para o *Disclosure* Voluntário:** Melhorar a imagem da empresa, atrair investidores, atender à cobrança de *stakeholders* e obter legitimidade.
+    *   **Limitações:** O estudo é restrito a um setor específico (avicultura) e a um único período contábil (2018), não permitindo generalizações.
+    *   **Conclusão:** A divulgação voluntária de informações ambientais é uma estratégia importante para as cooperativas, mas a falta de obrigatoriedade legal no Brasil ainda limita essa prática. Há espaço para melhorias na transparência e no planejamento estratégico das ações de sustentabilidade.
+
+*   **Palavras-Chave:**
+    *   **Termos Técnicos:** *Disclosure*, Sustentabilidade, Cooperativas de Avicultura, Gestão Ambiental, Contabilidade Ambiental, Informações Eco-socioambientais, Mercado de Créditos de Carbono, Impactos Ambientais.
+    *   **Termos Conceituais:** Transparência, Responsabilidade Social Corporativa (RSC), Legitimidade, Divulgação Voluntária, Indicadores de Sustentabilidade, Gestão de Resíduos.
+    *   **Termos em Linguagem Natural (Sinônimos e Perguntas):**
+        *   "transparência ambiental em cooperativas"
+        *   "sustentabilidade em cooperativas de frango"
+        *   "como cooperativas divulgam ações ambientais"
+        *   "impacto ambiental da avicultura"
+        *   "créditos de carbono para cooperativas"
+        *   "gestão ambiental em agronegócio"
+        *   "relatórios de sustentabilidade"
+        *   "cooperativas são sustentáveis?"
+        *   "legislação ambiental para cooperativas"

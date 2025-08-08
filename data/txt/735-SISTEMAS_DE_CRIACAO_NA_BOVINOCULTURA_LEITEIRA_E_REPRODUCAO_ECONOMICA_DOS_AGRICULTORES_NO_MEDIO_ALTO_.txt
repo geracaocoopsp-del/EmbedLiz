@@ -1,0 +1,26 @@
+ID do Artigo: 735
+Título Oficial:
+SISTEMAS DE CRIAÇÃO NA BOVINOCULTURA LEITEIRA E REPRODUÇÃO ECONÔMICA DOS AGRICULTORES NO MÉDIO ALTO URUGUAI/RS
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo analisa a relação entre os diferentes sistemas de criação na bovinocultura leiteira (a pasto, semi-confinado, confinado) e a capacidade de reprodução econômica dos agricultores familiares na região do Médio Alto Uruguai, no RS. A pesquisa, por meio de uma análise de tipologias, investiga como a escolha do sistema produtivo impacta a renda, o endividamento e a viabilidade de longo prazo das propriedades. Os resultados mostram que os sistemas mais intensivos (confinamento) podem gerar maior produtividade e renda bruta, mas também exigem maior investimento e apresentam maior risco. O estudo conclui que não existe "um" sistema melhor para todos, e que a sustentabilidade da reprodução econômica depende da adequação do sistema de criação ao perfil de cada propriedade (terra, capital, mão de obra).
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa estuda os produtores de leite de uma região do Rio Grande do Sul para entender qual é o melhor jeito de criar as vacas: soltas no pasto, meio presas, ou totalmente confinadas. O estudo mostra que cada sistema tem seus prós e contras. O confinamento total pode até dar mais leite, mas custa uma fortuna em investimentos e o risco é altíssimo. Já o sistema a pasto é mais barato, mas a produtividade é menor. A conclusão é que não existe "receita de bolo". O melhor sistema para um agricultor não é, necessariamente, o melhor para o vizinho. Para que a família consiga viver bem do leite por muitos anos, o mais importante é que o jeito de criar as vacas seja compatível com o que a família tem de terra, de dinheiro e de gente para trabalhar.
+
+Pontos-Chave e Achados:
+
+- O artigo analisa a diversidade de sistemas de criação na pecuária leiteira familiar e sua relação com a viabilidade econômica.
+- Sistemas mais intensivos em capital (confinamento) estão associados a maior produtividade, mas também a maior endividamento e risco.
+- Sistemas baseados em pasto são menos produtivos, mas exigem menor investimento e podem ser mais resilientes a choques de preço dos insumos.
+- A escolha do sistema de produção é uma decisão estratégica que deve ser contingente às condições de cada unidade familiar de produção.
+
+Palavras-Chave:
+Técnicas: [Pecuária leiteira, sistemas de criação, reprodução econômica, agricultura familiar, tipologia de produtores, Médio Alto Uruguai-RS, análise de sistemas agrários]
+
+Conceituais: [Viabilidade econômica, sustentabilidade, intensificação, estratégias de reprodução social, tomada de decisão, risco agrícola]
+
+Linguagem Natural: [Qual o melhor sistema para a produção de leite: a pasto ou confinado?, Análise de rentabilidade de sistemas de pecuária leiteira, desafios da intensificação na produção de leite, como garantir a sustentabilidade da pequena propriedade de leite?, estudo sobre a bacia leiteira do RS]

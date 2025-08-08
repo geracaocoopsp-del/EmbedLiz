@@ -1,0 +1,22 @@
+ID do Artigo: 622
+Título Oficial: PERCEPÇÃO DAS AÇÕES DE COCRIAÇÃO DE VALOR EM COOPERATIVAS AGROPECUÁRIAS
+Link para Download: (Adicionar depois)
+
+Resumo Sintético: Este pesquisa desenvolveu um modelo para medir a percepção das ações de cocriação de valor em cooperativas agropecuárias e analisou a relação entre essa percepção e as características dos cooperados (satisfação, fidelidade, profissionalização da gestão e orientação temporal). Utilizando o método de mínimos quadrados parciais (SmartPLS) com 204 questionários, o estudo demonstra que a satisfação e fidelidade, e a orientação temporal dos cooperados, influenciam significativamente a percepção das ações de cocriação de valor. Cooperados mais endividados e com menor tempo de associação tendem a perceber mais valor nas ações de cocriação.
+
+Expansão Semântica:
+Descrição Expandida em Linguagem Natural: Este artigo investiga como os membros de cooperativas agrícolas percebem o valor que é criado em conjunto com a cooperativa. Ele explora se a satisfação e a lealdade dos cooperados, a forma como a cooperativa é gerenciada e o horizonte de tempo dos membros (se eles pensam a curto ou longo prazo) influenciam a percepção desse valor compartilhado. O estudo busca entender quais ações da cooperativa são mais valorizadas pelos cooperados e como essas ações podem ser aprimoradas para gerar mais benefícios. Em outras palavras, o artigo analisa como a colaboração entre a cooperativa e seus membros pode criar um valor único e como a percepção desse valor é influenciada por diferentes características dos cooperados.
+Pontos-Chave e Achados Específicos:
+- A cocriação de valor é uma estratégia para minimizar problemas e aprimorar o relacionamento entre organização e cliente.
+- O estudo desenvolveu um modelo para medir a percepção das ações de cocriação de valor em cooperativas agropecuárias.
+- A pesquisa utilizou o método de mínimos quadrados parciais (SmartPLS) com 204 questionários.
+- A satisfação e fidelidade, e a orientação temporal dos cooperados, influenciam significativamente a percepção das ações de cocriação de valor.
+- Cooperados mais endividados e com menor tempo de associação tendem a perceber mais valor nas ações de cocriação.
+- A profissionalização da gestão tem um efeito indireto na percepção das ações de cocriação de valor, influenciando a satisfação e fidelidade.
+- A percepção de valor é mais impactada pelas características de interdependência (satisfação, fidelidade, orientação temporal) do que pela profissionalização da gestão.
+- O estudo sugere a realização de pesquisas futuras com experimentos longitudinais e amostras maiores para aprofundar o tema.
+
+Palavras-Chave:
+Termos Técnicos: Cocriação de Valor, Cooperativas Agropecuárias, Percepção, Satisfação, Fidelidade, Profissionalização da Gestão, Orientação Temporal, Mínimos Quadrados Parciais (PLS-SEM), SmartPLS, Análise Multigrupo (MGA), AVE (Average Variance Extracted), Alfa de Cronbach, R², Teoria da Agência, Stakeholders.
+Termos Conceituais: Geração de Valor, Relacionamento Cliente-Organização, Inovação, Melhoria Contínua, Engajamento do Cliente, Desempenho Organizacional, Sustentabilidade, Gestão de Riscos, Endividamento, Tempo de Associação.
+Termos em Linguagem Natural (Sinônimos e Perguntas): Como cooperativas criam valor com seus membros? O que é cocriação de valor em cooperativas? Como a satisfação do cooperado afeta a cooperativa? Como cooperativas podem gerar mais valor para seus membros? Percepção de valor em cooperativas agrícolas, como cooperativas podem melhorar o relacionamento com seus cooperados.

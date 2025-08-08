@@ -1,0 +1,25 @@
+ID do Artigo: 101
+Título Oficial: ASPECTOS TEÓRICOS DO COOPERATIVISMO E SUAS IMPLICAÇÕES PARA A GESTÃO DE COOPERATIVAS
+Link para Download: (Adicionar depois)
+
+Resumo Sintético: Este artigo explora as vertentes doutrinária e econômica do cooperativismo e suas implicações para a gestão de cooperativas. Através de uma vasta pesquisa qualitativa e bibliográfica, o estudo conclui que, embora o cooperativismo doutrinário (focado em valores sociais e ajuda mútua) e o cooperativismo econômico (focado na viabilidade e competitividade) pareçam contraditórios, eles são complementares para a sustentabilidade e perenidade das cooperativas. A pesquisa destaca a necessidade de equilibrar os ganhos individuais de curto prazo com os objetivos coletivos de longo prazo, e a importância da educação cooperativista para fortalecer a identidade e o funcionamento das cooperativas.
+
+Expansão Semântica:
+Descrição Expandida em Linguagem Natural: Este artigo aprofunda a discussão sobre as duas principais formas de entender o cooperativismo: uma que se concentra nos seus valores sociais e ideais de ajuda mútua (doutrinária), e outra que foca na sua viabilidade econômica e competitividade no mercado (econômica). Ele investiga como essas duas abordagens, que à primeira vista podem parecer opostas, na verdade se complementam para garantir que as cooperativas sejam bem-sucedidas e duradouras. O estudo argumenta que uma gestão eficaz de cooperativas precisa integrar tanto os princípios sociais quanto os objetivos econômicos, evitando que a busca por lucro descaracterize a essência cooperativista. Em outras palavras, o artigo explora como as cooperativas podem ser empresas eficientes e, ao mesmo tempo, manter seus valores de solidariedade e democracia, garantindo um equilíbrio entre o lado humano e o lado financeiro do negócio.
+Pontos-Chave e Achados Específicos:
+- O cooperativismo é um movimento associativo, doutrina social e modelo econômico.
+- Existem duas vertentes principais: cooperativismo doutrinário (foco social, valores, princípios) e cooperativismo econômico (foco em viabilidade, competitividade).
+- A pesquisa é qualitativa e bibliográfica, com análise de artigos e livros sobre o tema.
+- As vertentes doutrinária e econômica são complementares para a sustentabilidade da cooperativa.
+- A busca por ganhos individuais de curto prazo em detrimento dos coletivos pode prejudicar a cooperativa a longo prazo.
+- A educação cooperativista é fundamental para a compreensão e prática dos princípios.
+- Problemas na gestão de cooperativas incluem: baixa participação dos sócios, falhas na democracia, perpetuação de elites diretivas, e falta de conhecimento.
+- A doutrina cooperativista é a base de sustentação e identidade das cooperativas.
+- A legislação brasileira (Lei 5.764/71) e os princípios cooperativistas são fundamentais para o funcionamento das cooperativas.
+- A racionalidade social e a busca pela eficiência social são características das cooperativas.
+- A separação entre propriedade e controle pode gerar problemas de gestão.
+
+Palavras-Chave:
+Termos Técnicos: Cooperativismo Doutrinário, Cooperativismo Econômico, Gestão de Cooperativas, Princípios Cooperativistas, Teoria da Cooperação, Rochdale, Escola de Münster, Teoria da Agência, Direitos de Propriedade, SESCOOP, OCB, ACI, Lei 5.764/71, Pesquisa Qualitativa, Pesquisa Bibliográfica, Análise de Conteúdo.
+Termos Conceituais: Sustentabilidade, Perenidade, Conflitos de Interesse, Equilíbrio Organizacional, Identidade Cooperativa, Educação Cooperativista, Autogestão, Democracia, Solidariedade, Eficiência, Eficácia, Racionalidade Social.
+Termos em Linguagem Natural (Sinônimos e Perguntas): Como gerenciar cooperativas? Qual a diferença entre cooperativas e empresas comuns? Como cooperativas podem ser sustentáveis? O que são os princípios do cooperativismo? Desafios da gestão cooperativa, como equilibrar lucro e valores sociais em cooperativas, o papel da educação no cooperativismo.

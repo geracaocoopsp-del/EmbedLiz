@@ -1,0 +1,36 @@
+**Identificação Básica:**
+
+*   **ID do Artigo:** 99
+*   **Título Oficial:** AS RACIONALIDADES DE PROCESSOS E DIMENSÕES ORGANIZACIONAIS FRENTE AS ORIENTAÇÕES EXTENSIONISTAS PARA ORGANIZAÇÕES ECONÔMICAS DE AGRICULTURA FAMILIAR
+*   **Link para Download:** (Será adicionado posteriormente)
+
+**Resumo Sintético:**
+
+Este artigo confronta as orientações do projeto de extensão rural "Mais Gestão" com as lógicas de funcionamento (racionalidades) das cooperativas de agricultura familiar. A análise conclui que há um hiato significativo: enquanto as cooperativas de agricultores familiares são guiadas por uma "racionalidade substantiva" (focada em valores, pessoas e comunidade), a metodologia do projeto "Mais Gestão" é predominantemente baseada em uma "racionalidade instrumental" (focada em eficiência, burocracia e resultados econômicos), típica de empresas capitalistas. Esse desalinhamento pode comprometer a eficácia do projeto, pois a metodologia proposta se afasta das características e necessidades reais do seu público-alvo.
+
+**Expansão Semântica:**
+
+*   **Descrição Expandida em Linguagem Natural:**
+    *   O artigo analisa se um projeto do governo, chamado "Mais Gestão", que visa ajudar cooperativas de pequenos agricultores, está realmente falando a mesma língua que elas. A conclusão é que não. O estudo mostra que as cooperativas da agricultura familiar funcionam com uma lógica focada em pessoas, valores e no bem-estar da comunidade (racionalidade substantiva). Já o projeto do governo foi desenhado com uma lógica de empresa tradicional, focada em lucro, eficiência e burocracia (racionalidade instrumental). Essa diferença fundamental cria um abismo entre o que o projeto oferece e o que as cooperativas realmente são e precisam.
+    *   Este trabalho faz uma crítica à metodologia do programa de extensão rural "Mais Gestão". Ele argumenta que o programa foi pensado com uma mentalidade de mercado capitalista, que não se encaixa na realidade das cooperativas da agricultura familiar. Enquanto essas cooperativas valorizam o social e o coletivo, o "Mais Gestão" impõe uma lógica de gestão focada em processos formais e resultados financeiros. O artigo conclui que existe um equívoco metodológico na proposta do governo, que acaba por ignorar as características essenciais do cooperativismo popular e de economia solidária.
+
+*   **Pontos-Chave e Achados Específicos:**
+    *   **Objeto de Estudo:** Análise do guia metodológico do projeto de ATER "Mais Gestão".
+    *   **Pressuposto Central:** Organizações econômicas da agricultura familiar são guiadas pela "racionalidade substantiva" (foco em valores e no social) e não pela "racionalidade instrumental" (foco em fins e no econômico).
+    *   **Conflito Identificado:** A metodologia do "Mais Gestão" é predominantemente instrumental, enquanto seu público-alvo (cooperativas de agricultura familiar) opera sob uma lógica substantiva.
+    *   **Hiato Metodológico:** As orientações do projeto, focadas em desempenho, burocracia e especialização, se afastam das características de gestão democrática, coletiva e baseada em valores das cooperativas.
+    *   **Conclusão:** Há um equívoco na abordagem do projeto "Mais Gestão", que propõe uma metodologia desalinhada com as características e a lógica de funcionamento de suas beneficiárias, o que pode limitar seu sucesso e impacto.
+
+*   **Palavras-Chave:**
+    *   **Termos Técnicos:** Racionalidade Instrumental, Racionalidade Substantiva, Extensão Rural (ATER), Cooperativismo, Associativismo, Agricultura Familiar, Tipos Ideais (Weber), Mais Gestão.
+    *   **Termos Conceituais:** Lógica de Mercado, Lógica Coletivista, Processos Organizacionais, Dimensões da Gestão, Burocracia, Gestão Cooperativa, Economia Solidária.
+    *   **Termos em Linguagem Natural (Sinônimos e Perguntas):**
+        *   "conflito entre lucro e valores em cooperativas"
+        *   "lógica de empresa vs. lógica de cooperativa"
+        *   "crítica ao projeto Mais Gestão"
+        *   "extensão rural para agricultura familiar"
+        *   "diferentes tipos de racionalidade"
+        *   "gestão em cooperativas de pequenos produtores"
+        *   "programa do governo para cooperativas"
+        *   "adequação de metodologia para cooperativas"
+        *   "burocracia vs. gestão de pessoas"

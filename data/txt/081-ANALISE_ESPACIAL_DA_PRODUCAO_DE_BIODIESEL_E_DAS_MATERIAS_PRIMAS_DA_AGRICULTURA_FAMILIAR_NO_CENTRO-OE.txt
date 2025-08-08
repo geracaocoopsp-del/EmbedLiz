@@ -1,0 +1,26 @@
+ID do Artigo: 81
+Título Oficial:
+ANÁLISE ESPACIAL DA PRODUÇÃO DE BIODIESEL E DAS MATÉRIAS-PRIMAS DA AGRICULTURA FAMILIAR NO CENTRO-OESTE
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo realiza uma análise espacial da produção de biodiesel e de suas potenciais matérias-primas oriundas da agricultura familiar (como mamona e dendê) na Região Centro-Oeste. A pesquisa, utilizando técnicas de geoprocessamento, mapeia a localização das usinas de biodiesel e a compara com as áreas de aptidão e de produção efetiva dessas oleaginosas. Os resultados mostram um grande descompasso espacial: as usinas estão concentradas nas áreas de produção de soja (matéria-prima do agronegócio), enquanto as áreas com potencial para as culturas da agricultura familiar estão distantes e desarticuladas. O estudo conclui que o Selo Combustível Social, que visa integrar a agricultura familiar na cadeia do biodiesel, enfrenta um enorme desafio logístico e estrutural no Centro-Oeste, devido a esse "divórcio" geográfico entre a indústria e sua potencial base de fornecedores.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa faz um mapa para ver se a conversa do "Selo Combustível Social" está virando realidade no Centro-Oeste. Esse selo foi criado para que as grandes usinas de biodiesel comprassem uma parte da sua matéria-prima (mamona, dendê, etc.) dos pequenos agricultores. O estudo cruzou o mapa das usinas com o mapa das áreas onde a agricultura familiar poderia plantar essas culturas. A conclusão é um "desencontro marcado": as usinas estão todas localizadas no meio do mar de soja do agronegócio, e as áreas da agricultura familiar estão longe, sem estrada e sem organização. O estudo mostra que, no Centro-Oeste, a ideia de casar a grande indústria do biodiesel com o pequeno agricultor, por enquanto, não saiu do papel, por um problema básico de geografia.
+
+Pontos-Chave e Achados:
+
+- O artigo utiliza a análise espacial para investigar a sinergia (ou a falta dela) entre a indústria de biodiesel e a agricultura familiar no Centro-Oeste.
+- Há um descasamento geográfico entre a localização das usinas de biodiesel (otimizada para a soja) e as áreas de produção potencial de oleaginosas da agricultura familiar.
+- Esse descasamento cria uma barreira logística e de custos de transação que dificulta a operacionalização do Selo Combustível Social na região.
+- A análise espacial se revela uma ferramenta poderosa para o diagnóstico de políticas públicas, ao evidenciar as barreiras geográficas e estruturais para a sua implementação.
+
+Palavras-Chave:
+Técnicas: [Análise espacial, biodiesel, agricultura familiar, Selo Combustível Social, Centro-Oeste, geoprocessamento, logística, oleaginosas]
+
+Conceituais: [Descasamento espacial, custos de transação, arranjo produtivo local (APL), política energética, desenvolvimento rural, cadeia de suprimentos]
+
+Linguagem Natural: [Por que o Selo Combustível Social não funciona bem no Centro-Oeste?, A relação entre as usinas de biodiesel e a agricultura familiar, mapa da produção de biodiesel no Brasil, desafios da produção de mamona para biodiesel, logística de matérias-primas para biocombustíveis]

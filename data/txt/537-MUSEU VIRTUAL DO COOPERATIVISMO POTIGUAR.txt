@@ -1,0 +1,23 @@
+ID do Artigo: 537
+Título Oficial: MUSEU VIRTUAL DO COOPERATIVISMO POTIGUAR
+Link para Download: (Adicionar depois)
+
+Resumo Sintético: Este trabalho descreve a construção do Museu Virtual do Cooperativismo Potiguar, com o objetivo de disseminar a história e preservar o patrimônio cultural cooperativista do Rio Grande do Norte. O projeto, desenvolvido por meio de parcerias entre professores do IFRN, utiliza tecnologias da informação e comunicação para criar um ambiente virtual interativo. Os primeiros resultados incluem a produção de trabalhos de conclusão de curso e o desenvolvimento da logomarca e do ambiente virtual, visando promover a educação e a valorização do cooperativismo potiguar.
+
+Expansão Semântica:
+Descrição Expandida em Linguagem Natural: Este artigo detalha a criação de um museu online dedicado à história do cooperativismo no Rio Grande do Norte, Brasil. Ele explica como o projeto busca preservar e compartilhar a rica herança cultural das cooperativas da região, utilizando a tecnologia para tornar essa história acessível a um público amplo. O estudo descreve as etapas iniciais do projeto, incluindo a colaboração entre diferentes áreas do conhecimento (história, informática, design) e os primeiros resultados alcançados, como a criação da identidade visual do museu e o desenvolvimento de seu ambiente virtual. Em outras palavras, o artigo mostra como a tecnologia pode ser usada para educar e engajar as pessoas na história e nos valores do cooperativismo, transformando um acervo histórico em uma experiência interativa e acessível.
+Pontos-Chave e Achados Específicos:
+- O projeto visa disseminar a história e preservar o patrimônio cultural do Cooperativismo Potiguar.
+- O Museu Virtual do Cooperativismo Potiguar comemora o centenário do cooperativismo na região.
+- Parcerias entre professores do IFRN (cooperativismo, informática, design, português, história) são fundamentais.
+- A metodologia inclui pesquisa documental e bibliográfica, e uso de Content Management Systems (CMS) para o ambiente virtual.
+- Resultados iniciais: trabalhos de conclusão de curso sobre a história do cooperativismo, construção do ambiente virtual e desenvolvimento da logomarca.
+- O museu virtual busca ser um espaço de educação e interação com o patrimônio cooperativo.
+- A internet e as novas tecnologias são cruciais para a acessibilidade e interatividade do museu.
+- O projeto não possui financiamento externo, sendo desenvolvido como projeto de extensão voluntário.
+- A interdisciplinaridade é uma perspectiva importante do projeto.
+
+Palavras-Chave:
+Termos Técnicos: Museu Virtual, Cooperativismo Potiguar, Patrimônio Cultural, Educação, Tecnologia da Informação e Comunicação (TIC), Ambiente Virtual, Content Management Systems (CMS), Pesquisa Documental, Pesquisa Bibliográfica, IFRN, SESCOOP/RN, Museologia.
+Termos Conceituais: Disseminação do Conhecimento, Preservação Histórica, Interatividade, Acessibilidade, Desenvolvimento Regional, Cultura Cooperativista, Inovação Educacional, Voluntariado, Interdisciplinaridade.
+Termos em Linguagem Natural (Sinônimos e Perguntas): Como criar um museu online? História do cooperativismo no Rio Grande do Norte? Como a tecnologia ajuda a preservar a história? Museus virtuais e educação, cooperativismo e cultura, como aprender sobre cooperativas online, projetos de extensão universitária.

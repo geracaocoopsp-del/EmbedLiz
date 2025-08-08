@@ -1,0 +1,24 @@
+*   **ID do Artigo:** 688
+Título Oficial: QUANDO O COOPERATIVISMO NÃO COOPERA: ESTUDO DE CASO MALSUCEDIDO DE REDE AGROALIMENTAR DO RS
+Link para Download: (Adicionar depois)
+
+Resumo Sintético: Este estudo de caso qualitativo analisa os fatores que levaram ao fracasso de uma rede de cooperativas agroalimentares no Rio Grande do Sul. A pesquisa identificou que, embora a intercooperação possa ser uma estratégia para vantagem competitiva, a má gestão dos fatores restritivos, como a informalidade da governança, a falta de qualificação gerencial, a resistência à mudança e a competição interna, resultou no insucesso da rede. O estudo destaca a importância de uma governança e gestão eficazes para o sucesso da intercooperação.
+
+Expansão Semântica:
+Descrição Expandida em Linguagem Natural: Este artigo investiga por que uma rede de cooperativas agrícolas no Rio Grande do Sul não conseguiu ter sucesso, apesar do potencial da colaboração. Ele analisa os motivos que levaram ao fracasso dessa iniciativa, identificando tanto os fatores que poderiam ter impulsionado a cooperação quanto aqueles que a impediram. O estudo destaca a importância de uma gestão profissional, da formalização das regras e da superação de conflitos internos para que a intercooperação funcione. Em outras palavras, o artigo serve como um alerta sobre os desafios da colaboração entre cooperativas, mostrando que, mesmo com boas intenções, a falta de uma governança sólida e a presença de interesses individuais podem comprometer o sucesso de uma rede.
+Pontos-Chave e Achados Específicos:
+- A intercooperação pode ser uma estratégia para vantagem competitiva em redes de cooperativas.
+- O estudo é um caso único qualitativo de uma rede malsucedida de cooperativas agroalimentares no RS.
+- **Fatores Impulsionadores:** Marca forte, aprendizado organizacional, economia de escala, redução de custos, tomada de decisão colegiada, competitividade dos cooperados, criação de central de compras.
+- **Fatores Restritivos (que levaram ao fracasso):** Poder de barganha dos fornecedores, informalidade da governança da rede, equipe de gestão/execução sem qualificação gerencial, gestão deficitária das cooperativas associadas, resistência à mudança, falta de adesão à marca, resistência à inovação, falta de visão de mercado, favorecimento ilícito a compradores, execução estratégica ineficaz, falta de vontade política de cooperar, jogos de poder, vaidades pessoais e egocentrismos.
+- A governança/gestão da rede é o principal fator impulsionador ou restritivo.
+- A reputação/comportamento da rede influencia as estratégias de cooperação.
+- As estratégias de cooperação promovem vantagens competitivas, sobrevivência e crescimento.
+- O framework proposto visa incentivar a intercooperação e superar os fatores restritivos.
+- Sugestões de ações gerenciais incluem: pré-assembleias e assembleias conjuntas, formalização de contratos com cláusulas punitivas, integração de RH para capacitação conjunta, programas de comunicação interna e externa, políticas de governança para coibir jogos de poder, seleção de gestores competentes, educação continuada.
+- O fracasso da rede foi atribuído principalmente à má gestão dos fatores restritivos e ao comportamento oportunismo de alguns atores.
+
+Palavras-Chave:
+Termos Técnicos: Intercooperação, Cooperação, Cooperativas Agroalimentares, Redes Horizontais, Estudo de Caso, Pesquisa Qualitativa, Análise de Conteúdo, Fatores Impulsionadores, Fatores Restritivos, Governança da Rede, Gestão da Rede, Vantagem Competitiva, Economia de Escala, Oportunismo, FECOAGRO-RS.
+Termos Conceituais: Fracasso Organizacional, Gestão de Conflitos, Cultura Organizacional, Profissionalização, Tomada de Decisão, Transparência, Confiança, Liderança, Sustentabilidade, Desenvolvimento Organizacional.
+Termos em Linguagem Natural (Sinônimos e Perguntas): Por que cooperativas falham? Como evitar o fracasso de redes de cooperativas? Desafios da colaboração entre cooperativas, como gerenciar conflitos em cooperativas? Lições aprendidas com redes de cooperativas malsucedidas, como fortalecer a cooperação em cooperativas agrícolas, o papel da governança no sucesso de cooperativas.

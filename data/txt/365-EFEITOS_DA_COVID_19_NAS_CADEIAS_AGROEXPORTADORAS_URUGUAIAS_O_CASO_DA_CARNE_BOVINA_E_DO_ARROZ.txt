@@ -1,0 +1,26 @@
+ID do Artigo: 365
+Título Oficial:
+EFEITOS DA COVID-19 NAS CADEIAS AGROEXPORTADORAS URUGUAIAS: O CASO DA CARNE BOVINA E DO ARROZ
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo analisa os efeitos da pandemia de COVID-19 nas cadeias de exportação de carne bovina e arroz do Uruguai, dois dos principais setores do agronegócio do país. A pesquisa investiga como os choques de demanda internacional, as disrupções logísticas e as medidas sanitárias impactaram a produção e a comercialização desses produtos. Os resultados mostram que, embora ambos os setores tenham enfrentado desafios, a cadeia da carne bovina foi mais afetada pelas restrições no mercado chinês e pela queda no food service global, enquanto a cadeia do arroz, por ser um bem de consumo básico, demonstrou maior resiliência, evidenciando diferentes níveis de vulnerabilidade a crises globais.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa estuda como a pandemia de COVID-19 afetou dois dos produtos mais importantes que o Uruguai vende para o mundo: a carne e o arroz. O estudo mostra que a crise não atingiu os dois setores da mesma forma. A exportação de carne sofreu mais, principalmente porque a China, seu maior comprador, diminuiu o ritmo e porque o fechamento de restaurantes no mundo todo diminuiu a demanda. Já o arroz se saiu melhor. Como é um produto que as pessoas comem em casa, a demanda continuou alta, e o setor conseguiu se manter mais estável. A comparação entre os dois casos mostra como diferentes produtos do agronegócio podem ser mais ou menos vulneráveis a uma crise mundial.
+
+Pontos-Chave e Achados:
+
+- A pandemia de COVID-19 gerou impactos assimétricos nas cadeias agroexportadoras do Uruguai.
+- A cadeia da carne bovina mostrou-se mais vulnerável a choques de demanda, especialmente pela sua dependência do mercado chinês e do canal de restaurantes.
+- A cadeia do arroz demonstrou maior resiliência, beneficiando-se de seu status como commodity alimentar básica.
+- As disrupções logísticas, como a falta de contêineres e o aumento do frete, afetaram ambos os setores, mas com intensidades diferentes.
+
+Palavras-Chave:
+Técnicas: [COVID-19, agronegócio, cadeias de exportação, Uruguai, carne bovina, arroz, impacto econômico, comércio internacional, resiliência]
+
+Conceituais: [Cadeia de valor global, choque de demanda, disrupção logística, segurança alimentar, vulnerabilidade, gestão de risco]
+
+Linguagem Natural: [Como a pandemia afetou o agronegócio do Uruguai?, Impacto da COVID-19 na exportação de carne, mercado de arroz durante a pandemia, resiliência do agronegócio uruguaio, comércio de commodities na crise]

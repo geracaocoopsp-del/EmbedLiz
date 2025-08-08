@@ -1,0 +1,27 @@
+### **Síntese Otimizada para IA**
+
+**Identificação Básica:**
+*   **ID do Artigo:** 311
+*   **Título Oficial:** DESCONTINUIDADE DE COOPERATIVAS: UMA ANÁLISE PARA O CASO DAS ATUANTES NO SISTEMA FINANCEIRO BRASILEIRO
+*   **Link para Download:** (Será adicionado posteriormente)
+
+**Resumo Sintético:**
+Investigando a recente queda no número de cooperativas de crédito no Brasil, este estudo verifica se a "saúde financeira" das cooperativas descontinuadas era inferior à das continuadas em seus três últimos anos de vida. Utilizando uma amostra de todas as cooperativas brasileiras de 2008 a 2015, a pesquisa identifica 10 indicadores financeiros chave. A análise mostra que, para seis desses indicadores, havia de fato uma diferença estatística, e em quatro deles (como margem de atividade bancária e retorno sobre ativos), as cooperativas descontinuadas apresentavam desempenho consistentemente baixo, suportando parcialmente a teoria do ciclo de vida das cooperativas.
+
+**Expansão Semântica:**
+
+*   **Descrição Expandida em Linguagem Natural:**
+    *   O artigo tenta responder a uma pergunta: por que tantas cooperativas de crédito fecharam as portas no Brasil recentemente? A suspeita, baseada na teoria do "ciclo de vida", é que elas simplesmente não estavam financeiramente saudáveis. Para testar isso, os pesquisadores compararam a performance das cooperativas que fecharam com as que continuaram abertas, olhando para seus últimos três anos de operação. Eles descobriram que, em várias métricas importantes, como a capacidade de gerar sobras e a rentabilidade, as cooperativas que fecharam estavam de fato em uma situação pior, o que sugere que problemas de desempenho são uma causa provável para a descontinuidade.
+
+*   **Pontos-Chave e Achados Específicos:**
+    *   **Problema Central:** O número de cooperativas de crédito no Brasil diminuiu entre 2012 e 2016, indicando um processo de descontinuidade.
+    *   **Hipótese:** Cooperativas descontinuadas estavam com saúde financeira inferior à das continuadas em seus últimos três anos de vida, conforme a teoria do ciclo de vida.
+    *   **Metodologia:** Análise de Componentes Principais (PCA) para selecionar indicadores financeiros e Análise de Variância (ANOVA) para comparar as médias entre os grupos de cooperativas (continuadas vs. descontinuadas).
+    *   **Indicadores Chave Identificados:** 10 indicadores proeminentes agrupados em capitalização, outputs e solvência.
+    *   **Principal Achado:** 6 dos 10 indicadores mostraram diferença estatística significativa entre os dois grupos. Em 4 deles (margem da atividade bancária, retorno sobre os ativos, e comprometimento do PL), as cooperativas descontinuadas tinham desempenho consistentemente pior.
+    *   **Conclusão:** Os resultados suportam parcialmente a teoria do ciclo de vida, indicando que o baixo desempenho financeiro é uma característica das cooperativas que encerram suas atividades.
+
+*   **Palavras-Chave (O "Mapa" para a IA):**
+    *   **Termos Técnicos:** Cooperativas de Crédito, Descontinuidade, Indicadores Financeiros, Ciclo de Vida das Cooperativas, Análise de Componentes Principais (PCA), ANOVA, Saúde Financeira, Solvência.
+    *   **Termos Conceituais:** Falência de Cooperativas, Desempenho Organizacional, Análise de Sobrevivência, Gestão Financeira, Sustentabilidade Cooperativa.
+    *   **Termos em Linguagem Natural (Sinônimos e Perguntas):** "por que cooperativas de crédito fecham?", "análise de falência de cooperativas", "saúde financeira de cooperativas brasileiras", "ciclo de vida de uma empresa", "indicadores de desempenho para cooperativas", "sobrevivência de cooperativas".

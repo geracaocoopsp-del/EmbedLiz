@@ -1,0 +1,26 @@
+ID do Artigo: 370
+Título Oficial:
+EFICÁCIA DO PROGRAMA DE SAÚDE E SANEAMENTO BÁSICO NA ÁREA RURAL DO PIAUÍ EM MIROLÂNDIA, PICOS-PI
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo avalia a eficácia de um programa de saúde e saneamento básico na comunidade rural de Mirolândia, no município de Picos, Piauí. Por meio de um estudo de caso, a pesquisa analisa a implementação de tecnologias sociais, como a construção de cisternas e banheiros, e seu impacto na saúde e na qualidade de vida da população. Os resultados mostram que o programa teve um impacto altamente positivo, com uma redução significativa na incidência de doenças de veiculação hídrica e uma melhoria geral na percepção de bem-estar e dignidade das famílias. O estudo conclui que investimentos em saneamento rural são uma das políticas com maior retorno social, sendo fundamentais para a saúde pública e o desenvolvimento humano no semiárido.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa foi até uma pequena comunidade rural no Piauí para ver se um programa que construiu cisternas e banheiros para as famílias realmente funcionou. O estudo de caso mostra que a mudança foi da água para o vinho. Com acesso à água limpa e a um banheiro decente, a quantidade de doenças na comunidade, principalmente em crianças, despencou. Além disso, a pesquisa mostra que a melhoria foi além da saúde: as famílias relataram se sentir com mais dignidade e com uma qualidade de vida muito melhor. A conclusão é que levar saneamento básico para o campo é um dos investimentos com o melhor custo-benefício que um governo pode fazer, com um impacto direto e imediato na vida das pessoas.
+
+Pontos-Chave e Achados:
+
+- O artigo é um estudo de caso que avalia o impacto de um programa de saneamento rural no semiárido piauiense.
+- A implementação de cisternas de placa e de banheiros sanitários teve um impacto direto e positivo na saúde da comunidade.
+- Houve uma redução comprovada na ocorrência de doenças diarreicas e outras enfermidades de veiculação hídrica.
+- O programa gerou externalidades positivas em termos de dignidade, autoestima e qualidade de vida para as famílias beneficiadas.
+
+Palavras-Chave:
+Técnicas: [Saneamento rural, saúde pública, avaliação de programas, estudo de caso, Piauí, semiárido, cisternas, tecnologias sociais, impacto na saúde]
+
+Conceituais: [Desenvolvimento humano, qualidade de vida, determinantes sociais da saúde, política de saúde, saneamento básico, dignidade]
+
+Linguagem Natural: [Qual o impacto do saneamento básico na saúde no campo?, A importância das cisternas no semiárido, estudo de caso sobre saneamento no Piauí, como reduzir doenças de veiculação hídrica?, avaliação de programas de saúde rural]

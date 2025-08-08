@@ -1,0 +1,26 @@
+ID do Artigo: 234
+Título Oficial:
+CONCENTRAÇÃO FUNDIÁRIA NOS MUNICÍPIOS DOS TERRITÓRIOS DA CIDADANIA CANTUQUIRIGUAÇU-PR E NOROESTE COLONIAL-RS
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo analisa a evolução da concentração fundiária em dois Territórios da Cidadania: o Cantuquiriguaçu, no Paraná, e o Noroeste Colonial, no Rio Grande do Sul. Utilizando o Índice de Gini da Terra com dados dos Censos Agropecuários, a pesquisa compara a estrutura agrária das duas regiões, que, apesar de serem marcadas pela agricultura familiar, apresentam dinâmicas distintas. Os resultados mostram que, embora a concentração de terras nessas regiões seja menor do que a média nacional, ela tem aumentado ao longo do tempo, especialmente no território paranaense, indicando um processo de modernização agrícola que, mesmo em áreas de agricultura familiar, tende a pressionar os pequenos produtores e a concentrar a posse da terra.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa estuda o que está acontecendo com a posse da terra em duas regiões do Sul do Brasil que são conhecidas por terem muitos pequenos agricultores. O estudo usa um índice (o Gini da Terra) para medir se a terra está ficando mais bem distribuída ou mais concentrada nas mãos de poucos. A conclusão é que, mesmo nessas regiões de agricultura familiar, a concentração de terras está aumentando. Isso significa que os pequenos estão sendo "espremidos", e as propriedades estão ficando maiores e em menor número. O estudo mostra que o avanço da modernização da agricultura, com suas máquinas grandes e a necessidade de muito investimento, acaba favorecendo os maiores e contribuindo para a concentração de terras, mesmo em lugares onde a agricultura familiar sempre foi a rainha.
+
+Pontos-Chave e Achados:
+
+- O artigo utiliza o Índice de Gini da Terra para medir e comparar a concentração fundiária em dois Territórios da Cidadania.
+- Apesar de serem territórios com forte presença da agricultura familiar, ambos apresentam uma tendência de aumento da concentração de terras ao longo do tempo.
+- O processo de modernização da agricultura, com a intensificação do uso de capital, é apontado como o principal vetor dessa concentração.
+- O estudo alerta que a política de Territórios da Cidadania, embora importante, pode não ser suficiente para frear as forças estruturais que levam à concentração de terras.
+
+Palavras-Chave:
+Técnicas: [Concentração fundiária, Índice de Gini da Terra, Territórios da Cidadania, agricultura familiar, Censo Agropecuário, estrutura agrária, Paraná, Rio Grande do Sul]
+
+Conceituais: [Questão agrária, modernização agrícola, desenvolvimento territorial, políticas públicas, desigualdade, campesinato]
+
+Linguagem Natural: [A concentração de terras está aumentando na agricultura familiar?, Análise da posse da terra no Sul do Brasil, o que são os Territórios da Cidadania?, impacto da modernização na concentração de terras, estudo sobre o Índice de Gini da Terra]

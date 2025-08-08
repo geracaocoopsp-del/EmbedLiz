@@ -1,0 +1,26 @@
+ID do Artigo: 208
+Título Oficial:
+CARATERÍSTICAS DEMOGRÁFICAS DOS TRABALHADORES RURAIS BRASILEIROS EM ATIVIDADES AGRÍCOLAS E NÃO-AGRÍCOLAS
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo traça um perfil demográfico dos trabalhadores rurais no Brasil, comparando aqueles ocupados em atividades estritamente agrícolas com os que trabalham em atividades não-agrícolas no meio rural (pluriatividade). Utilizando microdados da PNAD, a pesquisa analisa variáveis como idade, gênero, cor/raça, escolaridade e região. Os resultados mostram que o trabalho não-agrícola no campo tem crescido e absorve uma mão de obra, em média, mais jovem, mais feminina e com maior escolaridade do que a ocupação agrícola tradicional. O estudo conclui que o meio rural brasileiro está passando por uma profunda transformação, com uma crescente diversificação das fontes de ocupação, o que desafia a visão tradicional do trabalho no campo.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa faz um raio-x de quem são as pessoas que trabalham no campo no Brasil, mas com uma novidade: ela separa quem trabalha na lavoura (o trabalho agrícola) de quem trabalha em outras coisas, como no comércio da cidadezinha, no turismo rural ou em serviços (o trabalho não-agrícola). O estudo, usando dados do IBGE, descobriu que o perfil dos dois grupos é bem diferente. O pessoal que trabalha em atividades não-agrícolas tende a ser mais jovem, tem mais mulheres e estudou mais. A conclusão é que o campo brasileiro não é mais só roça. Ele está se diversificando, com cada vez mais gente vivendo no meio rural, mas trabalhando em outras coisas que não são plantar e colher.
+
+Pontos-Chave e Achados:
+
+- O artigo compara o perfil demográfico de trabalhadores rurais em ocupações agrícolas e não-agrícolas.
+- O trabalho não-agrícola no meio rural é uma fonte de ocupação crescente e absorve um perfil de trabalhador distinto.
+- Trabalhadores em atividades não-agrícolas no campo são, em média, mais jovens, mais escolarizados e com maior participação feminina.
+- Essa transformação do mercado de trabalho reflete a crescente integração e a complexidade das relações entre o rural e o urbano.
+
+Palavras-Chave:
+Técnicas: [Trabalho rural, mercado de trabalho, pluriatividade, atividades não-agrícolas, perfil demográfico, PNAD, sociologia rural, economia do trabalho]
+
+Conceituais: [Novo rural, ruralidade, diversificação econômica, mercado de trabalho rural, transição ocupacional, desenvolvimento rural]
+
+Linguagem Natural: [Qual o perfil do trabalhador rural no Brasil?, O que é pluriatividade?, Diferenças entre trabalho agrícola e não-agrícola no campo, as mulheres no mercado de trabalho rural, o novo rural brasileiro]

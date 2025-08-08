@@ -1,0 +1,26 @@
+ID do Artigo: 115
+Título Oficial:
+AS VULNERABILIDADES SOCIOECONÔMICAS DO ESTADO DO AMAZONAS AGRAVADAS PELA 2ª ONDA DA PANDEMIA DE COVID-19
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo analisa como as vulnerabilidades socioeconômicas estruturais do estado do Amazonas foram agravadas pela segunda onda da pandemia de COVID-19. A pesquisa, baseada em análise de dados secundários e de conjuntura, investiga os impactos da crise sanitária sobre a economia, o mercado de trabalho e a pobreza no estado. Os resultados mostram que a dependência da Zona Franca de Manaus, a alta informalidade e a precariedade da infraestrutura de saúde e logística tornaram o Amazonas particularmente vulnerável. A segunda onda, com o colapso do sistema de saúde, aprofundou a crise social, com um aumento dramático do desemprego e da pobreza, especialmente na capital e nas comunidades ribeirinhas.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa faz um diagnóstico do porquê o estado do Amazonas sofreu tanto com a segunda onda da COVID-19. O estudo mostra que a pandemia foi a "gota d'água" que fez transbordar um copo que já estava cheio. O estado já tinha problemas muito sérios, como a dependência quase total da Zona Franca de Manaus, um exército de gente trabalhando na informalidade e um sistema de saúde e de transporte muito precário. A chegada da segunda onda, com a falta de oxigênio e o caos nos hospitais, só piorou tudo, jogando a economia para baixo e aumentando de forma brutal o desemprego e a pobreza, tanto em Manaus quanto no interior.
+
+Pontos-Chave e Achados:
+
+- O artigo analisa a interação entre as vulnerabilidades estruturais do Amazonas e o choque da segunda onda da COVID-19.
+- A dependência do modelo da Zona Franca de Manaus e a alta informalidade são apontadas como as principais vulnerabilidades econômicas.
+- A precariedade da infraestrutura de saúde e de logística, especialmente no interior, foi um fator determinante para a gravidade da crise sanitária.
+- A pandemia teve um impacto devastador sobre os indicadores sociais, com um retrocesso de anos no combate à pobreza.
+
+Palavras-Chave:
+Técnicas: [Vulnerabilidade socioeconômica, COVID-19, Amazonas, impacto da pandemia, crise sanitária, Zona Franca de Manaus, análise de conjuntura]
+
+Conceituais: [Vulnerabilidade, crise, desenvolvimento regional, informalidade, desigualdade, colapso do sistema de saúde, Amazônia]
+
+Linguagem Natural: [Por que o Amazonas foi tão afetado pela segunda onda de COVID-19?, Os impactos da pandemia na economia do Amazonas, a crise do oxigênio em Manaus, vulnerabilidade social na Amazônia, a situação da Zona Franca na pandemia]

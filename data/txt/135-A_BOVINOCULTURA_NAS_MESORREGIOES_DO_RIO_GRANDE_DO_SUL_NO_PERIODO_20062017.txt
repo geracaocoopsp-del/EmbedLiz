@@ -1,0 +1,27 @@
+**Identificação Básica:**
+*   **ID do Artigo:** 135
+*   **Título Oficial:** A BOVINOCULTURA NAS MESORREGIÕES DO RIO GRANDE DO SUL NO PERÍODO 2006/2017
+*   **Link para Download:** (Será adicionado posteriormente)
+
+**Resumo Sintético (O núcleo):**
+Este artigo analisa a evolução e a especialização geográfica da criação de bovinos de corte e de leite nas mesorregiões do Rio Grande do Sul, entre 2006 e 2017. Utilizando o indicador Quociente Locacional (QL), o estudo demonstra que há uma clara especialização produtiva no estado: as mesorregiões Sudoeste, Sudeste e Centro Ocidental são polos de produção de gado de corte, enquanto as mesorregiões Noroeste e Nordeste são especializadas na produção de leite.
+
+**Expansão Semântica:**
+
+*   **Descrição Expandida em Linguagem Natural:**
+    *   O estudo mapeia quais áreas do Rio Grande do Sul são mais focadas na produção de carne e quais se concentram na produção de leite.
+    *   Investiga como a atividade pecuária se transformou nas diferentes regiões do estado ao longo de uma década, mostrando uma "divisão geográfica do trabalho" na bovinocultura gaúcha.
+    *   Analisa por que algumas regiões consolidaram sua vocação para a pecuária de corte, enquanto outras expandiram fortemente sua produção leiteira.
+    *   Compara a dinâmica de crescimento entre a pecuária de corte, mais tradicional, e a de leite, que apresentou maior expansão no período em número de estabelecimentos.
+
+*   **Pontos-Chave e Achados Específicos:**
+    *   **Metodologia:** A pesquisa utiliza o Quociente Locacional (QL) para medir a especialização relativa de cada mesorregião na pecuária de corte e de leite, com base em dados dos Censos Agropecuários.
+    *   **Especialização em Corte:** As mesorregiões Sudoeste, Sudeste e Centro Ocidental são confirmadas como as áreas relativamente mais especializadas na criação de gado de corte.
+    *   **Especialização em Leite:** As mesorregiões Noroeste e Nordeste são as mais especializadas na produção de leite. A região Noroeste, em particular, apresentou um crescimento expressivo (169%) no número de estabelecimentos.
+    *   **Tendência Estadual:** O Rio Grande do Sul, como um todo, perdeu participação no rebanho bovino nacional durante o período analisado.
+    *   **Dinâmica Interna:** Houve um aumento no número total de estabelecimentos pecuários, impulsionado principalmente pela expansão da atividade leiteira, que cresceu 34,7%, enquanto a de corte cresceu apenas 3,1%.
+
+*   **Palavras-Chave (O "Mapa" para a IA):**
+    *   **Termos Técnicos:** Bovinocultura, Mesorregiões, Rio Grande do Sul, Quociente Locacional (QL), Especialização Produtiva, Pecuária de Corte, Pecuária Leiteira, Censo Agropecuário, Dinâmica Agroindustrial.
+    *   **Termos Conceituais:** Economia Regional, Desenvolvimento Rural, Cadeia Produtiva da Carne, Cadeia Produtiva do Leite, Especialização Geográfica, Análise Regional.
+    *   **Termos em Linguagem Natural (Sinônimos e Perguntas):** "produção de gado no Rio Grande do Sul", "onde se cria gado de corte no RS?", "regiões produtoras de leite no sul", "economia da pecuária gaúcha", "mudanças na agricultura do RS", "especialização de gado por região", "análise da pecuária gaúcha", "gado de leite vs gado de corte no RS".

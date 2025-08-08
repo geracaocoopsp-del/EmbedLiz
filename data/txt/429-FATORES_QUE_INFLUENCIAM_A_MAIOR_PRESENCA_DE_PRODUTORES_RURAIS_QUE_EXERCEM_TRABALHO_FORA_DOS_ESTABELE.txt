@@ -1,0 +1,26 @@
+ID do Artigo: 429
+Título Oficial:
+FATORES QUE INFLUENCIAM A MAIOR PRESENÇA DE PRODUTORES RURAIS QUE EXERCEM TRABALHO FORA DOS ESTABELECIMENTOS
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo investiga os fatores que influenciam a decisão de produtores rurais de exercerem trabalho remunerado fora de seus estabelecimentos (pluriatividade). Utilizando dados do Censo Agropecuário, a pesquisa, por meio de um modelo econométrico, analisa como características do produtor (idade, escolaridade), da propriedade (tamanho, tipo de produção) e do contexto local (proximidade de centros urbanos) afetam a probabilidade de engajamento em atividades não-agrícolas. Os resultados indicam que produtores mais jovens, mais escolarizados e com propriedades menores têm uma probabilidade maior de serem pluriativos. O estudo conclui que a pluriatividade é uma estratégia de diversificação de renda fundamental, especialmente para a agricultura familiar, sendo impulsionada tanto por fatores de "pressão" (baixa renda agrícola) quanto de "atração" (oportunidades no mercado de trabalho local).
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa busca entender o que leva um agricultor a ter um segundo emprego fora do sítio. O estudo usa os dados do Censo Agropecuário para descobrir quais são as características dos agricultores que mais fazem isso. A conclusão é que o perfil mais comum é o do agricultor mais jovem, que estudou mais e que tem uma propriedade pequena. A pesquisa mostra que existem dois grandes motivos para essa "jornada dupla": a "pressão", que é quando o dinheiro que a roça dá não é suficiente para sustentar a família, e a "atração", que é quando surge uma boa oportunidade de emprego na cidade vizinha. O estudo mostra que essa mistura de rendas é uma estratégia cada vez mais importante para a sobrevivência e o bem-estar da agricultura familiar.
+
+Pontos-Chave e Achados:
+
+- O artigo utiliza um modelo econométrico para identificar os determinantes da pluriatividade na agricultura brasileira.
+- A escolaridade do produtor é um dos principais fatores que aumentam a probabilidade de trabalho off-farm.
+- O tamanho da propriedade tem uma relação inversa com a pluriatividade: produtores com menos terra tendem a buscar mais renda fora.
+- A proximidade com mercados de trabalho urbanos e a dinâmica da economia local também são fatores contextuais importantes.
+
+Palavras-Chave:
+Técnicas: [Pluriatividade, trabalho off-farm, agricultura familiar, Censo Agropecuário, modelo Logit/Probit, mercado de trabalho rural, determinantes]
+
+Conceituais: [Estratégias de reprodução social, diversificação de renda, novo rural, relações campo-cidade, alocação de mão de obra, economia familiar]
+
+Linguagem Natural: [O que leva o agricultor a trabalhar fora do sítio?, Fatores que influenciam a pluriatividade, perfil do agricultor pluriativo, a importância do trabalho não-agrícola para a agricultura familiar, análise sobre a dupla jornada no campo]

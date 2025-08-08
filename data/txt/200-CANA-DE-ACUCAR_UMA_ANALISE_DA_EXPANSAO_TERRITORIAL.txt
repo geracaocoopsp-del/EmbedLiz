@@ -1,0 +1,26 @@
+ID do Artigo: 200
+Título Oficial:
+CANA-DE-AÇÚCAR: UMA ANÁLISE DA EXPANSÃO TERRITORIAL
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo analisa a expansão territorial da cultura da cana-de-açúcar no Brasil nas últimas décadas, impulsionada pela demanda por açúcar e, principalmente, por etanol. A pesquisa, utilizando dados de área plantada e técnicas de geoprocessamento, mapeia o avanço da cana sobre novas fronteiras, especialmente no Centro-Sul (SP, MG, GO, MS). Os resultados mostram um processo de intensa "canavialização", com a substituição de pastagens e de outras culturas pela monocultura da cana. O estudo conclui que essa expansão, ao mesmo tempo em que consolida o Brasil como líder mundial do setor, gera profundos impactos na estrutura agrária (concentração de terras), no meio ambiente (perda de biodiversidade) e na segurança alimentar (competição com a produção de alimentos).
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa faz o mapa do "mar de cana" que tem se espalhado pelo Brasil. O estudo usa dados e imagens de satélite para mostrar como a cana-de-açúcar, empurrada pela produção de etanol, avançou sobre novas terras, principalmente em São Paulo, Minas, Goiás e Mato Grosso do Sul. A conclusão é que essa expansão tem dois lados. Por um lado, ela tornou o Brasil o campeão mundial de açúcar e álcool. Por outro, ela trouxe uma série de problemas: a terra ficou ainda mais concentrada nas mãos de poucos, a diversidade de plantas e animais diminuiu e, em muitos lugares, a cana tomou o lugar onde antes se plantava comida.
+
+Pontos-Chave e Achados:
+
+- O artigo mapeia a expansão da fronteira da cana-de-açúcar no Brasil, com foco na região Centro-Sul.
+- A demanda por etanol, tanto interna quanto externa, foi o principal motor dessa expansão.
+- O avanço da cana se deu, majoritariamente, sobre áreas de pastagens, mas também sobre áreas de culturas alimentares e de vegetação nativa.
+- A "canavialização" da paisagem é associada a impactos como a concentração de terras, a expulsão da agricultura familiar e a perda de biodiversidade.
+
+Palavras-Chave:
+Técnicas: [Cana-de-açúcar, expansão territorial, fronteira agrícola, setor sucroenergético, geoprocessamento, uso da terra, monocultura, Brasil]
+
+Conceituais: [Canavialização, modernização agrícola, impacto socioambiental, segurança alimentar, concentração de terras, agronegócio, biocombustíveis]
+
+Linguagem Natural: [Para onde a produção de cana-de-açúcar está se expandindo no Brasil?, O impacto da expansão da cana no meio ambiente, a cana está tomando o lugar da comida?, o que é canavialização?, os efeitos sociais da produção de etanol]

@@ -1,0 +1,26 @@
+ID do Artigo: 121
+Título Oficial:
+AVALIAÇÃO DA SUSTENTABILIDADE AMBIENTAL DE PROPRIEDADES RURAIS DE MINAS GERAIS
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo propõe e aplica uma metodologia para a avaliação da sustentabilidade ambiental de propriedades rurais em Minas Gerais. A pesquisa desenvolve um sistema de indicadores que abrange diferentes dimensões da sustentabilidade, como a conservação do solo e da água, a gestão de resíduos, o uso de agrotóxicos e a conservação da biodiversidade. A aplicação desses indicadores em um conjunto de propriedades permite a criação de um "índice de sustentabilidade" e a identificação dos principais pontos fortes e fracos. O estudo conclui que a metodologia é uma ferramenta de diagnóstico útil, que pode ajudar os agricultores a identificarem áreas para melhoria e os gestores de políticas a direcionarem as ações de fomento à agricultura sustentável.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa cria uma espécie de "boletim ambiental" para as fazendas de Minas Gerais. O estudo desenvolveu um conjunto de perguntas e de medidas para dar uma "nota de sustentabilidade" para as propriedades rurais. Essa nota leva em conta um monte de coisas: se o agricultor cuida para a terra não erodir, se ele protege as nascentes, se ele dá um destino correto para as embalagens de agrotóxicos, etc. A conclusão é que essa ferramenta é muito útil. Com ela, o próprio agricultor pode fazer um "autodiagnóstico" da sua fazenda, para ver onde ele está bem e onde precisa melhorar. E, para o governo, a ferramenta ajuda a saber quais são os principais problemas ambientais da região, para poder criar políticas de ajuda mais focadas.
+
+Pontos-Chave e Achados:
+
+- O artigo apresenta uma metodologia baseada em indicadores para a avaliação da sustentabilidade ambiental de propriedades rurais.
+- O sistema de indicadores abrange as principais dimensões da gestão ambiental no nível da propriedade (solo, água, resíduos, biodiversidade).
+- A aplicação da metodologia permite um diagnóstico dos pontos críticos e das boas práticas, gerando um "índice de sustentabilidade".
+- A ferramenta pode ser utilizada tanto para o autodiagnóstico pelo agricultor quanto para o monitoramento de políticas de desenvolvimento rural sustentável.
+
+Palavras-Chave:
+Técnicas: [Avaliação de sustentabilidade, indicadores ambientais, sustentabilidade rural, gestão ambiental, boas práticas agrícolas, Minas Gerais, diagnóstico de propriedade]
+
+Conceituais: [Sustentabilidade, desempenho ambiental, agricultura sustentável, serviços ecossistêmicos, gestão de agroecossistemas, desenvolvimento rural]
+
+Linguagem Natural: [Como medir a sustentabilidade de uma fazenda?, Indicadores de sustentabilidade para a agricultura, avaliação ambiental de propriedades rurais, diagnóstico de boas práticas agrícolas em Minas Gerais, como tornar minha fazenda mais sustentável?]

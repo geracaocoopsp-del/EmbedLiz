@@ -1,0 +1,26 @@
+ID do Artigo: 35
+Título Oficial:
+AGRICULTURA FAMILIAR E PNAE: DIFERENTES CONTEXTOS DURANTE A PANDEMIA DO CORONAVIRUS
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo analisa os impactos da pandemia de COVID-19 na execução do Programa Nacional de Alimentação Escolar (PNAE) e suas consequências para a agricultura familiar em diferentes contextos no Brasil. Com a suspensão das aulas, a principal via de comercialização para muitos agricultores foi interrompida. O estudo, por meio da análise de diferentes realidades locais, investiga as soluções emergenciais adotadas, como a distribuição de kits de alimentos para as famílias dos alunos. A pesquisa conclui que a crise sanitária evidenciou a dependência da agricultura familiar em relação ao PNAE e a necessidade de criar mecanismos mais resilientes e diversificados para garantir tanto a continuidade do programa em cenários adversos quanto a estabilidade econômica dos produtores.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa investiga o que aconteceu com os pequenos agricultores que vendiam sua produção para a merenda escolar (PNAE) quando as escolas fecharam durante a pandemia. Em diferentes lugares do Brasil, essa foi uma quebra enorme na principal fonte de renda de muitas famílias. O estudo analisa as soluções que foram improvisadas para lidar com o problema, como a montagem de cestas básicas com os produtos da agricultura familiar para serem entregues aos pais dos alunos. A principal conclusão é que a pandemia deixou claro o quanto esses agricultores dependem do programa da merenda escolar e mostrou que é preciso ter planos alternativos e mais canais de venda para que, em uma próxima crise, o impacto não seja tão devastador.
+
+Pontos-Chave e Achados:
+
+- A suspensão das aulas durante a pandemia causou uma interrupção abrupta na execução do PNAE, afetando diretamente a renda dos agricultores familiares.
+- A Lei nº 13.987/2020, que autorizou a distribuição dos alimentos do PNAE às famílias dos estudantes, foi uma resposta política crucial.
+- A implementação de soluções alternativas, como os kits de alimentação, variou muito entre os municípios, dependendo da capacidade de gestão local.
+- A pandemia reforçou a importância de fortalecer e diversificar os canais de comercialização para a agricultura familiar, para além dos mercados institucionais.
+
+Palavras-Chave:
+Técnicas: [PNAE, agricultura familiar, COVID-19, segurança alimentar e nutricional, mercados institucionais, políticas públicas, alimentação escolar, Lei 13.987/2020]
+
+Conceituais: [Resiliência, vulnerabilidade, gestão de crises, circuitos curtos de comercialização, política alimentar, direito à alimentação]
+
+Linguagem Natural: [Impacto da pandemia na merenda escolar, como ficou o PNAE na pandemia?, agricultores que vendem para o PNAE, distribuição de kits de alimentação, o que aconteceu com a agricultura familiar na pandemia?]

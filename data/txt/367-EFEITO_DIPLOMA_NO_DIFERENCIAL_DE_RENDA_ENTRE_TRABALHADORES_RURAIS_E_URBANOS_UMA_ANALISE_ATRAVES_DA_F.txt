@@ -1,0 +1,26 @@
+ID do Artigo: 367
+Título Oficial:
+EFEITO DIPLOMA NO DIFERENCIAL DE RENDA ENTRE TRABALHADORES RURAIS E URBANOS: UMA ANÁLISE ATRAVÉS DA FRONTEIRA DE POSSIBILIDADES DE PRODUÇÃO
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo investiga o "efeito diploma", ou seja, o prêmio salarial obtido pela conclusão de um nível de ensino, e como ele contribui para o diferencial de renda entre trabalhadores rurais e urbanos no Brasil. A pesquisa utiliza uma abordagem metodológica baseada na Fronteira de Possibilidades de Produção para analisar como a educação impacta a produtividade e, consequentemente, os rendimentos. Os resultados mostram que o "efeito diploma" é significativo em ambos os meios, mas o retorno da educação é substancialmente maior no meio urbano. O estudo conclui que, para reduzir a desigualdade de renda entre o campo e a cidade, não basta apenas aumentar a escolaridade no meio rural; é preciso também criar oportunidades de trabalho qualificado que permitam a valorização desse capital humano.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa estuda o quanto o "canudo" na mão faz diferença no salário de quem trabalha no campo e de quem trabalha na cidade. O estudo mostra que, sim, ter o diploma aumenta o salário nos dois lugares. O problema é que o "prêmio" por ter estudado é muito maior na cidade. Um diploma de faculdade, por exemplo, aumenta muito mais o salário de um trabalhador urbano do que o de um trabalhador rural. A conclusão é que, para diminuir a diferença de renda entre o campo e a cidade, não adianta só construir mais escolas no interior. É preciso também criar empregos bons e qualificados no meio rural, para que as pessoas que estudaram tenham onde usar o seu conhecimento e ser bem pagas por isso.
+
+Pontos-Chave e Achados:
+
+- O artigo mede o "efeito diploma" e seu impacto no diferencial de renda rural-urbano.
+- O retorno da educação (o prêmio salarial por ano de estudo) é significativamente maior no meio urbano.
+- A simples expansão da escolaridade no campo, sem a correspondente geração de postos de trabalho qualificados, pode não ser suficiente para reduzir a desigualdade de renda.
+- A metodologia da Fronteira de Possibilidades de Produção é utilizada de forma inovadora para analisar a relação entre educação e produtividade do trabalho.
+
+Palavras-Chave:
+Técnicas: [Efeito diploma, retorno da educação, diferencial de renda rural-urbano, capital humano, fronteira de possibilidades de produção, economia da educação]
+
+Conceituais: [Mercado de trabalho, desigualdade de renda, produtividade do trabalho, desenvolvimento econômico, mobilidade social, dualismo estrutural]
+
+Linguagem Natural: [Por que quem trabalha no campo ganha menos que na cidade?, O diploma vale mais na cidade do que no campo?, Retorno da educação para trabalhadores rurais, como diminuir a diferença de salário entre campo e cidade?, impacto da escolaridade na renda]

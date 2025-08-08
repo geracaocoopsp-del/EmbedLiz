@@ -1,0 +1,26 @@
+ID do Artigo: 75
+Título Oficial:
+ANÁLISE DO IMPACTO DA COVID-19 NA SEGURANÇA ALIMENTAR EM CABO VERDE: ESTUDO DE CASO NO BAIRRO DA ACHADA SANTO ANTÓNIO
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo analisa o impacto da pandemia de COVID-19 na segurança alimentar dos moradores do bairro de Achada Santo António, na cidade da Praia, em Cabo Verde. Por meio de um estudo de caso com aplicação de questionários, a pesquisa avalia como a crise sanitária, com suas restrições e impactos na renda, afetou o acesso das famílias aos alimentos. Os resultados revelam um aumento significativo da insegurança alimentar no bairro, especialmente entre os trabalhadores informais, que perderam sua fonte de renda. O estudo destaca a vulnerabilidade das populações urbanas pobres e a importância de políticas de proteção social, como a distribuição de cestas básicas, para mitigar os efeitos da crise.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa foi a um bairro da capital de Cabo Verde para medir o tamanho da fome durante a pandemia. O estudo conversou com as famílias para entender como a crise da COVID-19, que deixou muita gente sem trabalho, afetou a capacidade delas de colocar comida na mesa. A conclusão é que o impacto foi brutal: a insegurança alimentar aumentou muito, principalmente para as pessoas que dependiam do trabalho informal e que, de uma hora para outra, ficaram sem nenhuma renda. O estudo de caso mostra o quão frágeis são as populações pobres das cidades e como, em uma crise como essa, a ajuda do governo com cestas básicas e outros auxílios se torna absolutamente essencial para a sobrevivência.
+
+Pontos-Chave e Achados:
+
+- O estudo de caso em um bairro da capital de Cabo Verde revela o impacto severo da pandemia na segurança alimentar urbana.
+- A perda de renda, especialmente no setor informal, foi o principal gatilho para o aumento da insegurança alimentar.
+- As famílias adotaram estratégias de coping, como a redução da qualidade e da quantidade de alimentos e o endividamento.
+- A pesquisa evidencia a necessidade de redes de proteção social mais fortes e ágeis para responder a crises que afetam a segurança alimentar em contextos urbanos.
+
+Palavras-Chave:
+Técnicas: [Segurança alimentar, COVID-19, impacto da pandemia, estudo de caso, Cabo Verde, insegurança alimentar urbana, vulnerabilidade social, proteção social]
+
+Conceituais: [Segurança alimentar e nutricional, pobreza urbana, informalidade, estratégias de coping, resiliência, política social]
+
+Linguagem Natural: [Como a pandemia afetou a segurança alimentar em Cabo Verde?, Impacto da COVID-19 em populações urbanas na África, estudo de caso sobre fome na cidade da Praia, vulnerabilidade de trabalhadores informais na pandemia, políticas de combate à fome em Cabo Verde]

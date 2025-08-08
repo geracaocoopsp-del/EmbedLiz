@@ -1,0 +1,22 @@
+Identificação Básica:
+ID do Artigo: 374
+Título Oficial: EFICIÊNCIA TÉCNICA E CICLO DE VIDA EM COOPERATIVAS: UMA ANÁLISE DE DADOS EM PAINEL
+Link para Download: (A ser adicionado)
+
+Resumo Sintético:
+O artigo investiga a eficiência técnica e o ciclo de vida das cooperativas brasileiras, analisando se a ineficiência está presente em cooperativas que descontinuaram suas operações entre 2004 e 2014. Utilizando a Análise Envoltória de Dados (DEA) e testes de hipótese, o estudo conclui que as cooperativas descontinuadas foram mais ineficientes, apresentando menores níveis de receitas, folha de pagamento, despesas administrativas e ativo não circulante. O estudo destaca a importância da eficiência técnica para a sobrevivência e o crescimento das cooperativas.
+
+Expansão Semântica:
+Descrição Expandida em Linguagem Natural: Este estudo explora por que algumas cooperativas no Brasil falham, investigando se a falta de eficiência técnica é um fator determinante. A pesquisa analisa dados de cooperativas que fecharam ou foram incorporadas, comparando-as com cooperativas que continuaram ativas. O artigo mostra que as cooperativas que descontinuaram suas operações eram, de fato, menos eficientes. A pesquisa é relevante para gestores de cooperativas, consultores e formuladores de políticas públicas que buscam entender os fatores de sucesso e fracasso no cooperativismo e como melhorar a eficiência das cooperativas.
+
+Pontos-Chave e Achados Específicos:
+- O estudo analisou 450 cooperativas financeiras brasileiras entre 2008 e 2017.
+- A metodologia utilizada foi a Análise Envoltória de Dados (DEA).
+- As cooperativas descontinuadas apresentaram menores níveis de receitas, folha de pagamento, despesas administrativas e ativo não circulante.
+- O estudo conclui que a ineficiência técnica é um fator determinante para a descontinuidade das cooperativas.
+- A pesquisa sugere que a eficiência técnica é crucial para a sobrevivência e o crescimento das cooperativas.
+
+Palavras-Chave:
+Termos Técnicos: Eficiência Técnica, Ciclo de Vida, Cooperativas, DEA (Análise Envoltória de Dados), Descontinuidade, Ineficiência.
+Termos Conceituais: Desempenho Organizacional, Sustentabilidade, Gestão, Fatores de Sucesso e Fracasso, Análise de Dados em Painel.
+Termos em Linguagem Natural: "por que cooperativas falham", "eficiência em cooperativas", "gestão de cooperativas", "ciclo de vida de cooperativas", "análise de desempenho de cooperativas", "como cooperativas podem ser mais eficientes".

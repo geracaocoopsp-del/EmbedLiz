@@ -1,0 +1,26 @@
+ID do Artigo: 241
+Título Oficial:
+CONSTRUÇÃO DE UM MODELO LÓGICO DO PLANO ABC (AGRICULTURA DE BAIXA EMISSÃO DE CARBONO) COMO UMA PROPOSTA DE AVALIAÇÃO
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo propõe a construção de um Modelo Lógico como ferramenta para a avaliação do Plano Setorial de Mitigação e de Adaptação às Mudanças Climáticas para a Consolidação de uma Economia de Baixa Emissão de Carbono na Agricultura (Plano ABC). A pesquisa descreve, de forma teórica e metodológica, como o Modelo Lógico pode ser utilizado para sistematizar os componentes do plano – insumos, atividades, produtos, resultados e impactos – e clarificar sua teoria da mudança. O estudo conclui que a aplicação do Modelo Lógico permite uma avaliação mais estruturada e eficaz do Plano ABC, ajudando a identificar gargalos e a medir o progresso em direção aos seus objetivos de forma mais clara e objetiva.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa propõe uma maneira mais organizada de avaliar se o Plano ABC (o plano do governo para uma agricultura mais sustentável) está realmente funcionando. A ferramenta sugerida é o "Modelo Lógico", que funciona como um mapa do plano. Esse mapa mostra de forma clara quais recursos são usados (insumos), o que é feito com eles (atividades), o que se espera entregar (produtos) e, o mais importante, quais mudanças se espera causar na agricultura e no meio ambiente (resultados e impactos). A conclusão é que usar esse "mapa" torna a avaliação do Plano ABC muito mais eficiente, pois ajuda a entender exatamente o que está dando certo, o que está dando errado e se o plano está, de fato, atingindo seus grandes objetivos.
+
+Pontos-Chave e Achados:
+
+- O Modelo Lógico é uma ferramenta de planejamento e avaliação que ajuda a visualizar a teoria da mudança de uma política pública.
+- A aplicação do Modelo Lógico ao Plano ABC permite desdobrar seus objetivos complexos em componentes mensuráveis e interligados.
+- A estrutura do modelo facilita a identificação de indicadores de monitoramento e avaliação para cada etapa do plano.
+- O artigo defende que essa abordagem pode qualificar o debate sobre a efetividade do Plano ABC e orientar futuros aprimoramentos.
+
+Palavras-Chave:
+Técnicas: [Modelo Lógico, avaliação de políticas públicas, Plano ABC, agricultura de baixo carbono, teoria da mudança, monitoramento e avaliação, metodologia de avaliação]
+
+Conceituais: [Efetividade de políticas, planejamento estratégico, gestão por resultados, política ambiental, sustentabilidade, governança]
+
+Linguagem Natural: [Como avaliar o Plano ABC?, O que é um Modelo Lógico?, Ferramentas para avaliação de políticas públicas, o Plano de Agricultura de Baixo Carbono está funcionando?, teoria da mudança aplicada a programas de governo]

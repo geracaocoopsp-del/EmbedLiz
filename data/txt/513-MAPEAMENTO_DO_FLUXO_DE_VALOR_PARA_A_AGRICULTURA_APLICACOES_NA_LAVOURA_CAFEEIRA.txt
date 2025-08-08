@@ -1,0 +1,26 @@
+ID do Artigo: 513
+Título Oficial:
+MAPEAMENTO DO FLUXO DE VALOR PARA A AGRICULTURA: APLICAÇÕES NA LAVOURA CAFEEIRA
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo explora a aplicação da ferramenta Mapeamento do Fluxo de Valor (MFV), originária da manufatura enxuta (lean manufacturing), para a análise e melhoria de processos na lavoura cafeeira. A pesquisa descreve, através de um estudo de caso, como o MFV pode ser utilizado para mapear todas as etapas do processo produtivo do café, desde o plantio até a pós-colheita, identificando atividades que agregam valor e as que geram desperdícios (como esperas, transportes e estoques desnecessários). O estudo conclui que o MFV é uma ferramenta poderosa e adaptável para a gestão agrícola, permitindo visualizar os gargalos e orientar ações de melhoria contínua para aumentar a eficiência e a rentabilidade da produção de café.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa pega uma ferramenta da indústria, o "Mapeamento do Fluxo de Valor", e a aplica na roça de café. Essa ferramenta funciona como um desenhista que coloca no papel, passo a passo, tudo o que acontece na produção do café, desde o preparo da terra até o grão seco pronto para ser vendido. O objetivo é separar o que é realmente importante e agrega valor ao café daquilo que é só desperdício de tempo, dinheiro e trabalho. A conclusão é que essa ferramenta, que nasceu nas fábricas, funciona muito bem na agricultura. Ela ajuda o cafeicultor a enxergar claramente onde estão os problemas e a pensar em soluções para tornar sua fazenda mais eficiente e lucrativa.
+
+Pontos-Chave e Achados:
+
+- O Mapeamento do Fluxo de Valor (MFV) é uma ferramenta da filosofia "lean" que pode ser adaptada com sucesso para a gestão de processos agrícolas.
+- A aplicação do MFV na lavoura cafeeira permite a identificação e quantificação de desperdícios em todas as etapas do ciclo produtivo.
+- O mapa do estado atual serve como um diagnóstico visual que facilita a identificação de oportunidades de melhoria.
+- O artigo demonstra a versatilidade do MFV como uma ferramenta de gestão para a busca da eficiência operacional na agricultura.
+
+Palavras-Chave:
+Técnicas: [Mapeamento do Fluxo de Valor (MFV), lean agriculture, gestão de processos, cafeicultura, melhoria contínua, eficiência operacional, gestão da produção]
+
+Conceituais: [Filosofia lean, agregação de valor, desperdício (muda), gestão da qualidade total (TQM), pensamento enxuto, otimização de processos]
+
+Linguagem Natural: [Como aplicar o Mapeamento do Fluxo de Valor no café?, O que é lean na agricultura?, Ferramentas para melhorar a gestão da fazenda de café, como identificar desperdícios na produção agrícola?, otimização da colheita de café]

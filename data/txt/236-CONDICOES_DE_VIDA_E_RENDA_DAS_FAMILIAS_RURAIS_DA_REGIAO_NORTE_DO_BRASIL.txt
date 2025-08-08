@@ -1,0 +1,26 @@
+ID do Artigo: 236
+Título Oficial:
+CONDIÇÕES DE VIDA E RENDA DAS FAMÍLIAS RURAIS DA REGIÃO NORTE DO BRASIL
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo traça um perfil das condições de vida e de renda das famílias rurais da Região Norte do Brasil. Utilizando microdados de pesquisas domiciliares (PNAD), o estudo analisa indicadores de acesso a serviços básicos (saneamento, energia), de renda e de pobreza. Os resultados pintam um quadro de profunda precariedade e desigualdade. A população rural da Amazônia apresenta os piores indicadores sociais do país, com baixíssima renda, alta incidência de pobreza e um enorme déficit de acesso a serviços básicos. O estudo conclui que o desenvolvimento da Região Norte passa, necessariamente, pela formulação de políticas públicas massivas e integradas, que consigam superar os desafios logísticos e levar cidadania e oportunidades para a população rural da Amazônia.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa faz um raio-x da pobreza no campo na Região Norte do Brasil, e o resultado é assustador. Usando os dados do IBGE, o estudo mostra que a vida do povo do interior da Amazônia é muito dura. A renda é a mais baixa do Brasil, a pobreza é gigantesca e a maioria das casas não tem acesso a coisas básicas, como água tratada e esgoto. A conclusão é que não dá para pensar em desenvolver a Amazônia sem olhar para essa realidade. É preciso um "Plano Marshall" para o interior da região, com investimentos pesados em estradas, escolas, postos de saúde e saneamento, para tirar essa gente do abandono e levar um mínimo de dignidade e de oportunidade para quem vive na floresta.
+
+Pontos-Chave e Achados:
+
+- O artigo apresenta um diagnóstico socioeconômico da população rural da Região Norte, a mais pobre do Brasil.
+- Os indicadores de renda, pobreza e acesso a serviços de infraestrutura domiciliar são significativamente piores do que a média rural nacional.
+- A precariedade das condições de vida é um desafio estrutural, agravado pelas grandes distâncias e pela complexidade logística da região.
+- O estudo destaca a urgência de políticas públicas intersetoriais e com forte dotação orçamentária para reverter o quadro de exclusão social no meio rural amazônico.
+
+Palavras-Chave:
+Técnicas: [Condições de vida, renda, pobreza rural, Região Norte, Amazônia, PNAD, indicadores sociais, desigualdade regional]
+
+Conceituais: [Pobreza multidimensional, exclusão social, vulnerabilidade, desenvolvimento regional, questão amazônica, políticas públicas]
+
+Linguagem Natural: [Como é a vida no interior da Amazônia?, A pobreza na zona rural da Região Norte, as condições de vida dos ribeirinhos, desigualdade social na Amazônia, desafios para o desenvolvimento do Norte do Brasil]

@@ -1,0 +1,26 @@
+ID do Artigo: 197
+Título Oficial:
+Breve análise da trajetória da modernização na agricultura resultado da política de assistência técnica e extensão rural
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo realiza uma breve análise histórica da trajetória da modernização da agricultura brasileira, focando no papel desempenhado pela política de Assistência Técnica e Extensão Rural (ATER). A pesquisa argumenta que o modelo de ATER implementado no Brasil a partir dos anos 50, conhecido como "difusionista", foi um instrumento central da Revolução Verde. Ele atuou na disseminação de um pacote tecnológico baseado em insumos químicos, mecanização e sementes melhoradas, sendo crucial para o aumento da produtividade, mas também gerando consequências sociais e ambientais negativas, como o êxodo rural, a concentração de terras e a degradação ambiental.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa faz um resumo da história de como a agricultura brasileira ficou "moderna", e mostra que a Assistência Técnica e Extensão Rural (ATER) foi uma peça-chave nesse processo. O estudo explica que o modelo de extensão rural que o Brasil adotou foi o de "difusão": a ideia era que os técnicos levassem para o campo as "novidades" da ciência, como os agrotóxicos, os adubos químicos e os tratores. A conclusão é que essa estratégia deu certo em partes: a produção de alimentos realmente aumentou muito. Mas o preço foi alto: esse modelo também ajudou a expulsar o pequeno agricultor do campo, a concentrar a terra nas mãos de poucos e a criar uma série de problemas ambientais que enfrentamos até hoje.
+
+Pontos-Chave e Achados:
+
+- O artigo analisa o papel da ATER como um dos pilares da modernização conservadora da agricultura brasileira.
+- O modelo difusionista de extensão rural foi eficaz na disseminação do pacote tecnológico da Revolução Verde.
+- Essa modernização resultou em um expressivo aumento da produtividade agrícola.
+- Ao mesmo tempo, gerou profundas transformações sociais (êxodo rural, concentração de renda) e ambientais (dependência de insumos, contaminação).
+
+Palavras-Chave:
+Técnicas: [Modernização da agricultura, extensão rural (ATER), Revolução Verde, modelo difusionista, história da agricultura, política agrícola]
+
+Conceituais: [Modernização conservadora, difusão de inovações, pacote tecnológico, questão agrária, impacto socioambiental, desenvolvimento rural]
+
+Linguagem Natural: [Qual o papel da extensão rural na modernização da agricultura?, O que foi a Revolução Verde no Brasil?, Crítica ao modelo difusionista de ATER, história da EMATER, consequências da modernização no campo]

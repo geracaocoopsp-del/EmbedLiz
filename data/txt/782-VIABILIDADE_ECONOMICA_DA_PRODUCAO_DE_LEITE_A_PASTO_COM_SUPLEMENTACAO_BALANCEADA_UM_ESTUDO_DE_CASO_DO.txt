@@ -1,0 +1,32 @@
+**Síntese Otimizada para IA**
+
+**Identificação Básica:**
+*   **ID do Artigo:** Artigo 52
+*   **Título Oficial:** VIABILIDADE ECONÔMICA DA PRODUÇÃO DE LEITE A PASTO COM SUPLEMENTAÇÃO BALANCEADA: UM ESTUDO DE CASO DO MUNICÍPIO DE SÃO JOSÉ DO RIO PRETO/SP
+*   **Link para Download:** (Será adicionado posteriormente)
+
+**Resumo Sintético (O núcleo):**
+Este estudo de caso avalia a viabilidade econômica da produção de leite a pasto com suplementação balanceada em uma propriedade rural no município de São José do Rio Preto, São Paulo. A pesquisa, baseada em dados de custos e receitas, demonstra que esse sistema de produção, quando bem manejado, pode ser economicamente viável e rentável, mesmo com a volatilidade dos preços do leite. O estudo destaca a importância da suplementação estratégica e do controle de custos para otimizar a margem de lucro e garantir a sustentabilidade da atividade leiteira.
+
+**Expansão Semântica:**
+*   **Descrição Expandida em Linguagem Natural:**
+    *   Este trabalho investiga se criar gado de leite solto no pasto, mas com uma alimentação extra balanceada, dá lucro para o produtor. O estudo acompanhou uma fazenda em São José do Rio Preto, São Paulo, e mostrou que, se o manejo for feito direitinho, mesmo com o preço do leite variando, a atividade pode ser bem lucrativa. A ideia principal é que não basta só ter o gado no pasto; é preciso dar um complemento certo na comida e controlar bem os gastos para que a produção de leite seja financeiramente saudável.
+    *   A pesquisa explora a sustentabilidade econômica de um sistema de produção de leite que combina o pastejo com a suplementação. O artigo, através de um estudo de caso, analisa os fatores que influenciam a rentabilidade da atividade, como os custos de produção, os preços de venda e a eficiência do manejo. Os resultados indicam que a pecuária leiteira a pasto, com uma estratégia nutricional adequada, pode ser uma alternativa viável e lucrativa para os produtores, contribuindo para a diversificação da produção e para o desenvolvimento rural.
+
+*   **Pontos-Chave e Achados Específicos:**
+    *   **Objeto de Estudo:** Viabilidade econômica da produção de leite a pasto com suplementação balanceada.
+    *   **Localização:** São José do Rio Preto, São Paulo.
+    *   **Sistema de Produção:** Leite a pasto com suplementação balanceada.
+    *   **Resultados:** O sistema pode ser economicamente viável e rentável.
+    *   **Fatores de Sucesso:** Manejo adequado, suplementação estratégica, controle de custos.
+    *   **Desafios:** Volatilidade dos preços do leite, necessidade de conhecimento técnico para o manejo da pastagem e da suplementação.
+    *   **Metodologia:** Estudo de caso com análise de custos e receitas.
+
+*   **Palavras-Chave (O "Mapa" para a IA):**
+    *   **Termos Técnicos:** Pecuária leiteira, produção a pasto, suplementação, viabilidade econômica, rentabilidade, estudo de caso, São José do Rio Preto.
+    *   **Termos Conceituais:** Gestão rural, custos de produção, mercado de leite, sustentabilidade, eficiência produtiva.
+    *   **Termos em Linguagem Natural (Sinônimos e Perguntas):** "produção de leite dá lucro?", "gado de leite no pasto", "suplementação para vacas leiteiras", "como ganhar dinheiro com leite?", "custos da produção de leite", "pecuária leiteira sustentável", "manejo de gado de leite".
+
+Com este último resumo, todos os arquivos da pasta `Artigos 6º EBPC - parte 2` foram processados e seus resumos otimizados foram salvos na pasta `Resumos otimizados - parte 2`.
+
+Há mais alguma pasta que você gostaria que eu resumisse ou alguma outra tarefa em que eu possa ajudar?

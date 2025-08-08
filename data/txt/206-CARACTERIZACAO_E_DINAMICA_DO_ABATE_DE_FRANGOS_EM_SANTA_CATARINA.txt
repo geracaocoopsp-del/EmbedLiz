@@ -1,0 +1,28 @@
+**Identificação Básica:**
+*   **ID do Artigo:** 206
+*   **Título Oficial:** CARACTERIZAÇÃO E DINÂMICA DO ABATE DE FRANGOS EM SANTA CATARINA
+*   **Link para Download:** (Será adicionado posteriormente)
+
+**Resumo Sintético (O núcleo):**
+Este artigo caracteriza a dinâmica do abate de frangos em Santa Catarina entre 2013 e 2020, com foco na concentração da agroindústria avícola. A tese central é que o setor de abate de frangos em Santa Catarina, já concentrado desde sua origem, intensificou ainda mais essa concentração no período analisado. Houve uma redução significativa no número de frigoríficos, especialmente os de menor porte, enquanto os grandes estabelecimentos ampliaram sua capacidade de abate e sua participação no mercado, consolidando um modelo de produção verticalizado e dominado por poucas empresas.
+
+**Expansão Semântica:**
+
+*   **Descrição Expandida em Linguagem Natural:**
+    *   O estudo faz um retrato de como a indústria de abate de frangos em Santa Catarina mudou ao longo de quase uma década, mostrando que as grandes empresas ficaram ainda maiores e as pequenas diminuíram ou fecharam.
+    *   Analisa o processo de "concentração" no setor, onde poucas empresas controlam a maior parte da produção, e como isso afeta o mercado e os produtores de frango.
+    *   Explica que essa concentração é uma característica antiga da avicultura catarinense, mas que ela se acelerou nos últimos anos, com as grandes empresas comprando ou absorvendo as menores.
+    *   O artigo serve para entender a evolução de um dos setores mais importantes do agronegócio brasileiro, mostrando os desafios e as tendências para a produção de carne de frango.
+
+*   **Pontos-Chave e Achados Específicos:**
+    *   **Contexto:** Santa Catarina é um dos principais produtores de carne de frango do Brasil, com a avicultura sendo uma atividade econômica crucial para o estado.
+    *   **Concentração do Setor:** O número total de abatedouros de frangos em Santa Catarina diminuiu 27,3% entre 2013 e 2020. Essa redução foi mais acentuada em estabelecimentos com inspeção estadual (SIE) e municipal (SIM), enquanto os com inspeção federal (SIF) mantiveram-se mais estáveis.
+    *   **Crescimento dos Grandes:** Os frigoríficos de maior porte (acima de 50 milhões de aves/ano) aumentaram sua participação no total de abates, passando de 53,9% em 2013 para 58,9% em 2020. Os três maiores frigoríficos foram responsáveis por 94,5% dos abates em 2020.
+    *   **Fatores da Concentração:** A concentração é impulsionada por crises cíclicas (como a "crise do milho" e a "Operação Carne Fraca"), que afetam mais os pequenos e médios produtores, e pela busca por eficiência e escala dos grandes *players*.
+    *   **Importância da Inspeção Federal (SIF):** Os estabelecimentos com SIF são responsáveis pela maioria absoluta dos abates (97,75% em 2020), o que reflete a importância da certificação para o acesso a mercados maiores (nacional e internacional).
+    *   **Conclusão Principal:** A agroindústria avícola catarinense está em um processo contínuo de concentração, com os grandes frigoríficos consolidando sua dominância. Essa dinâmica tem implicações para a competitividade, a distribuição de renda na cadeia e a sustentabilidade dos pequenos e médios produtores.
+
+*   **Palavras-Chave (O "Mapa" para a IA):**
+    *   **Termos Técnicos:** Abate de Frangos, Avicultura, Agroindústria Avícola, Santa Catarina, Concentração Industrial, Inspeção Federal (SIF), Inspeção Estadual (SIE), Inspeção Municipal (SIM), Cadeia Produtiva da Carne de Frango.
+    *   **Termos Conceituais:** Economia Industrial, Estrutura de Mercado, Competitividade, Integração Vertical, Agronegócio, Crises Econômicas, Segurança Alimentar.
+    *   **Termos em Linguagem Natural (Sinônimos e Perguntas):** "produção de frango em Santa Catarina", "concentração de frigoríficos", "mercado de carne de frango no Brasil", "inspeção de alimentos", "grandes empresas de frango", "crise do milho e avicultura", "impacto da Operação Carne Fraca", "futuro da avicultura brasileira", "como funciona o abate de frangos".

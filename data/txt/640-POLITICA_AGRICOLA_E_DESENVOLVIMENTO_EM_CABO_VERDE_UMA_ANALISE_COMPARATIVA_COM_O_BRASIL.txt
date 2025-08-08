@@ -1,0 +1,26 @@
+ID do Artigo: 640
+Título Oficial:
+POLÍTICA AGRÍCOLA E DESENVOLVIMENTO EM CABO VERDE: UMA ANÁLISE COMPARATIVA COM O BRASIL
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo realiza uma análise comparativa das políticas agrícolas e de desenvolvimento rural em Cabo Verde e no Brasil. A pesquisa investiga as semelhanças e diferenças nas estratégias adotadas pelos dois países para fortalecer a agricultura, com foco em áreas como crédito rural, assistência técnica e mercados institucionais. Os resultados mostram que, apesar das enormes diferenças de escala, ambos os países enfrentam desafios semelhantes, como a necessidade de apoiar a agricultura familiar e de lidar com a vulnerabilidade climática. O estudo conclui que a experiência brasileira com programas como o Pronaf e o PAA, embora não seja diretamente transferível, pode oferecer lições e inspirações importantes para o desenho de políticas públicas mais eficazes para o contexto de Cabo Verde.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa põe lado a lado as políticas para a agricultura de dois países muito diferentes, Brasil e Cabo Verde, para ver o que um pode aprender com o outro. O estudo mostra que, mesmo com a diferença de tamanho, os problemas dos pequenos agricultores são parecidos nos dois lugares: dificuldade para conseguir crédito, falta de assistência técnica e vulnerabilidade às mudanças do clima. A conclusão é que o Brasil, por ter programas mais antigos e consolidados, como o Pronaf (crédito) e o PAA (compra de alimentos), tem uma experiência que pode ser muito útil para Cabo Verde. Não se trata de copiar o modelo, mas de se inspirar nas lições aprendidas aqui para criar soluções que funcionem para a realidade de lá.
+
+Pontos-Chave e Achados:
+
+- O artigo utiliza a análise comparativa de políticas como metodologia para extrair lições entre diferentes contextos nacionais.
+- O Brasil serve como um "caso de referência" devido à sua longa e complexa trajetória de políticas para a agricultura familiar.
+- Desafios como a segurança alimentar, a gestão de recursos hídricos e o fortalecimento da agricultura familiar são comuns a ambos os países.
+- A cooperação Sul-Sul é destacada como um caminho importante para a troca de experiências em políticas públicas, com o Brasil tendo potencial para apoiar o desenvolvimento agrícola em países africanos.
+
+Palavras-Chave:
+Técnicas: [Política agrícola, análise comparativa, desenvolvimento rural, Cabo Verde, Brasil, Pronaf, PAA, cooperação Sul-Sul]
+
+Conceituais: [Transferência de políticas, aprendizado institucional, política comparada, segurança alimentar, agricultura familiar, desenvolvimento internacional]
+
+Linguagem Natural: [Comparação da política agrícola do Brasil e Cabo Verde, o que o Brasil pode ensinar sobre agricultura para a África?, lições do Pronaf para outros países, cooperação técnica Brasil-África, desenvolvimento rural em Cabo Verde]

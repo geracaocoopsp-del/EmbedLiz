@@ -1,0 +1,26 @@
+ID do Artigo: 703
+Título Oficial:
+RELAÇÕES ENTRE PREÇOS DE MILHO E DE ETANOL NO BRASIL / PRICE RELATION BETWEEN CORN AND ETHANOL IN BRAZIL
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo investiga a relação de longo prazo e a transmissão de preços entre os mercados de milho e de etanol no Brasil, especialmente após o crescimento da produção de etanol de milho. Utilizando modelos econométricos de séries temporais (como o de cointegração), a pesquisa analisa se os preços dos dois produtos se movem juntos e quem influencia quem. Os resultados indicam a existência de uma relação de cointegração, sugerindo um equilíbrio de longo prazo entre os preços. A análise de causalidade aponta que, cada vez mais, o preço do etanol tem influenciado o preço do milho, e não apenas o contrário, refletindo a crescente importância da demanda por milho para a produção de biocombustível.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa estuda como o preço do milho e o preço do etanol se influenciam no Brasil, principalmente agora que o país está produzindo muito etanol a partir do milho. O estudo usa modelos estatísticos para ver se, quando um preço sobe, o outro vai atrás. A conclusão é que sim, os dois preços andam juntos no longo prazo. E o mais interessante é que a direção da influência está mudando: antigamente, era o preço do milho (como custo de produção) que influenciava o preço do etanol. Agora, com tanta usina usando milho, o preço do etanol (a demanda) também está puxando o preço do milho para cima. Isso mostra o quanto a indústria do etanol de milho já se tornou importante para a economia do agronegócio.
+
+Pontos-Chave e Achados:
+
+- O estudo utiliza a econometria de séries temporais para analisar a relação entre os preços do milho e do etanol.
+- Foi encontrada uma relação de cointegração, indicando que os dois mercados estão interligados no longo prazo.
+- A crescente produção de etanol de milho no Brasil fortaleceu a conexão entre os dois mercados.
+- A análise de causalidade de Granger sugere uma relação bidirecional, com o preço do etanol exercendo uma influência cada vez maior sobre o preço do milho.
+
+Palavras-Chave:
+Técnicas: [Transmissão de preços, cointegração, causalidade de Granger, séries temporais, etanol de milho, mercado de commodities, econometria]
+
+Conceituais: [Integração de mercados, formação de preços, agronegócio, biocombustíveis, lei da oferta e da procura, mercado de energia]
+
+Linguagem Natural: [O preço do etanol afeta o preço do milho?, Relação entre o mercado de milho e de etanol, cointegração de preços no agronegócio, como a produção de etanol de milho impacta o mercado?, análise de preços de commodities]

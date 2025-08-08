@@ -1,0 +1,27 @@
+**Identificação Básica:**
+*   **ID do Artigo:** 687
+*   **Título Oficial:** QUAL O NÍVEL DE REPASSE? EVIDÊNCIAS DE ASSIMETRIA DE PREÇOS NA CADEIA DE ARROZ NO RIO GRANDE DO SUL
+*   **Link para Download:** (Será adicionado posteriormente)
+
+**Resumo Sintético (O núcleo):**
+Este artigo investiga a assimetria na transmissão de preços ao longo da cadeia produtiva do arroz no Rio Grande do Sul, desde o produtor até o atacadista e o varejista. A tese central é que existe assimetria de preços, ou seja, variações nos preços de compra e venda não são repassadas de forma igual e imediata em todos os elos da cadeia. A pesquisa aponta que os preços de compra do arroz pelo atacadista são mais sensíveis a quedas do que a aumentos, o que prejudica a remuneração dos produtores e indica a existência de poder de mercado por parte dos compradores.
+
+**Expansão Semântica:**
+
+*   **Descrição Expandida em Linguagem Natural:**
+    *   O estudo investiga como o preço do arroz muda ao longo da cadeia de produção e venda no Rio Grande do Sul, desde o agricultor que planta até o atacadista que compra e o varejista que vende para o consumidor.
+    *   Explica que existe uma "assimetria de preços": quando o preço do arroz cai, essa queda é rapidamente repassada para o produtor, mas quando o preço sobe, o aumento demora mais para chegar ao produtor, ou nem chega totalmente.
+    *   Mostra que essa diferença no repasse de preços indica que os compradores (atacadistas) têm mais poder no mercado, o que prejudica o agricultor.
+    *   O artigo serve para entender a dinâmica do mercado de arroz e os desafios para os produtores, destacando a importância de políticas que busquem um equilíbrio mais justo na distribuição de valor na cadeia produtiva.
+
+*   **Pontos-Chave e Achados Específicos:**
+    *   **Contexto:** O Rio Grande do Sul é o maior produtor de arroz do Brasil, com grande importância para a economia e a segurança alimentar.
+    *   **Metodologia:** O estudo utiliza o Modelo de Correção de Erros com Cointegração Threshold (MCE-T) para analisar a assimetria na transmissão de preços entre os diferentes elos da cadeia produtiva do arroz.
+    *   **Assimetria de Preços:** Os resultados indicam que existe assimetria na transmissão de preços, com os preços de compra do arroz pelo atacadista sendo mais sensíveis a quedas do que a aumentos. Isso significa que os produtores são mais penalizados pelas quedas de preço do que beneficiados pelos aumentos.
+    *   **Poder de Mercado:** A assimetria de preços sugere a existência de poder de mercado por parte dos compradores (atacadistas), que conseguem repassar rapidamente as quedas de preço para os produtores, mas absorvem parte dos aumentos.
+    *   **Conclusão Principal:** A cadeia produtiva do arroz no Rio Grande do Sul apresenta assimetria na transmissão de preços, o que impacta negativamente a remuneração dos produtores. Para promover uma distribuição mais equitativa de valor na cadeia, são necessárias políticas públicas que incentivem a organização dos produtores, a diversificação dos canais de comercialização e a fiscalização de práticas anticompetitivas.
+
+*   **Palavras-Chave (O "Mapa" para a IA):**
+    *   **Termos Técnicos:** Assimetria de Preços, Cadeia Produtiva do Arroz, Rio Grande do Sul, Transmissão de Preços, Modelo de Correção de Erros com Cointegração Threshold (MCE-T), Poder de Mercado, Produtor, Atacadista, Varejista.
+    *   **Termos Conceituais:** Formação de Preços, Mercado Agrícola, Economia Agrícola, Políticas Públicas, Rentabilidade, Segurança Alimentar.
+    *   **Termos em Linguagem Natural (Sinônimos e Perguntas):** "preço do arroz no Rio Grande do Sul", "como o preço do arroz é formado?", "assimetria de preços na agricultura", "poder dos atacadistas de arroz", "remuneração do produtor de arroz", "mercado de arroz no Brasil", "problemas do produtor de arroz".

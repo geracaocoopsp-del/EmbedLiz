@@ -1,0 +1,43 @@
+**Identificação Básica:**
+
+*   **ID do Artigo:** 707
+*   **Título Oficial:** RELAÇÃO ENTRE AS ESTRUTURAS DE GOVERNANÇA E AS FORMAS DE CONDUTAS (COOPERATIVAS E CORPORATIVAS) DAS COOPERATIVAS AGROPECUÁRIAS
+*   **Link para Download:** (Será adicionado posteriormente)
+
+**Resumo Sintético:**
+
+Este estudo investiga a relação entre as estruturas de governança (mercado, híbrida e hierárquica) e as formas de conduta (cooperativa e corporativa) em cooperativas agropecuárias do Rio Grande do Sul e Paraná. A pesquisa, de caráter descritivo-quantitativo, utilizou questionários e concluiu que a estrutura de governança híbrida, que combina elementos de mercado e hierarquia, é a mais adequada para coordenar transações complexas. O estudo também revelou que a conduta cooperativa predomina nas atividades das cooperativas, mas que a estrutura de governança híbrida e a conduta cooperativa não apresentam correlação significativa. O artigo destaca a importância de uma governança assertiva para o sucesso das cooperativas, que equilibre os objetivos econômicos e sociais.
+
+**Expansão Semântica:**
+
+*   **Descrição Expandida em Linguagem Natural:**
+    *   O artigo explora como as cooperativas agrícolas do Rio Grande do Sul e do Paraná são gerenciadas e como isso afeta a forma como elas agem. A pesquisa analisou diferentes modelos de gestão (como o mercado, que é mais livre; a hierarquia, que é mais controlada; e o híbrido, que mistura os dois) e descobriu que o modelo híbrido é o melhor para lidar com as transações mais complicadas. O estudo também mostra que, embora as cooperativas ajam de forma cooperativa, a forma como elas são gerenciadas (a governança) nem sempre está diretamente ligada a essa conduta. Em resumo, é preciso ter uma boa governança que consiga equilibrar a busca por resultados financeiros com os valores de cooperação, para que a cooperativa seja bem-sucedida.
+    *   Este trabalho investiga a relação entre a forma como as cooperativas agropecuárias são organizadas (sua governança) e a forma como elas se comportam (se são mais cooperativas ou mais parecidas com empresas tradicionais). A pesquisa conclui que a estrutura de governança híbrida, que combina elementos de mercado e hierarquia, é a mais eficiente para coordenar as transações complexas. O artigo destaca que, embora a conduta cooperativa seja predominante, a relação entre a governança e a conduta não é tão direta quanto se poderia esperar. A pesquisa sugere que as cooperativas precisam de uma governança assertiva que promova o alinhamento de interesses e a cooperação, para que a cooperativa cumpra seu papel social e econômico de forma eficaz.
+
+*   **Pontos-Chave e Achados Específicos:**
+    *   **Objeto de Estudo:** Relação entre as estruturas de governança (mercado, híbrida e hierárquica) e as formas de conduta (cooperativa e corporativa) em cooperativas agropecuárias.
+    *   **Metodologia:** Pesquisa descritivo-quantitativa, com questionários aplicados a 40 cooperativas agropecuárias do RS e PR.
+    *   **Estruturas de Governança:**
+        *   **Mercado:** Transações simples, baixo custo de transação.
+        *   **Hierárquica:** Transações complexas, alto custo de transação.
+        *   **Híbrida:** Combina elementos de mercado e hierarquia, mais adequada para transações complexas.
+    *   **Formas de Conduta:**
+        *   **Cooperativa:** Foco na participação, solidariedade, autogestão.
+        *   **Corporativa:** Foco na eficiência, lucro, competitividade.
+    *   **Principal Achado:** A estrutura de governança híbrida é a mais adequada para coordenar transações complexas. A conduta cooperativa predomina nas atividades das cooperativas.
+    *   **Ausência de Correlação Significativa:** A estrutura de governança híbrida e a conduta cooperativa não apresentam correlação significativa.
+    *   **Conclusão:** É crucial uma governança assertiva que equilibre os objetivos econômicos e sociais, promovendo a cooperação e a competitividade para o sucesso das cooperativas.
+
+*   **Palavras-Chave:**
+    *   **Termos Técnicos:** Governança Corporativa, Cooperativas Agropecuárias, Estruturas de Governança (Mercado, Híbrida, Hierárquica), Formas de Conduta (Cooperativa, Corporativa), Economia dos Custos de Transação (ECT), Teoria da Agência.
+    *   **Termos Conceituais:** Gestão Cooperativa, Competitividade, Sustentabilidade, Transparência, Conflitos de Interesse, Alinhamento Estratégico.
+    *   **Termos em Linguagem Natural (Sinônimos e Perguntas):**
+        *   "como cooperativas são gerenciadas"
+        *   "modelos de governança em cooperativas"
+        *   "cooperativas são empresas?"
+        *   "conflito entre lucro e valores em cooperativas"
+        *   "gestão de cooperativas agrícolas"
+        *   "como cooperativas se organizam"
+        *   "diferença entre cooperativa e empresa tradicional"
+        *   "governança em cooperativas do RS e PR"
+        *   "eficiência em cooperativas"

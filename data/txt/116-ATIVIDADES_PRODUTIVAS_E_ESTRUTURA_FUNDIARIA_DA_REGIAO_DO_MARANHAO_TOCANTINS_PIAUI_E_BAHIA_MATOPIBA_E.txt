@@ -1,0 +1,26 @@
+ID do Artigo: 116
+Título Oficial:
+ATIVIDADES PRODUTIVAS E ESTRUTURA FUNDIÁRIA DA REGIÃO DO MARANHÃO, TOCANTINS, PIAUÍ E BAHIA (MATOPIBA) E SEUS MUNICÍPIOS
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo realiza uma caracterização das atividades produtivas e da estrutura fundiária da região do MATOPIBA, a última grande fronteira agrícola do Brasil. Utilizando dados dos Censos Agropecuários, a pesquisa mapeia a predominância da produção de grãos (soja, milho, algodão) em grandes estabelecimentos rurais, em contraste com a agricultura familiar voltada para a subsistência. Os resultados revelam uma estrutura agrária altamente concentrada e um modelo de desenvolvimento baseado na expansão do agronegócio. O estudo conclui que, apesar do dinamismo econômico, o modelo do MATOPIBA aprofunda a concentração de terras e gera intensos conflitos socioambientais, com a expulsão de posseiros e a degradação do Cerrado.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa faz um raio-x da região do MATOPIBA (que pega partes do Maranhão, Tocantins, Piauí e Bahia), a mais nova fronteira do agronegócio no Brasil. O estudo usa dados do governo para mostrar o que se produz por lá e quem são os donos da terra. O retrato é claro: de um lado, gigantescas fazendas de soja, milho e algodão, de propriedade de grandes empresários. Do outro, pequenos agricultores tentando sobreviver com suas roças de subsistência. A conclusão é que o modelo de crescimento do MATOPIBA, apesar de gerar muita riqueza, está criando um "apartheid" no campo: a terra fica cada vez mais concentrada nas mãos de poucos, os pequenos posseiros são expulsos e o Cerrado é destruído a um ritmo alarmante.
+
+Pontos-Chave e Achados:
+
+- O MATOPIBA é caracterizado por um modelo de agronegócio baseado na monocultura de grãos em larga escala.
+- A estrutura fundiária da região é uma das mais concentradas do Brasil, com o predomínio de grandes latifúndios.
+- A expansão da fronteira agrícola no MATOPIBA tem gerado graves conflitos pela posse da terra e intensos impactos ambientais, como o desmatamento do Cerrado.
+- O artigo contrapõe a narrativa do MATOPIBA como "celeiro do mundo" com a realidade da exclusão social e da degradação ambiental.
+
+Palavras-Chave:
+Técnicas: [MATOPIBA, fronteira agrícola, estrutura fundiária, agronegócio, Censo Agropecuário, uso da terra, soja, conflitos agrários]
+
+Conceituais: [Concentração de terras, questão agrária, desenvolvimento regional, modernização agrícola, conflitos socioambientais, Cerrado]
+
+Linguagem Natural: [O que é o MATOPIBA?, Estrutura da posse de terra no MATOPIBA, o avanço da soja no Nordeste, conflitos por terra no Cerrado, impacto ambiental do agronegócio no MATOPIBA]

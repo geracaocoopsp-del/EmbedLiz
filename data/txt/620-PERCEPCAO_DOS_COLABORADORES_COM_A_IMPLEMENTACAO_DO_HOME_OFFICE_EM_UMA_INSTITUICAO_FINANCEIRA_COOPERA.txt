@@ -1,0 +1,26 @@
+ID do Artigo: 620
+Título Oficial:
+PERCEPÇÃO DOS COLABORADORES COM A IMPLEMENTAÇÃO DO HOME OFFICE EM UMA INSTITUIÇÃO FINANCEIRA COOPERATIVA
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo analisa a percepção dos colaboradores de uma instituição financeira cooperativa sobre a implementação do home office, adotado de forma emergencial durante a pandemia de COVID-19. Por meio de um survey, a pesquisa investiga as vantagens e desvantagens do trabalho remoto na visão dos funcionários, abordando temas como produtividade, equilíbrio entre vida pessoal e profissional, e comunicação. Os resultados indicam uma percepção majoritariamente positiva, com os colaboradores valorizando a flexibilidade e a autonomia. No entanto, também apontam desafios, como a dificuldade de desconexão e a perda das interações sociais informais, sugerindo que um modelo híbrido pode ser a solução preferida para o futuro.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa foi ouvir o que os funcionários de uma cooperativa de crédito acharam de trabalhar de casa durante a pandemia. O estudo aplicou um questionário para saber o que eles viram de bom e de ruim nessa experiência. A conclusão é que a maioria gostou da novidade, principalmente por causa da maior flexibilidade de horários e da autonomia para realizar o trabalho. Por outro lado, muitos relataram problemas, como a dificuldade de "desligar" do trabalho no final do dia e a falta que sentem do cafezinho e da conversa com os colegas. O estudo sugere que, para o futuro, o melhor dos mundos talvez seja um modelo misto, com alguns dias em casa e outros no escritório.
+
+Pontos-Chave e Achados:
+
+- A percepção dos colaboradores sobre o home office na cooperativa financeira foi predominantemente positiva.
+- As principais vantagens percebidas foram o aumento da flexibilidade, a autonomia e a economia de tempo e dinheiro com deslocamento.
+- As principais desvantagens foram a dificuldade de separar a vida profissional da pessoal, a sobrecarga de trabalho e a redução da interação social com a equipe.
+- A pesquisa aponta para uma preferência dos colaboradores por um modelo de trabalho híbrido no pós-pandemia.
+
+Palavras-Chave:
+Técnicas: [Home office, trabalho remoto, percepção dos colaboradores, cooperativa de crédito, COVID-19, gestão de pessoas, survey, RH]
+
+Conceituais: [Equilíbrio vida-trabalho, produtividade, cultura organizacional, futuro do trabalho, satisfação no trabalho, comunicação interna]
+
+Linguagem Natural: [O que os funcionários acham do home office?, Vantagens e desvantagens do trabalho remoto, pesquisa de satisfação com home office em cooperativas, futuro do trabalho em bancos, modelo híbrido de trabalho]

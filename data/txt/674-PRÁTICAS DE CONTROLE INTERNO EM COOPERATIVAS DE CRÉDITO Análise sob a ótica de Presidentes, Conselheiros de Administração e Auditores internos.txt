@@ -1,0 +1,22 @@
+Identificação Básica:
+ID do Artigo: 674
+Título Oficial: PRÁTICAS DE CONTROLE INTERNO EM COOPERATIVAS DE CRÉDITO: Análise sob a ótica de Presidentes, Conselheiros de Administração e Auditores internos
+Link para Download: (A ser adicionado)
+
+Resumo Sintético:
+O artigo analisa a percepção de presidentes, conselheiros de administração e auditores internos sobre as práticas de controle interno em cooperativas de crédito. A pesquisa, de natureza exploratória e descritiva, utilizou questionários e análise de dados por meio do teste de Kruskal-Wallis. Os resultados indicam que, embora haja uma percepção geral de que os controles internos são importantes, existem diferenças significativas na percepção entre os grupos, especialmente em relação à avaliação de riscos e às atividades de controle. O estudo destaca a importância de alinhar a percepção dos diferentes níveis de gestão para fortalecer o sistema de controle interno nas cooperativas.
+
+Expansão Semântica:
+Descrição Expandida em Linguagem Natural: Este estudo investiga o que os líderes (presidentes e conselheiros) e os auditores internos de cooperativas de crédito pensam sobre as regras e procedimentos de controle interno. A pesquisa busca entender se todos têm a mesma visão sobre a importância e a eficácia desses controles, que são essenciais para proteger a cooperativa de fraudes e erros. O artigo mostra que, embora todos concordem que os controles são importantes, há diferenças na forma como cada grupo os percebe e os aplica. A pesquisa é relevante para gestores de cooperativas de crédito, auditores e consultores que buscam melhorar a segurança e a eficiência das operações cooperativas.
+
+Pontos-Chave e Achados Específicos:
+- A pesquisa foi realizada com 18 presidentes, 5 auditores internos e 16 conselheiros de administração de cooperativas de crédito.
+- O estudo utilizou o modelo COSO como framework para análise dos controles internos.
+- Os resultados indicam que, embora haja uma percepção geral de que os controles internos são importantes, existem diferenças significativas na percepção entre os grupos.
+- As maiores diferenças foram observadas na avaliação de riscos e nas atividades de controle.
+- O estudo destaca a importância de alinhar a percepção dos diferentes níveis de gestão para fortalecer o sistema de controle interno nas cooperativas.
+
+Palavras-Chave:
+Termos Técnicos: Controle Interno, Cooperativas de Crédito, COSO, Governança Corporativa, Auditoria Interna, Gestão de Riscos.
+Termos Conceituais: Percepção, Alinhamento, Transparência, Segurança, Eficiência, Tomada de Decisão.
+Termos em Linguagem Natural: "controles internos em cooperativas de crédito", "gestão de riscos em cooperativas financeiras", "auditoria em cooperativas", "o que presidentes pensam sobre controle interno", "como melhorar a segurança em cooperativas", "governança em cooperativas de crédito".

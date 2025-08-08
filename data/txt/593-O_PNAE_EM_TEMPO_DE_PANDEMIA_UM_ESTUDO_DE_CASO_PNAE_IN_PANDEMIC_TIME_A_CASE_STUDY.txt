@@ -1,0 +1,26 @@
+ID do Artigo: 593
+Título Oficial:
+O PNAE EM TEMPO DE PANDEMIA: UM ESTUDO DE CASO / PNAE IN PANDEMIC TIME: A CASE STUDY
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo analisa, por meio de um estudo de caso, a implementação do Programa Nacional de Alimentação Escolar (PNAE) durante a pandemia de COVID-19. Com a suspensão das aulas, o estudo investiga como um município se adaptou para continuar executando o programa, focando na estratégia de distribuição de kits de alimentos da agricultura familiar para as famílias dos alunos, conforme autorizado pela Lei nº 13.987/2020. Os resultados mostram que a adaptação foi uma solução emergencial crucial para garantir a segurança alimentar dos estudantes e a continuidade da renda para os agricultores, mas que o processo enfrentou enormes desafios logísticos e operacionais, exigindo grande capacidade de articulação e gestão da prefeitura.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa faz um estudo aprofundado de como uma prefeitura específica conseguiu se virar para não parar o programa da merenda escolar (PNAE) durante a pandemia, mesmo com as escolas fechadas. A solução encontrada foi montar cestas básicas com os produtos que seriam da merenda, comprados dos agricultores locais, e distribuir para as famílias dos alunos. O estudo mostra que essa foi uma jogada de mestre, pois conseguiu, ao mesmo tempo, garantir que as crianças não passassem fome e que os agricultores não perdessem toda a sua renda. No entanto, a pesquisa também revela que colocar isso em prática foi um desafio gigantesco, que exigiu muito jogo de cintura e organização da equipe da prefeitura.
+
+Pontos-Chave e Achados:
+
+- O estudo de caso detalha a adaptação do PNAE em um município durante a pandemia, focando na distribuição de kits de alimentos.
+- A Lei nº 13.987/2020 foi o marco legal que viabilizou essa adaptação, sendo fundamental para a continuidade do programa.
+- A implementação da estratégia exigiu a superação de desafios logísticos (montagem e distribuição dos kits) e de gestão (comunicação com as famílias e agricultores).
+- O caso demonstra a resiliência e a importância do PNAE como uma política pública estruturante para a segurança alimentar e para a agricultura familiar.
+
+Palavras-Chave:
+Técnicas: [PNAE, COVID-19, alimentação escolar, agricultura familiar, estudo de caso, Lei 13.987/2020, implementação de políticas, segurança alimentar]
+
+Conceituais: [Adaptação, resiliência, gestão de crises, política pública, mercados institucionais, direito à alimentação]
+
+Linguagem Natural: [Como o PNAE funcionou na pandemia?, Estudo de caso sobre a merenda escolar na crise, distribuição de kits de alimentação para alunos, Lei 13.987, desafios da alimentação escolar durante a COVID-19]

@@ -1,0 +1,22 @@
+Identificação Básica:
+ID do Artigo: 277
+Título Oficial: COOPERATIVISMO DE CRÉDITO, SISTEMA FINANCEIRO E CRESCIMENTO ECONÔMICO NO RIO GRANDE DO SUL
+Link para Download: (A ser adicionado)
+
+Resumo Sintético:
+O artigo investiga a correlação entre o desenvolvimento financeiro (crédito rural, operações de crédito e presença de cooperativas de crédito) e o crescimento econômico (PIB per capita) no Rio Grande do Sul e suas mesorregiões. A pesquisa, utilizando Regressão Quantílica, conclui que existe uma relação positiva entre o desenvolvimento do sistema financeiro e o crescimento econômico, destacando a importância das cooperativas de crédito como agentes de desenvolvimento regional. O estudo aponta que a oferta e o acesso ao crédito podem promover o crescimento econômico de forma diferenciada em cada região.
+
+Expansão Semântica:
+Descrição Expandida em Linguagem Natural: Este estudo explora como o acesso a crédito e a presença de cooperativas financeiras afetam o crescimento da economia no Rio Grande do Sul. A pesquisa analisa dados de diferentes regiões do estado para entender se o dinheiro emprestado e a atuação das cooperativas realmente impulsionam o desenvolvimento econômico. O artigo mostra que o cooperativismo de crédito tem um papel importante no crescimento regional, especialmente em áreas onde o acesso a serviços bancários tradicionais é limitado. A pesquisa é relevante para formuladores de políticas públicas, gestores de cooperativas e pesquisadores interessados em desenvolvimento regional e finanças cooperativas.
+
+Pontos-Chave e Achados Específicos:
+- A pesquisa utilizou dados de 497 municípios gaúchos e analisou sete mesorregiões.
+- O crédito rural e a presença de cooperativas de crédito contribuem positivamente para o crescimento econômico.
+- As operações de crédito também contribuem para o crescimento econômico, especialmente em algumas mesorregiões.
+- O estudo destaca o papel das cooperativas de crédito como agentes de desenvolvimento regional, especialmente em áreas com menor acesso a serviços bancários tradicionais.
+- A pesquisa sugere que a oferta e o acesso ao crédito podem promover o crescimento econômico de forma diferenciada em cada região.
+
+Palavras-Chave:
+Termos Técnicos: Cooperativismo de Crédito, Sistema Financeiro, Crescimento Econômico, PIB per capita, Regressão Quantílica, Desenvolvimento Regional.
+Termos Conceituais: Crédito Rural, Operações de Crédito, Postos de Atendimento, Inclusão Financeira, Impacto Econômico.
+Termos em Linguagem Natural: "cooperativas de crédito e economia", "crescimento econômico no Rio Grande do Sul", "crédito rural e desenvolvimento", "impacto das cooperativas financeiras", "finanças cooperativas e PIB", "desenvolvimento regional no RS".

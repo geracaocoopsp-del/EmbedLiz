@@ -1,0 +1,26 @@
+ID do Artigo: 192
+Título Oficial:
+Avaliação de impacto ex ante da adoção do fitonematicida Nematus® para controle de nematoides no cultivo da soja
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo realiza uma avaliação de impacto econômico ex ante (antes da adoção em larga escala) do uso do bionematicida Nematus® no controle de nematoides na cultura da soja. A pesquisa estima os benefícios econômicos potenciais da adoção dessa nova tecnologia, calculando o ganho de produtividade e a redução de perdas que seriam obtidos em nível nacional. Os resultados indicam que a adoção do Nematus® tem o potencial de gerar um impacto econômico agregado de centenas de milhões de reais para a sojicultura brasileira, demonstrando o alto retorno do investimento em pesquisa e desenvolvimento de defensivos biológicos como alternativa aos produtos químicos.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa faz uma "previsão do futuro" para calcular o tamanho do benefício que um novo produto biológico, o nematicida Nematus®, pode trazer para as lavouras de soja do Brasil. O estudo estima o quanto os agricultores deixariam de perder com os ataques de nematoides (um tipo de verme que ataca as raízes) se eles usassem esse novo produto. A conclusão é que o impacto seria gigantesco, na casa das centenas de milhões de reais por ano para o setor. O estudo serve para mostrar como o investimento em pesquisa para criar defensivos biológicos, que são mais seguros para o meio ambiente, pode dar um retorno econômico enorme para o país.
+
+Pontos-Chave e Achados:
+
+- O artigo realiza uma avaliação de impacto ex ante, uma metodologia para estimar os benefícios de uma inovação antes de sua difusão.
+- O bionematicida Nematus® é apresentado como uma inovação tecnológica com alto potencial de impacto na produtividade da soja.
+- O controle de nematoides é um dos principais desafios fitossanitários da sojicultura, e os defensivos biológicos são uma alternativa sustentável.
+- A avaliação quantifica o retorno econômico do investimento em P&D, fornecendo um argumento forte para o fomento à pesquisa em controle biológico.
+
+Palavras-Chave:
+Técnicas: [Avaliação de impacto ex ante, bionematicida, Nematus®, controle de nematoides, soja, inovação tecnológica, P&D agrícola, controle biológico]
+
+Conceituais: [Impacto econômico, difusão de inovações, manejo integrado de pragas (MIP), sustentabilidade, biotecnologia, retorno do investimento em pesquisa]
+
+Linguagem Natural: [Qual o impacto do nematicida Nematus na soja?, Avaliação de novos defensivos biológicos, como controlar nematoides na soja?, retorno econômico da pesquisa da Embrapa, o que é avaliação de impacto ex ante?]

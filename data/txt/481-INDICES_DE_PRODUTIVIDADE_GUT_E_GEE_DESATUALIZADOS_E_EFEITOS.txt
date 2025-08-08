@@ -1,0 +1,26 @@
+ID do Artigo: 481
+Título Oficial:
+ÍNDICES DE PRODUTIVIDADE GUT E GEE DESATUALIZADOS E EFEITOS
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo analisa os efeitos da desatualização dos Índices de Produtividade do INCRA, especificamente o Grau de Utilização da Terra (GUT) e o Grau de Eficiência na Exploração (GEE), nos processos de reforma agrária no Brasil. A pesquisa argumenta que a manutenção de índices baseados em dados ultrapassados distorce a classificação dos imóveis rurais como produtivos ou improdutivos. O estudo conclui que essa defasagem funciona como um obstáculo à reforma agrária, permitindo que latifúndios com baixa produtividade real sejam considerados produtivos legalmente, o que dificulta sua desapropriação e perpetua a concentração de terras.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa estuda um problema técnico, mas com consequências sociais enormes: os índices que o INCRA usa para dizer se uma fazenda é produtiva ou não estão velhos e ultrapassados. O estudo mostra que esses índices, o GUT e o GEE, são calculados com base em dados de décadas atrás. A consequência disso é que muitas fazendas que hoje são, na prática, improdutivas, acabam sendo consideradas "produtivas" no papel. A conclusão é que essa defasagem nos índices serve como uma barreira para a reforma agrária. Com os índices desatualizados, fica muito mais difícil para o governo desapropriar latifúndios que não cumprem sua função social, o que acaba ajudando a manter a concentração de terras no Brasil.
+
+Pontos-Chave e Achados:
+
+- Os índices de produtividade do INCRA (GUT e GEE) estão baseados em parâmetros técnicos e dados de produtividade desatualizados.
+- A defasagem dos índices leva a uma classificação incorreta da produtividade dos imóveis rurais, superestimando a eficiência de muitos latifúndios.
+- Essa distorção representa um entrave jurídico e político para a desapropriação de terras para fins de reforma agrária.
+- O artigo defende a atualização urgente dos índices de produtividade como uma medida necessária para a efetivação da função social da propriedade.
+
+Palavras-Chave:
+Técnicas: [Índices de produtividade, GUT (Grau de Utilização da Terra), GEE (Grau de Eficiência na Exploração), INCRA, reforma agrária, função social da propriedade, legislação agrária]
+
+Conceituais: [Questão agrária, concentração de terras, latifúndio improdutivo, política agrária, direito agrário, justiça social]
+
+Linguagem Natural: [Por que a reforma agrária no Brasil é lenta?, O que são os índices de produtividade do INCRA?, Como o INCRA define terra produtiva?, desatualização do GUT e GEE, entraves para a desapropriação de terras]

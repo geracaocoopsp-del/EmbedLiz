@@ -1,0 +1,43 @@
+**Identificação Básica:**
+
+*   **ID do Artigo:** 517
+*   **Título Oficial:** MECANISMOS DE GOVERNANÇA CORPORATIVA DE COOPERATIVAS QUE AFETAM A RESILIÊNCIA ORGANIZACIONAL
+*   **Link para Download:** (Será adicionado posteriormente)
+
+**Resumo Sintético:**
+
+Este estudo investiga os mecanismos de governança corporativa que afetam a resiliência organizacional em cooperativas agropecuárias. A pesquisa, utilizando uma abordagem qualitativa e a técnica de Análise Qualitativa Comparativa (QCA), revelou que a participação dos cooperados nas assembleias e a qualificação do conselho fiscal são os principais aspectos que explicam a resiliência. O estudo conclui que, embora as cooperativas aparentem ser mais resistentes em momentos de crise, sua sobrevivência não é garantida, e a governança corporativa desempenha um papel crucial para fortalecer sua capacidade de adaptação e superar desafios, especialmente em um modelo complexo com objetivos ambíguos.
+
+**Expansão Semântica:**
+
+*   **Descrição Expandida em Linguagem Natural:**
+    *   O artigo explora o que faz com que as cooperativas agrícolas sejam mais fortes e consigam superar crises. A pesquisa descobriu que a participação ativa dos membros nas reuniões e a qualidade do conselho fiscal são os fatores mais importantes para a cooperativa ser resiliente. Isso significa que, quanto mais os cooperados se envolvem e fiscalizam, mais a cooperativa consegue se adaptar e sobreviver. O estudo mostra que a governança (como a cooperativa é administrada) é fundamental para a resiliência, e que não basta ser uma cooperativa para ser forte; é preciso ter uma boa gestão e o envolvimento de todos.
+    *   Este trabalho analisa os mecanismos de governança que tornam as cooperativas mais resilientes. Ele investiga como a forma de administrar a cooperativa influencia sua capacidade de lidar com crises e incertezas. A pesquisa, utilizando uma técnica que compara diferentes casos, identificou que a participação dos cooperados e a qualificação do conselho fiscal são elementos-chave para a resiliência organizacional. O artigo sugere que as cooperativas precisam investir em uma governança transparente e democrática para fortalecer sua capacidade de adaptação e garantir sua sustentabilidade a longo prazo.
+
+*   **Pontos-Chave e Achados Específicos:**
+    *   **Objeto de Estudo:** Mecanismos de governança corporativa que afetam a resiliência organizacional em cooperativas agropecuárias.
+    *   **Metodologia:** Estudo qualitativo, utilizando a técnica de Análise Qualitativa Comparativa (QCA) em cooperativas continuadas e descontinuadas de Mato Grosso do Sul.
+    *   **Principais Fatores de Resiliência:**
+        *   Participação dos cooperados nas assembleias.
+        *   Qualificação do conselho fiscal.
+    *   **Condições para Não Resiliência:**
+        *   Ausência de regimento interno ao conselho fiscal.
+        *   Ausência de serviços de auditoria independente.
+        *   Ausência de participação dos cooperados em assembleias.
+        *   Ausência de separação entre propriedade e controle.
+    *   **Complexidade do Modelo Cooperativo:** As cooperativas são complexas e apresentam objetivos ambíguos, o que exige uma governança eficaz para garantir a resiliência.
+    *   **Limitações:** O estudo não realizou testes específicos para a coordenação da regulação e não aprofundou a relação entre diretores e órgãos reguladores.
+
+*   **Palavras-Chave:**
+    *   **Termos Técnicos:** Governança Corporativa, Resiliência Organizacional, Cooperativas Agropecuárias, Análise Qualitativa Comparativa (QCA), Conselho Fiscal, Assembleia Geral, Separação Propriedade-Controle.
+    *   **Termos Conceituais:** Gestão Cooperativa, Sustentabilidade, Crise, Adaptação, Participação dos Cooperados, Transparência, Oportunismo.
+    *   **Termos em Linguagem Natural (Sinônimos e Perguntas):**
+        *   "como cooperativas se tornam resilientes"
+        *   "governança em cooperativas agrícolas"
+        *   "participação dos membros em cooperativas"
+        *   "conselho fiscal em cooperativas"
+        *   "como cooperativas superam crises"
+        *   "gestão de cooperativas e resiliência"
+        *   "importância da governança para cooperativas"
+        *   "cooperativas são mais fortes na crise?"
+        *   "como garantir a sobrevivência de cooperativas"

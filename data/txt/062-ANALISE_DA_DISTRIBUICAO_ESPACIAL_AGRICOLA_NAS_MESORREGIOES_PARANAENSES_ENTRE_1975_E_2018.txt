@@ -1,0 +1,26 @@
+ID do Artigo: 62
+Título Oficial:
+ANÁLISE DA DISTRIBUIÇÃO ESPACIAL AGRÍCOLA NAS MESORREGIÕES PARANAENSES ENTRE 1975 E 2018
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo analisa a evolução da distribuição espacial da produção agrícola nas mesorregiões do Paraná entre 1975 e 2018. Utilizando dados da produção agrícola municipal, a pesquisa mapeia as transformações na geografia da agricultura paranaense ao longo de quatro décadas. Os resultados mostram um processo de especialização produtiva e de consolidação de "clusters" agrícolas. A mesorregião Oeste se consolidou como o grande polo da produção de grãos (soja e milho) e de carnes, enquanto outras regiões se especializaram em outras culturas, como a cana-de-açúcar no Noroeste. O estudo conclui que a agricultura paranaense passou por uma profunda reestruturação espacial, impulsionada pela modernização e pela lógica de especialização regional.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa faz um filme de 40 anos da agricultura do Paraná, para mostrar como o mapa da produção mudou completamente. O estudo usa os dados de produção de cada cidade para redesenhar o mapa agrícola do estado em diferentes momentos. A conclusão é que o Paraná se transformou num grande "tabuleiro", onde cada região se especializou em uma coisa. A região Oeste virou a "rainha" da soja, do milho e dos frigoríficos. Já a região Noroeste virou a "terra da cana". O estudo mostra como a modernização do campo redesenhou a geografia do estado, criando regiões super especializadas e com vocações bem definidas.
+
+Pontos-Chave e Achados:
+
+- O artigo mapeia a transformação da geografia da agricultura no Paraná ao longo de 43 anos.
+- O processo foi marcado pela especialização produtiva das mesorregiões.
+- A mesorregião Oeste consolidou-se como o principal "cluster" do agronegócio de grãos e carnes do estado.
+- A análise espacial revela a dinâmica da fronteira agrícola interna do Paraná, com o avanço de certas culturas sobre outras.
+
+Palavras-Chave:
+Técnicas: [Distribuição espacial, geografia agrícola, Paraná, mesorregiões, especialização produtiva, análise espacial, Censo Agropecuário, agronegócio]
+
+Conceituais: [Desenvolvimento regional, cluster agrícola, divisão territorial do trabalho, modernização agrícola, dinâmica da paisagem, economia regional]
+
+Linguagem Natural: [Como mudou a agricultura no Paraná nos últimos 40 anos?, O mapa da produção agrícola do Paraná, a especialização da agricultura paranaense, a importância da região Oeste para o agronegócio do PR, história da agricultura no Paraná]

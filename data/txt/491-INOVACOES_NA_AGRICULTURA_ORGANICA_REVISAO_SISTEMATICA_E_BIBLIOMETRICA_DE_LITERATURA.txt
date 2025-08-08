@@ -1,0 +1,26 @@
+ID do Artigo: 491
+Título Oficial:
+INOVAÇÕES NA AGRICULTURA ORGÂNICA: REVISÃO SISTEMÁTICA E BIBLIOMÉTRICA DE LITERATURA
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo realiza uma revisão sistemática e bibliométrica da literatura científica sobre inovações na agricultura orgânica. A pesquisa mapeia a produção acadêmica para identificar quais são os principais tipos de inovação estudados (tecnológicas, organizacionais, sociais), em quais culturas e países a pesquisa está concentrada. Os resultados mostram um campo de pesquisa dinâmico, com um foco crescente em inovações para o manejo de pragas e doenças com insumos biológicos, e em inovações sociais e organizacionais, como as redes de certificação participativa e os circuitos curtos de comercialização. O estudo conclui que a inovação em agricultura orgânica vai muito além da simples substituição de insumos, envolvendo um redesenho profundo dos sistemas de produção e de comercialização.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa faz um grande mapa de tudo o que os cientistas do mundo estão pesquisando sobre "inovações" na agricultura orgânica. O estudo mostra que a pesquisa não está focada apenas em criar novos "venenos" biológicos para substituir os químicos. Pelo contrário, grande parte da ciência hoje está voltada para criar inovações na forma de se organizar, como os sistemas de certificação em grupo (onde os próprios agricultores se fiscalizam) e as novas formas de vender direto para o consumidor (como as cestas e as feiras). A conclusão é que a agricultura orgânica está se mostrando um campo super inovador, não só em tecnologia, mas principalmente em criar novas relações sociais e econômicas mais justas e sustentáveis.
+
+Pontos-Chave e Achados:
+
+- O artigo utiliza a revisão sistemática e bibliométrica para mapear o estado da arte da pesquisa em inovações na agricultura orgânica.
+- As inovações em manejo biológico de pragas e doenças e em saúde do solo são temas centrais na pesquisa tecnológica.
+- As inovações sociais e organizacionais, como os Sistemas Participativos de Garantia (SPGs) e as Comunidades que Sustentam a Agricultura (CSAs), são um campo de pesquisa crescente e de grande importância.
+- A pesquisa em agricultura orgânica é, por natureza, interdisciplinar, envolvendo agronomia, ecologia, sociologia e economia.
+
+Palavras-Chave:
+Técnicas: [Inovação, agricultura orgânica, revisão sistemática, bibliometria, manejo biológico, circuitos curtos, Sistemas Participativos de Garantia (SPG)]
+
+Conceituais: [Inovação social, transição agroecológica, sistemas de inovação, conhecimento local, redes de produtores, sustentabilidade]
+
+Linguagem Natural: [Quais as principais inovações na agricultura orgânica?, Pesquisas sobre controle biológico de pragas, o que são Sistemas Participativos de Garantia?, como funcionam as CSAs?, o futuro da agricultura orgânica]

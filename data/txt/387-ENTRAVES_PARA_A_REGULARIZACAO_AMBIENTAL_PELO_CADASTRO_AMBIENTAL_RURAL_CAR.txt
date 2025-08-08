@@ -1,0 +1,26 @@
+ID do Artigo: 387
+Título Oficial:
+ENTRAVES PARA A REGULARIZAÇÃO AMBIENTAL PELO CADASTRO AMBIENTAL RURAL (CAR)
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo analisa os principais entraves para a efetivação da regularização ambiental das propriedades rurais a partir do Cadastro Ambiental Rural (CAR). A pesquisa, baseada em revisão documental e na análise do processo de implementação do CAR, identifica as principais dificuldades enfrentadas pelos agricultores, especialmente os familiares. Os resultados apontam que, para além da etapa declaratória do CAR, os maiores desafios estão na fase seguinte, a da adesão ao Programa de Regularização Ambiental (PRA), que exige a elaboração de projetos de recuperação caros e complexos. O estudo conclui que, sem um forte apoio de assistência técnica e de políticas de fomento à recuperação, o CAR corre o risco de se tornar um instrumento de diagnóstico sem, contudo, promover a regularização de fato.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa estuda por que, mesmo depois de quase todo mundo ter feito o Cadastro Ambiental Rural (CAR), a regularização ambiental das propriedades não anda. O estudo mostra que fazer o cadastro, que é a primeira etapa, foi a parte fácil. O problema começa agora, na hora de aderir ao Programa de Regularização Ambiental (PRA), que é o que o agricultor precisa fazer se desmatou mais do que podia. Para aderir ao PRA, é preciso contratar um técnico para fazer um projeto caro e complicado de recuperação da área, e a maioria dos pequenos agricultores não tem dinheiro nem ajuda para isso. A conclusão é que, se o governo não criar um grande programa de apoio técnico e financeiro, o CAR vai virar só um mapa do desmatamento, mas não vai conseguir fazer com que as florestas sejam recuperadas.
+
+Pontos-Chave e Achados:
+
+- O artigo analisa os desafios da segunda fase do processo de regularização ambiental, a adesão ao Programa de Regularização Ambiental (PRA).
+- A falta de assistência técnica e extensão rural (ATER) para a elaboração dos Projetos de Recuperação de Áreas Degradadas (PRADAs) é o principal gargalo.
+- O alto custo da recuperação ambiental é uma barreira significativa, especialmente para a agricultura familiar.
+- O estudo alerta para o risco de o CAR se tornar um "cadastro sem consequência", caso a etapa de regularização efetiva não seja viabilizada por políticas de apoio.
+
+Palavras-Chave:
+Técnicas: [Cadastro Ambiental Rural (CAR), Programa de Regularização Ambiental (PRA), regularização ambiental, Código Florestal, assistência técnica (ATER), recuperação de áreas degradadas]
+
+Conceituais: [Política ambiental, governança ambiental, passivo ambiental, legislação ambiental, agricultura familiar, desenvolvimento sustentável]
+
+Linguagem Natural: [Quais os desafios do Cadastro Ambiental Rural?, Dificuldades para aderir ao PRA, como fazer a regularização ambiental da propriedade?, o que acontece depois de fazer o CAR?, política de recuperação de matas ciliares]

@@ -1,0 +1,25 @@
+**Identificação Básica:**
+
+*   **ID do Artigo:** 24
+*   **Título Oficial:** A TRAJETÓRIA, MUDANÇAS ORGANIZACIONAIS E PERSPECTIVAS DE UMA COOPERATIVA DE CRÉDITO SOLIDÁRIO: UM ESTUDO DE CASO EM MINAS GERAIS
+*   **Link para Download:** (Você adicionará este campo depois)
+
+**Resumo Sintético (O núcleo):**
+
+Este artigo analisa a trajetória da cooperativa de crédito Cresol Sudeste de Minas, desde sua origem como Creditag Fervedouro, focada na agricultura familiar, até sua incorporação ao Sistema Cresol. A pesquisa mostra que a transição foi motivada pela busca por legitimidade, pela necessidade de operacionalizar o PRONAF e por pressões do ambiente externo. A filiação ao Sistema Cresol trouxe mudanças organizacionais significativas, como a profissionalização da gestão e a diversificação do público, mas também gerou um dilema entre o crescimento financeiro e a manutenção do caráter solidário e da proximidade com os agricultores familiares.
+
+**Expansão Semântica (A parte crucial para a busca):**
+
+*   **Descrição Expandida em Linguagem Natural:** O estudo conta a história de uma pequena cooperativa de crédito que nasceu para ajudar agricultores familiares e que, para sobreviver e crescer, precisou se juntar a um sistema maior, a Cresol. Essa mudança foi como um "rito de passagem": a cooperativa ganhou mais força, mais dinheiro e mais reconhecimento, mas também teve que se adaptar a novas regras e a um novo jeito de trabalhar. O artigo explora como essa transformação impactou a identidade da cooperativa, que agora precisa equilibrar a busca por resultados financeiros com seus valores originais de solidariedade e apoio à agricultura familiar.
+
+*   **Pontos-Chave e Achados Específicos:**
+    *   A transição da Creditag Fervedouro para o Sistema Cresol foi um processo de isomorfismo coercitivo e mimético.
+    *   A busca por legitimidade e a necessidade de acesso ao PRONAF foram os principais impulsionadores da mudança.
+    *   A filiação ao Sistema Cresol resultou em um crescimento exponencial do patrimônio líquido, dos depósitos e do número de cooperados.
+    *   A cooperativa enfrenta o desafio de expandir sua atuação para o público urbano sem perder sua identidade e seu foco na agricultura familiar.
+    *   A profissionalização da gestão e a padronização de processos são consequências diretas da incorporação ao Sistema Cresol.
+
+*   **Palavras-Chave (O "Mapa" para a IA):**
+    *   **Termos Técnicos:** Cooperativismo de Crédito Solidário, Institucionalismo, Isomorfismo, PRONAF, Agricultura Familiar, Estudo de Caso, Cresol.
+    *   **Termos Conceituais:** Mudança Organizacional, Legitimidade, Trajetória Organizacional, Identidade Cooperativa, Dilema Crescimento vs. Missão Social.
+    *   **Termos em Linguagem Natural (Sinônimos e Perguntas):** "história da Cresol", "cooperativa que virou banco", "crescimento de cooperativas de crédito", "desafios do cooperativismo solidário", "PRONAF e cooperativas", "como uma cooperativa se profissionaliza?", "perda de identidade em cooperativas".

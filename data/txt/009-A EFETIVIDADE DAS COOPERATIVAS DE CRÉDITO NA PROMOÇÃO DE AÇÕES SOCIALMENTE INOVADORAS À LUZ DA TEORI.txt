@@ -1,0 +1,36 @@
+**Identificação Básica:**
+
+*   **ID do Artigo:** 9
+*   **Título Oficial:** A EFETIVIDADE DAS COOPERATIVAS DE CRÉDITO NA PROMOÇÃO DE AÇÕES SOCIALMENTE INOVADORAS À LUZ DA TEORIA INSTITUCIONAL
+*   **Link para Download:** (Será adicionado posteriormente)
+
+**Resumo Sintético:**
+
+Este estudo analisa os limites e as possibilidades das cooperativas de crédito para promover inovações sociais em suas comunidades, utilizando a Teoria Institucional como base. A pesquisa, de natureza qualitativa e baseada em revisão bibliográfica, argumenta que, embora as cooperativas de crédito operem em um ambiente financeiro estruturado e sofram pressões para se assemelharem a bancos tradicionais (isomorfismo), elas ainda conseguem realizar práticas inovadoras e significativas que fortalecem suas comunidades e promovem um desenvolvimento mais equitativo.
+
+**Expansão Semântica:**
+
+*   **Descrição Expandida em Linguagem Natural:**
+    *   O artigo discute se as cooperativas de crédito podem realmente fazer a diferença na sociedade. Ele usa uma teoria que explica como as organizações tendem a ficar parecidas umas com as outras para serem aceitas (a "Teoria Institucional"). A questão é: as cooperativas de crédito estão apenas copiando os grandes bancos ou elas ainda conseguem ter um impacto social positivo? A conclusão é que, mesmo com a pressão para serem competitivas e parecerem bancos normais, as cooperativas de crédito ainda encontram espaço para criar projetos e ações que ajudam a comunidade, como programas de educação financeira, mostrando que é possível equilibrar as demandas do mercado com o propósito social.
+    *   Este trabalho investiga o papel das cooperativas de crédito como agentes de mudança social. Ele explora a tensão entre a necessidade de seguir as regras do sistema financeiro (o que as torna parecidas com bancos) e sua missão de ajudar a comunidade. O estudo conclui que, apesar das forças que as empurram para a homogeneização, as cooperativas de crédito são, de fato, eficazes na promoção de inovações sociais, demonstrando que sua atuação não é inócua e contribui para a transformação social.
+
+*   **Pontos-Chave e Achados Específicos:**
+    *   **Problema Central:** O Brasil enfrenta problemas sociais que demandam a atuação de organizações como as cooperativas de crédito para promover uma sociedade mais justa.
+    *   **Lente Teórica:** A Teoria Institucional e o conceito de isomorfismo são usados para entender por que as organizações em um mesmo campo (como o financeiro) tendem a se tornar semelhantes.
+    *   **Tensão Identificada:** Existe um conflito entre as pressões isomórficas (que levam as cooperativas a agirem como bancos tradicionais, focando no lucro) e sua vocação para a inovação e o impacto social.
+    *   **Conclusão Principal:** Apesar das pressões do mercado e da regulamentação, as cooperativas de crédito conseguem manter sua identidade e promover ações socialmente inovadoras, como a educação financeira, fortalecendo suas comunidades.
+    *   **Limitação:** O artigo aponta que a relação entre a Teoria Institucional e o cooperativismo ainda é um tema pouco explorado na academia, sugerindo a necessidade de mais pesquisas.
+
+*   **Palavras-Chave:**
+    *   **Termos Técnicos:** Cooperativismo de Crédito, Teoria Institucional, Isomorfismo (Coercitivo, Mimético, Normativo), Inovação Social, Educação Financeira, Impacto Social.
+    *   **Termos Conceituais:** Transformação Social, Fortalecimento da Comunidade, Desenvolvimento Local, Legitimidade Organizacional, Homogeneização, Práticas Sociais.
+    *   **Termos em Linguagem Natural (Sinônimos e Perguntas):**
+        *   "cooperativa de crédito é diferente de banco?"
+        *   "papel social das cooperativas"
+        *   "como as cooperativas ajudam a comunidade"
+        *   "pressão do mercado sobre cooperativas"
+        *   "teoria que explica porque empresas ficam iguais"
+        *   "limites da atuação social de cooperativas"
+        *   "cooperativas e educação financeira"
+        *   "organizações que mudam a sociedade"
+        *   "cooperativas estão virando bancos?"

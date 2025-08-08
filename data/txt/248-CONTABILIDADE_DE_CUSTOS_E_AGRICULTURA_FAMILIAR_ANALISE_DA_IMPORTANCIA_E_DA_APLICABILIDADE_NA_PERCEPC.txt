@@ -1,0 +1,26 @@
+ID do Artigo: 248
+Título Oficial:
+CONTABILIDADE DE CUSTOS E AGRICULTURA FAMILIAR: ANÁLISE DA IMPORTÂNCIA E DA APLICABILIDADE NA PERCEPÇÃO DOS PRODUTORES
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo analisa a percepção de agricultores familiares sobre a importância e a aplicabilidade da contabilidade de custos em suas propriedades. A pesquisa, por meio de um survey, investiga se os agricultores fazem algum tipo de controle de custos, quais as dificuldades que encontram e se eles percebem o valor dessa ferramenta para a tomada de decisão. Os resultados mostram que, embora a maioria reconheça a importância de "fazer as contas", a aplicação de um método de custeio, mesmo que simples, ainda é muito rara. As principais barreiras são a falta de tempo, a falta de conhecimento e a percepção de que a contabilidade é algo muito complexo. O estudo conclui que há uma grande lacuna entre a importância e a prática da gestão de custos na agricultura familiar, e que a extensão rural tem um papel fundamental em "traduzir" e simplificar essas ferramentas para a realidade do campo.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa foi perguntar para os pequenos agricultores se eles fazem as contas de quanto gastam para produzir. O estudo descobriu que quase todo mundo acha que isso é muito importante, mas quase ninguém faz. A maioria dos agricultores controla os custos "de cabeça", sem anotar nada. Os principais motivos para não fazer as contas direito são a falta de tempo, a falta de costume e a ideia de que contabilidade é um bicho de sete cabeças. A conclusão é que existe um abismo entre o discurso e a prática. Para que o pequeno agricultor se torne um bom gerente, não basta só ele querer; é preciso que os técnicos da extensão rural o ajudem, ensinando um jeito simples e prático de fazer as contas, que funcione na correria do dia a dia da roça.
+
+Pontos-Chave e Achados:
+
+- O artigo investiga a percepção e a prática da contabilidade de custos na agricultura familiar.
+- Há um reconhecimento da importância da gestão de custos, mas uma baixa aplicabilidade de ferramentas e métodos formais.
+- A falta de conhecimento técnico e a percepção de alta complexidade são as principais barreiras para a adoção.
+- A extensão rural (ATER) tem um papel estratégico na capacitação e na adaptação de ferramentas de gestão para a realidade da agricultura familiar.
+
+Palavras-Chave:
+Técnicas: [Contabilidade de custos, gestão rural, agricultura familiar, tomada de decisão, percepção do produtor, survey, extensão rural]
+
+Conceituais: [Gestão da propriedade rural, profissionalização, letramento financeiro, tomada de decisão, barreiras à adoção, informalidade]
+
+Linguagem Natural: [Por que os pequenos agricultores não fazem controle de custos?, A importância da gestão de custos na agricultura familiar, como simplificar a contabilidade para o produtor rural?, desafios da gestão na pequena propriedade, o papel da ATER na capacitação gerencial]

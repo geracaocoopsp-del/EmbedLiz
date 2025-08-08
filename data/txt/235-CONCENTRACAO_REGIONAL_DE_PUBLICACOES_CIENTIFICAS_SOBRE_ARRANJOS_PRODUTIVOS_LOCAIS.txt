@@ -1,0 +1,26 @@
+ID do Artigo: 235
+Título Oficial:
+CONCENTRAÇÃO REGIONAL DE PUBLICAÇÕES CIENTÍFICAS SOBRE ARRANJOS PRODUTIVOS LOCAIS
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo realiza uma análise bibliométrica para mapear a concentração regional da produção científica brasileira sobre o tema de Arranjos Produtivos Locais (APLs). A pesquisa investiga a origem institucional dos autores e dos estudos de caso, buscando identificar se a pesquisa sobre APLs é geograficamente concentrada. Os resultados mostram uma forte concentração da produção acadêmica nas universidades e centros de pesquisa das regiões Sul e Sudeste. Além disso, os próprios APLs estudados também estão, em sua maioria, localizados nessas regiões. O estudo conclui que existe um "mapa desigual" da pesquisa sobre APLs no Brasil, com as regiões Norte e Nordeste sendo sub-representadas tanto como produtoras de conhecimento quanto como objetos de estudo.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa faz o mapa da ciência sobre Arranjos Produtivos Locais (APLs) no Brasil, para ver de onde vêm os estudos e sobre quais lugares eles falam. A conclusão é que o mapa é muito desigual. A grande maioria dos pesquisadores que estudam o assunto e das universidades que publicam sobre ele está no Sul e no Sudeste. E, para piorar, os próprios "arranjos" que eles estudam também estão, na maioria, no Sul e no Sudeste. O resultado é que a gente sabe muito sobre os APLs de sapato do Rio Grande do Sul, mas quase nada sobre os de artesanato do Nordeste ou os de frutas do Norte. O estudo mostra que a ciência brasileira sobre o desenvolvimento local ainda olha muito para o próprio umbigo.
+
+Pontos-Chave e Achados:
+
+- O artigo utiliza a bibliometria para analisar a distribuição geográfica da pesquisa sobre APLs no Brasil.
+- A produção científica sobre o tema é altamente concentrada nas instituições de ensino e pesquisa do Sul e do Sudeste.
+- Os estudos de caso de APLs também são, predominantemente, focados em arranjos localizados nessas duas regiões.
+- Essa concentração geográfica da pesquisa pode levar a uma compreensão enviesada do fenômeno dos APLs no Brasil e a políticas públicas mal informadas para as demais regiões.
+
+Palavras-Chave:
+Técnicas: [Arranjo Produtivo Local (APL), bibliometria, produção científica, concentração regional, sociologia da ciência, análise espacial do conhecimento]
+
+Conceituais: [Desenvolvimento regional, cluster, geografia da inovação, desigualdade regional, sistema de inovação, produção do conhecimento]
+
+Linguagem Natural: [Onde se pesquisa mais sobre APLs no Brasil?, A concentração da ciência brasileira, por que os estudos sobre APLs se concentram no Sul e Sudeste?, o mapa da produção científica sobre desenvolvimento local, a desigualdade na ciência regional]

@@ -1,0 +1,26 @@
+ID do Artigo: 624
+Título Oficial:
+PERDAS E DESPERDÍCIO DE ALIMENTOS: alguns aspectos do debate
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo apresenta uma revisão conceitual sobre o debate de Perdas e Desperdício de Alimentos (PDA), diferenciando os dois termos e analisando suas principais causas ao longo da cadeia agroalimentar. A pesquisa discute como as "perdas" ocorrem predominantemente nas fases de produção, pós-colheita e processamento, especialmente em países em desenvolvimento, enquanto o "desperdício" está mais concentrado nas fases de varejo e consumo, típico de países desenvolvidos. O estudo conclui que o combate à PDA exige uma abordagem sistêmica, com estratégias distintas para cada elo da cadeia, envolvendo melhorias em infraestrutura, tecnologia, políticas públicas e, fundamentalmente, uma mudança no comportamento dos consumidores.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa faz uma arrumação no debate sobre comida que vai para o lixo, explicando a diferença importante entre "perda" e "desperdício". "Perda" é o que estraga na fazenda, no transporte ou no processamento, um problema mais comum em países pobres. "Desperdício" é o que o supermercado ou a gente joga fora em casa, o que acontece mais em países ricos. A conclusão é que, para resolver esse problema gigantesco, não existe uma solução única. É preciso atacar em várias frentes: melhorar as estradas e os armazéns, usar mais tecnologia para conservar os alimentos, criar leis que incentivem o aproveitamento e, talvez o mais importante, mudar a nossa cultura de comprar mais do que precisamos e de jogar comida boa fora.
+
+Pontos-Chave e Achados:
+
+- O artigo diferencia conceitualmente "perdas de alimentos" (etapas iniciais da cadeia) de "desperdício de alimentos" (etapas finais da cadeia).
+- As causas das perdas estão frequentemente ligadas a deficiências de infraestrutura, tecnologia e manejo pós-colheita.
+- As causas do desperdício estão mais associadas a fatores de mercado (padrões estéticos do varejo) e comportamentais (hábitos de consumo).
+- O combate à PDA é fundamental para a segurança alimentar, para a sustentabilidade ambiental e para a eficiência econômica dos sistemas alimentares.
+
+Palavras-Chave:
+Técnicas: [Perdas e Desperdício de Alimentos (PDA), cadeia agroalimentar, segurança alimentar, perdas pós-colheita, desperdício do consumidor, Food Loss and Waste (FLW)]
+
+Conceituais: [Sustentabilidade, sistemas alimentares, eficiência, comportamento do consumidor, economia circular, gestão da cadeia de suprimentos]
+
+Linguagem Natural: [Qual a diferença entre perda e desperdício de alimentos?, Causas do desperdício de comida, como reduzir as perdas na agricultura?, impacto do desperdício de alimentos no meio ambiente, soluções para o desperdício de comida]

@@ -1,0 +1,26 @@
+ID do Artigo: 185
+Título Oficial:
+Análise de Impacto Econômico e Relações Setoriais entre MATOPIBA e o Restante do Brasil: Uma Abordagem de Insumo-Produto
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo analisa o impacto econômico e as relações comerciais da região do MATOPIBA com o restante do Brasil, utilizando uma abordagem de insumo-produto. A pesquisa constrói uma matriz de insumo-produto inter-regional para medir os encadeamentos produtivos e os efeitos de transbordamento (spillover) da economia do MATOPIBA sobre as demais regiões. Os resultados mostram que o MATOPIBA, apesar de seu dinamismo no agronegócio, ainda é uma economia pouco integrada nacionalmente, funcionando como uma plataforma de exportação de grãos com baixa agregação de valor local e limitados encadeamentos para trás (compra de insumos) e para frente (processamento) com o restante do país.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa usa um modelo econômico complexo (insumo-produto) para entender como a economia do MATOPIBA se conecta com o resto do Brasil. O estudo funciona como um raio-x que mostra para quem o MATOPIBA vende e de quem ele compra. A conclusão é que o MATOPIBA é uma espécie de "ilha" econômica. Ele produz uma quantidade gigantesca de grãos, mas vende quase tudo para fora do país. Ele compra pouca coisa do resto do Brasil e processa muito pouco da sua produção localmente. Ou seja, a riqueza gerada no MATOPIBA "vaza" para o exterior, e os benefícios para a economia do resto do país são muito menores do que poderiam ser se a região fosse mais integrada e industrializada.
+
+Pontos-Chave e Achados:
+
+- O artigo utiliza a metodologia de insumo-produto inter-regional para analisar as relações econômicas do MATOPIBA.
+- A economia do MATOPIBA é caracterizada como um "enclave" de exportação, com fracos encadeamentos produtivos com o restante da economia brasileira.
+- A maior parte dos insumos utilizados na região é importada ou vem de poucas regiões do Centro-Sul.
+- O baixo grau de processamento local da produção de grãos limita a agregação de valor e a geração de empregos qualificados na região.
+
+Palavras-Chave:
+Técnicas: [Insumo-produto, análise inter-regional, MATOPIBA, impacto econômico, encadeamentos produtivos, spillover, economia regional]
+
+Conceituais: [Enclave econômico, integração econômica, agregação de valor, desenvolvimento regional, fronteira agrícola, agronegócio]
+
+Linguagem Natural: [Qual o impacto da economia do MATOPIBA no resto do Brasil?, A economia do MATOPIBA é integrada ao país?, análise de insumo-produto para o agronegócio, por que o MATOPIBA agrega pouco valor?, os efeitos de transbordamento do agronegócio]

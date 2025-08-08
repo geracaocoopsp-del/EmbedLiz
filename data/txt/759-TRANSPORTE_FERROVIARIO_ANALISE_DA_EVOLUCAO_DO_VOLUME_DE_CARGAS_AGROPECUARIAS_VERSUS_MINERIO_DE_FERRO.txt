@@ -1,0 +1,24 @@
+**ID do Artigo:** 759
+
+**Título Oficial:** TRANSPORTE FERROVIÁRIO: ANÁLISE DA EVOLUÇÃO DO VOLUME DE CARGAS AGROPECUÁRIAS VERSUS MINÉRIO DE FERRO
+
+**Link para Download:** (Será adicionado posteriormente)
+
+**Resumo Sintético (O núcleo):**
+Este artigo analisa a evolução do volume de cargas transportadas por ferrovias no Brasil, comparando o setor agropecuário com o minério de ferro. O estudo busca identificar as tendências e a importância relativa de cada tipo de carga para o modal ferroviário, destacando a dinâmica do transporte de commodities no país.
+
+**Expansão Semântica:**
+
+*   **Descrição Expandida em Linguagem Natural:** Este trabalho investiga como a quantidade de produtos agrícolas e de minério de ferro transportados por trens no Brasil mudou ao longo do tempo. Ele compara a importância desses dois tipos de carga para as ferrovias, mostrando quais deles cresceram mais e como isso afeta o sistema de transporte de grandes volumes de mercadorias no país. É uma análise sobre a logística e a movimentação de commodities por via férrea.
+
+*   **Pontos-Chave e Achados Específicos:**
+    *   O estudo foca no transporte ferroviário de cargas no Brasil.
+    *   Compara a evolução do volume de cargas agropecuárias e de minério de ferro.
+    *   Identifica tendências de crescimento ou declínio para cada tipo de carga.
+    *   Analisa a importância relativa de cada setor para o modal ferroviário.
+    *   Pode fornecer insights para o planejamento logístico e investimentos em infraestrutura.
+
+*   **Palavras-Chave (O "Mapa" para a IA):**
+    *   **Termos Técnicos:** Transporte Ferroviário, Cargas Agropecuárias, Minério de Ferro, Logística, Modal de Transporte, Commodities, Volume de Carga, Ferrovias Brasileiras.
+    *   **Termos Conceituais:** Infraestrutura de Transporte, Economia de Transportes, Cadeia de Suprimentos, Desenvolvimento Econômico, Setor Mineral, Setor Agrícola.
+    *   **Termos em Linguagem Natural:** "transporte de grãos por trem", "ferrovia para minério", "logística de exportação agrícola", "transporte de commodities no Brasil", "importância da ferrovia para o agronegócio", "volume de carga ferroviária".

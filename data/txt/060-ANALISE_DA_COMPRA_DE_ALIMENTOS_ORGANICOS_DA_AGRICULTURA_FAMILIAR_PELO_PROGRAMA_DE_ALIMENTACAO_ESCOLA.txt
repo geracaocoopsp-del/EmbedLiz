@@ -1,0 +1,26 @@
+ID do Artigo: 60
+Título Oficial:
+ANÁLISE DA COMPRA DE ALIMENTOS ORGÂNICOS DA AGRICULTURA FAMILIAR PELO PROGRAMA DE ALIMENTAÇÃO ESCOLAR
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo analisa os desafios e as potencialidades da compra de alimentos orgânicos da agricultura familiar pelo Programa Nacional de Alimentação Escolar (PNAE). A pesquisa investiga os fatores que facilitam e os que dificultam a inserção de produtos orgânicos na merenda escolar. Os resultados mostram que, embora a legislação incentive essa prática, a compra de orgânicos ainda é incipiente na maioria dos municípios. Os principais desafios são o preço mais elevado, a baixa escala e a irregularidade da oferta, e a complexidade logística. O estudo conclui que, para avançar, é preciso uma maior articulação entre os gestores públicos e os produtores, a criação de incentivos específicos e a valorização dos benefícios da alimentação orgânica para a saúde dos estudantes.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa estuda por que ainda se compra tão pouca comida orgânica para a merenda escolar, mesmo que a lei incentive isso. O estudo mostra que a ideia é ótima, mas a prática é complicada. Os principais problemas são: o produto orgânico costuma ser um pouco mais caro, os pequenos produtores não conseguem garantir a entrega de grandes quantidades o ano todo e a logística para coletar os produtos de várias pequenas propriedades é um quebra-cabeça. A conclusão é que, para ter mais orgânicos na merenda, não basta a boa vontade. É preciso que as prefeituras se organizem melhor, que criem incentivos para os produtores e que todos (pais, alunos, professores) entendam a importância de uma comida mais saudável para as crianças.
+
+Pontos-Chave e Achados:
+
+- A compra de alimentos orgânicos pelo PNAE é uma estratégia com duplo benefício: promove a agricultura sustentável e melhora a qualidade da alimentação escolar.
+- Os principais entraves para a compra de orgânicos são o preço, a escala de oferta e a logística.
+- A organização dos agricultores em cooperativas e a proatividade dos gestores públicos (nutricionistas, secretários de educação) são fatores-chave para o sucesso da iniciativa.
+- O artigo sugere que o diferencial de preço do orgânico pode ser justificado pelos benefícios à saúde e ao meio ambiente, sendo um investimento, e não um custo.
+
+Palavras-Chave:
+Técnicas: [Alimentos orgânicos, PNAE, alimentação escolar, agricultura familiar, compras públicas, mercados institucionais, análise de políticas]
+
+Conceituais: [Sustentabilidade, segurança alimentar e nutricional, saúde pública, circuitos curtos de comercialização, transição agroecológica]
+
+Linguagem Natural: [Por que a merenda escolar não tem mais produtos orgânicos?, Desafios da compra de orgânicos pelo governo, como vender alimentos orgânicos para o PNAE?, a importância da comida orgânica nas escolas, política de alimentação escolar e sustentabilidade]

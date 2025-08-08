@@ -1,0 +1,22 @@
+ID do Artigo: 492
+Título Oficial: INOVATIVIDADE E DESEMPENHO NAS COOPERATIVAS DE SAÚDE DO PARANÁ
+Link para Download: (Adicionar depois)
+
+Resumo Sintético: Este estudo analisa a inovatividade e o desempenho de cooperativas de saúde no Paraná, investigando se há diferenças significativas entre elas. Através de questionários aplicados a 12 cooperativas e dados da ANS, a pesquisa destaca a importância da liderança e do investimento em capital humano para a inovatividade, e a elevação das vendas de produtos e serviços como indicador de desempenho. Embora o setor seja fortemente regulado, o teste de Kruskal-Wallis não revelou diferenças significativas entre as cooperativas quanto à inovatividade e desempenho, sugerindo que a regulamentação e os princípios cooperativistas as tornam semelhantes.
+
+Expansão Semântica:
+Descrição Expandida em Linguagem Natural: Este artigo explora como as cooperativas de saúde no estado do Paraná se destacam em termos de inovação e performance. Ele investiga se o fato de serem cooperativas, em um setor altamente regulado, as torna mais ou menos inovadoras e eficientes. A pesquisa analisa fatores como a liderança, o investimento em pessoas e a capacidade de adaptação a novas ideias. Em outras palavras, o estudo busca entender se as cooperativas de saúde conseguem inovar e ter um bom desempenho financeiro e operacional, e quais são os elementos que contribuem para isso, considerando as particularidades do setor de saúde e do modelo cooperativista.
+Pontos-Chave e Achados Específicos:
+- O estudo analisou 12 cooperativas de saúde no Paraná, utilizando questionários e dados da ANS.
+- A inovatividade é influenciada pela liderança e investimentos em capital humano.
+- O desempenho é medido pela elevação das vendas de produtos e serviços e pela vantagem competitiva dos serviços.
+- O setor de saúde é fortemente regulado pela ANS.
+- O teste de Kruskal-Wallis não encontrou diferenças significativas entre as cooperativas quanto à inovatividade e desempenho.
+- A regulamentação e os princípios cooperativistas podem levar à semelhança entre as cooperativas.
+- A cooperação entre as cooperativas fortalece o desempenho.
+- A inovatividade é uma forma de potencializar o desempenho, mesmo que não haja grandes diferenças entre as cooperativas estudadas.
+
+Palavras-Chave:
+Termos Técnicos: Inovatividade, Desempenho, Cooperativas de Saúde, Kruskal-Wallis, ANS (Agência Nacional de Saúde Suplementar), Gestão, Liderança, Capital Humano, Vendas, Serviços, Regulação, Princípios Cooperativistas, Schumpeter, Drucker, Qualtrics, SPSS.
+Termos Conceituais: Inovação, Eficiência, Vantagem Competitiva, Setor Regulado, Gestão Estratégica, Cultura Organizacional, Adaptação, Crescimento, Sustentabilidade, Qualidade de Serviço.
+Termos em Linguagem Natural (Sinônimos e Perguntas): Como cooperativas de saúde inovam? Qual o desempenho das cooperativas médicas? Como a regulamentação afeta a inovação em cooperativas? O que faz uma cooperativa de saúde ser bem-sucedida? Inovação em serviços de saúde, gestão de cooperativas médicas, desafios das cooperativas de saúde, como cooperativas de saúde se comparam, o papel da liderança na inovação.

@@ -1,0 +1,26 @@
+ID do Artigo: 641
+Título Oficial:
+POLÍTICA NACIONAL DE AGROECOLOGIA E PRODUÇÃO ORGÂNICA (PNAPO): UMA ANÁLISE INCREMENTAL
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo realiza uma análise da Política Nacional de Agroecologia e Produção Orgânica (PNAPO) do Brasil sob a ótica do incrementalismo, um modelo teórico de análise de políticas públicas. A pesquisa investiga como a PNAPO foi construída a partir de pequenas mudanças e ajustes em políticas preexistentes, em vez de uma ruptura radical. Os resultados mostram que a PNAPO avançou ao articular e dar coerência a diversas ações que já estavam em curso, mas essa natureza incremental também limitou seu alcance, tornando-a dependente da correlação de forças políticas e vulnerável a retrocessos, como os observados em anos recentes com o desmonte de programas associados.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa estuda a PNAPO, a política do governo brasileiro para a agroecologia, usando uma lupa teórica chamada "incrementalismo". Essa teoria diz que as políticas raramente nascem do zero, mas são construídas aos pouquinhos, com pequenas mudanças em coisas que já existem. O estudo mostra que foi exatamente isso que aconteceu com a PNAPO: ela foi uma grande "costura" de várias ações que já estavam espalhadas por aí. Isso foi bom, pois deu mais força e organização ao movimento. O problema, segundo a pesquisa, é que, por ter sido construída assim, "em cima do muro", a política ficou frágil e dependente do governo do momento. Prova disso é que, nos últimos anos, com a mudança de governo, muitas dessas ações foram cortadas, mostrando a vulnerabilidade desse modelo de construção.
+
+Pontos-Chave e Achados:
+
+- A PNAPO é analisada como um exemplo de política pública construída de forma incremental, a partir da articulação de programas existentes.
+- O incrementalismo permitiu a construção de consensos e a aprovação da política, mas também gerou uma estrutura fragmentada e dependente de outras políticas.
+- A efetividade da PNAPO está diretamente ligada à força e à continuidade de programas parceiros, como o PAA, o PNAE e a ATER.
+- A análise incremental ajuda a explicar a vulnerabilidade da PNAPO a mudanças no contexto político e a processos de desfinanciamento e desmonte.
+
+Palavras-Chave:
+Técnicas: [PNAPO, agroecologia, produção orgânica, análise de políticas públicas, incrementalismo, política agrícola, avaliação de políticas]
+
+Conceituais: [Teoria do incrementalismo, processo político, implementação de políticas, advocacy, movimentos sociais, desenvolvimento sustentável]
+
+Linguagem Natural: [Como foi criada a Política Nacional de Agroecologia?, Análise da PNAPO, o que é incrementalismo na análise de políticas?, desafios da agroecologia no Brasil, desmonte de políticas ambientais]

@@ -1,0 +1,26 @@
+ID do Artigo: 389
+Título Oficial:
+ESTADO DA ARTE DA PESQUISA SOBRE CONSUMO DE ALIMENTOS ORGÂNICOS: DETERMINANTES, DISPOSIÇÃO A PAGAR E FATORES DE MERCADO
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo realiza uma revisão da literatura (estado da arte) sobre a pesquisa acadêmica que analisa o consumo de alimentos orgânicos. A pesquisa sistematiza os principais achados em três grandes áreas: os determinantes do consumo (quem compra e por quê), a disposição a pagar um prêmio pelos orgânicos (o quanto a mais o consumidor aceita pagar) e os fatores de mercado que influenciam a demanda (como a disponibilidade e a certificação). Os resultados mostram que o consumidor de orgânicos é tipicamente mais jovem, com maior renda e escolaridade, e é motivado principalmente por preocupações com a saúde. A disposição a pagar um prêmio existe, mas é limitada. O estudo conclui que a expansão do mercado de orgânicos depende da superação de barreiras de preço e de distribuição, e de uma comunicação mais eficaz sobre os benefícios do produto.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa faz um grande resumão de tudo o que a ciência já descobriu sobre o consumidor de alimentos orgânicos. O estudo organiza os achados em três gavetas: 1) Quem é o consumidor e por que ele compra? (Resposta: geralmente, é gente mais nova, com mais estudo e mais dinheiro, e que está preocupada com a saúde). 2) O quanto ele topa pagar a mais? (Resposta: ele topa pagar um pouco a mais, mas não muito). 3) O que ajuda ou atrapalha a venda? (Resposta: ajuda quando o produto é fácil de achar e tem um selo de confiança; atrapalha quando o preço é muito alto). A conclusão é que, para o mercado de orgânicos crescer mais, o desafio é fazer o produto ficar mais barato, chegar em mais lugares e convencer mais gente de que vale a pena.
+
+Pontos-Chave e Achados:
+
+- O artigo é uma revisão da literatura que sintetiza o conhecimento acadêmico sobre o consumo de orgânicos.
+- O perfil do consumidor de orgânicos é bem definido: feminino, jovem, com alta escolaridade e renda, e preocupado com a saúde.
+- A disposição a pagar um prêmio de preço pelos orgânicos é real, mas sensível ao nível de renda e à percepção de valor.
+- A falta de disponibilidade no varejo e a desconfiança em relação à certificação ainda são barreiras importantes para o crescimento do mercado.
+
+Palavras-Chave:
+Técnicas: [Consumo de alimentos orgânicos, revisão da literatura, estado da arte, comportamento do consumidor, disposição a pagar (DAP), marketing de alimentos]
+
+Conceituais: [Consumo sustentável, saudabilidade, nicho de mercado, segmentação de mercado, atributos de valor, confiança]
+
+Linguagem Natural: [Quem são os consumidores de produtos orgânicos?, Por que as pessoas compram alimentos orgânicos?, O consumidor está disposto a pagar mais por orgânicos?, desafios do mercado de orgânicos no Brasil, revisão de pesquisa sobre consumo]

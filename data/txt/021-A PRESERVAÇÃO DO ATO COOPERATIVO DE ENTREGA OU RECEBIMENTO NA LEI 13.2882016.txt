@@ -1,0 +1,26 @@
+**Identificação Básica:**
+
+*   **ID do Artigo:** 21
+*   **Título Oficial:** A PRESERVAÇÃO DO ATO COOPERATIVO DE ENTREGA OU RECEBIMENTO NA LEI 13.288/2016
+*   **Link para Download:** (Você adicionará este campo depois)
+
+**Resumo Sintético (O núcleo):**
+
+Este artigo analisa por que a Lei 13.288/2016, que regula os contratos de integração agroindustrial, excluiu as cooperativas de seu regime. O autor argumenta que a exclusão se justifica por duas razões principais: a natureza fundamentalmente diferente da relação entre cooperado e cooperativa (um vínculo societário) em comparação com a relação entre produtor e indústria (um vínculo contratual); e a inadequação dos mecanismos de proteção da lei (contra dependência econômica e assimetria de informação) aos problemas enfrentados pelas cooperativas, que são mais relacionados a incentivos internos e governança.
+
+**Expansão Semântica (A parte crucial para a busca):**
+
+*   **Descrição Expandida em Linguagem Natural:** O estudo explica por que uma lei criada para proteger o agricultor em sua relação com a grande indústria não se aplica quando essa "indústria" é uma cooperativa. A razão é simples: a natureza da relação é outra. No primeiro caso, temos um contrato entre duas partes com interesses opostos (um quer comprar barato, o outro quer vender caro). No segundo, temos uma relação de sociedade, onde o agricultor é, ao mesmo tempo, fornecedor e dono do negócio. Assim, os problemas são diferentes. Enquanto a lei se preocupa em evitar que a indústria abuse de seu poder, as cooperativas enfrentam desafios internos, como garantir que os cooperados continuem engajados e que a gestão seja eficiente.
+
+*   **Pontos-Chave e Achados Específicos:**
+    *   A Lei 13.288/2016 (LIntegr) não se aplica às cooperativas.
+    *   A relação entre cooperado e cooperativa é um "ato cooperativo", de natureza societária, e não um contrato de integração.
+    *   A relação cooperativa é horizontal, enquanto a relação de integração contratual é vertical e hierarquizada.
+    *   Os problemas da integração contratual são a dependência econômica e a assimetria de informação.
+    *   Os problemas da integração cooperativa são de incentivo, governança e conflitos de interesse entre os próprios cooperados.
+    *   A exclusão das cooperativas da LIntegr preserva a autonomia e as características do ato cooperativo.
+
+*   **Palavras-Chave (O "Mapa" para a IA):**
+    *   **Termos Técnicos:** Ato Cooperativo, Lei 13.288/2016, Contrato de Integração Agroindustrial, Agroindústria Cooperativa, Problemas de Incentivo, Governança Cooperativa, Direito do Agronegócio.
+    *   **Termos Conceituais:** Natureza Jurídica do Ato Cooperativo, Exclusão de Regime Jurídico, Vínculo Societário vs. Vínculo Contratual, Assimetria de Informação, Dependência Econômica, Conflito de Agência.
+    *   **Termos em Linguagem Natural (Sinônimos e Perguntas):** "lei de integração e cooperativas", "por que a lei não se aplica a cooperativas?", "diferença entre cooperativa e empresa", "problemas de governança em cooperativas", "relação entre cooperado e cooperativa", "ato cooperativo e contrato", "proteção do produtor rural".

@@ -1,0 +1,23 @@
+ID do Artigo: 20
+Título Oficial: A PERCEPÇÃO DA ESTRUTURA ORGANIZACIONAL DAS COOPERATIVAS DE CRÉDITO SEGUNDO O PERFIL DOS COLABORADORES
+Link para Download: (Adicionar depois)
+
+Resumo Sintético: Este estudo identifica a percepção dos colaboradores de cooperativas de crédito (Sicredi, Sicoob e Unicred) no Sul do Brasil sobre as estratégias de gestão de pessoas, com foco na estrutura organizacional. A pesquisa, quantitativa e exploratório-descritiva, com 388 respondentes, revela que os colaboradores percebem suas organizações como descentralizadas. Homens, colaboradores com ensino médio e do Unicred apresentaram diferenças significativas nessa percepção. O estudo contribui para entender como o perfil dos colaboradores influencia a percepção da estrutura organizacional e as estratégias de gestão de pessoas.
+
+Expansão Semântica:
+Descrição Expandida em Linguagem Natural: Este artigo investiga como os funcionários de cooperativas de crédito no Sul do Brasil veem a forma como suas empresas são organizadas e gerenciadas, especialmente em relação às estratégias de gestão de pessoas. Ele analisa se a percepção da estrutura organizacional (se é mais centralizada ou descentralizada, hierárquica ou especializada) varia de acordo com o perfil dos colaboradores (gênero, escolaridade, tempo de atuação). O estudo busca entender como as cooperativas de crédito podem melhorar suas práticas de gestão de pessoas para alinhar a percepção dos funcionários com os objetivos da organização. Em outras palavras, o artigo explora como a forma como uma cooperativa é estruturada é percebida por seus colaboradores e como essa percepção pode influenciar o sucesso das estratégias de gestão de pessoas.
+Pontos-Chave e Achados Específicos:
+- A gestão de pessoas é um desafio e um diferencial competitivo para as organizações.
+- O estudo foca na percepção dos colaboradores de cooperativas de crédito sobre a estrutura organizacional e estratégias de gestão de pessoas.
+- A pesquisa é quantitativa e exploratório-descritiva, com 388 respondentes de Sicredi, Sicoob e Unicred.
+- Os colaboradores percebem suas cooperativas como descentralizadas.
+- Homens, colaboradores com ensino médio e do Unicred apresentaram diferenças significativas na percepção da descentralização.
+- A maioria dos respondentes é jovem (até 35 anos), com ensino superior (completo ou incompleto) e atua no atendimento ao associado.
+- A percepção da hierarquização e especialização não apresentou diferenças significativas entre os perfis.
+- O estudo contribui para entender como o perfil dos colaboradores influencia a percepção da estrutura organizacional.
+- A pesquisa sugere a necessidade de aprofundar a relação entre a percepção da estrutura organizacional e as políticas de gestão de pessoas.
+
+Palavras-Chave:
+Termos Técnicos: Estrutura Organizacional, Gestão de Pessoas, Cooperativas de Crédito, Percepção do Colaborador, Descentralização, Hierarquização, Especialização, Pesquisa Quantitativa, Estudo Exploratório-Descritivo, Sicredi, Sicoob, Unicred, Teste t, ANOVA, SPSS, Likert.
+Termos Conceituais: Cultura Organizacional, Clima Organizacional, Engajamento, Satisfação do Colaborador, Eficiência, Eficácia, Competitividade, Desenvolvimento Organizacional, Recursos Humanos.
+Termos em Linguagem Natural (Sinônimos e Perguntas): Como cooperativas de crédito são organizadas? Como os funcionários veem a gestão de pessoas em cooperativas? Qual o impacto da estrutura organizacional nos colaboradores? Desafios da gestão de pessoas em cooperativas de crédito, como cooperativas podem melhorar a percepção de seus funcionários, o papel da descentralização em cooperativas.

@@ -1,0 +1,26 @@
+ID do Artigo: 64
+Título Oficial:
+ANÁLISE DA EFICIÊNCIA DO TEMPO NO PROCESSO DE COLHEITA DE COFFEA CANEPHORA EM PROPRIEDADES FAMILIARES
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo analisa a eficiência do tempo e dos movimentos no processo de colheita manual do café Conilon (*Coffea canephora*) em propriedades familiares. Utilizando a metodologia de estudo de tempos e movimentos, a pesquisa cronometra e mapeia as diferentes etapas da colheita, identificando as atividades que agregam valor e as que representam desperdícios (como deslocamentos desnecessários e esperas). Os resultados mostram que há um grande potencial para o aumento da eficiência da colheita, mesmo sem mecanização. O estudo conclui que a aplicação de princípios simples de organização do trabalho, como a melhoria do layout da lavoura e a padronização dos movimentos, pode aumentar significativamente a produtividade da mão de obra e a rentabilidade da cafeicultura familiar.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa foi para a roça de café com um cronômetro na mão para estudar, em detalhes, como os pequenos agricultores fazem a colheita. O estudo mediu o tempo gasto em cada pequena tarefa, para descobrir onde o tempo e o esforço estavam sendo desperdiçados. A conclusão é que, mesmo sem comprar máquinas caras, é possível colher muito mais café no mesmo dia, só com um pouco de organização. Coisas simples, como planejar o caminho certo para andar na lavoura ou organizar melhor os baldes e os sacos, podem fazer uma diferença enorme. O estudo mostra que, com um pouco de "engenharia de produção" caseira, o agricultor familiar pode aumentar muito a sua produtividade e o seu lucro.
+
+Pontos-Chave e Achados:
+
+- O artigo aplica a metodologia de estudo de tempos e movimentos, da engenharia de produção, para analisar a colheita de café.
+- A colheita manual, como é praticada, apresenta um alto grau de ineficiência, com muitos movimentos e tempos que não agregam valor.
+- Deslocamentos excessivos e a falta de padronização dos métodos de derriça e coleta são os principais pontos de desperdício.
+- A pesquisa propõe melhorias de baixo custo, baseadas na organização do trabalho, que podem gerar ganhos expressivos de produtividade.
+
+Palavras-Chave:
+Técnicas: [Estudo de tempos e movimentos, eficiência de processo, colheita de café, Coffea canephora (Conilon), agricultura familiar, produtividade da mão de obra, engenharia de produção]
+
+Conceituais: [Lean agriculture, melhoria contínua, organização do trabalho, gestão da produção, eficiência, produtividade, cafeicultura]
+
+Linguagem Natural: [Como aumentar a eficiência da colheita de café manual?, Estudo de tempos e movimentos na agricultura, como colher mais café em menos tempo?, melhorando a produtividade na cafeicultura familiar, organização do trabalho na roça]

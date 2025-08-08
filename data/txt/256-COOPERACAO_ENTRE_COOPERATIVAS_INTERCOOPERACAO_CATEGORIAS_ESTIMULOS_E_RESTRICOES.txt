@@ -1,0 +1,26 @@
+ID do Artigo: 256
+Título Oficial:
+COOPERAÇÃO ENTRE COOPERATIVAS (INTERCOOPERAÇÃO): CATEGORIAS, ESTÍMULOS E RESTRIÇÕES
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo realiza uma revisão teórica para categorizar as formas de cooperação entre cooperativas (intercooperação) e identificar os principais estímulos e restrições a essa prática. A pesquisa classifica a intercooperação em diferentes tipos, como vertical, horizontal e setorial, e analisa os fatores que a incentivam, como a busca por economias de escala e poder de mercado, e os que a dificultam, como a desconfiança e o conflito de interesses. O estudo conclui que, embora a intercooperação seja um princípio fundamental do cooperativismo e uma estratégia poderosa, sua efetivação depende da superação de barreiras culturais e da construção de uma governança que alinhe os interesses das cooperativas envolvidas.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa faz um estudo aprofundado sobre a "intercooperação", que é o ato de cooperativas trabalharem juntas. O artigo organiza os diferentes jeitos que elas podem cooperar (por exemplo, uma cooperativa de produtores se unindo a uma de crédito) e investiga o que as leva a se unir e o que as impede. As principais razões para cooperar são a chance de economizar dinheiro fazendo coisas em conjunto e de ganhar mais força no mercado. Os maiores obstáculos são a falta de confiança entre elas e o medo de que os interesses de uma prejudiquem a outra. A conclusão é que, apesar de ser uma ideia central do cooperativismo, fazer a intercooperação acontecer na prática é um desafio que exige a construção de confiança e de regras claras para que todos saiam ganhando.
+
+Pontos-Chave e Achados:
+
+- A intercooperação é o sexto princípio do cooperativismo e uma estratégia vital para a competitividade do setor.
+- O artigo propõe uma tipologia para classificar as diferentes formas de intercooperação (vertical, horizontal, etc.).
+- Os principais estímulos à intercooperação são de natureza econômica (ganhos de escala, poder de barganha) e estratégica (acesso a novos mercados, inovação).
+- As principais restrições são de natureza social e de governança (desconfiança, oportunismo, assimetria de poder, falta de alinhamento).
+
+Palavras-Chave:
+Técnicas: [Intercooperação, cooperação entre cooperativas, governança cooperativa, estratégia competitiva, redes de cooperação, alianças estratégicas]
+
+Conceituais: [Princípios do cooperativismo, ação coletiva, capital social, custos de transação, teoria dos jogos, poder de mercado]
+
+Linguagem Natural: [O que é intercooperação?, Por que as cooperativas devem cooperar entre si?, Desafios da cooperação entre cooperativas, benefícios da intercooperação, exemplos de intercooperação no Brasil]

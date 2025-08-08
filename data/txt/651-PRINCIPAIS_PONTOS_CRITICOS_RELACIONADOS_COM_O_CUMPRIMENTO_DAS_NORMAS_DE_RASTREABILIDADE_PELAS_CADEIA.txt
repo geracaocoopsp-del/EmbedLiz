@@ -1,0 +1,26 @@
+ID do Artigo: 651
+Título Oficial:
+PRINCIPAIS PONTOS CRÍTICOS RELACIONADOS COM O CUMPRIMENTO DAS NORMAS DE RASTREABILIDADE PELAS CADEIAS DE FRUTAS E HORTALIÇAS
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo identifica e analisa os principais pontos críticos para o cumprimento das normas de rastreabilidade nas cadeias produtivas de frutas e hortaliças no Brasil. A pesquisa, baseada na análise da legislação (como a Instrução Normativa Conjunta nº 2 de 2018) e em entrevistas com atores da cadeia, aponta os principais desafios para a implementação. Os resultados mostram que os maiores gargalos estão no elo produtivo, especialmente na agricultura familiar, e incluem a dificuldade de registro das informações, a falta de sistemas adequados e o custo de implementação. O estudo conclui que, para a rastreabilidade ser efetiva, são necessárias políticas de apoio, capacitação e o desenvolvimento de ferramentas tecnológicas acessíveis aos pequenos produtores.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa investiga por que é tão difícil para os produtores de frutas e verduras cumprirem as leis de rastreabilidade, que obrigam a registrar todo o caminho do alimento desde a roça até o supermercado. O estudo mostra que o maior problema está lá na ponta, com o pequeno agricultor. Ele tem dificuldade para anotar todas as informações que a lei exige, não tem acesso a sistemas de computador para fazer isso de forma fácil e, muitas vezes, não tem dinheiro para investir nisso. A conclusão é que a lei, sozinha, não resolve. Para que a rastreabilidade funcione de verdade, o governo precisa ajudar, oferecendo treinamento e criando sistemas e aplicativos baratos e fáceis de usar, pensados para a realidade do pequeno produtor.
+
+Pontos-Chave e Achados:
+
+- A implementação da rastreabilidade de frutas e hortaliças enfrenta seus maiores desafios no elo da produção primária.
+- A agricultura familiar, em particular, encontra dificuldades com o registro manual de dados, a falta de padronização e os custos associados.
+- A falta de uma cultura de documentação e a complexidade da cadeia, com muitos intermediários, são barreiras adicionais.
+- O artigo defende a necessidade de soluções tecnológicas de baixo custo (como aplicativos de celular) e de programas de capacitação para viabilizar a rastreabilidade na agricultura familiar.
+
+Palavras-Chave:
+Técnicas: [Rastreabilidade, frutas e hortaliças, segurança de alimentos, Instrução Normativa Conjunta nº 2/2018, agricultura familiar, cadeia de suprimentos, pontos críticos]
+
+Conceituais: [Implementação de normas, barreiras à adoção, conformidade regulatória, segurança do alimento, tecnologia da informação, gestão da qualidade]
+
+Linguagem Natural: [Quais os desafios da rastreabilidade de frutas e verduras?, Dificuldades do pequeno produtor para implementar a rastreabilidade, como funciona a IN 02/2018 da Anvisa/MAPA?, soluções para a rastreabilidade na agricultura familiar, importância de rastrear alimentos]

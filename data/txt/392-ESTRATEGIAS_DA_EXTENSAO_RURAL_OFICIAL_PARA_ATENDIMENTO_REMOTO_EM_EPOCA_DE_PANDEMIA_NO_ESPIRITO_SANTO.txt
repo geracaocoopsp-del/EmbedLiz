@@ -1,0 +1,26 @@
+ID do Artigo: 392
+Título Oficial:
+ESTRATÉGIAS DA EXTENSÃO RURAL OFICIAL PARA ATENDIMENTO REMOTO EM ÉPOCA DE PANDEMIA NO ESPÍRITO SANTO
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo analisa as estratégias adotadas pelo serviço oficial de extensão rural do Espírito Santo para realizar o atendimento remoto aos agricultores durante a pandemia de COVID-19. Com a impossibilidade das visitas presenciais, a pesquisa investiga como os extensionistas se adaptaram, utilizando ferramentas digitais como WhatsApp, videochamadas e redes sociais para manter a assistência técnica. Os resultados mostram uma rápida, porém desigual, adaptação ao modelo remoto. O estudo conclui que, embora a crise tenha acelerado a transformação digital da extensão rural, ela também aprofundou a exclusão de agricultores com pouco acesso ou familiaridade com as tecnologias, evidenciando a necessidade de políticas de inclusão digital para o campo.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa estuda o que os técnicos da extensão rural do Espírito Santo fizeram para continuar ajudando os agricultores quando não podiam mais visitá-los nas propriedades por causa da pandemia. O estudo mostra que eles tiveram que se virar, usando o que tinham à mão, principalmente o WhatsApp, para tirar dúvidas, dar orientações e manter o contato. A conclusão é que essa mudança forçada para o digital foi um grande aprendizado e acelerou um processo de modernização que já era necessário. No entanto, a pandemia também deixou claro um problema grave: muitos agricultores ficaram para trás, seja por não terem um bom sinal de internet no sítio ou por não saberem usar as novas tecnologias, o que mostra que a inclusão digital no campo precisa ser uma prioridade.
+
+Pontos-Chave e Achados:
+
+- A pandemia de COVID-19 forçou uma adaptação abrupta da extensão rural do modelo presencial para o remoto.
+- O WhatsApp se consolidou como a principal ferramenta de comunicação e assistência técnica remota.
+- A transição para o digital foi desigual, beneficiando mais os agricultores já conectados e com maior letramento digital.
+- A crise expôs a urgência de investimentos em infraestrutura de conectividade e em programas de capacitação digital para agricultores e extensionistas.
+
+Palavras-Chave:
+Técnicas: [Extensão rural (ATER), atendimento remoto, COVID-19, transformação digital, inclusão digital, TICs na agricultura, WhatsApp, Espírito Santo]
+
+Conceituais: [Adaptação, exclusão digital, letramento digital, assistência técnica, desenvolvimento rural, política agrícola]
+
+Linguagem Natural: [Como a extensão rural funcionou na pandemia?, Atendimento remoto para agricultores, uso de WhatsApp pela ATER, desafios da inclusão digital no campo, o futuro da extensão rural após a COVID-19]

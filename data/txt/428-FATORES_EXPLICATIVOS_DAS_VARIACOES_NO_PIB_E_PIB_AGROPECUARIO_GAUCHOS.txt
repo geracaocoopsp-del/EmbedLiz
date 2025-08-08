@@ -1,0 +1,26 @@
+ID do Artigo: 428
+Título Oficial:
+FATORES EXPLICATIVOS DAS VARIAÇÕES NO PIB E PIB AGROPECUÁRIO GAÚCHOS
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo investiga os principais fatores que explicam as variações anuais no Produto Interno Bruto (PIB) total e no PIB agropecuário do Rio Grande do Sul. Utilizando um modelo econométrico de séries temporais, a pesquisa analisa o impacto de variáveis como o desempenho das safras, os preços das commodities, a taxa de câmbio e a atividade econômica nacional sobre a economia gaúcha. Os resultados mostram que o PIB agropecuário é altamente volátil e fortemente influenciado por fatores climáticos (que afetam as safras) e pelos preços internacionais. Essa volatilidade do campo, por sua vez, se transmite para o PIB total do estado, evidenciando a forte dependência da economia gaúcha em relação ao desempenho do agronegócio.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa busca entender por que a economia do Rio Grande do Sul sobe e desce tanto de um ano para o outro. O estudo usa um modelo estatístico para medir o que mais influencia o PIB do estado. A conclusão é que o grande "motor" (e também o grande "freio") da economia gaúcha é o agronegócio. O PIB do campo é uma verdadeira montanha-russa: se chove bem e o preço da soja está alto, ele dispara e puxa a economia toda do estado para cima. Mas, se vem uma seca forte, o tombo é grande e a economia inteira sente o baque. O estudo prova com números o que muitos gaúchos já sentem na pele: a sorte da economia do estado ainda está muito amarrada ao tempo e ao sobe e desce dos preços no mercado internacional.
+
+Pontos-Chave e Achados:
+
+- O artigo utiliza a econometria de séries temporais para identificar os determinantes do PIB e do PIB agropecuário do RS.
+- O PIB agropecuário gaúcho é a principal fonte de volatilidade da economia do estado.
+- O desempenho das safras de grãos (soja, milho, arroz), que é dependente do clima, é o principal fator explicativo das variações do PIB agropecuário.
+- A forte dependência do agronegócio torna a economia gaúcha vulnerável a choques climáticos e a flutuações nos mercados internacionais de commodities.
+
+Palavras-Chave:
+Técnicas: [PIB agropecuário, crescimento econômico, Rio Grande do Sul, séries temporais, econometria, volatilidade econômica, agronegócio]
+
+Conceituais: [Economia regional, ciclos econômicos, dependência de commodities, risco climático, desenvolvimento econômico, matriz produtiva]
+
+Linguagem Natural: [O que faz a economia do Rio Grande do Sul crescer?, Por que o PIB do RS é tão volátil?, a importância do agronegócio para a economia gaúcha, impacto do clima no PIB do RS, determinantes do crescimento econômico regional]

@@ -1,0 +1,26 @@
+ID do Artigo: 70
+Título Oficial:
+ANÁLISE DE VIABILIDADE ECONÔMICA E FINANCEIRA PARA A IMPLANTAÇÃO DE UMA VINÍCOLA FAMILIAR NA REGIÃO DA CAMPANHA GAÚCHA
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo realiza uma análise de viabilidade econômica e financeira para o projeto de implantação de uma pequena vinícola familiar na região da Campanha Gaúcha. Utilizando ferramentas de análise de investimentos, como o Valor Presente Líquido (VPL), a Taxa Interna de Retorno (TIR) e o payback, a pesquisa projeta os custos, as receitas e os fluxos de caixa do empreendimento. Os resultados indicam que, apesar do alto investimento inicial e do longo prazo de maturação, o projeto é economicamente viável, apresentando VPL positivo e TIR superior à taxa de atratividade. O estudo conclui que a produção de vinhos finos em pequena escala pode ser uma alternativa de agregação de valor e de diversificação rentável para a agricultura familiar na região.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa faz um plano de negócios completo para ver se vale a pena uma família de agricultores da Campanha Gaúcha montar sua própria vinícola. O estudo colocou na ponta do lápis todos os custos para montar o negócio (desde a plantação da uva até a construção da cantina) e fez uma previsão de quanto a vinícola poderia faturar vendendo seus vinhos. Usando ferramentas financeiras como o VPL e a TIR, a conclusão é que, sim, o negócio vale a pena. Mesmo que o investimento inicial seja pesado e demore um bom tempo para começar a dar lucro, a produção de vinhos finos se mostrou um negócio rentável e uma ótima maneira de o agricultor familiar ganhar mais dinheiro e agregar valor à sua produção.
+
+Pontos-Chave e Achados:
+
+- O artigo é um estudo de viabilidade que analisa a implantação de uma vinícola familiar.
+- A análise de investimentos (VPL, TIR, payback) indica a viabilidade econômica do projeto.
+- A produção de vinhos finos na Campanha Gaúcha é apresentada como uma oportunidade de negócio e de agregação de valor.
+- O alto investimento inicial e o longo prazo de retorno são os principais desafios, exigindo acesso a linhas de crédito de longo prazo.
+
+Palavras-Chave:
+Técnicas: [Análise de viabilidade, estudo de viabilidade econômica, VPL, TIR, payback, vinícola familiar, Campanha Gaúcha, vitivinicultura, plano de negócios]
+
+Conceituais: [Análise de investimentos, agregação de valor, empreendedorismo rural, agricultura familiar, diversificação, agronegócio do vinho]
+
+Linguagem Natural: [Vale a pena montar uma pequena vinícola?, Análise de viabilidade para produção de vinhos, como calcular o VPL e a TIR de um projeto, o mercado de vinhos da Campanha Gaúcha, investimento em vitivinicultura no RS]

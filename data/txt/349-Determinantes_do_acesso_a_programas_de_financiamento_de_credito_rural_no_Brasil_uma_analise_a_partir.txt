@@ -1,0 +1,26 @@
+ID do Artigo: 349
+Título Oficial:
+Determinantes do acesso a programas de financiamento de crédito rural no Brasil: uma análise a partir dos dados da POF 2017-2018
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo investiga os determinantes do acesso ao crédito rural no Brasil, utilizando microdados da Pesquisa de Orçamentos Familiares (POF) 2017-2018. Por meio de um modelo econométrico, a pesquisa analisa como características socioeconômicas dos produtores (como renda, escolaridade e região) e da propriedade rural influenciam a probabilidade de obter financiamento. Os resultados apontam que produtores com maior nível de escolaridade, maior patrimônio e localizados nas regiões Sul e Sudeste têm uma probabilidade significativamente maior de acessar crédito, evidenciando a existência de desigualdades e barreiras que dificultam o acesso para agricultores mais pobres e de regiões menos desenvolvidas.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa usa os dados da POF, uma grande pesquisa do IBGE, para descobrir quem consegue e quem não consegue pegar crédito rural no Brasil. O estudo utiliza um modelo estatístico para identificar quais características do agricultor e da sua propriedade mais importam na hora de conseguir um financiamento. A conclusão é que o acesso ao crédito não é igual para todos. Agricultores com mais estudo, com mais bens e que vivem no Sul ou no Sudeste do país têm muito mais chance de conseguir o dinheiro. Isso mostra que os agricultores mais pobres e os que vivem em regiões como o Nordeste enfrentam barreiras maiores, o que acaba aumentando a desigualdade no campo.
+
+Pontos-Chave e Achados:
+
+- O acesso ao crédito rural no Brasil é desigual e condicionado por fatores socioeconômicos e regionais.
+- Escolaridade e nível de patrimônio do produtor são os principais determinantes positivos do acesso ao financiamento.
+- Existe uma forte disparidade regional, com produtores do Sul e Sudeste tendo maior acesso em comparação com os do Norte e Nordeste.
+- Os resultados sugerem que as políticas de crédito rural, na prática, podem estar reforçando as desigualdades existentes no campo, em vez de combatê-las.
+
+Palavras-Chave:
+Técnicas: [Crédito rural, acesso ao crédito, determinantes do crédito, POF (Pesquisa de Orçamentos Familiares), modelo Logit/Probit, agricultura familiar, desigualdade]
+
+Conceituais: [Inclusão financeira, política agrícola, desenvolvimento rural, desigualdade de acesso, racionamento de crédito, capital humano]
+
+Linguagem Natural: [Quem consegue crédito rural no Brasil?, Fatores que dificultam o acesso ao Pronaf, desigualdade no acesso a financiamento agrícola, análise da POF sobre crédito, por que agricultores do Nordeste têm menos crédito?]

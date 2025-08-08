@@ -1,0 +1,26 @@
+ID do Artigo: 61
+Título Oficial:
+ANÁLISE DA DISTRIBUIÇÃO DAS LINHAS DE CRÉDITO DO PROGRAMA NACIONAL DE FORTALECIMENTO DA AGRICULTURA FAMILIAR (PRONAF)
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo analisa a distribuição dos recursos do Programa Nacional de Fortalecimento da Agricultura Familiar (Pronaf) no Brasil, investigando como as diferentes linhas de crédito (custeio, investimento) são alocadas entre as regiões e perfis de produtores. Utilizando dados públicos dos contratos de crédito, o estudo mapeia a aplicação dos recursos e identifica padrões de concentração. A pesquisa conclui que, apesar de sua importância, a distribuição do Pronaf é desigual, com uma concentração histórica de recursos nas regiões Sul e Sudeste, o que indica desafios para o programa em seu objetivo de promover o desenvolvimento rural de forma equitativa em todo o território nacional.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa faz um raio-x do Pronaf, o principal programa de crédito para pequenos agricultores do Brasil, para entender para onde o dinheiro está realmente indo. O estudo analisa os dados dos financiamentos para ver quais regiões do país recebem mais recursos e se o dinheiro é mais usado para despesas do dia a dia da produção (custeio) ou para investimentos maiores, como a compra de máquinas (investimento). A principal conclusão é que o programa não atende a todos de forma igual. Historicamente, a maior parte do dinheiro fica concentrada nas mãos de agricultores das regiões Sul e Sudeste, mostrando que o Pronaf ainda tem o desafio de se tornar uma ferramenta de desenvolvimento mais justa e abrangente para o país inteiro.
+
+Pontos-Chave e Achados:
+
+- A distribuição do crédito do Pronaf no Brasil é marcada por fortes desigualdades regionais.
+- As regiões Sul e Sudeste concentram a maior parte do volume de recursos e do número de contratos.
+- Há uma predominância do crédito de custeio em detrimento do crédito de investimento em várias regiões.
+- Essa concentração espelha e, potencialmente, reforça as desigualdades históricas da estrutura agrária e do desenvolvimento rural no país.
+
+Palavras-Chave:
+Técnicas: [Pronaf, crédito rural, agricultura familiar, políticas públicas, distribuição de crédito, custeio agrícola, investimento agrícola, análise de dados governamentais]
+
+Conceituais: [Desigualdade regional, desenvolvimento rural, política agrícola, acesso ao crédito, financiamento agrícola, federalismo fiscal]
+
+Linguagem Natural: [Como o crédito do PRONAF é distribuído no Brasil?, Quais regiões recebem mais recursos do Pronaf?, Desigualdade no acesso ao crédito rural, análise da distribuição do Pronaf, financiamento para pequenos agricultores]

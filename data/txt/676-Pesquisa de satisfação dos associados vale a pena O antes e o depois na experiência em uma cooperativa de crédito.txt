@@ -1,0 +1,22 @@
+Identificação Básica:
+ID do Artigo: 676
+Título Oficial: Pesquisa de satisfação dos associados vale a pena? O antes e o depois na experiência em uma cooperativa de crédito
+Link para Download: (A ser adicionado)
+
+Resumo Sintético:
+O artigo avalia a efetividade da pesquisa de satisfação com associados em uma cooperativa de crédito do sistema SICOOB, comparando os resultados de 2016 e 2019. A pesquisa, de natureza descritiva e quantitativa, utilizou um questionário baseado na escala Servqual. Os resultados indicam que a pesquisa de satisfação é uma ferramenta eficaz para aprimorar a gestão e os serviços da cooperativa, contribuindo para a fidelização dos associados e para o crescimento da instituição. O estudo destaca a importância de ouvir os associados para identificar oportunidades de melhoria e fortalecer o relacionamento.
+
+Expansão Semântica:
+Descrição Expandida em Linguagem Natural: Este estudo investiga se vale a pena para uma cooperativa de crédito perguntar aos seus associados o que eles pensam sobre os serviços e o atendimento. A pesquisa compara os resultados de pesquisas de satisfação feitas em diferentes anos para ver se as mudanças implementadas pela cooperativa realmente melhoraram a experiência dos associados. O artigo mostra que a pesquisa de satisfação é uma ferramenta importante para a cooperativa entender as necessidades de seus membros, identificar pontos de melhoria e fortalecer o relacionamento. A pesquisa é relevante para gestores de cooperativas de crédito, profissionais de marketing e pesquisadores interessados em satisfação do cliente e gestão de relacionamento.
+
+Pontos-Chave e Achados Específicos:
+- A pesquisa foi realizada em uma cooperativa de crédito do sistema SICOOB, com dados de 2016 e 2019.
+- A metodologia utilizada foi a escala Servqual, que mede a qualidade percebida dos serviços.
+- Os resultados indicam uma melhoria na percepção dos associados sobre o desempenho da cooperativa.
+- O estudo destaca a importância da pesquisa de satisfação para aprimorar a gestão e os serviços da cooperativa.
+- A pesquisa sugere que a pesquisa de satisfação contribui para a fidelização dos associados e para o crescimento da instituição.
+
+Palavras-Chave:
+Termos Técnicos: Pesquisa de Satisfação, Cooperativa de Crédito, Servqual, Gestão de Relacionamento, Fidelização, SICOOB.
+Termos Conceituais: Qualidade de Serviço, Percepção do Associado, Melhoria Contínua, Engajamento, Experiência do Cliente.
+Termos em Linguagem Natural: "satisfação do cliente em cooperativas", "pesquisa de satisfação em cooperativas de crédito", "como melhorar o atendimento em cooperativas", "fidelização de associados", "gestão de relacionamento em cooperativas", "SICOOB e satisfação do cliente".

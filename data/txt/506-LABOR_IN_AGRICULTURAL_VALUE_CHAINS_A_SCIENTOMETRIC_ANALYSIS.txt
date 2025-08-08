@@ -1,0 +1,26 @@
+ID do Artigo: 506
+Título Oficial:
+LABOR IN AGRICULTURAL VALUE CHAINS: A SCIENTOMETRIC ANALYSIS
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo realiza uma análise cientométrica da literatura acadêmica global sobre o tema do trabalho nas cadeias de valor agrícolas. A pesquisa mapeia a produção científica para identificar os principais temas, autores, periódicos e países que pesquisam as condições de trabalho no agronegócio. Os resultados mostram um campo de pesquisa crescente, com um forte foco em questões como a precarização, o trabalho informal, o trabalho análogo à escravidão, a saúde do trabalhador e as desigualdades de gênero. O estudo conclui que a "questão social" no agronegócio globalizado é um tema de grande relevância acadêmica e política, com a pesquisa destacando a necessidade de uma governança mais eficaz das cadeias de valor para garantir os direitos trabalhistas.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa faz um grande mapa de tudo o que os cientistas do mundo inteiro têm pesquisado sobre as condições de trabalho na agricultura moderna. O estudo usa uma técnica chamada "cientometria" para descobrir quem são os maiores especialistas no assunto, em quais revistas eles publicam e quais são os temas mais "quentes". A conclusão é que a "questão social" no campo está cada vez mais na mira dos pesquisadores. Os temas que mais aparecem são a exploração do trabalhador, o trabalho escravo, as doenças causadas pelo trabalho na roça e a desigualdade entre homens e mulheres. A pesquisa acadêmica, segundo o estudo, tem mostrado com cada vez mais força que é preciso criar regras mais duras para as grandes empresas do agronegócio, para garantir que os direitos de quem planta e colhe a nossa comida sejam respeitados.
+
+Pontos-Chave e Achados:
+
+- O artigo utiliza a análise cientométrica para mapear o campo de pesquisa sobre trabalho e cadeias de valor agrícolas.
+- A precarização do trabalho e a violação de direitos trabalhistas são os temas centrais e mais recorrentes na literatura.
+- Há uma concentração de estudos de caso em cadeias de alto valor voltadas para a exportação (frutas, flores, café).
+- A análise da governança das cadeias de valor e o papel das certificações e dos padrões privados na proteção dos trabalhadores são áreas de intenso debate.
+
+Palavras-Chave:
+Técnicas: [Trabalho agrícola, cadeias de valor, análise cientométrica, bibliometria, condições de trabalho, agronegócio, direitos trabalhistas]
+
+Conceituais: [Precarização do trabalho, governança de cadeias de valor, responsabilidade social corporativa, trabalho decente, sociologia do trabalho, economia do trabalho]
+
+Linguagem Natural: [Quais as condições de trabalho no agronegócio global?, Estudos sobre trabalho escravo na agricultura, a questão social nas cadeias de valor, o que a ciência diz sobre o trabalho no campo?, análise da literatura sobre direitos trabalhistas no agronegócio]

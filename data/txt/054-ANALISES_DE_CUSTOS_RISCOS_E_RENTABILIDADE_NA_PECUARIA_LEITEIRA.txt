@@ -1,0 +1,25 @@
+Identificação Básica:
+ID do Artigo: 54
+Título Oficial: ANÁLISES DE CUSTOS, RISCOS E RENTABILIDADE NA PECUÁRIA LEITEIRA
+Link para Download: (Não disponível)
+
+Resumo Sintético (O núcleo):
+Este estudo de caso analisa a viabilidade econômica de uma propriedade de pecuária leiteira em Jataí (GO), detalhando seus custos, rentabilidade e riscos. A análise, utilizando a simulação de Monte Carlo, conclui que a atividade foi rentável no período estudado (2019), mas a lucratividade é altamente vulnerável às oscilações nos preços do leite e dos insumos, evidenciando a necessidade de uma gestão de custos rigorosa e de estratégias de mitigação de riscos.
+
+Expansão Semântica (A parte crucial para a busca):
+Descrição Expandida em Linguagem Natural:
+A pesquisa investiga se a produção de leite é um negócio lucrativo, analisando em profundidade uma fazenda específica em Goiás. O estudo funciona como um "raio-x" financeiro da propriedade, calculando todos os gastos envolvidos na produção, desde a alimentação do gado e mão de obra até a depreciação de máquinas. Além de apurar se a fazenda deu lucro, o artigo explora os riscos do negócio. Usando uma técnica chamada "Simulação de Monte Carlo", ele projeta milhares de cenários futuros, variando os preços do leite e dos insumos (como ração) para ver qual a probabilidade de a fazenda ter lucro ou prejuízo. A conclusão é que, embora a fazenda tenha sido lucrativa, o sucesso é frágil e depende muito do controle de custos e das condições do mercado, mostrando que o produtor precisa ser um bom gestor para sobreviver na atividade.
+
+Pontos-Chave e Achados Específicos:
+- O estudo é um caso único focado em uma propriedade rural de produção leiteira no município de Jataí, Goiás, com dados de 2019.
+- A metodologia inclui o cálculo de indicadores de custo de produção (Custo Operacional Efetivo, Custo Operacional Total e Custo Total).
+- A análise de risco foi realizada através da Simulação de Monte Carlo, uma técnica estatística para modelar a incerteza.
+- Achado Principal: A propriedade apresentou resultados econômicos positivos, com lucro em 2019, indicando viabilidade econômica no período.
+- Análise de Sensibilidade: A rentabilidade da atividade mostrou-se extremamente sensível às variações no preço de venda do leite.
+- Fator de Risco: A simulação de Monte Carlo revelou que há uma probabilidade significativa de a margem bruta ser negativa, destacando o alto risco da atividade.
+- Implicação: A gestão eficiente dos custos e o monitoramento constante do mercado são cruciais para garantir a sustentabilidade e a lucratividade da pecuária leiteira.
+
+Palavras-Chave (O "Mapa" para a IA):
+- Termos Técnicos: Pecuária Leiteira, Análise de Custos, Análise de Risco, Rentabilidade, Simulação de Monte Carlo, Custo Operacional Efetivo (COE), Custo Total (CT), Gestão Rural, Viabilidade Econômica.
+- Termos Conceituais: Gestão de Risco no Agronegócio, Custo de Produção de Leite, Análise Financeira Rural, Tomada de Decisão na Agropecuária, Eficiência Produtiva, Volatilidade de Preços.
+- Termos em Linguagem Natural (Sinônimos e Perguntas): "produzir leite dá lucro?", "quais os custos para produzir leite?", "como calcular a rentabilidade de uma fazenda de leite?", "riscos da atividade leiteira", "análise de viabilidade de gado de leite", "gerenciamento de fazenda leiteira", "simulação de Monte Carlo para agronegócio", "impacto do preço do leite no lucro", "planilha de custos pecuária leiteira".

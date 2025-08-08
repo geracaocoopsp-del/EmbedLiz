@@ -1,0 +1,26 @@
+ID do Artigo: 132
+Título Oficial:
+A ALIMENTAÇÃO ESCOLAR E AS COMPRAS LOCAIS DA AGRICULTURA FAMILIAR: UMA ANÁLISE BIBLIOMÉTRICA DA LITERATURA
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo realiza uma análise bibliométrica da produção científica sobre a relação entre a alimentação escolar e as compras locais da agricultura familiar, com foco no Programa Nacional de Alimentação Escolar (PNAE). A pesquisa mapeia os artigos publicados em bases de dados acadêmicas para identificar os principais autores, periódicos, temas de pesquisa e abordagens metodológicas. Os resultados mostram um campo de estudo em franca expansão, com uma concentração de pesquisas que analisam os desafios da implementação do PNAE, seus impactos na renda dos agricultores e na qualidade da alimentação dos estudantes, consolidando-se como uma área de grande relevância para os estudos rurais e de políticas públicas.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa faz um grande mapa de tudo o que já foi pesquisado e publicado em artigos científicos sobre a compra de alimentos da agricultura familiar para a merenda escolar no Brasil. O estudo usa uma técnica chamada "bibliometria" para descobrir quem são os pesquisadores que mais estudam o assunto, em quais revistas eles publicam e quais são os temas mais "quentes". A conclusão é que esse é um campo de pesquisa que não para de crescer. A maioria dos estudos se dedica a entender as dificuldades de fazer o programa da merenda funcionar na prática, o impacto que ele tem no bolso do pequeno agricultor e na saúde das crianças.
+
+Pontos-Chave e Achados:
+
+- O artigo realiza uma revisão bibliométrica para mapear o estado da arte da pesquisa sobre o PNAE e a agricultura familiar.
+- A análise revela um crescimento expressivo do interesse acadêmico pelo tema, especialmente após a Lei nº 11.947/2009.
+- Os estudos de caso municipais são a abordagem metodológica predominante na literatura.
+- Os principais temas de pesquisa são os desafios da implementação, os impactos socioeconômicos para os agricultores e os efeitos na segurança alimentar e nutricional dos alunos.
+
+Palavras-Chave:
+Técnicas: [Análise bibliométrica, PNAE, alimentação escolar, agricultura familiar, compras locais, revisão de literatura, produção científica, estado da arte]
+
+Conceituais: [Mercados institucionais, políticas públicas, segurança alimentar e nutricional, desenvolvimento local, sociologia rural, circuitos curtos]
+
+Linguagem Natural: [O que a ciência diz sobre o PNAE?, Pesquisas sobre alimentação escolar e agricultura familiar, análise da literatura sobre compras de merenda, principais autores que estudam o PNAE, mapeamento de estudos sobre agricultura familiar]

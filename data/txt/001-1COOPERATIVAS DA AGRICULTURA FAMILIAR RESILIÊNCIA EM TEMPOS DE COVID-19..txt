@@ -1,0 +1,38 @@
+**Identificação Básica:**
+
+*   **ID do Artigo:** 1
+*   **Título Oficial:** COOPERATIVAS DA AGRICULTURA FAMILIAR: RESILIÊNCIA EM TEMPOS DE COVID-19
+*   **Link para Download:** (Será adicionado posteriormente)
+
+**Resumo Sintético:**
+
+Este estudo investiga como três cooperativas da agricultura familiar na Zona da Mata de Minas Gerais enfrentaram as vulnerabilidades causadas pela pandemia de COVID-19. A pesquisa identificou que a suspensão do Programa Nacional de Alimentação Escolar (PNAE) foi o maior desafio, forçando as cooperativas a diversificarem seus canais de venda. A resiliência de cada cooperativa esteve diretamente ligada ao seu dinamismo organizacional, às parcerias estabelecidas e à capacidade de suas lideranças de promover o engajamento dos cooperados para superar a crise.
+
+**Expansão Semântica:**
+
+*   **Descrição Expandida em Linguagem Natural:**
+    *   O artigo analisa como cooperativas de pequenos agricultores sobreviveram à crise da COVID-19. A principal dificuldade foi a interrupção de um programa do governo (PNAE) que comprava a produção para merenda escolar. Isso mostrou que depender de um único cliente é arriscado. As cooperativas que se saíram melhor foram aquelas que conseguiram encontrar novas formas de vender seus produtos, como entregas em domicílio (delivery) e parcerias com outros projetos. A pesquisa mostra que a capacidade de se adaptar e superar a crise dependeu de quão organizadas elas eram, das parcerias que tinham e do envolvimento dos seus membros e líderes.
+    *   Este trabalho explora a resiliência de cooperativas agrícolas familiares durante a pandemia. Ele foca em como a perda de um grande comprador institucional, o PNAE, afetou essas organizações e quais estratégias elas usaram para não quebrar. O estudo compara três casos e conclui que a diversificação de mercados e as redes de colaboração foram essenciais para a sobrevivência e o fortalecimento durante o período de instabilidade.
+
+*   **Pontos-Chave e Achados Específicos:**
+    *   **Vulnerabilidade Principal:** A suspensão do PNAE foi o impacto mais severo, expondo a dependência excessiva dos mercados institucionais.
+    *   **Estratégias de Enfrentamento:** As cooperativas buscaram diversificar os canais de comercialização, acessando projetos emergenciais, políticas públicas e outros mercados não institucionais.
+    *   **Fatores de Resiliência:** A resiliência foi condicionada por:
+        *   Dinamismo organizacional e capacidade de adaptação.
+        *   Relações interorganizacionais e parcerias estratégicas.
+        *   Liderança engajada e gestão participativa.
+    *   **Impacto nos Cooperados:** A crise não afetou todas as cooperativas e seus membros da mesma forma. Aqueles que produziam apenas itens perecíveis (como folhosas) e dependiam exclusivamente da cooperativa foram os mais prejudicados.
+
+*   **Palavras-Chave:**
+    *   **Termos Técnicos:** Cooperativismo, Agricultura Familiar, Resiliência, COVID-19, PNAE (Programa Nacional de Alimentação Escolar), Mercados Institucionais, Cadeias Curtas de Comercialização, Relações Interorganizacionais.
+    *   **Termos Conceituais:** Vulnerabilidade, Estratégias de Superação, Diversificação de Mercados, Segurança Alimentar, Gestão de Crise, Dependência de Mercado, Resiliência Organizacional.
+    *   **Termos em Linguagem Natural (Sinônimos e Perguntas):**
+        *   "como a pandemia afetou pequenos agricultores"
+        *   "impacto da covid em cooperativas"
+        *   "venda para merenda escolar"
+        *   "risco de depender de um só cliente"
+        *   "estratégias de cooperativas na crise"
+        *   "agricultura familiar e políticas públicas"
+        *   "como cooperativas podem ser mais fortes"
+        *   "sobrevivência de pequenos negócios na pandemia"
+        *   "importância de diversificar as vendas"

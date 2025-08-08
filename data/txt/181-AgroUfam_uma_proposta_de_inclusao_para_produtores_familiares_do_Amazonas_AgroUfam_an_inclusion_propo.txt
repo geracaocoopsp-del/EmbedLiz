@@ -1,0 +1,26 @@
+ID do Artigo: 181
+Título Oficial:
+AgroUfam: uma proposta de inclusão para produtores familiares do Amazonas / AgroUfam: an inclusion proposal for family farmers from Amazonas
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo descreve a proposta e a experiência inicial do AgroUfam, um projeto de extensão da Universidade Federal do Amazonas (UFAM) que busca promover a inclusão digital e comercial de agricultores familiares. O projeto consiste no desenvolvimento de uma plataforma digital (aplicativo e site) que conecta diretamente os produtores a consumidores, feiras e mercados institucionais. O estudo relata a metodologia de desenvolvimento participativo da plataforma e os desafios enfrentados, como a conectividade e o letramento digital. O artigo conclui que o AgroUfam é uma iniciativa promissora que utiliza a tecnologia para superar os gargalos de comercialização na Amazônia, mas que seu sucesso depende de um trabalho contínuo de capacitação e de engajamento dos agricultores.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa conta a história de um projeto da Universidade Federal do Amazonas para ajudar os pequenos agricultores a venderem seus produtos usando a internet. O projeto, chamado AgroUfam, criou um aplicativo de celular e um site que funcionam como uma "feira virtual", onde o agricultor pode anunciar o que tem para vender e o consumidor pode comprar direto dele. O estudo mostra que a ideia é ótima para encurtar a distância entre a roça e a cidade, um problema gigantesco na Amazônia. Mas também mostra os desafios: a falta de sinal de internet em muitos lugares e a dificuldade que muitos agricultores têm em usar a tecnologia. A conclusão é que o projeto é um golaço, mas que, para o jogo virar de verdade, é preciso continuar ensinando e ajudando os agricultores a entrarem no mundo digital.
+
+Pontos-Chave e Achados:
+
+- O artigo apresenta o projeto AgroUfam, uma plataforma digital para a comercialização de produtos da agricultura familiar na Amazônia.
+- O projeto é uma iniciativa de extensão universitária que busca aplicar a tecnologia para solucionar problemas reais de desenvolvimento rural.
+- A metodologia de desenvolvimento participativo, envolvendo os agricultores desde o início, é um diferencial do projeto.
+- A conectividade precária e o baixo letramento digital dos agricultores são os principais desafios para a escalabilidade da iniciativa.
+
+Palavras-Chave:
+Técnicas: [Inclusão digital, comercialização, agricultura familiar, plataforma digital, aplicativo, extensão universitária, Amazonas, AgroUfam, TICs]
+
+Conceituais: [Circuitos curtos de comercialização, inovação social, desenvolvimento participativo de tecnologia, exclusão digital, logística amazônica]
+
+Linguagem Natural: [Como a internet pode ajudar a agricultura familiar na Amazônia?, Aplicativo para vender produtos da roça, o projeto AgroUfam, desafios da inclusão digital no campo, tecnologia para pequenos produtores da Amazônia]

@@ -1,0 +1,26 @@
+ID do Artigo: 47
+Título Oficial:
+AGRONEGÓCIO E COVID-19: UMA REVISÃO DE LITERATURA
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo realiza uma revisão de literatura para sistematizar os principais impactos da pandemia de COVID-19 sobre o agronegócio global e brasileiro. A análise abrange estudos que abordam os efeitos da crise nas cadeias de suprimentos, na segurança alimentar, no comércio internacional e nas condições de trabalho no setor. A pesquisa conclui que, apesar de demonstrar resiliência, especialmente nos setores de commodities, o agronegócio enfrentou desafios significativos de logística, mão de obra e volatilidade de preços, evidenciando a necessidade de estratégias de gestão de risco mais robustas para futuras crises sistêmicas.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa faz um grande levantamento de estudos e artigos que foram publicados sobre os efeitos da pandemia no agronegócio. O objetivo é organizar e entender as principais consequências da crise para o setor, tanto no Brasil quanto no mundo. A análise mostra um cenário de duas caras: por um lado, o setor se mostrou forte, especialmente na exportação de grãos e carnes. Por outro, enfrentou problemas sérios, como dificuldades para transportar produtos, falta de trabalhadores (que estavam doentes ou em isolamento) e grandes variações nos preços. A conclusão é que a pandemia serviu como um alerta, mostrando que o agronegócio precisa estar mais bem preparado para lidar com crises inesperadas que afetam o mundo todo.
+
+Pontos-Chave e Achados:
+
+- A pandemia de COVID-19 causou disrupções significativas nas cadeias de suprimentos do agronegócio, desde a produção até o consumidor final.
+- O setor de commodities demonstrou maior resiliência em comparação com setores mais dependentes do mercado interno e de food service.
+- A crise sanitária expôs a vulnerabilidade dos trabalhadores do agronegócio, especialmente em frigoríficos e na colheita.
+- A revisão aponta para uma aceleração da digitalização e da automação no campo como resposta aos desafios impostos pela pandemia.
+
+Palavras-Chave:
+Técnicas: [Agronegócio, COVID-19, revisão de literatura, cadeia de suprimentos, segurança alimentar, impacto econômico, resiliência, gestão de risco]
+
+Conceituais: [Crise sistêmica, vulnerabilidade, globalização, logística internacional, saúde do trabalhador, transformação digital]
+
+Linguagem Natural: [Quais os impactos da pandemia no agronegócio?, Como a COVID-19 afetou a agricultura?, Resiliência do agronegócio na crise, problemas na cadeia de alimentos durante a pandemia, o que mudou no agronegócio com o coronavírus?]

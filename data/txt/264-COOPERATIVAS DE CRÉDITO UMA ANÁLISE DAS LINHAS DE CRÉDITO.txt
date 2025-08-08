@@ -1,0 +1,26 @@
+### **Síntese Otimizada para IA**
+
+**Identificação Básica:**
+*   **ID do Artigo:** 264
+*   **Título Oficial:** COOPERATIVAS DE CRÉDITO: UMA ANÁLISE DAS LINHAS DE CRÉDITO E DE INDICADORES FINANCEIROS EM DUAS MESORREGIÕES DE MINAS GERAIS
+*   **Link para Download:** (Será adicionado posteriormente)
+
+**Resumo Sintético:**
+O estudo analisa o comportamento das cooperativas de crédito em duas importantes mesorregiões de Minas Gerais (Triângulo Mineiro/Alto Paranaíba e Sul/Sudoeste) entre 2013 e 2015. A pesquisa foca nas principais linhas de crédito ofertadas e na evolução de indicadores financeiros (solvência, estrutura, crescimento), estratificando as cooperativas por porte. Os resultados mostram que empréstimos e títulos descontados são a principal fonte de aplicação, e que, de modo geral, as cooperativas apresentaram bom desempenho financeiro no período, demonstrando crescimento e solidez.
+
+**Expansão Semântica:**
+
+*   **Descrição Expandida em Linguagem Natural:**
+    *   Este artigo faz um raio-x da saúde financeira e das operações de crédito das cooperativas em duas áreas-chave do agronegócio de Minas Gerais. A ideia foi entender como elas se comportam, dependendo do seu tamanho (micro, pequena, média ou grande) e da região. Os pesquisadores olharam para onde o dinheiro estava sendo aplicado (empréstimos, financiamento rural, etc.) e como indicadores de liquidez e crescimento evoluíram. A conclusão é que, no geral, essas cooperativas estão financeiramente saudáveis e crescendo, com um foco forte em empréstimos diretos, mostrando seu papel vital no desenvolvimento econômico local.
+
+*   **Pontos-Chave e Achados Específicos:**
+    *   **Objetivo:** Caracterizar a evolução dos ativos e operações de crédito de cooperativas em duas mesorregiões de MG (2013-2015).
+    *   **Metodologia:** Análise documental e quantitativa de balancetes semestrais do Banco Central, com estratificação por porte e mesorregião.
+    *   **Principal Linha de Crédito:** Empréstimos e títulos descontados foram a principal modalidade, seguidos pelo crédito rural.
+    *   **Desempenho Financeiro:** As cooperativas, em geral, apresentaram bom desempenho no período, com indicadores de crescimento positivos.
+    *   **Diferenças Regionais:** Foram observadas pequenas diferenças no comportamento das cooperativas entre as duas mesorregiões, especialmente no que tange ao equilíbrio entre empréstimos e financiamentos rurais.
+
+*   **Palavras-Chave (O "Mapa" para a IA):**
+    *   **Termos Técnicos:** Cooperativas de Crédito, Operações de Crédito, Indicadores Financeiros, Solvência, Estrutura de Capital, Crescimento, Mesorregiões de Minas Gerais.
+    *   **Termos Conceituais:** Desempenho Financeiro, Análise Comparativa, Crédito Rural, Capitalização, Estratificação por Porte.
+    *   **Termos em Linguagem Natural (Sinônimos e Perguntas):** "saúde financeira de cooperativas em minas", "linhas de crédito para agronegócio", "como cooperativas de minas gerais investem?", "análise de cooperativas do triângulo mineiro", "crescimento de cooperativas de crédito".

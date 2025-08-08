@@ -1,0 +1,32 @@
+ID do Artigo: 88
+Título Oficial: ANÁLISE BIBLIOMÉTRICA DA PRODUÇÃO DE CONHECIMENTO SOBRE COOPERATIVAS NO BRASIL
+Link para Download: (Adicionar depois)
+
+Resumo Sintético: Este artigo apresenta uma análise bibliométrica da produção científica sobre cooperativas no Brasil, abrangendo o período de 2008 a 2016, em periódicos de administração e economia. A pesquisa, de caráter exploratório-descritivo, revelou que a "Revista de Contabilidade e Organizações" é o periódico com maior número de publicações. A maioria dos artigos é em português, empírica, com dois autores e utiliza dados primários. Os ramos agropecuário e de crédito são os mais estudados, e a área temática predominante é a Sociologia. O estudo conclui que temas de economia e finanças ainda são pouco explorados e que há uma concentração geográfica da produção de conhecimento.
+
+Expansão Semântica:
+Descrição Expandida em Linguagem Natural: Este artigo investiga como o conhecimento sobre cooperativas tem sido produzido e publicado no Brasil, analisando artigos científicos de 2008 a 2016. Ele mostra quais revistas publicam mais sobre o tema, quantos autores geralmente escrevem os artigos, qual o idioma predominante e que tipo de pesquisa é mais comum (se é teórica ou baseada em dados reais). O estudo também identifica quais tipos de cooperativas são mais pesquisadas (como as do agronegócio e de crédito) e quais áreas do conhecimento (como Sociologia e Administração) mais abordam o assunto. Em resumo, o artigo oferece um panorama da produção acadêmica sobre cooperativas no Brasil, apontando tendências e lacunas, como a pouca exploração de temas econômicos e financeiros.
+Pontos-Chave e Achados Específicos:
+- A pesquisa é uma análise bibliométrica da produção científica sobre cooperativas no Brasil (2008-2016).
+- Periódicos analisados: áreas de Administração Pública e de Empresas, Ciências Contábeis e Turismo, e Economia (Qualis A1, A2, B1).
+- Resultados Principais:
+    - Periódico com mais publicações: "Revista de Contabilidade e Organizações" (17 artigos).
+    - Ano com mais publicações: 2008 (22 artigos).
+    - Idioma: 94% em português.
+    - Número de autores: 38% com dois autores, 24% com três.
+    - Tipo de artigo: 83% empíricos, 11% teóricos, 6% teórico-empíricos.
+    - Tipo de dados: 66% primários (estudos de caso, entrevistas, observações).
+    - Ramos mais estudados: Agropecuário (39%) e Crédito (24%).
+    - Área temática predominante: Sociologia (36%), seguida por Administração (28%) e Contabilidade (21%).
+    - Autores mais citados: Márcia de Paula Leite ("A Economia Solidária e o Trabalho Associativo-Teorias e Realidades").
+    - Instituições mais atuantes: Universidade Federal de Viçosa (UFV), USP, UFMG.
+    - Concentração geográfica: Maior produção em Minas Gerais e São Paulo.
+- Conclusões:
+    - Temas de economia e finanças ainda são pouco explorados.
+    - Os ramos mais pesquisados são os mais numerosos em termos de cooperativas e cooperados.
+    - A pesquisa bibliométrica é uma ferramenta útil para mapear o conhecimento científico.
+
+Palavras-Chave:
+Termos Técnicos: Análise Bibliométrica, Produção Científica, Cooperativas, Periódicos Científicos, Qualis Capes, Estudo Exploratório-Descritivo, Análise de Conteúdo, Google Acadêmico, Lei de Bradford, Lei de Lotka, Lei de Zipf.
+Termos Conceituais: Portfólio Bibliográfico, Lacunas de Pesquisa, Tendências de Pesquisa, Impacto Científico, Disseminação do Conhecimento, Sociologia do Trabalho, Economia do Cooperativismo, Gestão de Organizações.
+Termos em Linguagem Natural (Sinônimos e Perguntas): O que se pesquisa sobre cooperativas no Brasil? Quais são as principais publicações sobre cooperativismo? Como analisar a produção acadêmica? Pesquisa sobre cooperativas, estudos sobre cooperativismo, panorama da pesquisa em cooperativas.

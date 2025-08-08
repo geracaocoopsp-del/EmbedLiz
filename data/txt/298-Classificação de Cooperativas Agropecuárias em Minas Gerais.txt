@@ -1,0 +1,23 @@
+Identificação Básica:
+ID do Artigo: 298
+Título Oficial: Classificação de Cooperativas Agropecuárias em Minas Gerais
+Link para Download: (A ser adicionado)
+
+Resumo Sintético:
+O artigo propõe uma classificação para as cooperativas agropecuárias de Minas Gerais, utilizando a teoria dos grupos estratégicos e a análise de eficiência. A pesquisa identificou dois grupos: Cooperativas Locais (menor porte, foco social, diversificação) e Cooperativas de Barganha (maior porte, foco econômico, economia de escala). O estudo conclui que as Cooperativas de Barganha apresentam melhor desempenho, mas ressalta a importância das Cooperativas Locais para a inserção de pequenos e médios produtores no mercado e para a diversificação.
+
+Expansão Semântica:
+Descrição Expandida em Linguagem Natural: Este estudo categoriza as cooperativas agrícolas de Minas Gerais em dois tipos principais, baseando-se em seu tamanho e na forma como agregam valor aos produtos. A pesquisa analisa se cooperativas menores, com foco mais social, são tão eficientes quanto cooperativas maiores, mais voltadas para o mercado. O artigo mostra que ambos os modelos têm seu valor, mas que as cooperativas maiores tendem a ter um desempenho econômico superior. A pesquisa é relevante para gestores de cooperativas, formuladores de políticas públicas e pesquisadores interessados em estratégias de desenvolvimento para o agronegócio cooperativo.
+
+Pontos-Chave e Achados Específicos:
+- A pesquisa utilizou dados de 75 cooperativas agropecuárias mineiras em 2012.
+- Foram identificados dois grupos estratégicos: Cooperativas Locais e Cooperativas de Barganha.
+- Cooperativas Locais: menor porte, estrutura coletiva, foco social, diversificação de produtos.
+- Cooperativas de Barganha: maior porte, estrutura individualizada, foco econômico, economia de escala.
+- As Cooperativas de Barganha apresentaram melhor desempenho em termos de eficiência técnica e de escala.
+- O estudo destaca a importância das Cooperativas Locais para a inclusão de pequenos e médios produtores no mercado.
+
+Palavras-Chave:
+Termos Técnicos: Cooperativas Agropecuárias, Grupos Estratégicos, Análise de Eficiência, DEA (Análise Envoltória de Dados), Capitalização, Agronegócio.
+Termos Conceituais: Economia de Escala, Agregação de Valor, Diversificação, Sustentabilidade, Gestão Cooperativa.
+Termos em Linguagem Natural: "tipos de cooperativas agrícolas", "cooperativas rurais em Minas Gerais", "eficiência de cooperativas do agronegócio", "como classificar cooperativas", "desempenho de cooperativas agrícolas", "estratégias para cooperativas rurais".

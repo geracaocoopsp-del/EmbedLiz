@@ -1,0 +1,26 @@
+ID do Artigo: 109
+Título Oficial:
+AS INOVAÇÕES TECNOLÓGICAS E A DINÂMICA DO EMPREGO NO SETOR SUCROALCOOLEIRO EM GOIÁS (2003 A 2016)
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo analisa o impacto das inovações tecnológicas, especialmente a mecanização da colheita, na dinâmica do emprego no setor sucroalcooleiro de Goiás entre 2003 e 2016. A pesquisa, utilizando dados de emprego formal, investiga a evolução do número de postos de trabalho e a mudança no perfil da mão de obra. Os resultados mostram uma redução drástica do emprego manual não qualificado (os cortadores de cana) e, em contrapartida, um aumento da demanda por trabalhadores qualificados para operar e manter as máquinas. O estudo conclui que a modernização tecnológica do setor promoveu um "desemprego tecnológico" para uma parcela dos trabalhadores, ao mesmo tempo em que criou novas oportunidades para outra, exigindo políticas de requalificação profissional.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa estuda o que aconteceu com o emprego nas usinas de cana de Goiás depois que as máquinas de colher substituíram os cortadores de cana. O estudo mostra que a chegada das colheitadeiras foi uma revolução com dois lados. Por um lado, ela causou um desemprego em massa para os trabalhadores braçais, que perderam sua função. Por outro, ela criou novos empregos, que exigem mais estudo, para operar e fazer a manutenção dessas máquinas. A conclusão é que a tecnologia, ao mesmo tempo em que modernizou o setor, deixou para trás uma legião de trabalhadores sem qualificação, mostrando que é preciso investir pesado em cursos para requalificar essas pessoas para as novas profissões do campo.
+
+Pontos-Chave e Achados:
+
+- A mecanização da colheita da cana-de-açúcar foi o principal vetor de mudança tecnológica e de emprego no setor em Goiás.
+- Houve uma forte queda no número de empregos de baixa qualificação (corte manual) e um aumento na demanda por mão de obra qualificada (operadores de máquinas, mecânicos).
+- O saldo total do emprego no período foi negativo, indicando que a criação de novos postos de trabalho não compensou a destruição dos antigos.
+- O artigo destaca o desafio social do "desemprego tecnológico" e a necessidade de políticas públicas de transição e requalificação para os trabalhadores deslocados.
+
+Palavras-Chave:
+Técnicas: [Inovação tecnológica, mecanização agrícola, emprego rural, setor sucroalcooleiro, Goiás, desemprego tecnológico, qualificação profissional]
+
+Conceituais: [Mudança tecnológica, mercado de trabalho, destruição criadora, capital humano, desenvolvimento regional, agronegócio]
+
+Linguagem Natural: [Como a mecanização da colheita de cana afetou o emprego?, O que aconteceu com os cortadores de cana?, Impacto da tecnologia no mercado de trabalho rural, desemprego no setor de cana-de-açúcar em Goiás, novas profissões no agronegócio]

@@ -1,0 +1,26 @@
+ID do Artigo: 180
+Título Oficial:
+Acesso ao Programa Nacional de Fortalecimento da Agricultura Familiar (PRONAF): Um estudo para o assentamento rural de Canudos-BA
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo analisa os fatores que dificultam o acesso ao crédito do Pronaf pelos agricultores do assentamento rural de Canudos, na Bahia. Por meio de um estudo de caso, a pesquisa investiga as barreiras institucionais, econômicas e sociais que limitam a contratação do financiamento. Os resultados apontam que a falta de documentação da terra (insegurança da posse), a dificuldade de elaboração de projetos técnicos, a falta de assistência técnica e a burocracia dos agentes financeiros são os principais entraves. O estudo conclui que, para que o Pronaf chegue efetivamente a públicos estratégicos da reforma agrária, como os assentados de Canudos, é preciso superar esses gargalos, com políticas complementares de regularização fundiária e de fortalecimento da ATER.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa foi até o histórico assentamento de Canudos, na Bahia, para entender por que os agricultores de lá, que são um símbolo da luta pela terra, têm tanta dificuldade para conseguir o dinheiro do Pronaf. O estudo mostra que os problemas são muitos: a maioria não tem o "papel passado" da terra, o que o banco exige como garantia; falta técnico para ajudar a fazer o projeto de financiamento, que é complicado; e a burocracia do banco é um labirinto. A conclusão é que não adianta só existir o Pronaf; para que o dinheiro chegue em quem mais precisa, como o povo de Canudos, o governo precisa agir em outras frentes: dar o título da terra para as famílias e garantir que tenha assistência técnica de qualidade para ajudar com a papelada.
+
+Pontos-Chave e Achados:
+
+- O artigo é um estudo de caso sobre as barreiras de acesso ao Pronaf em um assentamento da reforma agrária.
+- A insegurança fundiária (falta do título da terra) é identificada como o principal obstáculo para o acesso ao crédito.
+- A fragilidade da Assistência Técnica e Extensão Rural (ATER) na região compromete a capacidade dos assentados de elaborarem projetos e acessarem o programa.
+- A burocracia e as exigências dos bancos (agentes financeiros) são pouco adaptadas à realidade dos agricultores assentados.
+
+Palavras-Chave:
+Técnicas: [Acesso ao crédito, Pronaf, assentamento rural, reforma agrária, Canudos-BA, estudo de caso, barreiras de acesso, ATER, regularização fundiária]
+
+Conceituais: [Inclusão financeira, política agrícola, desenvolvimento rural, segurança da posse, burocracia, agricultura familiar]
+
+Linguagem Natural: [Por que os assentados da reforma agrária não conseguem crédito do Pronaf?, Desafios do acesso ao crédito em Canudos, a importância do título da terra para o Pronaf, barreiras para o financiamento da agricultura familiar no Nordeste, o papel da ATER no acesso ao crédito]

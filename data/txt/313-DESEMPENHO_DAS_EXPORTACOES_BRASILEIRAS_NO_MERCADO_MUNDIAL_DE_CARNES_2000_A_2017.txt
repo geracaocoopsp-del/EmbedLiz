@@ -1,0 +1,33 @@
+**Identificação Básica:**
+*   **ID do Artigo:** 313
+*   **Título Oficial:** DESEMPENHO DAS EXPORTAÇÕES BRASILEIRAS NO MERCADO MUNDIAL DE CARNES, 2000 A 2017
+*   **Link para Download:** (Será adicionado posteriormente)
+
+**Resumo Sintético (O núcleo):**
+Este artigo analisa o desempenho das exportações brasileiras de carne (bovina, suína e de frango) no mercado mundial entre 2000 e 2017. A tese central é que o Brasil se consolidou como um dos principais exportadores globais de carnes, impulsionado principalmente pela competitividade de seus produtos. No entanto, o setor enfrentou desafios significativos, como barreiras sanitárias, embargos comerciais e crises econômicas, que impactaram a trajetória das exportações, exigindo adaptação e busca por novos mercados para manter a liderança.
+
+**Expansão Semântica:**
+
+*   **Descrição Expandida em Linguagem Natural:**
+    *   O estudo investiga como o Brasil se tornou um dos maiores vendedores de carne (bovina, suína e de frango) para o mundo, analisando os altos e baixos desse mercado ao longo de quase duas décadas.
+    *   Explica que o sucesso do Brasil na exportação de carne se deve à sua capacidade de produzir de forma competitiva, mas também mostra que o setor enfrentou muitos problemas, como doenças no gado, proibições de venda por outros países e crises econômicas.
+    *   A pesquisa detalha como o Brasil se adaptou a esses desafios, buscando novos compradores e melhorando a qualidade e a rastreabilidade de seus produtos.
+    *   O artigo serve para entender a dinâmica complexa do mercado global de carnes e a resiliência do agronegócio brasileiro diante de adversidades.
+
+*   **Pontos-Chave e Achados Específicos:**
+    *   **Contexto:** O Brasil é um dos líderes mundiais na produção e exportação de carnes (bovina, suína e de frango), com o agronegócio sendo um pilar da economia.
+    *   **Metodologia:** Utiliza o modelo Constant-Market-Share (CMS) para decompor o crescimento das exportações em três efeitos: Comércio Mundial, Destino das Exportações e Competitividade.
+    *   **Desempenho Geral:** As exportações brasileiras de carne cresceram significativamente no período, com destaque para a carne bovina e de frango. O Brasil se tornou o principal exportador mundial de carne bovina e de frango, e o terceiro de carne suína em 2017.
+    *   **Fatores de Crescimento:** A competitividade dos produtos brasileiros foi o principal motor do crescimento das exportações, impulsionada por investimentos em tecnologia, sanidade, rastreabilidade e câmbio favorável.
+    *   **Desafios e Impactos:**
+        1.  **Barreiras Sanitárias:** Focos de febre aftosa e outras doenças resultaram em embargos e restrições de importação por diversos países.
+        2.  **Crises Econômicas:** A crise financeira mundial de 2008 e a crise econômica brasileira impactaram negativamente as exportações.
+        3.  **Operação Carne Fraca:** A operação policial de 2017 gerou desconfiança internacional e embargos temporários.
+        4.  **Protecionismo:** Países importadores, como a União Europeia, impuseram barreiras tarifárias e não-tarifárias.
+    *   **Adaptação e Resiliência:** O setor demonstrou capacidade de adaptação, buscando novos mercados (como a China e o Oriente Médio) e investindo em melhorias para superar os desafios.
+    *   **Conclusão Principal:** O desempenho das exportações brasileiras de carne no mercado mundial é notável, mas a trajetória foi marcada por desafios que exigiram constante adaptação. A competitividade, aliada à busca por novos mercados e à melhoria contínua da qualidade e sanidade, são cruciais para a manutenção da liderança brasileira no setor.
+
+*   **Palavras-Chave (O "Mapa" para a IA):**
+    *   **Termos Técnicos:** Exportações de Carnes, Carne Bovina, Carne Suína, Carne de Frango, Constant-Market-Share (CMS), Competitividade, Barreiras Sanitárias, Embargos Comerciais, Mercado Mundial.
+    *   **Termos Conceituais:** Agronegócio, Comércio Internacional, Balança Comercial, Crises Econômicas, Rastreabilidade, Segurança Alimentar.
+    *   **Termos em Linguagem Natural (Sinônimos e Perguntas):** "exportação de carne do Brasil", "mercado global de carnes", "impacto da febre aftosa nas exportações", "Operação Carne Fraca e vendas de carne", "competitividade da carne brasileira", "para onde o Brasil exporta carne?", "desafios da indústria da carne", "como o Brasil se tornou grande exportador de carne?".

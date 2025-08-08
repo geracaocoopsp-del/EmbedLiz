@@ -1,0 +1,31 @@
+**Identificação Básica:**
+*   **ID do Artigo:** 539
+*   **Título Oficial:** MARCA PAÍS: UM ESTUDO BIBLIOMÉTRICO NO PERÍODO DE 1997 A 2018
+*   **Link para Download:** (Será adicionado posteriormente)
+
+**Resumo Sintético (O núcleo):**
+Este artigo apresenta um estudo bibliométrico sobre o conceito de "Marca País" (Country Brand) na literatura acadêmica entre 1997 e 2018. A tese central é que o tema ganhou crescente relevância no período, impulsionado pela globalização e pela busca dos países por diferenciação e competitividade no cenário internacional. A pesquisa identifica as principais áreas de estudo, os autores mais influentes e as lacunas na pesquisa, destacando a necessidade de estudos mais aprofundados sobre a gestão e o impacto da Marca País no desenvolvimento econômico e social.
+
+**Expansão Semântica:**
+
+*   **Descrição Expandida em Linguagem Natural:**
+    *   O estudo faz um levantamento de todas as pesquisas científicas sobre o conceito de "Marca País", que é como a reputação de um país no cenário global, e como essa reputação afeta o comércio, o turismo e os investimentos.
+    *   Explica que, com a globalização, os países precisam se destacar e criar uma imagem positiva para atrair negócios e visitantes, e que a "Marca País" é uma ferramenta para isso.
+    *   Mostra que o tema tem sido cada vez mais pesquisado, mas que ainda existem muitas perguntas sem resposta, especialmente sobre como gerenciar essa "marca" e qual o seu impacto real na economia.
+    *   O artigo serve para entender a importância da imagem de um país no mundo e os desafios para construir e manter uma "Marca País" forte e positiva.
+
+*   **Pontos-Chave e Achados Específicos:**
+    *   **Conceito de Marca País:** Refere-se à imagem e reputação de um país no cenário internacional, influenciando o turismo, o comércio, o investimento e a atração de talentos.
+    *   **Metodologia:** Estudo bibliométrico, analisando artigos científicos publicados em periódicos nacionais e internacionais entre 1997 e 2018, utilizando bases de dados como Scielo e Periódicos CAPES.
+    *   **Crescimento da Pesquisa:** O número de publicações sobre Marca País cresceu significativamente no período, indicando o aumento do interesse acadêmico no tema.
+    *   **Principais Áreas Abordadas:** As áreas mais pesquisadas foram Administração, Cultura e Herança Histórica, Marketing, Turismo e Exportação.
+    *   **Lacunas na Pesquisa:** O estudo aponta a necessidade de mais pesquisas sobre:
+        1.  **Gestão da Marca País:** Como os países podem gerenciar e construir uma Marca País eficaz.
+        2.  **Impacto Econômico:** A quantificação do impacto da Marca País no PIB, nas exportações e no turismo.
+        3.  **Percepção do Consumidor:** Como a imagem do país influencia a decisão de compra dos consumidores.
+    *   **Conclusão Principal:** A Marca País é um tema de crescente relevância no cenário global, com potencial para impulsionar o desenvolvimento econômico e social. No entanto, a pesquisa acadêmica ainda precisa avançar em estudos mais aprofundados sobre a gestão e o impacto da Marca País, fornecendo subsídios para a formulação de políticas públicas e estratégias de marketing territorial.
+
+*   **Palavras-Chave (O "Mapa" para a IA):**
+    *   **Termos Técnicos:** Marca País (Country Brand), Estudo Bibliométrico, Comércio Internacional, Turismo, Investimento Estrangeiro Direto, Reputação Nacional, Marketing Territorial.
+    *   **Termos Conceituais:** Globalização, Competitividade, Imagem Nacional, Desenvolvimento Econômico, Políticas Públicas, Percepção do Consumidor.
+    *   **Termos em Linguagem Natural (Sinônimos e Perguntas):** "reputação do Brasil no mundo", "como a imagem de um país afeta o comércio?", "turismo e marca país", "investir no Brasil e a imagem do país", "o que é Marca País?", "como construir uma boa imagem para o Brasil?", "estudo sobre a imagem do Brasil".

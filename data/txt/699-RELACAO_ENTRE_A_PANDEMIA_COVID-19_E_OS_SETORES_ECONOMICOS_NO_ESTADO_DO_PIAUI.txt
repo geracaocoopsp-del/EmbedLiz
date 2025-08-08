@@ -1,0 +1,26 @@
+ID do Artigo: 699
+Título Oficial:
+RELAÇÃO ENTRE A PANDEMIA COVID-19 E OS SETORES ECONÔMICOS NO ESTADO DO PIAUÍ
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo analisa a relação entre a pandemia de COVID-19 e o desempenho dos diferentes setores econômicos (agropecuária, indústria e serviços) no estado do Piauí. Utilizando dados de emprego e de atividade econômica, a pesquisa investiga os impactos assimétricos da crise sanitária. Os resultados mostram que o setor de serviços, especialmente o comércio e os serviços presenciais, foi o mais duramente atingido pelas medidas de distanciamento social. Em contrapartida, o setor agropecuário demonstrou grande resiliência, impulsionado pelas exportações de grãos. O estudo conclui que a pandemia aprofundou a heterogeneidade estrutural da economia piauiense, evidenciando a vulnerabilidade do setor de serviços urbanos e a força do agronegócio.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa faz um raio-x da economia do Piauí para ver qual setor apanhou mais e qual apanhou menos durante a pandemia. O estudo mostra que o resultado foi muito desigual. O setor de serviços, que é o que mais emprega nas cidades (lojas, restaurantes, etc.), foi nocauteado. Com as medidas de isolamento, o faturamento despencou e o desemprego aumentou. Já o agronegócio, que vive da exportação de grãos, passou pela crise quase sem arranhões e, em alguns casos, até cresceu. A conclusão é que a pandemia escancarou as duas caras da economia do Piauí: um setor de serviços urbano muito frágil e um agronegócio super forte e voltado para fora.
+
+Pontos-Chave e Achados:
+
+- O artigo analisa os impactos setoriais da pandemia de COVID-19 na economia do Piauí.
+- O setor de serviços foi o mais negativamente impactado, com forte queda no emprego e na atividade econômica.
+- O setor agropecuário mostrou-se resiliente, sustentado pela demanda internacional por commodities.
+- A crise da COVID-19 teve um impacto assimétrico, aprofundando as desigualdades entre os setores e entre o rural e o urbano no estado.
+
+Palavras-Chave:
+Técnicas: [Impacto da COVID-19, economia setorial, Piauí, mercado de trabalho, análise de conjuntura, agronegócio, setor de serviços, PIB]
+
+Conceituais: [Crise econômica, impacto assimétrico, resiliência, vulnerabilidade, heterogeneidade estrutural, desenvolvimento regional]
+
+Linguagem Natural: [Como a pandemia afetou a economia do Piauí?, Qual setor mais sofreu com a COVID-19 no Piauí?, O agronegócio piauiense na pandemia, impacto da crise no setor de serviços, desigualdade setorial no Nordeste]

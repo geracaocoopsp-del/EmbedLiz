@@ -1,0 +1,26 @@
+ID do Artigo: 764
+Título Oficial:
+Teoria da mudança e indicadores de medição: uma aplicação prática na política de garantia de preços mínimos para a sociobiodiversidade (PGPM-Bio)
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo aplica a metodologia da Teoria da Mudança para construir um modelo lógico e um sistema de indicadores para a avaliação da Política de Garantia de Preços Mínimos para os Produtos da Sociobiodiversidade (PGPM-Bio). A pesquisa descreve o passo a passo da construção da Teoria da Mudança para a política, explicitando a cadeia causal entre as ações do programa (pagamento de subvenção) e os impactos esperados (aumento da renda, conservação ambiental). O estudo conclui que essa metodologia é uma ferramenta poderosa para o planejamento e a avaliação de políticas complexas como a PGPM-Bio, pois torna explícita a lógica do programa e facilita a criação de indicadores de monitoramento e de impacto mais pertinentes e eficazes.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa usa uma ferramenta de planejamento chamada "Teoria da Mudança" para desenhar um mapa lógico de como a PGPM-Bio (a política de preço mínimo para produtos da floresta) deveria funcionar. Esse mapa mostra, passo a passo, como a ação do governo (dar um subsídio no preço) se conecta com os resultados que se espera alcançar (aumentar a renda dos extrativistas e, ao mesmo tempo, incentivar a conservação da natureza). A conclusão é que usar a Teoria da Mudança é como ligar o "GPS" da política pública. Ela ajuda a deixar claro para todo mundo qual é o caminho que a política deve seguir e quais são as "placas" (os indicadores) que devem ser olhadas para saber se estamos na direção certa.
+
+Pontos-Chave e Achados:
+
+- O artigo apresenta uma aplicação prática da metodologia da Teoria da Mudança para a avaliação de uma política pública.
+- A construção da Teoria da Mudança para a PGPM-Bio permitiu explicitar a cadeia de resultados esperados da política.
+- A partir da Teoria da Mudança, foi possível derivar um conjunto de indicadores de processo, de resultado e de impacto para monitorar a política.
+- A metodologia se mostra especialmente útil para avaliar políticas complexas, que envolvem múltiplos atores e objetivos.
+
+Palavras-Chave:
+Técnicas: [Teoria da Mudança, avaliação de políticas públicas, modelo lógico, indicadores de impacto, PGPM-Bio, sociobiodiversidade, extrativismo, CONAB]
+
+Conceituais: [Cadeia causal, planejamento estratégico, gestão por resultados, monitoramento e avaliação, política ambiental, desenvolvimento sustentável]
+
+Linguagem Natural: [O que é Teoria da Mudança?, Como avaliar a política de preço mínimo para produtos da sociobiodiversidade?, Indicadores para a PGPM-Bio, metodologia para avaliação de políticas públicas, o papel da CONAB na PGPM-Bio]

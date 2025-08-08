@@ -1,0 +1,37 @@
+**Identificação Básica:**
+
+*   **ID do Artigo:** 245
+*   **Título Oficial:** CONSUMER-BRAND RELATIONSHIPS (CBR): UM ESTUDO EMPÍRICO DE UM MODELO INTEGRATIVO EM UMA COOPERATIVA DE CRÉDITO EM MINAS GERAIS
+*   **Link para Download:** (Será adicionado posteriormente)
+
+**Resumo Sintético:**
+
+Este artigo, resultado de uma dissertação de mestrado, investiga o relacionamento entre os cooperados e a marca de uma cooperativa de crédito em Minas Gerais, utilizando o modelo de Consumer-Brand Relationships (CBR). A pesquisa, que aplicou um survey em uma amostra de cooperados, validou a escala CBR e identificou que a "consciência da marca", "confiança na marca" e "comprometimento com a marca" são antecedentes que influenciam positivamente o "brand equity" (valor da marca) e a "lealdade à marca". O estudo destaca a importância de as cooperativas aprimorarem suas estratégias de relacionamento com os membros para fortalecer sua marca e garantir a lealdade.
+
+**Expansão Semântica:**
+
+*   **Descrição Expandida em Linguagem Natural:**
+    *   O artigo explora como os membros de uma cooperativa de crédito se relacionam com a marca da cooperativa. Ele usa um modelo que analisa a "relação consumidor-marca" para entender o que faz com que os cooperados confiem, se comprometam e sejam leais à cooperativa. A pesquisa mostra que, se o cooperado conhece bem a marca, confia nela e se sente comprometido, isso aumenta o valor da marca e a sua lealdade. Em outras palavras, para uma cooperativa de crédito ter sucesso, ela precisa construir um relacionamento forte e emocional com seus membros, indo além de apenas oferecer serviços financeiros.
+    *   Este trabalho é um estudo aprofundado sobre a conexão entre os cooperados e a marca de sua cooperativa de crédito. Ele investiga os fatores que constroem essa relação, como o conhecimento da marca, a confiança e o comprometimento. A pesquisa conclui que esses elementos são cruciais para aumentar o "valor da marca" e a "lealdade" dos cooperados. Isso significa que as cooperativas precisam investir em estratégias de marketing e relacionamento que fortaleçam esses laços, pois a lealdade dos membros é um diferencial competitivo importante no mercado financeiro.
+
+*   **Pontos-Chave e Achados Específicos:**
+    *   **Objetivo:** Compreender os antecedentes do relacionamento entre cooperados e a marca de uma cooperativa de crédito, e seus efeitos no *brand equity* e lealdade.
+    *   **Modelo Teórico:** Consumer-Brand Relationships (CBR), com foco em Consciência da Marca, Confiança na Marca, Comprometimento com a Marca, Brand Equity e Lealdade à Marca.
+    *   **Metodologia:** Estudo empírico com aplicação de survey em cooperados de uma cooperativa de crédito em Minas Gerais, utilizando modelagem de equações estruturais.
+    *   **Hipóteses Confirmadas:** Todas as 6 hipóteses testadas foram confirmadas, indicando que os construtos se influenciam positivamente.
+    *   **Resultados Principais:** A consciência, confiança e comprometimento com a marca influenciam positivamente o *brand equity* e a lealdade à marca. O modelo explica aproximadamente 91% da variação da lealdade à marca.
+    *   **Implicações Gerenciais:** As cooperativas devem aprimorar suas estratégias de relacionamento com os membros para fortalecer a marca e gerar lealdade, replicando a pesquisa para gerenciar cada construto.
+
+*   **Palavras-Chave:**
+    *   **Termos Técnicos:** Consumer-Brand Relationships (CBR), Brand Equity, Lealdade à Marca, Cooperativas de Crédito, Marketing de Relacionamento, Modelagem de Equações Estruturais (MEE), Consciência da Marca, Confiança na Marca, Comprometimento com a Marca.
+    *   **Termos Conceituais:** Relacionamento Marca-Consumidor, Valor da Marca, Fidelidade, Ativos Intangíveis, Gestão de Marca, Comportamento do Consumidor.
+    *   **Termos em Linguagem Natural (Sinônimos e Perguntas):**
+        *   "relação cooperado e cooperativa"
+        *   "como cooperativas criam lealdade"
+        *   "valor da marca de cooperativa"
+        *   "marketing para cooperativas de crédito"
+        *   "confiança em cooperativas"
+        *   "por que cooperados são leais"
+        *   "como fortalecer a marca de uma cooperativa"
+        *   "pesquisa sobre relacionamento com clientes"
+        *   "engajamento de membros em cooperativas"

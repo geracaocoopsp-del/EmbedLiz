@@ -1,0 +1,26 @@
+### **Síntese Otimizada para IA**
+
+**Identificação Básica:**
+*   **ID do Artigo:** 337
+*   **Título Oficial:** DIREITOS DE PROPRIEDADE E INCENTIVOS AO INVESTIMENTO: APLICAÇÃO EM COOPERATIVAS DE CRÉDITO DO ESTADO DE SÃO PAULO
+*   **Link para Download:** (Será adicionado posteriormente)
+
+**Resumo Sintético:**
+Este estudo investiga como a definição dos direitos de propriedade afeta a decisão de investimento dos membros em cooperativas de crédito no estado de São Paulo. Partindo da teoria de que direitos de propriedade vagamente definidos desincentivam o investimento, a pesquisa foca no risco de expropriação – representado pela alocação de sobras em reservas não divisíveis. Os resultados indicam uma relação negativa entre essa expropriação e o valor mínimo do investimento (quota-capital), sugerindo que, quando os cooperados percebem um risco maior de não terem retorno sobre seu capital, eles se dispõem a investir menos, confirmando a importância de direitos de propriedade bem definidos.
+
+**Expansão Semântica:**
+
+*   **Descrição Expandida em Linguagem Natural:**
+    *   O artigo explora uma questão fundamental para cooperativas: por que um membro investiria seu dinheiro se não tem certeza de que terá controle ou retorno sobre ele? O estudo foca em cooperativas de crédito em São Paulo e analisa como a "segurança" do investimento influencia a disposição do cooperado em aplicar seu capital. A "insegurança" foi medida pelo quanto do lucro (sobras) é destinado a fundos dos quais o cooperado não pode retirar sua parte. A conclusão foi clara: quanto maior a percepção de que o dinheiro pode ficar "preso" na cooperativa, menor o valor que o membro está disposto a investir para entrar. Isso prova que garantir os direitos de propriedade é crucial para a capitalização e saúde dessas instituições.
+
+*   **Pontos-Chave e Achados Específicos:**
+    *   **Problema Central:** Direitos de propriedade em cooperativas são vagamente definidos, o que pode desincentivar o investimento dos membros.
+    *   **Argumento Teórico:** A segurança contra a expropriação do capital é um fator chave para o incentivo ao investimento (Besley, 1995).
+    *   **Metodologia:** Análise de regressão com dados de 97 cooperativas de crédito de São Paulo (2006-2013). A expropriação foi representada pela alocação de sobras em reservas não divisíveis (DeltaFundos).
+    *   **Principal Achado:** Foi encontrada uma relação negativa e estatisticamente significativa entre a expropriação (DeltaFundos) e o valor do investimento mínimo (QuotaMn).
+    *   **Conclusão:** A percepção de que os direitos de propriedade não são seguros afeta negativamente a decisão de investimento dos indivíduos em cooperativas de crédito.
+
+*   **Palavras-Chave (O "Mapa" para a IA):**
+    *   **Termos Técnicos:** Direitos de Propriedade, Incentivos ao Investimento, Cooperativas de Crédito, Expropriação, Capital Social, Quotas-Parte, Reservas Indivisíveis.
+    *   **Termos Conceituais:** Teoria da Firma, Custos de Transação, Problema de Agência, Decisão de Investimento, Governança Cooperativa.
+    *   **Termos em Linguagem Natural (Sinônimos e Perguntas):** "por que investir em cooperativas?", "direitos dos cooperados", "risco de investir em cooperativa", "capital social em cooperativas", "expropriação de capital", "governança em cooperativas de crédito", "incentivos para sócios de cooperativas".

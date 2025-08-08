@@ -1,0 +1,26 @@
+ID do Artigo: 144
+Título Oficial:
+A CONCENTRAÇÃO FUNDIÁRIA E O PROCESSO HISTÓRICO DE DETERMINAÇÃO DA INSEGURANÇA ALIMENTAR E NUTRICIONAL
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo realiza uma análise histórica e conceitual sobre a relação direta entre a concentração de terras no Brasil e a persistência da insegurança alimentar e nutricional. A partir de uma revisão bibliográfica, o estudo argumenta que a estrutura agrária brasileira, marcada por latifúndios e pela priorização do agronegócio de exportação, marginaliza a agricultura familiar, que é a principal responsável pela produção de alimentos para o mercado interno. A pesquisa conclui que a desigualdade no acesso à terra é um determinante estrutural da fome e da má nutrição, defendendo que políticas de reforma agrária e de fortalecimento da agricultura familiar são essenciais para garantir a soberania e a segurança alimentar no país.
+
+Expansão Semântica:
+Descrição Expandida: O estudo explora a conexão profunda entre como a terra é distribuída no Brasil e o problema da fome. Ele argumenta que a forma como o país se desenvolveu historicamente, com grandes propriedades de terra (latifúndios) focadas em produzir para exportação, deixou de lado os pequenos agricultores. Esses pequenos agricultores, que formam a agricultura familiar, são quem de fato produz a maior parte da comida que chega à mesa dos brasileiros. Ao analisar a história e diversos estudos sobre o tema, o artigo conclui que a má distribuição de terras não é apenas uma questão de desigualdade econômica, mas uma causa fundamental da insegurança alimentar. Para resolver o problema da fome de forma duradoura, seria necessário repensar a estrutura agrária do país, apoiando mais a agricultura familiar.
+
+Pontos-Chave e Achados:
+
+- A concentração de terras é um fator histórico e estrutural que perpetua a insegurança alimentar no Brasil.
+- O modelo do agronegócio, focado na exportação de commodities, contrasta com o papel da agricultura familiar na produção de alimentos para o consumo nacional.
+- A reforma agrária é apresentada como uma política pública indispensável para a democratização do acesso à terra e, consequentemente, para a promoção da segurança alimentar.
+- A insegurança alimentar não é apenas uma questão de falta de alimentos, mas de falta de acesso a eles, condição diretamente ligada à estrutura fundiária.
+
+Palavras-Chave:
+Técnicas: [Concentração fundiária, insegurança alimentar e nutricional, reforma agrária, agricultura familiar, agronegócio, estrutura agrária, latifúndio, soberania alimentar]
+
+Conceituais: [Questão agrária, desigualdade social, políticas públicas, direito à alimentação, desenvolvimento rural, história econômica do Brasil]
+
+Linguagem Natural: [Qual a relação entre a concentração de terras e a fome?, Por que a reforma agrária é importante para a segurança alimentar?, Como a distribuição de terras afeta a produção de alimentos?, Agricultura familiar vs. agronegócio, causas da insegurança alimentar no Brasil]

@@ -1,0 +1,26 @@
+ID do Artigo: 654
+Título Oficial: PRINCÍPIOS COOPERATIVISTAS NA PERCEPÇÃO DOS ASSOCIADOS: ESTUDO DE CASO EM UMA COOPERATIVA DE CRÉDITO DE MINAS GERAIS
+Link para Download: (Adicionar depois)
+
+Resumo Sintético: Este estudo quantitativo descritivo avalia o grau de aderência dos associados de uma cooperativa de crédito de livre admissão em Minas Gerais (SICOOB União) aos princípios cooperativistas. Através de um survey com 373 associados, a pesquisa revela um elevado grau de aderência à maioria dos princípios, com exceção de duas questões relacionadas à apropriação das reservas legais e ao dever de participação. O perfil predominante do associado é masculino, com idade entre 26 e 55 anos, ensino médio/fundamental, atuando na área urbana e com alta frequência à cooperativa. O estudo destaca a importância da educação cooperativista para fortalecer a compreensão e o engajamento dos associados.
+
+Expansão Semântica:
+Descrição Expandida em Linguagem Natural: Este artigo investiga o quanto os membros de uma cooperativa de crédito em Minas Gerais, a SICOOB União, realmente vivem e entendem os princípios que regem o cooperativismo. A pesquisa, feita com centenas de associados, mostra que a maioria deles concorda e pratica os valores cooperativistas, como a gestão democrática e o interesse pela comunidade. No entanto, o estudo também aponta algumas áreas onde a compreensão é menor, como a importância das reservas financeiras da cooperativa e o dever de participação ativa dos membros. O artigo descreve o perfil típico do associado e sugere que a educação sobre o cooperativismo é fundamental para que todos os membros compreendam plenamente seu papel e se engajem ainda mais com a cooperativa.
+Pontos-Chave e Achados Específicos:
+- O cooperativismo é um modelo de organização com foco no desenvolvimento econômico e social, guiado por sete princípios.
+- Estudo de caso quantitativo descritivo (survey) na SICOOB União, cooperativa de crédito de livre admissão em Minas Gerais.
+- População: 11.789 associados; Amostra: 373 associados.
+- Perfil do Associado: Predominantemente masculino, entre 26 e 55 anos, ensino médio/fundamental, principal atividade econômica na área urbana, alta frequência à cooperativa, considera a cooperativa a melhor opção para ser correntista.
+- Grau de Aderência aos Princípios:
+    - Elevado grau de aderência à maioria dos princípios (89% das questões com respostas positivas).
+    - Exceções: Baixa aderência em questões sobre apropriação das reservas legais pela cooperativa (Q14) e o dever de participação ativa dos associados (Q15).
+    - Associados com maior escolaridade (superior e pós-graduação) apresentaram menor aderência aos princípios.
+    - Associados da zona urbana apresentaram maior concordância com princípios cooperativistas do que os da zona rural em algumas questões.
+    - Associados que frequentam a cooperativa mensalmente apresentaram maior discordância sobre projetos em parceria com a comunidade.
+- A educação cooperativista é fundamental para a compreensão e prática dos princípios.
+- A pesquisa sugere a necessidade de ações para divulgar e fortalecer os princípios cooperativistas, especialmente para os associados com menor aderência.
+
+Palavras-Chave:
+Termos Técnicos: Princípios Cooperativistas, Cooperativa de Crédito, Aderência, Estudo de Caso, Survey, Pesquisa Quantitativa, SICOOB União, Escala Likert, Análise Univariada, Análise Bivariada, Testes Não Paramétricos (Mann-Whitney, Kruskal-Wallis).
+Termos Conceituais: Desenvolvimento Econômico e Social, Gestão Democrática, Participação Econômica, Autonomia e Independência, Educação Cooperativa, Intercooperação, Interesse pela Comunidade, Percepção do Associado, Engajamento.
+Termos em Linguagem Natural (Sinônimos e Perguntas): Os associados entendem os princípios cooperativistas? Como os membros de cooperativas participam? Qual a percepção dos cooperados sobre a cooperativa? Aderência aos princípios do cooperativismo, educação para cooperados, desafios da participação em cooperativas de crédito.

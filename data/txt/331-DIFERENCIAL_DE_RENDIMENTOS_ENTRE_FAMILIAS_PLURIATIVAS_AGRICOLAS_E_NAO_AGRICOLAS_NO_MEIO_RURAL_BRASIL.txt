@@ -1,0 +1,26 @@
+ID do Artigo: 331
+Título Oficial:
+DIFERENCIAL DE RENDIMENTOS ENTRE FAMÍLIAS PLURIATIVAS, AGRÍCOLAS E NÃO-AGRÍCOLAS NO MEIO RURAL BRASILEIRO
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo analisa o diferencial de rendimentos entre três tipos de famílias no meio rural brasileiro: as estritamente agrícolas, as estritamente não-agrícolas e as pluriativas (que combinam rendas agrícolas e não-agrícolas). Utilizando microdados da PNAD, a pesquisa compara a renda per capita e a incidência de pobreza entre os três grupos. Os resultados mostram que as famílias pluriativas e as não-agrícolas apresentam, em média, uma renda superior e uma menor incidência de pobreza do que as famílias que dependem exclusivamente da agricultura. O estudo conclui que a pluriatividade e o acesso a ocupações não-agrícolas são estratégias fundamentais para a melhoria das condições de vida e a redução da vulnerabilidade no meio rural.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa divide as famílias que vivem no campo em três grupos para ver quem ganha mais: as que vivem só da roça (agrícolas), as que vivem só de outras coisas (como um pequeno comércio ou um emprego na cidade), e as que misturam as duas coisas (pluriativas). O estudo, usando dados do IBGE, descobriu que as famílias que dependem só da agricultura são, na média, as mais pobres. Quem consegue ter uma renda de fora da agricultura, seja de forma exclusiva ou combinada, geralmente tem uma vida financeira melhor. A conclusão é que, para o morador do campo, ter um "plano B", ou seja, uma fonte de renda que não dependa só da colheita, é uma estratégia muito importante para sair da pobreza e ter uma vida mais estável.
+
+Pontos-Chave e Achados:
+
+- O artigo compara os níveis de renda e pobreza de famílias rurais agrícolas, não-agrícolas e pluriativas.
+- As famílias que dependem exclusivamente da agricultura são as que apresentam, em média, os menores rendimentos e a maior incidência de pobreza.
+- A pluriatividade (combinação de rendas) funciona como uma importante estratégia de diversificação e de mitigação de riscos, elevando a renda familiar.
+- O crescimento das oportunidades de trabalho não-agrícola no meio rural é um vetor fundamental para o combate à pobreza rural.
+
+Palavras-Chave:
+Técnicas: [Pluriatividade, renda rural, pobreza rural, mercado de trabalho rural, PNAD, diferenciais de rendimentos, agricultura familiar, ocupações não-agrícolas]
+
+Conceituais: [Estratégias de reprodução social, diversificação de renda, vulnerabilidade, desenvolvimento rural, novo rural, desigualdade]
+
+Linguagem Natural: [Quem ganha mais no meio rural?, A importância da pluriatividade para a agricultura familiar, como reduzir a pobreza no campo?, comparação de renda entre famílias rurais, o que é uma família pluriativa?]

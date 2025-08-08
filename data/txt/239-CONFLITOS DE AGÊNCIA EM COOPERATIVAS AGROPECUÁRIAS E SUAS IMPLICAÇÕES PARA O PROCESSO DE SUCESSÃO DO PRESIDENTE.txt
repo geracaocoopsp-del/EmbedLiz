@@ -1,0 +1,22 @@
+Identificação Básica:
+ID do Artigo: 239
+Título Oficial: CONFLITOS DE AGÊNCIA EM COOPERATIVAS AGROPECUÁRIAS E SUAS IMPLICAÇÕES PARA O PROCESSO DE SUCESSÃO DO PRESIDENTE
+Link para Download: (A ser adicionado)
+
+Resumo Sintético:
+O artigo investiga os conflitos de agência em cooperativas agropecuárias e suas implicações para o processo de sucessão do presidente. A pesquisa, de natureza qualitativa, analisou sete cooperativas em Mato Grosso do Sul, entrevistando os presidentes. Os resultados identificaram problemas como "carona" (membros que se beneficiam sem contribuir), "horizonte" (foco em curto prazo), "portfólio" (falta de diversificação), "controle" (gestão ineficiente) e "custos de influência" (decisões baseadas em interesses pessoais). O estudo conclui que a falta de diálogo, planejamento e a ausência de um processo formal de sucessão agravam esses conflitos, prejudicando a identidade e o desempenho da cooperativa.
+
+Expansão Semântica:
+Descrição Expandida em Linguagem Natural: Este estudo explora os problemas que surgem quando os interesses dos líderes de cooperativas agrícolas (agentes) não se alinham com os interesses dos cooperados (principais). A pesquisa investiga como esses conflitos afetam a escolha do próximo presidente e a saúde geral da cooperativa. O artigo detalha os tipos de conflitos de agência, como a tendência de alguns membros de se aproveitar da cooperativa sem contribuir, ou a falta de planejamento para o futuro. A pesquisa é relevante para gestores de cooperativas, conselheiros e pesquisadores interessados em governança corporativa e sucessão em organizações cooperativas.
+
+Pontos-Chave e Achados Específicos:
+- O estudo analisou sete cooperativas agropecuárias em Mato Grosso do Sul.
+- Foram identificados cinco tipos de conflitos de agência: carona, horizonte, portfólio, controle e custos de influência.
+- A falta de diálogo entre principal e agente, ausência de planejamento e discussões sobre sucessão são problemas identificados.
+- A remuneração do presidente e a falta de compreensão dos interesses da cooperativa são fatores que contribuem para os conflitos.
+- O estudo ressalta a importância do planejamento da sucessão e da qualificação moral dos gestores para mitigar os conflitos.
+
+Palavras-Chave:
+Termos Técnicos: Conflitos de Agência, Sucessão de Presidente, Cooperativas Agropecuárias, Governança Corporativa, Teoria da Agência, Planejamento Sucessório.
+Termos Conceituais: Carona (Free Rider), Horizonte (Short-termism), Portfólio (Lack of Diversification), Controle (Inefficient Management), Custos de Influência.
+Termos em Linguagem Natural: "problemas de gestão em cooperativas", "sucessão de liderança em cooperativas", "conflitos em cooperativas agrícolas", "como resolver problemas em cooperativas", "governança em cooperativas rurais", "planejamento de sucessão em empresas familiares".

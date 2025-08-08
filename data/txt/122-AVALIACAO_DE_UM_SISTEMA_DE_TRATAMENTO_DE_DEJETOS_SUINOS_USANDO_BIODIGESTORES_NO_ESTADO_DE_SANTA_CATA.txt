@@ -1,0 +1,26 @@
+ID do Artigo: 122
+Título Oficial:
+AVALIAÇÃO DE UM SISTEMA DE TRATAMENTO DE DEJETOS SUÍNOS USANDO BIODIGESTORES NO ESTADO DE SANTA CATARINA
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo avalia a eficiência técnica e a viabilidade econômica de um sistema de tratamento de dejetos suínos utilizando biodigestores em uma propriedade em Santa Catarina. A pesquisa, por meio de um estudo de caso, analisa a capacidade do biodigestor de reduzir a carga poluidora dos dejetos e de gerar biogás e biofertilizante. Os resultados mostram que o sistema é altamente eficiente na redução da poluição e que a geração de biogás pode suprir parte da demanda de energia da propriedade. A análise econômica indica que, apesar do alto investimento inicial, o sistema pode se pagar no médio prazo, através da economia com energia e da substituição de fertilizantes químicos pelo biofertilizante. O estudo conclui que a biodigestão é uma tecnologia-chave para a sustentabilidade da suinocultura.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa estuda, na prática, como funciona um biodigestor em uma granja de porcos em Santa Catarina, para ver se o negócio vale a pena. O estudo mostra que a tecnologia é um golaço em duas frentes. Na ambiental, o biodigestor "limpa" o esterco dos porcos, diminuindo muito a poluição. Na econômica, ele transforma o que era um problema em duas soluções: o gás que sai do biodigestor pode ser usado para gerar energia na própria granja, e o líquido que sobra (o biofertilizante) é um adubo de ótima qualidade, que diminui a necessidade de comprar adubo químico. A conclusão é que, mesmo que o investimento para instalar o biodigestor seja alto, ele se paga com o tempo, e é uma das melhores soluções para tornar a criação de porcos mais sustentável.
+
+Pontos-Chave e Achados:
+
+- O artigo é um estudo de caso que avalia a eficiência de um biodigestor no tratamento de dejetos de suínos.
+- A biodigestão anaeróbica se mostrou eficaz na redução da Demanda Bioquímica de Oxigênio (DBO), mitigando o potencial poluidor dos dejetos.
+- O sistema gera dois coprodutos de valor: o biogás, como fonte de energia renovável, e o biofertilizante, como fonte de nutrientes para a lavoura.
+- A análise de viabilidade econômica, considerando os benefícios da economia de energia e de fertilizantes, indica que o investimento no biodigestor pode ter um retorno atrativo.
+
+Palavras-Chave:
+Técnicas: [Biodigestor, tratamento de dejetos, suinocultura, biogás, biofertilizante, estudo de caso, Santa Catarina, sustentabilidade, energia renovável]
+
+Conceituais: [Economia circular, saneamento rural, agregação de valor, passivo ambiental, produção mais limpa, viabilidade econômica]
+
+Linguagem Natural: [Como funciona um biodigestor em uma granja de porcos?, Vale a pena instalar um biodigestor para tratar esterco de suínos?, A produção de biogás a partir de dejetos é viável?, o que é biofertilizante?, sustentabilidade na criação de porcos em Santa Catarina]

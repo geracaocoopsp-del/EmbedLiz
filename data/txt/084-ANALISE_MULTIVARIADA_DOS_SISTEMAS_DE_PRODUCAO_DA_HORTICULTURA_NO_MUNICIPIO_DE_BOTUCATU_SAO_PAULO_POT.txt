@@ -1,0 +1,26 @@
+ID do Artigo: 84
+Título Oficial:
+ANÁLISE MULTIVARIADA DOS SISTEMAS DE PRODUÇÃO DA HORTICULTURA NO MUNICÍPIO DE BOTUCATU, SÃO PAULO: POTENCIALIDADES E LIMITAÇÕES
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo utiliza a análise multivariada para criar uma tipologia dos sistemas de produção da horticultura no município de Botucatu, São Paulo. A pesquisa, por meio da aplicação de questionários e da análise de clusters, agrupa os produtores em diferentes perfis, com base em suas características socioeconômicas, tecnológicas e de mercado. Os resultados revelam a existência de uma grande heterogeneidade, com pelo menos três tipos distintos de horticultores: um grupo de pequenos produtores de base familiar e pouco tecnificados, focados em feiras; um grupo de produtores em transição, que buscam a certificação orgânica; e um grupo de produtores convencionais, mais tecnificados e integrados a canais de comercialização mais longos. O estudo conclui que as políticas de apoio ao setor precisam ser diferenciadas para atender às potencialidades e limitações de cada grupo.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa faz um "censo" dos produtores de verduras e legumes de Botucatu (SP) para entender quem é quem nesse setor. O estudo não colocou todo mundo no mesmo saco; pelo contrário, ele usou uma técnica estatística para separar os produtores em "tribos" ou "perfis". A conclusão é que existem pelo menos três grandes grupos: o "tradicional", que é o pequeno produtor que vende na feira; o "alternativo", que é o pessoal que está investindo na produção orgânica; e o "moderno", que é o produtor maior, que usa mais tecnologia e vende para supermercados. O estudo mostra que não dá para ter uma política "tamanho único" para a horticultura. Cada um desses grupos tem problemas e necessidades diferentes, e o governo precisa de estratégias específicas para ajudar cada um deles.
+
+Pontos-Chave e Achados:
+
+- O artigo utiliza a análise de clusters para construir uma tipologia de horticultores em Botucatu-SP.
+- A tipologia revela a heterogeneidade estrutural da horticultura local, com a coexistência de diferentes lógicas produtivas e de mercado.
+- Foram identificados três grupos principais: "familiares tradicionais", "produtores em transição agroecológica" e "convencionais especializados".
+- O reconhecimento dessa diversidade é fundamental para o desenho de políticas de assistência técnica e de crédito mais eficazes e adequadas a cada perfil.
+
+Palavras-Chave:
+Técnicas: [Análise multivariada, análise de clusters, tipologia de produtores, horticultura, sistemas de produção, Botucatu-SP, agricultura familiar]
+
+Conceituais: [Heterogeneidade, estilos de agricultura, estratégias de produção, desenvolvimento rural, políticas públicas diferenciadas, sociologia rural]
+
+Linguagem Natural: [Quais os tipos de produtores de hortaliças em Botucatu?, Tipologia de agricultores, análise de clusters na agricultura, desafios da horticultura em São Paulo, como apoiar os diferentes perfis de agricultores?]

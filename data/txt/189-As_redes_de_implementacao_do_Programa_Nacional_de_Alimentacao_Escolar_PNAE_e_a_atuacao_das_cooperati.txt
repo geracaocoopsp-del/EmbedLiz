@@ -1,0 +1,26 @@
+ID do Artigo: 189
+Título Oficial:
+As redes de implementação do Programa Nacional de Alimentação Escolar (PNAE) e a atuação das cooperativas da agricultura familiar
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo analisa a estrutura e o funcionamento das redes de implementação do Programa Nacional de Alimentação Escolar (PNAE), com foco no papel central desempenhado pelas cooperativas da agricultura familiar. A pesquisa investiga como os diferentes atores (gestores públicos, nutricionistas, cooperativas, agricultores) se articulam para viabilizar a compra e entrega de alimentos para a merenda escolar. Os resultados destacam que as cooperativas atuam como intermediários cruciais, organizando a produção e a logística, mas o sucesso da rede depende de uma governança eficaz e da superação de desafios relacionados à comunicação, burocracia e ao capital social entre os envolvidos.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa explora a complexa teia de relações que faz o programa da merenda escolar (PNAE) funcionar, olhando especialmente para o papel das cooperativas de pequenos agricultores. O estudo mostra que, para a comida sair da roça e chegar ao prato do aluno, é preciso uma grande articulação entre prefeitura, nutricionistas, diretores de escola e, principalmente, as cooperativas, que organizam os agricultores. A conclusão é que as cooperativas são a espinha dorsal desse processo, mas para que tudo funcione bem, é preciso que todos esses envolvidos conversem, confiem uns nos outros e superem os obstáculos da burocracia, formando uma rede forte e eficiente.
+
+Pontos-Chave e Achados:
+
+- As cooperativas da agricultura familiar são atores centrais nas redes de implementação do PNAE, atuando como elo entre a produção e o poder público.
+- A efetividade do PNAE está diretamente relacionada à capacidade de governança e à qualidade das interações dentro dessa rede.
+- Desafios como burocracia excessiva, falhas de comunicação e falta de planejamento conjunto são os principais gargalos para a implementação.
+- O capital social (confiança, reciprocidade) entre os atores da rede é um fator determinante para o sucesso do programa.
+
+Palavras-Chave:
+Técnicas: [PNAE, redes de implementação, cooperativismo, agricultura familiar, mercados institucionais, análise de redes sociais, políticas públicas, governança]
+
+Conceituais: [Ação coletiva, capital social, intermediação, política alimentar, governança em redes, atores sociais]
+
+Linguagem Natural: [Como funciona a rede do PNAE?, Qual o papel das cooperativas na merenda escolar?, Desafios da implementação do PNAE, relação entre prefeitura e cooperativas na alimentação escolar, importância da governança no PNAE]

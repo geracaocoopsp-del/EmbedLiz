@@ -1,0 +1,39 @@
+**Identificação Básica:**
+
+*   **ID do Artigo:** 23
+*   **Título Oficial:** A SUSTENTABILIDADE NA CAFEICULTURA: um estudo sobre a relação de uma cooperativa de cafeicultores com o mercado
+*   **Link para Download:** (Será adicionado posteriormente)
+
+**Resumo Sintético:**
+
+Este estudo identifica as divergências na percepção sobre sustentabilidade entre os diferentes atores da cadeia da cafeicultura: a alta gestão de uma cooperativa, seus cooperados e as empresas multinacionais compradoras. Utilizando um questionário baseado nas cinco dimensões da sustentabilidade de Ignacy Sachs (econômica, social, ecológica, geográfica e cultural), a pesquisa revela que existem tanto pontos de convergência quanto de divergência. As principais divergências ocorreram entre cooperados e empresas nas dimensões econômica e geográfica, e entre a alta gestão e as empresas nas dimensões social e ecológica, evidenciando um desalinhamento na forma como cada grupo interpreta e prioriza a sustentabilidade.
+
+**Expansão Semântica:**
+
+*   **Descrição Expandida em Linguagem Natural:**
+    *   O artigo investiga se o que os cafeicultores, os diretores da cooperativa e as grandes empresas que compram o café entendem por "sustentabilidade" é a mesma coisa. A resposta é: não exatamente. Usando um questionário, o estudo comparou a opinião desses três grupos sobre temas como economia, meio ambiente e questões sociais. Descobriu-se que há conflitos de visão. Por exemplo, os produtores rurais e as empresas discordam sobre a importância do lucro frente à preservação de recursos. Da mesma forma, os diretores da cooperativa e as empresas têm visões diferentes sobre o papel social do cooperativismo. Isso mostra que, embora todos falem de sustentabilidade, cada um puxa a sardinha para o seu lado, dependendo de sua posição na cadeia do café.
+    *   Este trabalho analisa as diferentes perspectivas sobre sustentabilidade na produção de café. Ele coloca lado a lado a visão dos produtores, da gestão da cooperativa e das multinacionais para ver onde elas concordam e onde discordam. A pesquisa mostra que a percepção de sustentabilidade não é única. Existem divergências significativas, especialmente quando se compara a visão de quem está no campo (cooperados) com a de quem está no mercado global (empresas). O estudo sugere que é preciso alinhar melhor esses conceitos para que a sustentabilidade na cafeicultura seja mais do que um discurso e se torne uma prática com benefícios reais para todos.
+
+*   **Pontos-Chave e Achados Específicos:**
+    *   **Objetivo:** Identificar divergências na avaliação da sustentabilidade entre os diferentes *players* da cafeicultura (alta gestão, cooperados e empresas).
+    *   **Metodologia:** Estudo de caso quantitativo em uma cooperativa de agricultura familiar, com aplicação de questionário online (e-survey) para os três públicos.
+    *   **Base Teórica:** O questionário foi baseado nas cinco dimensões da sustentabilidade de Ignacy Sachs: econômica, social, ecológica/ambiental, espacial/geográfica e cultural.
+    *   **Principais Divergências:**
+        *   **Cooperados vs. Empresas:** Divergência nas dimensões econômica e geográfica.
+        *   **Alta Gestão vs. Empresas:** Divergência nas dimensões social e ecológica.
+    *   **Convergência:** O único par que não apresentou divergências foi "alta gestão" e "cooperados", indicando um alinhamento interno na cooperativa.
+    *   **Conclusão:** A percepção de sustentabilidade varia significativamente entre os diferentes elos da cadeia produtiva do café, indicando a necessidade de maior alinhamento e diálogo para a construção de uma visão compartilhada.
+
+*   **Palavras-Chave:**
+    *   **Termos Técnicos:** Sustentabilidade, Cafeicultura, Cooperativismo, Agricultura Familiar, Indicadores de Sustentabilidade, Certificações, Ignacy Sachs, Dimensão Econômica, Dimensão Social, Dimensão Ecológica.
+    *   **Termos Conceituais:** Percepção de Valor, Partes Interessadas (*Stakeholders*), Cadeia Produtiva, Desenvolvimento Sustentável, Análise Comparativa, Convergência e Divergência.
+    *   **Termos em Linguagem Natural (Sinônimos e Perguntas):**
+        *   "o que é sustentabilidade no café"
+        *   "visão de empresas sobre sustentabilidade"
+        *   "conflito de interesses na cadeia do café"
+        *   "cooperativa de café e o mercado"
+        *   "certificação de café sustentável"
+        *   "diferentes visões sobre meio ambiente"
+        *   "agricultura familiar e grandes empresas"
+        *   "como alinhar sustentabilidade e lucro"
+        *   "pesquisa de percepção sobre sustentabilidade"

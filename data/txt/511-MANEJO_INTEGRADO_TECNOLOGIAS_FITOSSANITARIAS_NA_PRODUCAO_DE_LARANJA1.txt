@@ -1,0 +1,26 @@
+ID do Artigo: 511
+Título Oficial:
+MANEJO INTEGRADO E TECNOLOGIAS FITOSSANITÁRIAS NA PRODUÇÃO DE LARANJA
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo realiza uma revisão das principais tecnologias fitossanitárias utilizadas no Manejo Integrado de Pragas e Doenças (MIP) na citricultura, com foco na produção de laranja. A pesquisa descreve as diferentes táticas de controle, incluindo o controle biológico, o controle comportamental (uso de feromônios), o uso de variedades resistentes e o manejo cultural, como alternativas ao controle puramente químico. O estudo conclui que a adoção do MIP é fundamental para a sustentabilidade da citricultura, pois permite um controle mais eficaz das pragas e doenças, com menor custo, menor impacto ambiental e maior segurança para o trabalhador e para o consumidor, sendo uma estratégia indispensável para a competitividade do setor.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa faz um grande resumo das formas mais inteligentes de se combater as pragas e doenças nos pomares de laranja, sem depender só de veneno. O estudo mostra que o "Manejo Integrado" é como uma "caixa de ferramentas" do agricultor, com várias opções: usar inimigos naturais para combater as pragas (controle biológico), usar armadilhas com cheiros que atraem os insetos, plantar variedades de laranja que já são mais resistentes, etc. A conclusão é que usar essa "caixa de ferramentas" completa é muito melhor do que apostar todas as fichas só no controle químico. O Manejo Integrado, além de ser mais eficiente a longo prazo, é mais barato, não agride o meio ambiente e garante uma laranja mais saudável para todo mundo.
+
+Pontos-Chave e Achados:
+
+- O artigo apresenta uma revisão das tecnologias que compõem o Manejo Integrado de Pragas e Doenças (MIP) na citricultura.
+- O MIP é uma abordagem sistêmica que combina diferentes táticas de controle para manter as pragas em níveis que não causem dano econômico.
+- O controle biológico e o uso de variedades resistentes são os pilares do MIP para a sustentabilidade de longo prazo.
+- A adoção do MIP reduz a dependência de agrotóxicos, diminuindo os custos de produção e os impactos socioambientais.
+
+Palavras-Chave:
+Técnicas: [Manejo Integrado de Pragas (MIP), citricultura, produção de laranja, controle biológico, controle químico, fitossanidade, agronomia]
+
+Conceituais: [Sustentabilidade, manejo de agroecossistemas, segurança de alimentos, inovação agrícola, boas práticas agrícolas, agricultura de precisão]
+
+Linguagem Natural: [Como fazer o Manejo Integrado de Pragas em citros?, Controle de pragas na lavoura de laranja, alternativas ao uso de agrotóxicos na citricultura, o que é controle biológico?, a importância do MIP para a sustentabilidade]

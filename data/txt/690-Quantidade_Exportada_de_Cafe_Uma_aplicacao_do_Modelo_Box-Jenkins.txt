@@ -1,0 +1,24 @@
+*   **ID do Artigo:** 690
+
+**Título Oficial:** Quantidade Exportada de Café: Uma aplicação do Modelo Box-Jenkins
+
+**Link para Download:** (Será adicionado posteriormente)
+
+**Resumo Sintético (O núcleo):**
+Este artigo utiliza a metodologia de Box-Jenkins para analisar e prever o volume de exportação de café do Brasil. O estudo identifica um modelo ARIMA (1,1,1) como o mais adequado para representar a série temporal de dados, permitindo a criação de previsões de curto prazo sobre a quantidade de café a ser exportada.
+
+**Expansão Semântica:**
+
+*   **Descrição Expandida em Linguagem Natural:** Este trabalho usa um método estatístico avançado, conhecido como Box-Jenkins, para tentar prever o futuro das exportações de café brasileiro. Os pesquisadores analisaram dados históricos de quanto café o Brasil vendeu para outros países para encontrar um padrão. Com base nesse padrão, eles desenvolveram um modelo matemático que pode estimar a quantidade de café que o Brasil provavelmente exportará nos próximos meses. É uma ferramenta para ajudar a entender as tendências do mercado de café e a se preparar para o futuro.
+
+*   **Pontos-Chave e Achados Específicos:**
+    *   O estudo foca na análise de séries temporais da quantidade de café exportada pelo Brasil.
+    *   A metodologia utilizada é a de Box-Jenkins, que envolve a identificação, estimação e verificação de modelos ARIMA.
+    *   O modelo ARIMA (1,1,1) foi o que melhor se ajustou aos dados históricos.
+    *   O modelo é usado para fazer previsões de curto prazo sobre as exportações de café.
+    *   A análise da série revelou uma tendência de crescimento ao longo do tempo.
+
+*   **Palavras-Chave (O "Mapa" para a IA):**
+    *   **Termos Técnicos:** Box-Jenkins, ARIMA, Séries Temporais, Previsão, Exportação de Café, Econometria, Estacionariedade, Autocorrelação.
+    *   **Termos Conceituais:** Análise de mercado, Comércio exterior, Agronegócio do café, Modelagem estatística, Previsão de demanda.
+    *   **Termos em Linguagem Natural:** "previsão de exportação de café", "modelo para prever vendas de café", "análise do mercado de café", "estatística para agronegócio", "futuro do café brasileiro", "como prever exportações", "tendências do mercado de café".

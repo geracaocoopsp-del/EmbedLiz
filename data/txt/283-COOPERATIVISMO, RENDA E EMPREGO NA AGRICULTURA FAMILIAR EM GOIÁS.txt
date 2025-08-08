@@ -1,0 +1,23 @@
+Identificação Básica:
+ID do Artigo: 283
+Título Oficial: COOPERATIVISMO, RENDA E EMPREGO NA AGRICULTURA FAMILIAR EM GOIÁS
+Link para Download: (A ser adicionado)
+
+Resumo Sintético:
+O artigo analisa o impacto do cooperativismo sobre indicadores de renda bruta, produtividade e geração de emprego na agricultura familiar em Goiás. Utilizando a técnica de Propensity Score Matching e dados da Emater-GO, o estudo conclui que a participação em cooperativas aumenta a renda agrícola anual em cerca de R$ 14.400,00, a produtividade por hectare em R$ 768,00 e a mão de obra empregada na fazenda em 0,235 unidades. Os resultados indicam que o estímulo ao cooperativismo tem impactos produtivos positivos e contribui para o desenvolvimento socioeconômico da agricultura familiar.
+
+Expansão Semântica:
+Descrição Expandida em Linguagem Natural: Este estudo investiga como a participação em cooperativas afeta a vida dos agricultores familiares em Goiás, especialmente em termos de dinheiro que ganham, o quanto produzem e a quantidade de empregos gerados. A pesquisa utiliza uma metodologia avançada para comparar agricultores que participam de cooperativas com aqueles que não participam, buscando entender o impacto real do cooperativismo. O artigo mostra que ser parte de uma cooperativa pode trazer benefícios significativos para os agricultores familiares, como aumento de renda e produtividade. A pesquisa é relevante para formuladores de políticas públicas, extensionistas rurais e cooperativas que buscam fortalecer a agricultura familiar e promover o desenvolvimento rural.
+
+Pontos-Chave e Achados Específicos:
+- A pesquisa utilizou dados de 5.781 agricultores familiares de Goiás, sendo 1.173 cooperados.
+- A técnica de Propensity Score Matching foi utilizada para contornar o viés de auto seleção.
+- A participação em cooperativas aumenta a renda agrícola anual em R$ 14.400,00.
+- A produtividade por hectare aumenta em R$ 768,00.
+- A mão de obra empregada na fazenda aumenta em 0,235 unidades.
+- O estudo destaca a importância do cooperativismo para o desenvolvimento socioeconômico da agricultura familiar.
+
+Palavras-Chave:
+Termos Técnicos: Cooperativismo, Agricultura Familiar, Renda, Produtividade, Emprego, Propensity Score Matching, Goiás.
+Termos Conceituais: Desenvolvimento Rural, Impacto Socioeconômico, Políticas Públicas, Extensão Rural, Análise de Impacto.
+Termos em Linguagem Natural: "cooperativas e renda agrícola", "emprego na agricultura familiar", "produtividade em cooperativas rurais", "como cooperativas ajudam agricultores", "desenvolvimento rural em Goiás", "impacto do cooperativismo na agricultura".

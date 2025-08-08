@@ -1,0 +1,26 @@
+ID do Artigo: 366
+Título Oficial:
+EFEITOS DO TRABALHO OFF-FARM E CHOQUES CLIMÁTICOS NO USO DO TEMPO NOS DOMICÍLIOS RURAIS BRASILEIROS
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo investiga como o trabalho fora da propriedade (off-farm) e a ocorrência de choques climáticos (como secas ou inundações) afetam a alocação do tempo de trabalho dos membros de domicílios rurais no Brasil. Utilizando microdados e um modelo econométrico, a pesquisa analisa como homens e mulheres ajustam suas horas de trabalho na agricultura, em atividades off-farm e no trabalho doméstico em resposta a esses fatores. Os resultados indicam que o trabalho off-farm e os choques climáticos têm efeitos significativos e distintos por gênero na alocação do tempo, com as mulheres frequentemente absorvendo a maior parte do ajuste através do aumento da jornada de trabalho total (agrícola, off-farm e doméstico).
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa estuda como a vida das famílias no campo muda quando alguém começa a trabalhar fora do sítio (em um emprego na cidade, por exemplo) ou quando acontece um evento climático extremo, como uma grande seca. O estudo usa dados para analisar como homens e mulheres dividem seu tempo entre o trabalho na roça, o trabalho fora e as tarefas de casa. A conclusão é que essas duas coisas – o trabalho fora e os desastres climáticos – bagunçam bastante a rotina, mas de forma diferente para homens e mulheres. Geralmente, são as mulheres que acabam se sobrecarregando mais, tendo que se desdobrar para dar conta do trabalho na agricultura, do novo emprego e ainda de todo o serviço de casa.
+
+Pontos-Chave e Achados:
+
+- O trabalho off-farm é uma importante estratégia de diversificação de renda, mas altera a dinâmica de trabalho dentro do domicílio rural.
+- Choques climáticos adversos tendem a reduzir as horas dedicadas à agricultura e a aumentar a busca por trabalho off-farm como estratégia de coping.
+- A análise revela uma divisão de trabalho sensível ao gênero, onde as mulheres ajustam sua alocação de tempo de forma mais intensa, muitas vezes em detrimento do lazer e do descanso.
+- O estudo destaca a "dupla jornada" feminina no meio rural, que é exacerbada tanto pela pluriatividade quanto pela necessidade de adaptação a choques.
+
+Palavras-Chave:
+Técnicas: [Alocação do tempo, trabalho off-farm, pluriatividade, choques climáticos, domicílios rurais, economia da família, análise de gênero, microeconometria]
+
+Conceituais: [Divisão sexual do trabalho, estratégias de coping, resiliência, vulnerabilidade, economia do tempo, agricultura familiar]
+
+Linguagem Natural: [Como o trabalho fora do sítio afeta a família?, Impacto da seca no trabalho rural, divisão de trabalho entre homens e mulheres no campo, dupla jornada feminina na agricultura, como as famílias rurais lidam com crises climáticas?]

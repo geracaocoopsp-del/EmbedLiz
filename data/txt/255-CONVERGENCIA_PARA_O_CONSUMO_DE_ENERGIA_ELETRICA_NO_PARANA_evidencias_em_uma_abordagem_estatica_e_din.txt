@@ -1,0 +1,26 @@
+ID do Artigo: 255
+Título Oficial:
+CONVERGÊNCIA PARA O CONSUMO DE ENERGIA ELÉTRICA NO PARANÁ: evidências em uma abordagem estática e dinâmica
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo investiga a existência de convergência no consumo de energia elétrica per capita entre os municípios do Paraná. A pesquisa utiliza modelos econométricos para testar se os municípios com menor consumo inicial de energia cresceram a taxas mais rápidas do que os municípios com maior consumo, de modo a diminuir a desigualdade ao longo do tempo. Os resultados, tanto na abordagem estática quanto na dinâmica, confirmam a hipótese de convergência. O estudo conclui que houve um processo de "nivelamento por cima" no acesso e no consumo de energia elétrica no estado, com os municípios menos desenvolvidos se aproximando dos mais desenvolvidos, refletindo o processo de interiorização do desenvolvimento e a universalização do acesso à energia.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa estuda se a "conta de luz" dos paranaenses ficou mais parecida de uma cidade para outra ao longo do tempo. O estudo usa um conceito da economia chamado "convergência", que é a ideia de que os mais "pobres" (no caso, as cidades que consumiam menos energia) tendem a crescer mais rápido que os "ricos", diminuindo a diferença entre eles. A conclusão, baseada em análise estatística, é que sim, a convergência aconteceu. As cidades do interior, que antes consumiam pouca energia, aumentaram muito o seu consumo e se aproximaram das cidades maiores. Isso mostra que o desenvolvimento do Paraná se espalhou pelo estado e que o acesso à energia elétrica se tornou praticamente universal.
+
+Pontos-Chave e Achados:
+
+- O artigo testa a hipótese de convergência do consumo de energia elétrica per capita entre os municípios do Paraná.
+- A análise econométrica, utilizando dados em painel, fornece evidências robustas da ocorrência de convergência.
+- O processo de convergência indica uma redução das desigualdades regionais no que tange ao acesso e ao uso de energia elétrica.
+- O resultado reflete o sucesso das políticas de universalização da eletrificação rural e o processo de desenvolvimento econômico do interior do estado.
+
+Palavras-Chave:
+Técnicas: [Convergência, consumo de energia elétrica, Paraná, dados em painel, econometria, desenvolvimento regional, análise de convergência]
+
+Conceituais: [Convergência de renda, desenvolvimento econômico, desigualdade regional, economia da energia, infraestrutura, universalização de serviços]
+
+Linguagem Natural: [Houve convergência no consumo de energia no Paraná?, A desigualdade no acesso à energia diminuiu no PR?, estudo sobre o consumo de eletricidade nos municípios paranaenses, o que é convergência econômica?, análise do desenvolvimento do interior do Paraná]

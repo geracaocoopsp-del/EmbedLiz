@@ -1,0 +1,39 @@
+**Identificação Básica:**
+
+*   **ID do Artigo:** 458
+*   **Título Oficial:** IMPACTOS DO FUNDO GARANTIDOR PARA INVESTIMENTOS NAS AGROINDÚSTRIAS: COOPERATIVAS VERSUS BANCOS COMERCIAIS
+*   **Link para Download:** (Será adicionado posteriormente)
+
+**Resumo Sintético:**
+
+Este estudo avalia os impactos socioeconômicos dos empréstimos garantidos pelo Fundo Garantidor para Investimentos (FGI PEAC) nas agroindústrias brasileiras, comparando o desempenho do crédito concedido via cooperativas e bancos comerciais. A pesquisa, utilizando o estimador de diferenças em diferenças, revelou que os empréstimos via cooperativas tiveram um desempenho superior em termos de estoque de empregos, salário médio e massa salarial nas micro e pequenas agroindústrias, e também no recorte de todos os portes em comparação aos bancos comerciais. O estudo destaca o papel das cooperativas como agentes financeiros eficazes na promoção do desenvolvimento socioeconômico e na mitigação de falhas de mercado, especialmente em agroindústrias de menor porte.
+
+**Expansão Semântica:**
+
+*   **Descrição Expandida em Linguagem Natural:**
+    *   O artigo investiga como um fundo do governo (FGI PEAC) que garante empréstimos para agroindústrias funciona melhor quando o dinheiro passa por cooperativas de crédito do que por bancos comerciais. A pesquisa descobriu que, para pequenas e médias agroindústrias, os empréstimos via cooperativas geraram mais empregos, salários melhores e maior massa salarial. Isso mostra que as cooperativas são mais eficientes em fazer o dinheiro do governo chegar onde mais precisa, ajudando a desenvolver o setor e a criar mais oportunidades de trabalho. O estudo reforça a ideia de que as cooperativas são parceiras importantes para o crescimento econômico e social.
+    *   Este trabalho analisa o impacto de um programa de garantia de crédito (FGI PEAC) nas agroindústrias, comparando a atuação de cooperativas e bancos. A pesquisa conclui que as cooperativas de crédito são mais eficazes em impulsionar o emprego e a renda nas agroindústrias, especialmente nas de menor porte. O artigo sugere que o FGI PEAC, ao ser operado por cooperativas, cumpre melhor seu objetivo de proteger empregos e renda em cenários de adversidade econômica. Isso demonstra o papel protagonista das cooperativas no ecossistema financeiro e na promoção de políticas públicas com impacto social.
+
+*   **Pontos-Chave e Achados Específicos:**
+    *   **Objeto de Estudo:** Impactos socioeconômicos dos empréstimos garantidos pelo FGI PEAC nas agroindústrias, comparando cooperativas e bancos comerciais.
+    *   **Metodologia:** Estudo quantitativo, utilizando o estimador de diferenças em diferenças em dados de 135.650 empresas beneficiadas pelo FGI PEAC (2013-2021).
+    *   **Variáveis de Resultado:** Estoque de empregos, salário médio e massa salarial.
+    *   **Principal Achado:** Empréstimos via cooperativas tiveram desempenho superior em empregos, salário médio e massa salarial, especialmente em micro e pequenas agroindústrias.
+    *   **Desempenho Superior:**
+        *   Micro e pequenas agroindústrias: 8,57% superior no estoque de empregos, 2,77% no salário médio e 11,34% na massa salarial (via cooperativas vs. bancos comerciais).
+        *   Todos os portes: 7,84% superior no estoque de empregos, 2,97% no salário médio e 10,8% na massa salarial (via cooperativas vs. bancos comerciais).
+    *   **Implicações:** O FGI PEAC, ao ser operado por cooperativas, cumpre melhor seu propósito de proteger empregos e renda, especialmente em agroindústrias de menor porte.
+
+*   **Palavras-Chave:**
+    *   **Termos Técnicos:** FGI PEAC (Fundo Garantidor para Investimentos), Agroindústrias, Cooperativas de Crédito, Bancos Comerciais, Impactos Socioeconômicos, Emprego, Salário Médio, Massa Salarial, Diferenças em Diferenças (DiD).
+    *   **Termos Conceituais:** Políticas Públicas, Falhas de Mercado, Desenvolvimento Econômico, Geração de Renda, Micro e Pequenas Empresas (MPEs), Crédito Rural.
+    *   **Termos em Linguagem Natural (Sinônimos e Perguntas):**
+        *   "fundo do governo para agroindústrias"
+        *   "empréstimos para pequenas empresas"
+        *   "cooperativas são melhores que bancos para crédito?"
+        *   "impacto do crédito no emprego"
+        *   "salário médio em agroindústrias"
+        *   "políticas de crédito rural"
+        *   "como cooperativas ajudam a economia"
+        *   "desenvolvimento de agroindústrias"
+        *   "garantia de crédito para empresas"

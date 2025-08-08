@@ -1,0 +1,26 @@
+ID do Artigo: 305
+Título Oficial:
+DA ACADEMIA AO COTIDIANO DAS COOPERATIVAS: TEMÁTICAS EMERGENTES E ESTABELECIDAS NA AGENDA DO COOPERATIVISMO
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo analisa a conexão entre a agenda de pesquisa da academia e a agenda de preocupações práticas das cooperativas. A pesquisa, por meio de uma revisão de literatura e da análise de temas de congressos, compara os temas "quentes" na pesquisa sobre cooperativismo com os desafios do dia a dia enfrentados pelos gestores. Os resultados mostram que, embora haja uma convergência em temas estabelecidos como governança e capital social, existe um descompasso em temas emergentes. A academia está muito focada em temas como sustentabilidade e inovação social, enquanto as cooperativas ainda estão, em grande medida, preocupadas com desafios mais imediatos de gestão e competitividade. O estudo conclui que é preciso construir mais pontes para que a pesquisa acadêmica seja mais relevante para os problemas práticos do cooperativismo.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa estuda se o que os professores universitários pesquisam sobre cooperativismo tem a ver com os problemas reais que os diretores de cooperativas enfrentam no dia a dia. O estudo compara os temas dos artigos científicos com os temas das reuniões de cooperativas. A conclusão é que a conversa nem sempre bate. Em alguns assuntos, como "governança", todo mundo está na mesma página. Mas, em outros, a academia parece estar falando sozinha. Os pesquisadores estão super preocupados com "sustentabilidade" e "inovação social", enquanto os gestores das cooperativas estão quebrando a cabeça com problemas mais urgentes, como pagar as contas e competir com os grandes. O estudo mostra que a universidade e as cooperativas precisam conversar mais, para que a ciência ajude a resolver os pepinos de verdade.
+
+Pontos-Chave e Achados:
+
+- O artigo compara a agenda de pesquisa acadêmica com a agenda prática da gestão de cooperativas.
+- Há uma sobreposição em temas clássicos como governança, participação e capital social.
+- Existe um descompasso em temas emergentes, com a academia se adiantando em discussões que ainda não chegaram com força ao cotidiano da maioria das cooperativas.
+- O estudo defende a importância da pesquisa-ação e de outras metodologias que promovam uma maior interação entre pesquisadores e gestores.
+
+Palavras-Chave:
+Técnicas: [Agenda de pesquisa, cooperativismo, relevância da pesquisa, gap teoria-prática, gestão de cooperativas, revisão de literatura, análise de temas]
+
+Conceituais: [Produção do conhecimento, pertinência social da ciência, pesquisa-ação, comunidades de prática, sociologia da ciência, gestão]
+
+Linguagem Natural: [A pesquisa acadêmica sobre cooperativismo é útil para as cooperativas?, A distância entre a teoria e a prática no cooperativismo, o que os acadêmicos pesquisam sobre cooperativas?, os principais desafios dos gestores de cooperativas, como aproximar a universidade das cooperativas?]

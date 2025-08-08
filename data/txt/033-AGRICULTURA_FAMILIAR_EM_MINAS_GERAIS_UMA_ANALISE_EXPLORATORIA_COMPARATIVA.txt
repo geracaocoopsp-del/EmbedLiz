@@ -1,0 +1,26 @@
+ID do Artigo: 33
+Título Oficial:
+AGRICULTURA FAMILIAR EM MINAS GERAIS: UMA ANÁLISE EXPLORATÓRIA COMPARATIVA A PARTIR DOS CENSOS AGROPECUÁRIOS DE 2006 E 2017
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo realiza uma análise exploratória e comparativa da agricultura familiar em Minas Gerais, utilizando dados dos Censos Agropecuários de 2006 e 2017. A pesquisa investiga as transformações ocorridas no período em variáveis como o número de estabelecimentos, a área ocupada, o pessoal ocupado, o valor da produção e o acesso a políticas públicas. Os resultados mostram uma redução no número de estabelecimentos familiares, mas um aumento de sua participação no valor total da produção, indicando um processo de modernização e intensificação. O estudo conclui que a agricultura familiar mineira, apesar de ter encolhido em número, tornou-se mais produtiva e economicamente relevante, mas enfrenta o desafio contínuo da sucessão rural e da concentração de terras.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa faz um "antes e depois" da agricultura familiar de Minas Gerais, comparando a foto do Censo de 2006 com a de 2017. O estudo descobriu uma coisa curiosa: o número de pequenas propriedades diminuiu, ou seja, tem menos gente trabalhando na agricultura familiar. Mas, por outro lado, a importância delas para a economia aumentou: elas estão produzindo mais e gerando mais riqueza do que antes. A conclusão é que a agricultura familiar mineira está passando por uma grande transformação. Ela está ficando menor em número de gente, mas maior em produtividade e em importância. Os grandes desafios para o futuro são garantir que os jovens queiram continuar no campo e lutar contra o avanço da concentração de terras.
+
+Pontos-Chave e Achados:
+
+- O artigo compara os dados da agricultura familiar de Minas Gerais entre os Censos Agropecuários de 2006 e 2017.
+- Houve uma redução no número de estabelecimentos familiares, mas um aumento da sua produtividade e do valor da produção.
+- A agricultura familiar mineira continua sendo fundamental para o abastecimento de alimentos e para a geração de ocupação no meio rural.
+- O envelhecimento da população rural e a dificuldade de sucessão são os principais desafios estruturais para a sustentabilidade do setor.
+
+Palavras-Chave:
+Técnicas: [Agricultura familiar, Minas Gerais, Censo Agropecuário, análise comparativa, desenvolvimento rural, estrutura agrária, estatística descritiva]
+
+Conceituais: [Modernização agrícola, intensificação, sucessão rural, êxodo rural, desenvolvimento rural, política agrícola]
+
+Linguagem Natural: [O que mudou na agricultura familiar de Minas Gerais?, Análise comparativa dos Censos Agropecuários, a agricultura familiar está diminuindo em MG?, desafios da sucessão rural em Minas, a importância da agricultura familiar para a economia mineira]

@@ -1,0 +1,26 @@
+ID do Artigo: 723
+Título Oficial:
+Redução das contaminações na linha de produção de frigoríficos sob a ótica das ferramentas da qualidade
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo analisa a aplicação de ferramentas da gestão da qualidade para a redução de contaminações microbiológicas na linha de produção de frigoríficos. A pesquisa, por meio de um estudo de caso, descreve a utilização de ferramentas como o Diagrama de Ishikawa (espinha de peixe) e o ciclo PDCA (Planejar-Fazer-Checar-Agir) para identificar as causas-raiz da contaminação e implementar ações corretivas. Os resultados mostram que a aplicação sistemática dessas ferramentas permite um controle de processo mais eficaz, resultando em uma redução significativa dos índices de contaminação. O estudo conclui que a cultura da qualidade e o uso de suas ferramentas são fundamentais para garantir a segurança do alimento e a conformidade com as normas sanitárias no setor de carnes.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa funciona como um trabalho de detetive dentro de um frigorífico, usando as "ferramentas da qualidade" para descobrir e resolver as causas da contaminação da carne. O estudo mostra como usar o "Diagrama de Ishikawa" (que parece uma espinha de peixe) para listar todas as possíveis causas do problema, e o "ciclo PDCA" (um método de planejar, fazer, checar e agir) para testar e implementar as soluções. A conclusão é que, quando o frigorífico para de só "apagar incêndios" e começa a usar essas ferramentas de forma organizada, ele consegue diminuir muito a contaminação. O estudo prova que, para produzir uma carne segura, não basta só ter higiene; é preciso ter um sistema de gestão da qualidade que funcione de verdade.
+
+Pontos-Chave e Achados:
+
+- O artigo apresenta uma aplicação prática das ferramentas da qualidade para a solução de problemas em um frigorífico.
+- O Diagrama de Ishikawa é utilizado para o diagnóstico das causas da contaminação, e o ciclo PDCA para a implementação das melhorias.
+- A aplicação da metodologia resultou em uma redução mensurável dos níveis de contaminação microbiológica.
+- O estudo de caso demonstra que a gestão da qualidade é uma abordagem proativa e eficaz para garantir a segurança dos alimentos na indústria de carnes.
+
+Palavras-Chave:
+Técnicas: [Ferramentas da qualidade, Diagrama de Ishikawa, ciclo PDCA, gestão da qualidade, frigoríficos, segurança de alimentos, controle de processo, APPCC]
+
+Conceituais: [Melhoria contínua, gestão da qualidade total (TQM), controle estatístico de processo (CEP), cultura da qualidade, indústria de alimentos, Boas Práticas de Fabricação (BPF)]
+
+Linguagem Natural: [Como reduzir a contaminação em frigoríficos?, Aplicação das ferramentas da qualidade na indústria de carnes, o que é o Diagrama de Ishikawa?, como usar o ciclo PDCA para resolver problemas?, segurança do alimento na produção de carne]

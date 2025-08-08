@@ -1,0 +1,26 @@
+ID do Artigo: 102
+Título Oficial:
+ASPECTOS AGRÁRIOS, TECNOLÓGICOS E SOCIAIS NA AGRICULTURA FAMILIAR DO ESTADO DO PARANÁ (2006-2017)
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo analisa as transformações nos aspectos agrários, tecnológicos e sociais da agricultura familiar do Paraná, comparando os dados dos Censos Agropecuários de 2006 e 2017. A pesquisa investiga a evolução da estrutura fundiária, do nível de tecnificação e do perfil da mão de obra. Os resultados apontam para um processo de modernização e intensificação, com aumento da produtividade e do uso de tecnologia. No entanto, essa modernização veio acompanhada de uma redução no número de estabelecimentos e de pessoal ocupado, e de um aumento na idade média dos produtores, indicando um processo de concentração de terras e um agravamento do desafio da sucessão rural, mesmo no estado que é referência em agricultura familiar.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa faz um "antes e depois" da agricultura familiar do Paraná, comparando a foto do Censo de 2006 com a de 2017, para ver o que mudou. O estudo mostra que a agricultura familiar paranaense ficou mais "moderna": está produzindo mais, usando mais máquinas e tecnologia. Mas essa modernização teve um preço. O número de pequenas propriedades diminuiu, o que significa que muita gente saiu da atividade. Além disso, quem ficou no campo está mais velho, o que mostra que o problema da falta de jovens para continuar o trabalho está se agravando. A conclusão é que, mesmo no Paraná, que é um exemplo de agricultura familiar forte, o modelo de modernização está "espremendo" os pequenos e concentrando a terra.
+
+Pontos-Chave e Achados:
+
+- O artigo compara a agricultura familiar do Paraná entre os Censos de 2006 e 2017, revelando um processo de modernização.
+- Houve um aumento da produtividade e da tecnificação, mas com uma redução do número de estabelecimentos e de pessoas ocupadas.
+- O envelhecimento da população rural e a dificuldade de sucessão geracional se agravaram no período.
+- A análise revela as contradições do processo de modernização, que gera ganhos de eficiência, mas também exclusão e concentração.
+
+Palavras-Chave:
+Técnicas: [Agricultura familiar, Paraná, Censo Agropecuário, modernização agrícola, estrutura agrária, sucessão rural, análise comparativa]
+
+Conceituais: [Desenvolvimento rural, modernização conservadora, diferenciação social, questão agrária, êxodo rural, envelhecimento rural]
+
+Linguagem Natural: [O que mudou na agricultura familiar do Paraná?, Análise do Censo Agropecuário para o PR, a modernização da agricultura familiar paranaense, o problema da sucessão rural no Sul, a agricultura familiar está diminuindo no Paraná?]

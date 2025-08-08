@@ -1,0 +1,29 @@
+**Identificação Básica:**
+*   **ID do Artigo:** 131
+*   **Título Oficial:** A ÁGUA VIRTUAL E A PEGADA HÍDRICA DA PRODUÇÃO DE SOJA NO ESTADO DA BAHIA
+*   **Link para Download:** (Será adicionado posteriormente)
+
+**Resumo Sintético (O núcleo):**
+Este artigo calcula o volume de "água virtual" e a "pegada hídrica" associados à produção de soja no estado da Bahia entre 2012 e 2017. A tese central é que a Bahia, ao exportar soja, está também exportando um volume massivo de seus recursos hídricos (água virtual), o que exige uma análise crítica sobre a sustentabilidade e a gestão da água na região, especialmente no oeste baiano, um polo do agronegócio.
+
+**Expansão Semântica:**
+
+*   **Descrição Expandida em Linguagem Natural:**
+    *   O estudo mede a quantidade de água "escondida" que é usada para produzir a soja na Bahia e que, na prática, é enviada para outros países quando a soja é exportada.
+    *   Ele analisa o impacto do cultivo de soja no consumo de água em uma das principais regiões agrícolas do Brasil, o oeste da Bahia.
+    *   A pesquisa questiona se o modelo de agronegócio de exportação é sustentável do ponto de vista hídrico, mostrando que a riqueza gerada pela soja tem um custo alto em termos de água.
+    *   Discute como a "exportação de água" pode afetar a disponibilidade de água para a população local e outros setores a longo prazo.
+    *   O trabalho serve como um alerta para governos e produtores sobre a necessidade de planejar melhor o uso da água na agricultura, considerando o volume que "sai" do país embutido nos produtos.
+
+*   **Pontos-Chave e Achados Específicos:**
+    *   **Conceitos:** "Água virtual" é a quantidade total de água utilizada no processo de produção de um bem. "Pegada hídrica" é um indicador que mede o volume de água doce consumido, evaporado ou poluído.
+    *   **Metodologia:** O estudo utilizou dados de produtividade da soja (do IBGE) e de evapotranspiração da cultura (da FAO) para calcular a pegada hídrica.
+    *   **Resultados:** A pegada hídrica média da soja na Bahia foi de 1.839 m³/tonelada. O volume total de água virtual exportado pela Bahia através da soja no período foi de aproximadamente 38,5 bilhões de m³.
+    *   **Principal Região:** O oeste da Bahia concentra a maior parte da produção de soja e, consequentemente, da pegada hídrica do estado.
+    *   **Implicações:** A exportação de commodities agrícolas como a soja representa uma transferência significativa de recursos hídricos de regiões produtoras para regiões consumidoras, com potenciais impactos ambientais e sociais negativos para a região de origem.
+    *   **Recomendação:** O artigo suge-re a necessidade de políticas públicas que promovam o uso mais eficiente da água na agricultura e que considerem o balanço hídrico regional nas estratégias de comércio exterior.
+
+*   **Palavras-Chave (O "Mapa" para a IA):**
+    *   **Termos Técnicos:** Água Virtual, Pegada Hídrica, Evapotranspiração, Comércio de Água Virtual, Soja, Agronegócio, Bacia Hidrográfica, *Water Footprint*.
+    *   **Termos Conceituais:** Sustentabilidade Hídrica, Gestão de Recursos Hídricos, Segurança Hídrica, Comércio Internacional, Commodities Agrícolas, Impacto Ambiental da Agricultura.
+    *   **Termos em Linguagem Natural (Sinônimos e Perguntas):** "quanta água gasta para produzir soja?", "exportação de água do Brasil", "impacto da soja no meio ambiente", "problema da falta de água no oeste da Bahia", "uso da água na agricultura", "o que é pegada hídrica?", "soja e consumo de água", "sustentabilidade do agronegócio", "água escondida nos alimentos".

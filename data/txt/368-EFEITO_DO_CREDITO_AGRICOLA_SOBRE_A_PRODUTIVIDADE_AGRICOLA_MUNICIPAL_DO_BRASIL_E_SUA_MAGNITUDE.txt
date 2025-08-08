@@ -1,0 +1,26 @@
+ID do Artigo: 368
+Título Oficial:
+EFEITO DO CRÉDITO AGRÍCOLA SOBRE A PRODUTIVIDADE AGRÍCOLA MUNICIPAL DO BRASIL E SUA MAGNITUDE
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo investiga o efeito do crédito agrícola sobre a produtividade da agricultura em nível municipal no Brasil. Utilizando um modelo econométrico com dados de todos os municípios brasileiros, a pesquisa busca medir a magnitude do impacto do volume de crédito rural na produtividade da terra (valor da produção por hectare). Os resultados confirmam que o crédito agrícola tem um efeito positivo e estatisticamente significativo sobre a produtividade. O estudo quantifica essa relação, mostrando que municípios com maior acesso ao crédito tendem a ser mais produtivos, o que reforça a importância do crédito rural como uma política pública fundamental para a modernização e o crescimento do setor agropecuário.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa busca responder com números a uma pergunta fundamental: dar mais crédito para os agricultores realmente aumenta a produtividade da agricultura? O estudo pegou os dados de todos os municípios do Brasil e cruzou o volume de dinheiro emprestado para a agricultura com o valor que cada município produz por hectare. A conclusão, baseada em uma análise estatística rigorosa, é que sim, a relação é direta e forte. Cidades onde o crédito flui mais têm uma agricultura mais produtiva. O estudo não só confirma essa ideia, como também mede o tamanho desse efeito, provando que o crédito rural não é um gasto, mas um investimento essencial para fazer a agricultura brasileira crescer e se modernizar.
+
+Pontos-Chave e Achados:
+
+- O artigo utiliza um modelo econométrico para estimar o impacto do crédito agrícola na produtividade municipal.
+- Os resultados mostram que o crédito rural tem um efeito causal positivo e significativo sobre a produtividade da terra.
+- A magnitude do efeito é quantificada, permitindo avaliar o retorno do investimento em políticas de crédito.
+- O estudo reforça o papel do crédito como um insumo-chave para a adoção de tecnologias e para a intensificação da produção agrícola.
+
+Palavras-Chave:
+Técnicas: [Crédito agrícola, produtividade agrícola, dados municipais, econometria espacial, avaliação de impacto, política agrícola, produtividade da terra]
+
+Conceituais: [Desenvolvimento agrícola, modernização, capital, investimento, função de produção, política de crédito, crescimento econômico]
+
+Linguagem Natural: [O crédito rural aumenta a produtividade?, Impacto do Pronaf na produtividade da agricultura, relação entre crédito e produtividade no Brasil, como aumentar a produtividade agrícola?, fatores que afetam a produtividade no campo]

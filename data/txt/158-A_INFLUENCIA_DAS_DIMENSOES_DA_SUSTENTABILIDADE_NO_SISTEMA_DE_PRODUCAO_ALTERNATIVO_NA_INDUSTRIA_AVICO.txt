@@ -1,0 +1,26 @@
+ID do Artigo: 158
+Título Oficial:
+A INFLUÊNCIA DAS DIMENSÕES DA SUSTENTABILIDADE NO SISTEMA DE PRODUÇÃO ALTERNATIVO NA INDÚSTRIA AVÍCOLA
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo avalia a influência das dimensões da sustentabilidade (ambiental, social e econômica) em sistemas de produção alternativos na avicultura, como os sistemas cage-free (livre de gaiolas) e orgânico. Por meio de uma análise comparativa com o sistema convencional, o estudo investiga os trade-offs e sinergias entre essas dimensões. A pesquisa conclui que, embora os sistemas alternativos apresentem vantagens significativas nos pilares ambiental e social (especialmente no bem-estar animal), eles enfrentam desafios de viabilidade econômica devido a custos de produção mais elevados, o que representa a principal barreira para sua adoção em maior escala pela indústria.
+
+Expansão Semântica:
+Descrição Expandida: O estudo analisa a criação de galinhas para produção de ovos e carne, comparando o modelo industrial tradicional com sistemas alternativos, como o "cage-free" (onde as aves não ficam em gaiolas) e o orgânico. A pesquisa avalia esses diferentes métodos sob a ótica da sustentabilidade, considerando três aspectos: o impacto no meio ambiente, o tratamento dado aos animais e às pessoas (dimensão social), e a lucratividade (dimensão econômica). A conclusão principal é que os sistemas alternativos são muito melhores para o planeta e para o bem-estar das aves, mas produzir dessa forma custa mais caro. Esse custo maior torna o produto final mais caro para o consumidor e menos lucrativo para o produtor, sendo o principal obstáculo para que essas práticas mais sustentáveis se tornem a norma no setor avícola.
+
+Pontos-Chave e Achados:
+
+- Sistemas de produção avícola alternativos (cage-free, orgânico) são superiores nas dimensões de sustentabilidade ambiental e social.
+- O bem-estar animal é um diferencial significativo dos sistemas alternativos em comparação ao convencional.
+- A dimensão econômica, especialmente os custos de produção mais altos, é o principal gargalo para a expansão desses sistemas.
+- A viabilidade dos sistemas alternativos depende de fatores como a disposição do consumidor a pagar mais e o desenvolvimento de mercados de nicho.
+
+Palavras-Chave:
+Técnicas: [Sustentabilidade, avicultura, sistema cage-free, produção orgânica, bem-estar animal, triple bottom line, análise de ciclo de vida, custos de produção]
+
+Conceituais: [Sistemas agroalimentares sustentáveis, trade-off, comportamento do consumidor, certificação de sustentabilidade, produção e consumo responsáveis]
+
+Linguagem Natural: [Sustentabilidade na criação de galinhas, o que é o sistema cage-free?, vantagens do ovo orgânico, bem-estar animal na indústria avícola, por que produtos orgânicos são mais caros?, comparação entre sistema convencional e cage-free]

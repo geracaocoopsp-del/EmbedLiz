@@ -1,0 +1,26 @@
+ID do Artigo: 445
+Título Oficial:
+GRAU DE COMPROMETIMENTO DAS COOPERATIVAS AGROPECUÁRIAS COM O DESENVOLVIMENTO SUSTENTÁVEL
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo mensura o grau de comprometimento de cooperativas agropecuárias com os princípios do desenvolvimento sustentável, analisando suas práticas nas dimensões econômica, social e ambiental. Por meio da aplicação de um questionário estruturado e da criação de um índice, a pesquisa avalia em que medida as cooperativas incorporam a sustentabilidade em sua gestão e em suas operações. Os resultados indicam que, embora as cooperativas tenham um forte desempenho na dimensão social, por sua própria natureza, o comprometimento com a dimensão ambiental ainda é incipiente e reativo na maioria dos casos, com poucas cooperativas adotando uma estratégia proativa e integrada de sustentabilidade.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa cria uma espécie de "termômetro" para medir o quão comprometidas as cooperativas agrícolas estão com a sustentabilidade. O estudo não olha só para a parte ambiental, mas também para a social (como a cooperativa trata seus membros e a comunidade) e a econômica (se o negócio é viável a longo prazo). A conclusão é que as cooperativas, em geral, são muito boas na parte social – isso já faz parte do DNA delas. No entanto, quando o assunto é meio ambiente, a maioria ainda faz o mínimo necessário, apenas para cumprir a lei. Poucas são aquelas que realmente abraçam a causa ambiental como parte central de sua estratégia de negócio.
+
+Pontos-Chave e Achados:
+
+- O estudo propõe um índice para medir o grau de comprometimento das cooperativas com o desenvolvimento sustentável nas três dimensões (econômica, social, ambiental).
+- As cooperativas agropecuárias apresentam, em geral, um alto grau de comprometimento com a dimensão social.
+- A dimensão ambiental é o elo mais fraco, com práticas de sustentabilidade ainda pouco integradas à estratégia de negócio da maioria das cooperativas.
+- O artigo sugere que há uma grande oportunidade para as cooperativas avançarem em sua agenda de sustentabilidade, especialmente na gestão ambiental.
+
+Palavras-Chave:
+Técnicas: [Desenvolvimento sustentável, cooperativismo agropecuário, responsabilidade socioambiental, Triple Bottom Line (TBL), mensuração de sustentabilidade, índice de sustentabilidade]
+
+Conceituais: [Sustentabilidade corporativa, gestão ambiental, desempenho social, valor compartilhado, governança cooperativa, estratégia empresarial]
+
+Linguagem Natural: [As cooperativas agrícolas são sustentáveis?, Como medir o compromisso de uma empresa com a sustentabilidade?, Desempenho ambiental de cooperativas, o que é o Triple Bottom Line?, responsabilidade social no cooperativismo]

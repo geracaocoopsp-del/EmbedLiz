@@ -1,0 +1,26 @@
+ID do Artigo: 483
+Título Oficial:
+ÍNDICE DE VARIAÇÃO DO PREÇO ASSISTENCIAL DE UMA COOPERATIVA DE SAÚDE (IVPA)
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo propõe e descreve a metodologia de cálculo de um Índice de Variação do Preço Assistencial (IVPA) específico para uma cooperativa de saúde. O estudo argumenta que os índices de inflação gerais, como o IPCA, não refletem adequadamente a variação dos custos médico-hospitalares. O IVPA proposto é construído a partir da cesta de serviços da própria cooperativa, ponderando a variação de preços de consultas, exames, internações e outros procedimentos. A pesquisa conclui que a criação de um índice próprio permite uma gestão de custos mais precisa e oferece maior transparência para o cálculo dos reajustes dos planos de saúde, tornando-o mais justo e aderente à realidade do setor.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa propõe a criação de um "IPCA da saúde" próprio para as cooperativas de saúde, como a Unimed. O estudo parte do princípio de que os índices de inflação que vemos no jornal não medem direito o aumento dos custos da saúde, que costumam subir muito mais. A ideia, então, é criar um índice customizado, o IVPA, que leva em conta exatamente o quanto subiu o preço das consultas, dos exames e das cirurgias que a cooperativa oferece. A conclusão é que ter um índice próprio é muito melhor para a gestão. Ele permite que a cooperativa saiba exatamente onde seus custos estão aumentando e, na hora de reajustar o preço do plano de saúde, consiga explicar e justificar o aumento para os usuários de forma muito mais transparente e justa.
+
+Pontos-Chave e Achados:
+
+- O artigo apresenta uma metodologia para a construção de um índice de inflação da saúde customizado para uma cooperativa médica (IVPA).
+- A inflação médica, que mede a variação dos custos assistenciais, é sistematicamente superior aos índices de inflação gerais.
+- A criação de um índice próprio de variação de custos (IVPA) é uma ferramenta estratégica para a gestão financeira e atuarial da cooperativa.
+- O IVPA aumenta a transparência na negociação de reajustes com os beneficiários e com a agência reguladora (ANS).
+
+Palavras-Chave:
+Técnicas: [Inflação da saúde, índice de preços, custos assistenciais, cooperativa de saúde, gestão de custos, Variação de Custos Médico-Hospitalares (VCMH), atuária]
+
+Conceituais: [Gestão em saúde, regulação de saúde suplementar, transparência, precificação de serviços, inflação setorial, ANS]
+
+Linguagem Natural: [Por que o reajuste do plano de saúde é tão alto?, O que é inflação médica?, Como é calculado o reajuste da Unimed?, índice de custos para hospitais, gestão financeira de planos de saúde]

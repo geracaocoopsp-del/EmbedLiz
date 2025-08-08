@@ -1,0 +1,26 @@
+ID do Artigo: 525
+Título Oficial:
+MOBILIDADE INTERGERACIONAL EDUCACIONAL NO BRASIL: UMA ANÁLISE COMPARATIVA DOS ANOS DE 1996 E 2014
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo analisa a evolução da mobilidade intergeracional educacional no Brasil, comparando os anos de 1996 e 2014. A pesquisa investiga o grau em que a escolaridade dos filhos é determinada pela escolaridade dos pais, medindo o nível de "herança educacional". Utilizando dados da PNAD, os resultados mostram que houve um aumento significativo da mobilidade educacional no período, ou seja, a "sentença" do berço diminuiu. Filhos de pais com baixa escolaridade tiveram muito mais chances de estudar mais do que seus pais em 2014 do que em 1996. O estudo conclui que a expansão do acesso à educação no período foi eficaz em reduzir a desigualdade de oportunidades, embora a influência da origem familiar ainda permaneça alta.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa estuda o quanto o Brasil conseguiu quebrar o ciclo da "herança da ignorância", comparando a situação da educação em 1996 e em 2014. O estudo mede o quanto a escolaridade dos pais ainda determinava a escolaridade dos filhos nesses dois momentos. A conclusão é uma boa notícia: o Brasil melhorou muito. Em 2014, um filho de pais que mal sabiam ler e escrever tinha uma chance muito maior de chegar à faculdade do que tinha em 1996. Isso mostra que as políticas de expansão da educação que aconteceram nesse período deram resultado, tornando a sociedade brasileira um pouco mais justa e com mais mobilidade social. O estudo alerta, no entanto, que a "nota de partida" (a família onde você nasce) ainda pesa muito no resultado final.
+
+Pontos-Chave e Achados:
+
+- O artigo mede a evolução da mobilidade intergeracional de educação no Brasil entre 1996 e 2014.
+- Os resultados apontam para um aumento expressivo da mobilidade educacional, indicando uma redução da desigualdade de oportunidades.
+- A expansão do acesso ao ensino fundamental e médio no período foi o principal motor dessa maior mobilidade.
+- Apesar da melhora, a correlação entre a escolaridade de pais e filhos continua alta para os padrões internacionais, mostrando que a desigualdade de oportunidades ainda é um grande desafio.
+
+Palavras-Chave:
+Técnicas: [Mobilidade intergeracional, mobilidade educacional, desigualdade de oportunidades, PNAD, capital humano, estratificação social, economia da educação]
+
+Conceituais: [Herança educacional, desigualdade social, mobilidade social, equidade, política educacional, desenvolvimento humano]
+
+Linguagem Natural: [O Brasil está mais justo na educação?, A escolaridade dos pais ainda define a dos filhos?, Evolução da mobilidade social no Brasil, impacto das políticas educacionais na desigualdade, como quebrar o ciclo da pobreza com a educação?]

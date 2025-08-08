@@ -1,0 +1,28 @@
+**Identificação Básica:**
+
+*   **ID do Artigo:** 779
+*   **Título Oficial:** VALUATION COMO MECANISMO DE GOVERNANÇA NOS ESTATUTOS SOCIAIS DE COOPERATIVAS AGROPECUÁRIAS BRASILEIRAS
+*   **Link para Download:** (Será adicionado posteriormente)
+
+**Resumo Sintético (O núcleo):**
+
+Este estudo examina os estatutos de 21 cooperativas agropecuárias brasileiras para verificar como utilizam – ou não – conceitos de *valuation* (avaliação de valor) como mecanismo de governança. Embora o termo "valuation" não seja usado diretamente, a pesquisa, através do software Iramuteq, demonstra que termos ligados ao valor das quotas-partes, capital, sobras e à admissão/exclusão de membros são centrais na estrutura de governança. O estudo conclui que a ausência de critérios claros para avaliar o valor das quotas-partes gera uma lacuna. A adoção formal de mecanismos de *valuation* poderia, portanto, aprimorar a governança, a transparência e a tomada de decisão, especialmente na entrada e saída de cooperados.
+
+**Expansão Semântica:**
+
+*   **Descrição Expandida em Linguagem Natural:**
+    *   Esta pesquisa mergulha na "letra miúda" dos regulamentos (estatutos) de cooperativas agrícolas para responder a uma questão fundamental: como elas definem o valor da cota de um cooperado? O estudo defende que ter um método claro para essa avaliação (*valuation*) é uma ferramenta poderosa para uma boa gestão, pois evita decisões arbitrárias na entrada ou saída de um membro. Mesmo que os estatutos não usem a palavra *valuation*, os pesquisadores, com a ajuda de um programa de computador, encontraram termos relacionados como "capital", "sobras", "valor" e "admissão", todos ligados à "administração". Isso prova que a ideia de *valuation* está presente de forma implícita. A principal conclusão do artigo é que, se as cooperativas fossem mais diretas e transparentes sobre como calculam a participação de um membro, elas se tornariam mais justas e mais bem administradas.
+
+*   **Pontos-Chave e Achados Específicos:**
+    *   **Problema:** O valor da quota-parte de um cooperado é frequentemente definido de forma arbitrária, sem um método de *valuation* claro e transparente, o que pode enfraquecer a governança.
+    *   **Hipótese:** Os estatutos das cooperativas agropecuárias contêm elementos que servem de base para o *valuation* como um mecanismo de governança.
+    *   **Metodologia:** Análise documental dos estatutos de 21 cooperativas agropecuárias brasileiras, com uso do software Iramuteq para análise lexical e semântica.
+    *   **Principal Achado:** O termo "valuation" não é usado explicitamente em nenhum dos 21 estatutos. No entanto, a análise revela uma forte conexão entre o conceito central de **"administração"** e termos associados como **"valor"**, **"capital"**, **"sobra"**, **"exclusão"** e **"admissão"**.
+    *   **Interpretação:** Isso demonstra que, embora o conceito de *valuation* esteja implicitamente presente e seja crucial para a governança, seus mecanismos não são claramente definidos nos estatutos.
+    *   **Classificação:** O software agrupou o conteúdo textual em três classes principais: 1) Quotas-Partes e Valor, 2) Ingresso, Saída e Sobras, e 3) Atributos de Gestão. Isso reforça a centralidade desses temas.
+    *   **Conclusão:** O estudo infere que há uma necessidade de as cooperativas serem mais explícitas sobre *valuation* em seus estatutos. Isso fortaleceria a governança corporativa, daria mais clareza aos cooperados e alinharia as práticas aos princípios cooperativistas de justiça e equidade.
+
+*   **Palavras-Chave (O "Mapa" para a IA):**
+    *   **Termos Técnicos:** Valuation, Mecanismos de Governança, Estatuto Social, Cooperativas Agropecuárias, Quotas-Partes, Iramuteq, Análise Lexical, Governança Corporativa.
+    *   **Termos Conceituais:** Princípios Cooperativistas, Patrimônio do Cooperado, Estrutura de Capital, Distribuição de Sobras, Gestão Cooperativa, Controle Democrático.
+    *   **Termos em Linguagem Natural (Sinônimos e Perguntas):** "como calcular o valor da cota de uma cooperativa", "regras para sair de uma cooperativa", "direitos dos membros de uma cooperativa", "o que é um estatuto social", "governança em cooperativas agrícolas", "preço justo pela minha cota na cooperativa", "como as sobras são divididas em uma cooperativa", "transparência na gestão de cooperativas".

@@ -1,0 +1,44 @@
+**Identificação Básica:**
+
+*   **ID do Artigo:** 397
+*   **Título Oficial:** ESTRATÉGIAS DE GESTÃO E GOVERNANÇA: O CASO DA COOPERATIVA DE TRABALHO DO SETOR METALÚRGICO PROVENIENTE DA RECUPERAÇÃO DE EMPRESA FALIDA
+*   **Link para Download:** (Será adicionado posteriormente)
+
+**Resumo Sintético:**
+
+Este estudo de caso analisa as estratégias de gestão e governança de uma cooperativa de trabalho do setor metalúrgico (Coopertrim), formada a partir da recuperação de uma empresa falida. A pesquisa, baseada em análise documental de atas de assembleias gerais, revelou que a cooperativa ainda reproduz características de gestão empresarial capitalista, com baixa participação dos cooperados e falta de planejamento estratégico em governança. Isso gera brechas para o oportunismo e compromete a autogestão. O artigo sugere a necessidade de profissionalização da gestão, práticas de *compliance* e educação cooperativista para fortalecer o desenvolvimento social e econômico da cooperativa.
+
+**Expansão Semântica:**
+
+*   **Descrição Expandida em Linguagem Natural:**
+    *   O artigo investiga como uma cooperativa de trabalhadores, que surgiu da recuperação de uma fábrica que faliu, está sendo gerenciada. A pesquisa descobriu que, mesmo sendo uma cooperativa, ela ainda age muito como uma empresa tradicional, com pouca participação dos trabalhadores nas decisões. Isso mostra que a ideia de autogestão, onde todos participam, não está funcionando bem. O estudo sugere que a cooperativa precisa melhorar sua gestão, ser mais transparente e investir na educação dos cooperados para que eles se envolvam mais e a cooperativa realmente funcione como um modelo de trabalho coletivo e democrático.
+    *   Este trabalho é um estudo de caso sobre os desafios de gestão e governança em cooperativas de trabalho, especialmente aquelas que nascem da recuperação de empresas falidas. Ele mostra que, apesar da intenção de promover a autogestão e a participação, muitas dessas cooperativas acabam reproduzindo modelos de gestão capitalistas, o que pode levar a problemas como a baixa participação dos membros e a falta de planejamento estratégico. O artigo destaca a importância de práticas de *compliance*, profissionalização da gestão e educação cooperativista para garantir que essas cooperativas cumpram seu papel social e econômico de forma eficaz.
+
+*   **Pontos-Chave e Achados Específicos:**
+    *   **Objeto de Estudo:** Estratégias de gestão e governança em uma cooperativa de trabalho (Coopertrim) formada a partir da recuperação de uma empresa falida.
+    *   **Metodologia:** Análise documental de atas de Assembleias Gerais Ordinárias (2017-2022) e revisão bibliográfica.
+    *   **Problemas Identificados:**
+        *   Reprodução de características de gestão empresarial capitalista.
+        *   Baixa participação dos cooperados e falta de autogestão.
+        *   Ausência de planejamento estratégico em governança.
+        *   Brechas para o oportunismo.
+        *   Concentração da gestão no conselho de administração.
+    *   **Sugestões para Melhoria:**
+        *   Adesão e execução de ações como reuniões do conselho de administração e fiscal, elaboração de atas.
+        *   Profissionalização da gestão e bom relacionamento do quadro social.
+        *   Práticas de *compliance* e educação cooperativista.
+    *   **Crescimento do Ativo Total:** A cooperativa apresentou crescimento no Ativo Total, mas sem evidências de que isso foi resultado de decisões estratégicas tomadas em assembleias.
+
+*   **Palavras-Chave:**
+    *   **Termos Técnicos:** Cooperativa de Trabalho, Autogestão, Governança Cooperativa, Gestão Estratégica, *Compliance*, Empresas Recuperadas, Setor Metalúrgico.
+    *   **Termos Conceituais:** Participação dos Cooperados, Crise de Identidade, Oportunismo, Profissionalização da Gestão, Economia Solidária, Reestruturação Empresarial.
+    *   **Termos em Linguagem Natural (Sinônimos e Perguntas):**
+        *   "gestão de cooperativas de trabalho"
+        *   "empresas recuperadas por trabalhadores"
+        *   "autogestão em cooperativas"
+        *   "governança em cooperativas"
+        *   "problemas de gestão em cooperativas"
+        *   "como cooperativas podem ser mais eficientes"
+        *   "participação dos membros em cooperativas"
+        *   "cooperativa de fábrica falida"
+        *   "estratégias para cooperativas de trabalho"

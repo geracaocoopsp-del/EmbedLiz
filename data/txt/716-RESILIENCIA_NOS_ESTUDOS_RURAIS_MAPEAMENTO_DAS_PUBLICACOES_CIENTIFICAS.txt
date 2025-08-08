@@ -1,0 +1,26 @@
+ID do Artigo: 716
+Título Oficial:
+RESILIÊNCIA NOS ESTUDOS RURAIS: MAPEAMENTO DAS PUBLICAÇÕES CIENTÍFICAS
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo realiza um mapeamento da produção científica que utiliza o conceito de resiliência no campo dos estudos rurais. Por meio de uma revisão bibliométrica, a pesquisa analisa como o conceito, originário de outras áreas, tem sido aplicado para entender a capacidade de agricultores, comunidades e sistemas agrícolas de se adaptarem e persistirem frente a choques e estresses, como crises econômicas e mudanças climáticas. Os resultados mostram um uso crescente e multidisciplinar do conceito, mas também apontam para uma certa polissemia e falta de rigor teórico em algumas aplicações, indicando a necessidade de um aprofundamento conceitual para consolidar a resiliência como uma lente de análise robusta para o mundo rural.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa faz um grande levantamento de como os cientistas que estudam o mundo rural estão usando a palavra "resiliência". Resiliência é a capacidade de aguentar o tranco, se adaptar e continuar em frente depois de uma crise, como uma seca ou uma queda brusca de preços. O estudo mostra que a palavra está na moda e tem sido usada em muitos estudos. O problema, segundo a pesquisa, é que muitas vezes o conceito é usado de forma meio vaga, sem muito rigor. A conclusão é que, para que a "resiliência" seja uma ferramenta realmente útil para entender os desafios do campo, os pesquisadores precisam definir melhor o que eles querem dizer com isso, para que o conceito não vire apenas um jargão vazio.
+
+Pontos-Chave e Achados:
+
+- O artigo realiza uma revisão bibliométrica para mapear o uso do conceito de resiliência nos estudos rurais.
+- O uso do conceito tem crescido exponencialmente, refletindo a preocupação com as crises e as incertezas que afetam o meio rural.
+- A resiliência é aplicada em diferentes escalas, desde o nível do agricultor individual até o do sistema agroalimentar.
+- A revisão aponta para a necessidade de maior clareza conceitual e de desenvolvimento de metodologias mais robustas para medir a resiliência.
+
+Palavras-Chave:
+Técnicas: [Resiliência, estudos rurais, revisão bibliométrica, mapeamento científico, sociologia rural, economia agrícola, adaptação]
+
+Conceituais: [Sistemas socioecológicos, vulnerabilidade, capacidade adaptativa, teoria da resiliência, mudanças climáticas, desenvolvimento rural]
+
+Linguagem Natural: [O que é resiliência na agricultura?, Como os agricultores se adaptam a crises?, Estudos sobre resiliência no campo, mapeamento de publicações científicas, o conceito de resiliência nos estudos rurais]

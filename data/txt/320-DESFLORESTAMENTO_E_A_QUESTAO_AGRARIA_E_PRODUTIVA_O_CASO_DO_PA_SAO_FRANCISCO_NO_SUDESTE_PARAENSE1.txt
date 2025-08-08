@@ -1,0 +1,26 @@
+ID do Artigo: 320
+Título Oficial:
+DESFLORESTAMENTO E A QUESTÃO AGRÁRIA E PRODUTIVA: O CASO DO P.A. SÃO FRANCISCO NO SUDESTE PARAENSE
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo analisa a relação entre o desflorestamento, a questão agrária e a estrutura produtiva no Projeto de Assentamento (P.A.) São Francisco, localizado no sudeste do Pará. Por meio de um estudo de caso, a pesquisa investiga como o modelo de assentamento e a falta de apoio técnico e de crédito levaram os agricultores a adotarem sistemas produtivos baseados na pecuária extensiva, o que impulsionou o desmatamento. Os resultados mostram um ciclo vicioso: a falta de alternativas econômicas viáveis força os assentados a derrubarem a floresta para formar pastagens, um sistema de baixa produtividade que gera pouca renda e perpetua a pobreza, ao mesmo tempo em que causa graves danos ambientais.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa vai até um assentamento da reforma agrária no Pará para entender por que, mesmo depois de receberem a terra, os pequenos agricultores continuam desmatando. O estudo mostra que o problema não é falta de consciência, mas falta de opção. O modelo de assentamento, sem crédito e sem ajuda técnica, praticamente empurra as famílias para a única atividade que elas conseguem fazer com poucos recursos: derrubar o mato para criar um pouco de gado. O problema é que essa pecuária de baixa tecnologia não dá dinheiro, o que mantém as famílias na pobreza e as força a desmatar cada vez mais. A conclusão é que, para que a reforma agrária seja sinônimo de preservação, e não de desmatamento, é preciso oferecer um pacote completo de apoio aos assentados.
+
+Pontos-Chave e Achados:
+
+- O estudo de caso no P.A. São Francisco revela a complexa ligação entre reforma agrária, pobreza e desmatamento na Amazônia.
+- A pecuarização extensiva é o principal vetor do desflorestamento dentro do assentamento.
+- A falta de Assistência Técnica e Extensão Rural (ATER) e de crédito rural adaptado impede a adoção de sistemas produtivos mais sustentáveis, como os sistemas agroflorestais (SAFs).
+- O artigo critica o modelo de colonização da Amazônia, que historicamente incentivou o desmatamento como sinônimo de "fazer a terra produzir".
+
+Palavras-Chave:
+Técnicas: [Desflorestamento, reforma agrária, assentamento rural, pecuária extensiva, Amazônia, Pará, estudo de caso, sistemas de produção]
+
+Conceituais: [Questão agrária, arco do desmatamento, ciclo vicioso da pobreza, desenvolvimento sustentável, conflitos socioambientais, política ambiental]
+
+Linguagem Natural: [Por que os assentamentos da reforma agrária desmatam?, Relação entre pecuária e desmatamento na Amazônia, desafios dos assentamentos no Pará, como promover uma reforma agrária sustentável?, estudo de caso sobre desmatamento]

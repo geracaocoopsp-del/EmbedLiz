@@ -1,0 +1,28 @@
+ID do Artigo: 784
+Título Oficial: Identificação Organizacional Cooperativa: Construção e validação de escala para Cooperativas de Crédito
+Link para Download: (Adicionar link depois)
+
+Resumo Sintético (O núcleo):
+Este estudo teve como objetivo construir e validar uma escala de Identificação Organizacional Cooperativa (IOC) para cooperativas de crédito. A pesquisa, baseada em um estudo teórico e validação por especialistas, coletou dados de 381 colaboradores de três cooperativas de crédito no Rio Grande do Sul. A análise fatorial exploratória revelou três fatores/dimensões fundamentais com boa consistência interna: Ajuste ao Grupo, Comportamental e Afetiva, confirmando a validade da escala para medir a aderência dos colaboradores à filosofia cooperativista.
+
+Expansão Semântica (A parte crucial para a busca):
+Descrição Expandida em Linguagem Natural:
+Este artigo foca em como as pessoas se sentem conectadas e identificadas com as cooperativas onde trabalham, especificamente em cooperativas de crédito. Ele descreve a criação de uma ferramenta, uma espécie de questionário ou métrica, para medir o quanto os funcionários se identificam com os valores e a forma de trabalho cooperativa. A pesquisa mostra que essa ferramenta é confiável e que a identificação dos colaboradores com a cooperativa pode ser entendida em três aspectos principais: o quanto eles se encaixam no grupo, como eles agem de acordo com os princípios da cooperativa e o vínculo emocional que sentem. O estudo é importante para entender como fortalecer o senso de pertencimento e o engajamento dos trabalhadores em organizações cooperativas, ajudando a gestão de pessoas a alinhar os colaboradores com a missão e os valores do cooperativismo. Em outras palavras, busca-se entender como fazer com que os funcionários se sintam parte da cooperativa e vivam seus ideais.
+
+Pontos-Chave e Achados Específicos:
+- Objetivo: Construir e validar uma escala de Identificação Organizacional Cooperativa (IOC) para cooperativas de crédito.
+- Metodologia: Estudo teórico sobre Identificação Organizacional e Cooperativismo, validação por especialistas, coleta de dados com 381 colaboradores de três cooperativas de crédito no Rio Grande do Sul, análise fatorial exploratória.
+- Achados Principais: A escala de IOC é válida e apresenta três fatores/dimensões com boa consistência interna:
+    - Ajuste ao Grupo: Percepção de que as opiniões são consideradas, igualdade de direitos, oportunidades de crescimento e tratamento.
+    - Comportamental: Atitudes leais, respeito às decisões da maioria, cumprimento de deveres e regras, capacidade de atuar com autonomia, responsabilidade pelo desempenho da cooperativa.
+    - Afetiva: Forte sentimento de pertencimento, oportunidade de aprender sobre cooperativismo, preocupação em promover o cooperativismo, identificação com os valores da cooperativa.
+- Importância da Identidade Organizacional: Relacionada a indicadores de gestão de pessoas como rotatividade, satisfação e comprometimento organizacional.
+- Evolução dos Princípios Cooperativistas: A Declaração da Aliança Cooperativa Internacional sobre Identidade Cooperativa (1995) é fundamental para a divulgação do cooperativismo.
+- Valores Básicos do Cooperativismo: Autoajuda, Democracia, Equidade, Igualdade, Responsabilidade e Solidariedade.
+- Valores Éticos: Honestidade, transparência, responsabilidade social e preocupação pelos outros.
+- Aplicação da Escala: Pode ser utilizada para avaliar a aderência dos colaboradores à filosofia cooperativista e sua identificação com as cooperativas de crédito, auxiliando na gestão de pessoas e na promoção do autoconhecimento.
+
+Palavras-Chave (O "Mapa" para a IA):
+- Termos Técnicos: Identificação Organizacional Cooperativa (IOC), Cooperativas de Crédito, Análise Fatorial Exploratória, Alfa de Cronbach, Gestão de Pessoas, Comprometimento Organizacional, Valores Cooperativistas, Princípios Cooperativistas, Escala de Medição, Validação de Escala, Ajuste ao Grupo, Dimensão Comportamental, Dimensão Afetiva, Aliança Cooperativa Internacional (ACI), Rochdale, Visão 2020, Plano de Ação para uma Década Cooperativa.
+- Termos Conceituais: Identidade Organizacional, Cultura Cooperativa, Engajamento de Colaboradores, Senso de Pertencimento, Valores Organizacionais, Sustentabilidade, Governança Cooperativa, Desenvolvimento Organizacional, Comportamento Organizacional, Psicologia Organizacional.
+- Termos em Linguagem Natural (Sinônimos e Perguntas): Como medir identificação em cooperativas, funcionários se sentem parte da cooperativa, engajamento de empregados em cooperativas, cultura de cooperativas de crédito, como fortalecer valores cooperativos, pesquisa sobre identificação no trabalho cooperativo, ferramenta para medir engajamento cooperativa, o que é identidade cooperativa, como os colaboradores se identificam com a empresa, princípios que guiam cooperativas, como fazer funcionários viverem os ideais da cooperativa, estudo sobre cooperativismo e pessoas, como melhorar o ambiente de trabalho em cooperativas.

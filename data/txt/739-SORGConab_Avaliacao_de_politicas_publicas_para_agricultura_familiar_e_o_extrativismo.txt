@@ -1,0 +1,26 @@
+ID do Artigo: 739
+Título Oficial:
+Avaliação de políticas públicas para agricultura familiar e o extrativismo
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este documento parece ser uma proposta de Seção Organizada (SORG) para um congresso, possivelmente o da SOBER, com o tema da avaliação de políticas públicas para a agricultura familiar e o extrativismo, com contribuições da CONAB. O texto justifica a importância de avaliar a efetividade de políticas como a Política de Garantia de Preços Mínimos para os Produtos da Sociobiodiversidade (PGPM-Bio). A proposta é debater as metodologias de avaliação e os resultados de estudos que medem o impacto dessas políticas na geração de renda, na conservação ambiental e na segurança alimentar de comunidades extrativistas e agricultores familiares.
+
+Expansão Semântica:
+Descrição Expandida: Este arquivo não é um artigo de pesquisa completo, mas sim um "convite à discussão" para um congresso acadêmico. A ideia é criar um painel de debates para avaliar se as políticas do governo para os pequenos agricultores e para os povos da floresta (extrativistas) estão funcionando. O foco principal parece ser a PGPM-Bio, uma política que garante um preço mínimo para produtos como a castanha-do-brasil e o açaí. A proposta, então, é juntar pesquisadores que estudam o tema para apresentar seus resultados e discutir as melhores formas de medir o impacto real desses programas na vida das pessoas e na conservação da natureza.
+
+Pontos-Chave e Achados:
+
+- O documento é uma proposta de debate acadêmico sobre a avaliação de políticas públicas.
+- O foco temático é a agricultura familiar e o extrativismo, com destaque para a PGPM-Bio.
+- A avaliação de impacto é apresentada como uma ferramenta crucial para o aprimoramento e a legitimação das políticas públicas.
+- A proposta valoriza a contribuição da CONAB (Companhia Nacional de Abastecimento) na execução e no monitoramento dessas políticas.
+
+Palavras-Chave:
+Técnicas: [Avaliação de políticas públicas, agricultura familiar, extrativismo, PGPM-Bio, CONAB, seção organizada, SOBER, metodologia de avaliação]
+
+Conceituais: [Efetividade de políticas, impacto socioeconômico, conservação ambiental, produtos da sociobiodiversidade, segurança alimentar, desenvolvimento sustentável]
+
+Linguagem Natural: [Como avaliar as políticas para a agricultura familiar?, O que é a PGPM-Bio?, O papel da CONAB no apoio ao extrativismo, avaliação de impacto de políticas para a Amazônia, debate sobre políticas públicas na SOBER]

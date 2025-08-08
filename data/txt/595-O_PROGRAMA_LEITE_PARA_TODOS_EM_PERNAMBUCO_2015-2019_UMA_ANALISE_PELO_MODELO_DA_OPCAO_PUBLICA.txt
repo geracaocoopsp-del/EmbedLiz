@@ -1,0 +1,26 @@
+ID do Artigo: 595
+Título Oficial:
+O PROGRAMA LEITE PARA TODOS EM PERNAMBUCO (2015-2019): UMA ANÁLISE PELO MODELO DA OPÇÃO PÚBLICA
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo analisa o "Programa Leite para Todos" de Pernambuco, no período de 2015 a 2019, sob a ótica da teoria da Escolha Pública (Public Choice). A pesquisa investiga como os interesses dos diferentes grupos envolvidos (políticos, burocratas, laticínios e agricultores familiares) moldaram o desenho e a implementação do programa. A análise sugere que, embora o programa tenha o objetivo nobre de combater a insegurança alimentar, sua execução é influenciada pela lógica de maximização de interesses dos grupos mais organizados, como os laticínios e os políticos, o que pode gerar ineficiências e distorcer os objetivos originais da política, em detrimento dos beneficiários finais e dos agricultores familiares.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa estuda o "Programa Leite para Todos" de Pernambuco, mas com um olhar desconfiado, usando uma teoria chamada "Escolha Pública", que diz que todo mundo na política (políticos, funcionários públicos, empresários) está, no fundo, defendendo seus próprios interesses. O estudo mostra que, embora o programa tenha sido criado para dar leite a quem precisa e para ajudar o pequeno produtor, na prática, quem mais se beneficia são os grupos que têm mais poder de pressão, como os donos dos laticínios e os políticos, que usam o programa para ganhar votos. A conclusão é que, por causa desse jogo de interesses, o programa acaba não sendo tão eficiente quanto poderia e, muitas vezes, os que mais precisavam da ajuda, que são as famílias pobres e os pequenos produtores, acabam ficando em segundo plano.
+
+Pontos-Chave e Achados:
+
+- O artigo aplica a teoria da Escolha Pública para analisar a implementação de um programa de distribuição de alimentos.
+- A análise sugere que o desenho e a execução do "Programa Leite para Todos" são influenciados pela captura de interesses por parte de grupos organizados.
+- A lógica político-eleitoral e os interesses econômicos dos laticínios podem se sobrepor aos objetivos de segurança alimentar e de fortalecimento da agricultura familiar.
+- O estudo de caso ilustra como a análise dos incentivos e dos interesses dos atores é fundamental para entender por que as políticas públicas muitas vezes não atingem seus objetivos declarados.
+
+Palavras-Chave:
+Técnicas: [Escolha Pública (Public Choice), análise de políticas públicas, captura regulatória, grupos de interesse, Programa do Leite, Pernambuco, segurança alimentar]
+
+Conceituais: [Teoria da Escolha Pública, falhas de governo, rent-seeking, análise de implementação, política alimentar, federalismo]
+
+Linguagem Natural: [Por que o Programa do Leite não funciona bem?, Análise do Programa Leite para Todos de Pernambuco, a influência de grupos de interesse em políticas públicas, o que é a teoria da Escolha Pública?, corrupção em programas sociais]

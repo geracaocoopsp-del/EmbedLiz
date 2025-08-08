@@ -1,0 +1,26 @@
+ID do Artigo: 164
+Título Oficial:
+A MATRIZ ENERGÉTICA DAS UNIDADES DE PRODUÇÃO FAMILIAR DO TERRITÓRIO DO ALTO JEQUITINHONHA, MINAS GERAIS
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo analisa a matriz energética das unidades de produção da agricultura familiar no território do Alto Jequitinhonha, em Minas Gerais. A pesquisa investiga as principais fontes de energia utilizadas tanto para o consumo doméstico (cozinhar, iluminação) quanto para as atividades produtivas. Os resultados mostram uma forte dependência de fontes de energia tradicionais e pouco eficientes, como a lenha para cozinhar, e um acesso ainda precário à energia elétrica. O estudo conclui que a pobreza energética é uma dimensão marcante da vulnerabilidade na região, e que a transição para fontes de energia mais limpas e eficientes, como o biogás e a energia solar, representa um enorme desafio, mas também uma oportunidade para o desenvolvimento sustentável do território.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa faz um raio-x de como as famílias de agricultores de uma das regiões mais pobres de Minas Gerais, o Alto Jequitinhonha, usam energia no seu dia a dia. O estudo mostra uma realidade dura: a maioria das famílias ainda depende do fogão a lenha para cozinhar, e o acesso à eletricidade ainda é um problema. A conclusão é que essa "pobreza energética" é uma das faces da pobreza da região. Para que o Jequitinhonha se desenvolva de forma sustentável, é preciso uma revolução energética. O estudo aponta que o caminho é investir em energias limpas, como o biogás (feito com o esterco dos animais) e a energia solar, que podem, ao mesmo tempo, melhorar a qualidade de vida das pessoas e proteger o meio ambiente.
+
+Pontos-Chave e Achados:
+
+- O artigo diagnostica a matriz energética da agricultura familiar no Alto Jequitinhonha, caracterizada pela "pobreza energética".
+- A lenha ainda é a principal fonte de energia para o cozimento, com impactos na saúde (fumaça) e no meio ambiente (desmatamento).
+- O acesso à energia elétrica, embora universalizado, é muitas vezes precário e caro, limitando seu uso produtivo.
+- A transição para energias renováveis descentralizadas (solar, biogás) é apontada como uma estratégia-chave para o desenvolvimento sustentável do território.
+
+Palavras-Chave:
+Técnicas: [Matriz energética, pobreza energética, agricultura familiar, Alto Jequitinhonha-MG, energias renováveis, lenha, biogás, energia solar]
+
+Conceituais: [Desenvolvimento sustentável, vulnerabilidade, tecnologias sociais, transição energética, desenvolvimento rural, qualidade de vida]
+
+Linguagem Natural: [Como é o uso de energia na agricultura familiar do Jequitinhonha?, O problema do uso de fogão a lenha no campo, o que é pobreza energética?, energias renováveis para o semiárido, desenvolvimento e energia no Vale do Jequitinhonha]

@@ -1,0 +1,22 @@
+Identificação Básica:
+ID do Artigo: 193
+Título Oficial: BALANCED SCORECARD POR UNIDADES DE NEGÓCIO EM UMA COOPERATIVA MÉDICA
+Link para Download: (A ser adicionado)
+
+Resumo Sintético:
+O artigo propõe o desdobramento e alinhamento das estratégias de um Balanced Scorecard (BSC) corporativo para as unidades de negócio de uma cooperativa médica. A pesquisa, de natureza aplicada e qualitativa, utiliza estudo de caso, pesquisa bibliográfica e documental para identificar os fatores críticos que impedem o alinhamento estratégico. O estudo conclui que a implementação de um BSC para cada unidade de negócio pode beneficiar a cooperativa, proporcionando uma metodologia estruturada e integrada para otimizar o desempenho e evitar a perda de eficiência em áreas específicas.
+
+Expansão Semântica:
+Descrição Expandida em Linguagem Natural: Este estudo explora como uma cooperativa médica pode usar o Balanced Scorecard (BSC) de forma mais eficaz, adaptando-o para cada uma de suas áreas de atuação (como hospital, operadora de planos de saúde e saúde ocupacional). A pesquisa investiga por que um BSC único para toda a cooperativa pode não ser suficiente e como a criação de BSCs específicos para cada unidade de negócio pode melhorar o desempenho geral. O artigo é relevante para gestores de cooperativas médicas, consultores de gestão e pesquisadores interessados em planejamento estratégico e gestão de desempenho em organizações de saúde.
+
+Pontos-Chave e Achados Específicos:
+- O BSC é uma ferramenta de gestão que alinha objetivos estratégicos com indicadores financeiros e não financeiros.
+- A pesquisa propõe a criação de BSCs específicos para cada unidade de negócio da cooperativa médica.
+- As quatro perspectivas do BSC são: Financeira, Clientes, Processos Internos e Aprendizado e Crescimento.
+- O estudo destaca a importância do alinhamento estratégico entre as unidades de negócio e a estratégia corporativa.
+- A pesquisa sugere que a comunicação e o engajamento dos colaboradores são cruciais para o sucesso da implementação do BSC.
+
+Palavras-Chave:
+Termos Técnicos: Balanced Scorecard (BSC), Cooperativa Médica, Planejamento Estratégico, Gestão de Desempenho, Unidades de Negócio, Alinhamento Estratégico.
+Termos Conceituais: Governança Corporativa, Indicadores de Desempenho, Eficiência Organizacional, Estratégia Empresarial, Saúde Ocupacional.
+Termos em Linguagem Natural: "BSC em cooperativas de saúde", "gestão de hospitais cooperativos", "planejamento estratégico em cooperativas médicas", "como alinhar estratégias em cooperativas", "indicadores de desempenho para cooperativas", "ferramentas de gestão para saúde".

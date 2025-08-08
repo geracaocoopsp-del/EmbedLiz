@@ -1,0 +1,26 @@
+ID do Artigo: 733
+Título Oficial:
+SISTEMAS AGROALIMENTARES SUSTENTÁVEIS E SAUDÁVEIS: REFLEXÕES A PARTIR DA PERSPECTIVA AGROECOLÓGICA
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo apresenta uma reflexão teórica sobre a construção de sistemas agroalimentares que sejam, simultaneamente, sustentáveis e saudáveis, a partir da perspectiva da Agroecologia. A pesquisa argumenta que o modelo agroalimentar convencional, baseado na monocultura e no uso intensivo de insumos, gera impactos negativos tanto para o meio ambiente quanto para a saúde humana (doenças crônicas). O estudo conclui que a Agroecologia oferece um paradigma alternativo, baseado na biodiversidade, na reciclagem de nutrientes e nos circuitos curtos de comercialização, que é capaz de produzir alimentos saudáveis de forma a regenerar os ecossistemas e fortalecer as comunidades locais, sendo o caminho para a sustentabilidade e a saúde.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa faz uma crítica ao jeito como a comida é produzida hoje em dia, com as grandes plantações de uma coisa só e o uso de muito veneno, e mostra como esse modelo faz mal para o planeta e para a nossa saúde. Em seguida, o estudo apresenta a Agroecologia como uma solução. A Agroecologia é mais do que apenas produzir sem agrotóxicos; é um jeito de produzir que imita a natureza, com muita diversidade de plantas e animais, e que valoriza a comida de verdade e a venda direta do produtor para o consumidor. A conclusão é que, para ter um futuro com comida boa para todos e com um planeta saudável, o caminho é a transição para um sistema alimentar baseado nos princípios da Agroecologia.
+
+Pontos-Chave e Achados:
+
+- O artigo contrapõe o paradigma do sistema agroalimentar convencional com a perspectiva da Agroecologia.
+- O modelo convencional é associado a externalidades negativas ambientais (degradação do solo, perda de biodiversidade) e de saúde (aumento de doenças crônicas).
+- A Agroecologia é apresentada como uma ciência, uma prática e um movimento social que propõe um redesenho dos sistemas agroalimentares.
+- A transição para sistemas agroalimentares sustentáveis e saudáveis exige mudanças não apenas nas práticas agrícolas, mas em toda a cadeia, incluindo as políticas públicas e os hábitos de consumo.
+
+Palavras-Chave:
+Técnicas: [Sistemas agroalimentares, sustentabilidade, saúde, agroecologia, transição agroecológica, segurança alimentar e nutricional, agricultura sustentável]
+
+Conceituais: [Paradigma, externalidades, soberania alimentar, circuitos curtos de comercialização, saúde coletiva, ecologia de saberes]
+
+Linguagem Natural: [Como construir um sistema alimentar mais sustentável e saudável?, O que é a perspectiva agroecológica?, Impactos do agronegócio na saúde e no meio ambiente, a agroecologia como solução, transição para a agricultura sustentável]

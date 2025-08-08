@@ -1,0 +1,26 @@
+ID do Artigo: 28
+Título Oficial:
+AÇÕES GOVERNAMENTAIS MITIGADORAS DOS EFEITOS DA PANDEMIA COVID-19 PARA A AGRICULTURA FAMILIAR: O CASO DO MUNICÍPIO DE PELOTAS/RS
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este estudo analisa as ações governamentais implementadas no município de Pelotas (RS) para mitigar os impactos da pandemia de COVID-19 sobre a agricultura familiar. Por meio de um estudo de caso, a pesquisa identifica e avalia iniciativas como a adaptação de mercados institucionais e a criação de canais alternativos de comercialização em resposta à crise sanitária. A pesquisa conclui que, embora as ações emergenciais tenham sido cruciais para a sobrevivência de muitos agricultores a curto prazo, a pandemia também expôs vulnerabilidades preexistentes, indicando a necessidade de políticas públicas mais robustas e permanentes para o setor.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa investiga o que o governo fez para ajudar os pequenos agricultores familiares na cidade de Pelotas, no Rio Grande do Sul, durante a pandemia de COVID-19. Com o fechamento de feiras livres e outros pontos de venda tradicionais, esses agricultores perderam sua principal fonte de renda. O estudo analisa as soluções emergenciais que foram criadas, como a adaptação de programas de compra de alimentos do governo (como a merenda escolar) e o auxílio na criação de sistemas de entrega. A principal conclusão é que essas ações foram um socorro vital para muitos, mas também mostraram o quão frágil já era a situação desses agricultores, argumentando que são necessárias políticas de apoio mais fortes e de longo prazo, para além das medidas de emergência.
+
+Pontos-Chave e Achados:
+
+- A pandemia de COVID-19 interrompeu severamente os principais canais de comercialização da agricultura familiar em Pelotas, especialmente as feiras livres.
+- As respostas governamentais incluíram a adaptação do PNAE (Programa Nacional de Alimentação Escolar) e a criação de plataformas digitais para venda direta e delivery.
+- As ações foram essenciais para a geração de renda imediata, mas muitas vezes se mostraram insuficientes para cobrir todas as perdas.
+- A crise evidenciou a necessidade de políticas estruturais que reduzam a dependência dos agricultores familiares de um único canal de venda.
+
+Palavras-Chave:
+Técnicas: [COVID-19, agricultura familiar, políticas públicas, mitigação de impactos, mercados institucionais, PNAE, estudo de caso, Pelotas-RS]
+
+Conceituais: [Segurança alimentar, resiliência, crise socioeconômica, circuitos curtos de comercialização, adaptação, vulnerabilidade social]
+
+Linguagem Natural: [Como a pandemia afetou a agricultura familiar?, Ações do governo para ajudar agricultores na pandemia, impacto da COVID-19 em Pelotas, venda de produtos da roça durante a pandemia, políticas emergenciais para o campo]

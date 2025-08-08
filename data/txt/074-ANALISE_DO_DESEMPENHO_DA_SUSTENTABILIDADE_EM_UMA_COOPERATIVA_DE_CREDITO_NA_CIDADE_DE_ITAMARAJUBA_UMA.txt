@@ -1,0 +1,26 @@
+ID do Artigo: 74
+Título Oficial:
+ANÁLISE DO DESEMPENHO DA SUSTENTABILIDADE EM UMA COOPERATIVA DE CRÉDITO NA CIDADE DE ITAMARAJU-BA: UMA APLICAÇÃO DO TRIPLE BOTTOM LINE
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo avalia o desempenho de sustentabilidade de uma cooperativa de crédito em Itamaraju, Bahia, utilizando o modelo do Triple Bottom Line (TBL), que analisa as dimensões econômica, social e ambiental. Por meio de um estudo de caso, a pesquisa coleta e analisa dados referentes a cada uma dessas três áreas. Os resultados indicam que a cooperativa possui um forte desempenho nas dimensões econômica e social, gerando resultados financeiros positivos e contribuindo para a comunidade local, mas apresenta um desempenho incipiente na dimensão ambiental, com poucas ações estruturadas voltadas para a sustentabilidade ecológica.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa faz uma avaliação completa de uma cooperativa de crédito na cidade de Itamaraju (BA) para ver o quão sustentável ela é. Para isso, usa um método chamado "Triple Bottom Line", que olha para três pilares: o financeiro (se dá lucro), o social (se ajuda a comunidade) и o ambiental (se cuida do meio ambiente). O estudo descobriu que a cooperativa vai muito bem na parte financeira e social, sendo um negócio sólido que apoia o desenvolvimento local. No entanto, na parte ambiental, ela ainda está engatinhando, com poucas iniciativas concretas para reduzir seu impacto ecológico, mostrando que este é um ponto que precisa de mais atenção.
+
+Pontos-Chave e Achados:
+
+- A cooperativa de crédito analisada demonstra forte aderência aos pilares econômico e social da sustentabilidade.
+- A dimensão ambiental é a menos desenvolvida, representando uma área de melhoria para a gestão da cooperativa.
+- O modelo do Triple Bottom Line (TBL) se mostrou uma ferramenta eficaz para uma análise integrada da sustentabilidade em organizações cooperativas.
+- O estudo de caso reforça a importância de as cooperativas de crédito irem além do retorno financeiro e social, incorporando a gestão ambiental em suas estratégias.
+
+Palavras-Chave:
+Técnicas: [Triple Bottom Line (TBL), sustentabilidade, cooperativa de crédito, desempenho organizacional, estudo de caso, responsabilidade socioambiental, SICOOB, Itamaraju-BA]
+
+Conceituais: [Gestão da sustentabilidade, valor compartilhado, desenvolvimento sustentável, finanças sustentáveis, governança corporativa]
+
+Linguagem Natural: [Como medir a sustentabilidade de uma cooperativa?, O que é Triple Bottom Line?, Cooperativa de crédito é sustentável?, Análise do SICOOB em Itamaraju, desempenho ambiental de cooperativas]

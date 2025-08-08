@@ -1,0 +1,26 @@
+ID do Artigo: 781
+Título Oficial:
+VIABILIDADE ECONÔMICA DA CULTIVAR DE FEIJÃO-COMUM SUPERPRECOCE BRS FC104 NO ESTADO DO PARANÁ
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo analisa a viabilidade econômica da adoção da cultivar de feijão-comum superprecoce BRS FC104 por agricultores no Paraná. A pesquisa, utilizando a metodologia de custo de produção e análise de rentabilidade, compara o desempenho econômico da nova cultivar com as tradicionais. Os resultados mostram que, apesar de poder ter uma produtividade ligeiramente menor em algumas condições, o ciclo superprecoce da BRS FC104 permite a antecipação da colheita, a obtenção de melhores preços na entressafra e, crucialmente, a viabilização da safrinha de milho em uma janela de plantio mais segura. O estudo conclui que a principal vantagem da cultivar é estratégica, pois ela reduz o risco do sistema de sucessão soja-feijão-milho, tornando-o mais resiliente e, no conjunto, mais rentável.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa faz as contas para ver se vale a pena plantar uma nova variedade de feijão, a BRS FC104, que tem uma grande vantagem: ela cresce e amadurece muito mais rápido que as outras. O estudo mostra que o grande "pulo do gato" dessa variedade não é nem a produtividade, mas o tempo. Como o agricultor colhe o feijão mais cedo, ele consegue duas coisas: primeiro, vender o produto antes de todo mundo, pegando um preço melhor. E segundo, e mais importante, ele consegue plantar a safrinha de milho logo em seguida, na época certinha, sem medo de perder a janela por causa da chuva. A conclusão é que a grande vantagem desse feijão "apressadinho" é que ele deixa todo o sistema de produção do agricultor mais seguro e, no final das contas, mais lucrativo.
+
+Pontos-Chave e Achados:
+
+- O artigo realiza uma análise de viabilidade econômica da cultivar de feijão superprecoce BRS FC104.
+- A principal vantagem da cultivar não é a produtividade em si, mas a redução do ciclo, que permite um melhor encaixe no sistema de rotação de culturas.
+- A antecipação da colheita do feijão viabiliza o plantio da safrinha de milho em uma janela de menor risco climático.
+- A adoção da BRS FC104 é uma estratégia de gestão de risco que aumenta a resiliência e a rentabilidade do sistema de produção como um todo.
+
+Palavras-Chave:
+Técnicas: [Viabilidade econômica, feijão-comum, cultivar superprecoce, BRS FC104, custo de produção, rentabilidade, sistema de sucessão, gestão de risco]
+
+Conceituais: [Inovação agrícola, melhoramento genético, tomada de decisão, risco climático, intensificação, rotação de culturas, agricultura familiar]
+
+Linguagem Natural: [Vale a pena plantar o feijão superprecoce BRS FC104?, Análise de custo da produção de feijão no Paraná, como a precocidade do feijão ajuda na safrinha de milho?, vantagens de cultivares de ciclo curto, gestão de risco na agricultura]

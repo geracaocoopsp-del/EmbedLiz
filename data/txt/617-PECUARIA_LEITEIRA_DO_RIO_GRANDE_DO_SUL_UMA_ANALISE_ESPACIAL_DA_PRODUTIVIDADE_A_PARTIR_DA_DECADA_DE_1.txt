@@ -1,0 +1,26 @@
+ID do Artigo: 617
+Título Oficial:
+PECUÁRIA LEITEIRA DO RIO GRANDE DO SUL: UMA ANÁLISE ESPACIAL DA PRODUTIVIDADE A PARTIR DA DÉCADA DE 1970
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo analisa a evolução e a distribuição espacial da produtividade da pecuária leiteira no Rio Grande do Sul, da década de 1970 até os dias atuais. Utilizando dados dos Censos Agropecuários e técnicas de análise espacial, a pesquisa mapeia a concentração da produtividade (litros/vaca/ano) nos municípios gaúchos. Os resultados mostram uma significativa transformação e um grande aumento da produtividade no período, com a formação de "clusters" de alta produtividade em regiões específicas, como o Noroeste do estado. O estudo conclui que a modernização da pecuária leiteira gaúcha foi um processo geograficamente desigual, fortemente associado à organização dos produtores em cooperativas e ao acesso à tecnologia e à assistência técnica.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa faz um mapa da evolução da produtividade do leite no Rio Grande do Sul, para mostrar onde as vacas produzem mais e como isso mudou desde os anos 70. O estudo mostra que a produtividade aumentou muito em todo o estado, mas de forma muito desigual. Existem "bolsões" de alta tecnologia e produtividade, principalmente na região Noroeste, enquanto outras regiões ficaram para trás. A conclusão é que o "mapa do leite" no RS foi desenhado pela modernização, e que os lugares onde os produtores se organizaram em cooperativas fortes e tiveram acesso à tecnologia foram os que mais prosperaram.
+
+Pontos-Chave e Achados:
+
+- O artigo utiliza a análise espacial para mapear a evolução da produtividade da pecuária leiteira no RS.
+- A produtividade média do rebanho gaúcho cresceu de forma expressiva desde a década de 1970.
+- Esse crescimento foi espacialmente concentrado, com a formação de um cluster de alta produtividade na região Noroeste do estado.
+- A presença de cooperativas fortes e a adoção de um pacote tecnológico (genética, nutrição, manejo) são os principais fatores que explicam a formação desses clusters.
+
+Palavras-Chave:
+Técnicas: [Pecuária leiteira, produtividade, análise espacial, Rio Grande do Sul, Censo Agropecuário, clusters espaciais, geoprocessamento]
+
+Conceituais: [Modernização agrícola, desenvolvimento regional, difusão de inovações, cooperativismo, cadeia produtiva do leite, heterogeneidade]
+
+Linguagem Natural: [Onde se produz mais leite no Rio Grande do Sul?, Evolução da produtividade da pecuária leiteira gaúcha, mapa da produção de leite no RS, o papel das cooperativas na cadeia do leite, modernização da produção de leite]

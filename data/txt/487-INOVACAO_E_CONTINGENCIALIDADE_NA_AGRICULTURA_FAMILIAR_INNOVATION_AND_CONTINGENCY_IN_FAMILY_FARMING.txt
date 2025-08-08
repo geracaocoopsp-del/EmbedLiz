@@ -1,0 +1,26 @@
+ID do Artigo: 487
+Título Oficial:
+INOVAÇÃO E CONTINGENCIALIDADE NA AGRICULTURA FAMILIAR / INNOVATION AND CONTINGENCY IN FAMILY FARMING
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo analisa o processo de inovação na agricultura familiar a partir de uma perspectiva contingencial. A pesquisa argumenta que a inovação nesse setor não segue um modelo linear de "transferência de tecnologia", mas é um processo complexo e adaptativo, fortemente influenciado pelas condições específicas (contingências) de cada propriedade e território. O estudo conclui que os agricultores familiares são inovadores por natureza, criando e adaptando soluções a partir de seus recursos limitados e de seus conhecimentos locais. Para apoiar a inovação, as políticas públicas e a extensão rural precisam abandonar a abordagem de "receitas prontas" e adotar uma postura mais flexível e dialógica, que valorize e fortaleça a capacidade de inovação endógena dos agricultores.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa defende uma nova forma de olhar para a inovação na agricultura familiar. O estudo argumenta que a ideia de que o técnico "leva" a tecnologia para o agricultor está errada. Na verdade, o agricultor familiar é um grande "gambiólogo" e inovador. Ele está o tempo todo criando e adaptando soluções para os seus problemas, com os recursos que tem à mão. A inovação, nesse caso, não é um pacote pronto que chega de fora; ela nasce das necessidades e das condições específicas de cada lugar. A conclusão é que, para ajudar o pequeno agricultor a inovar, a extensão rural precisa parar de querer ensinar "receitas de bolo" e começar a trabalhar junto com ele, valorizando o seu conhecimento e ajudando a aprimorar as soluções que ele mesmo cria.
+
+Pontos-Chave e Achados:
+
+- O artigo critica o modelo linear de difusão de inovações e propõe uma abordagem contingencial para a agricultura familiar.
+- A inovação na agricultura familiar é um processo endógeno, adaptativo e baseado no conhecimento local.
+- Os agricultores familiares não são meros "adotantes" de tecnologia, mas agentes ativos de inovação.
+- A extensão rural, para ser eficaz, deve atuar como facilitadora de processos de inovação locais, em vez de mera transmissora de tecnologias externas.
+
+Palavras-Chave:
+Técnicas: [Inovação, agricultura familiar, abordagem contingencial, conhecimento local, extensão rural, inovação endógena, sociologia da inovação]
+
+Conceituais: [Modelo linear de inovação, sistemas de conhecimento, diálogo de saberes, desenvolvimento rural, resiliência, capacidade de inovação]
+
+Linguagem Natural: [Como os agricultores familiares inovam?, Crítica ao modelo de transferência de tecnologia, a importância do conhecimento local na agricultura, o que é uma abordagem contingencial?, o papel do agricultor como inovador]

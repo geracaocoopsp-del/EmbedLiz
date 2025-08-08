@@ -1,0 +1,29 @@
+ID do Artigo: 317
+Título Oficial: DESENVOLVIMENTO SUSTENTÁVEL E O COOPERATIVISMO: UMA ANÁLISE DE CONTEÚDO NA REVISTA PARANÁ COOPERATIVO
+Link para Download: (Adicionar depois)
+
+Resumo Sintético: Este artigo analisa a relevância dos pilares econômico, social e ambiental do desenvolvimento sustentável no discurso do setor cooperativo paranaense, por meio de uma análise de conteúdo da Revista Paraná Cooperativo (2010-2014). A pesquisa identificou 580 termos e 1415 citações relacionadas à sustentabilidade, revelando que os três pilares são frequentes no discurso, com destaque para o ambiental. Embora as cooperativas paranaenses atribuam importância à agenda de desenvolvimento sustentável da sociedade civil, o estudo sugere a necessidade de mais pesquisas para identificar ações efetivas de proteção ambiental e promoção social.
+
+Expansão Semântica:
+Descrição Expandida em Linguagem Natural: Este artigo investiga o quanto as cooperativas do Paraná se preocupam com o desenvolvimento sustentável, analisando o que é publicado na Revista Paraná Cooperativo. O estudo examina se os temas econômicos, sociais e ambientais são abordados de forma equilibrada nas publicações da revista. Os resultados mostram que, de fato, os três aspectos da sustentabilidade são frequentemente mencionados, com uma ênfase maior nas questões ambientais. Isso indica que as cooperativas paranaenses estão atentas à agenda de sustentabilidade. No entanto, o artigo sugere que ainda é preciso aprofundar a pesquisa para entender quais ações concretas estão sendo realizadas para proteger o meio ambiente e promover o bem-estar social, além do discurso.
+Pontos-Chave e Achados Específicos:
+- O cooperativismo paranaense é um setor dinâmico e em crescimento, com 223 cooperativas e 1 milhão de membros.
+- O desenvolvimento sustentável integra as dimensões ambiental, econômica e social.
+- O artigo analisa a Revista Paraná Cooperativo (2010-2014), focando nas seções "Palavra do Presidente" e "Artigo Especial do Mês".
+- Metodologia: análise de conteúdo qualitativa e quantitativa.
+- Resultados:
+    - Identificados 580 termos e 1415 citações relacionadas ao desenvolvimento sustentável.
+    - Todos os três pilares (econômico, social e ambiental) são frequentes no discurso.
+    - O pilar ambiental recebeu o maior número de termos (42%) e citações (41%), seguido pelo social (30% termos, 32% citações) e econômico (28% termos, 27% citações).
+    - Termos mais citados: "investimento", "economia", "renda" (econômico); "formação", "profissionalização", "capacitação profissional" (social); "meio ambiente", "leis ambientais", "reciclagem" (ambiental).
+    - A edição de 2012 (Ano 8/nº 89) teve um número significativo de citações sobre o pilar ambiental, com foco em Responsabilidade Social do Cooperativismo Paranaense.
+- Conclusões:
+    - As cooperativas do Paraná atribuem importância à agenda de desenvolvimento sustentável da sociedade civil.
+    - A revista cumpre seu papel de divulgação e disseminação de assuntos relacionados ao desenvolvimento sustentável no cooperativismo paranaense.
+    - Necessidade de mais pesquisas para identificar pontos de vista típicos e abordagens de cooperativas sobre ações efetivas de proteção ambiental e promoção social.
+    - O cooperativismo pode ser uma ferramenta para alcançar o Desenvolvimento Sustentável.
+
+Palavras-Chave:
+Termos Técnicos: Desenvolvimento Sustentável, Cooperativismo, Análise de Conteúdo, Revista Paraná Cooperativo, Pilares da Sustentabilidade (Econômico, Social, Ambiental), OCB, Ocepar, Agenda 21, Relatório Brundtland.
+Termos Conceituais: Tripla Linha de Base (Triple Bottom Line), Valor Compartilhado, Responsabilidade Socioambiental, Discurso Organizacional, Comunicação Corporativa, Engajamento, Conscientização.
+Termos em Linguagem Natural (Sinônimos e Perguntas): Como cooperativas promovem a sustentabilidade? O que é desenvolvimento sustentável no cooperativismo? Como as cooperativas do Paraná abordam o meio ambiente? Sustentabilidade em cooperativas agrícolas, impacto social das cooperativas, comunicação sobre sustentabilidade em empresas.

@@ -1,0 +1,26 @@
+ID do Artigo: 271
+Título Oficial:
+COOPERATIVAS DE CRÉDITO: BALIZADORES DE TAXAS DE MERCADO?
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo investiga se as cooperativas de crédito atuam como "balizadoras" das taxas de juros no sistema financeiro, ou seja, se a sua presença em um mercado força os bancos comerciais a oferecerem taxas mais competitivas. Por meio de uma análise de dados do Sistema Financeiro Nacional, o estudo compara as taxas de juros de empréstimos em mercados com diferentes níveis de presença de cooperativas. Os resultados fornecem evidências de que, em mercados onde as cooperativas de crédito têm uma participação relevante, as taxas de juros médias cobradas pelos bancos tendem a ser menores, sugerindo que as cooperativas exercem um efeito pró-competitivo que beneficia todos os consumidores de crédito.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa busca responder a uma pergunta importante: a presença de uma cooperativa de crédito em uma cidade faz com que os grandes bancos cobrem juros mais baixos de todo mundo? O estudo compara os juros dos empréstimos em cidades onde as cooperativas são fortes com cidades onde elas quase não existem. A conclusão é que sim, as cooperativas têm um "efeito balizador". Onde elas competem de verdade, os bancos comerciais são forçados a baixar suas taxas para não perderem clientes. Isso significa que a presença de uma cooperativa de crédito não beneficia apenas os seus membros, mas acaba tornando o crédito mais barato para toda a população daquela localidade.
+
+Pontos-Chave e Achados:
+
+- O estudo testa a hipótese de que as cooperativas de crédito exercem um efeito disciplinador sobre as taxas de juros dos bancos.
+- A análise econométrica mostra uma correlação negativa entre a participação de mercado das cooperativas e as taxas de juros bancárias.
+- Este efeito pró-competitivo é uma externalidade positiva gerada pela atuação das cooperativas no sistema financeiro.
+- Os resultados reforçam a importância do fomento ao cooperativismo de crédito como política pública para aumentar a competição e reduzir o spread bancário.
+
+Palavras-Chave:
+Técnicas: [Cooperativas de crédito, taxas de juros, competição bancária, spread bancário, sistema financeiro nacional, análise econométrica, efeito balizador]
+
+Conceituais: [Concorrência, poder de mercado, intermediação financeira, regulação financeira, externalidade positiva, desenvolvimento local]
+
+Linguagem Natural: [Cooperativa de crédito faz banco baixar o juro?, Impacto das cooperativas na concorrência bancária, por que os juros são mais baixos em cooperativas?, como reduzir o spread bancário no Brasil?, competição no sistema financeiro]

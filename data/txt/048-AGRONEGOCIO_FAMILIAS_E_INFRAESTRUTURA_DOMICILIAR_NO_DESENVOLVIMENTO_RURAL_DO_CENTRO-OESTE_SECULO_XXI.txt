@@ -1,0 +1,26 @@
+ID do Artigo: 48
+Título Oficial:
+AGRONEGÓCIO, FAMÍLIAS E INFRAESTRUTURA DOMICILIAR NO DESENVOLVIMENTO RURAL DO CENTRO-OESTE NO SÉCULO XXI
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo analisa a relação entre o modelo de desenvolvimento rural baseado no agronegócio e as condições de infraestrutura domiciliar (acesso a água, saneamento, energia) das famílias no Centro-Oeste brasileiro no século XXI. A pesquisa, utilizando dados dos Censos Demográficos, compara a evolução desses indicadores em municípios com forte presença do agronegócio. Os resultados mostram um paradoxo: apesar do grande dinamismo econômico e da alta renda gerada pelo agronegócio, persistem bolsões de precariedade na infraestrutura domiciliar, especialmente entre os trabalhadores rurais e os pequenos produtores. O estudo conclui que o modelo de desenvolvimento do agronegócio na região tem sido excludente, com a riqueza gerada se concentrando e não se traduzindo, na mesma medida, em melhoria da qualidade de vida para toda a população rural.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa estuda uma contradição no "celeiro do Brasil", a Região Centro-Oeste. O estudo compara a imensa riqueza que o agronegócio produz com as condições de vida de quem mora no campo. A conclusão é um paradoxo: as fazendas são super modernas, com máquinas de milhões de dólares, mas, ao lado delas, existem casas de trabalhadores rurais sem acesso a saneamento básico ou a água encanada. O estudo mostra que o "progresso" do agronegócio não chegou para todo mundo. A riqueza ficou concentrada nas mãos de poucos, e não se transformou em qualidade de vida para a maioria da população que vive e trabalha no campo.
+
+Pontos-Chave e Achados:
+
+- O artigo analisa o paradoxo entre o dinamismo econômico do agronegócio e a precariedade da infraestrutura social no meio rural do Centro-Oeste.
+- A análise dos dados censitários revela a persistência de déficits de saneamento, água e energia em domicílios rurais, mesmo em municípios de alta renda agrícola.
+- O modelo de desenvolvimento do agronegócio, concentrador de terra e renda, gera poucos transbordamentos (spillovers) positivos para a qualidade de vida da população rural em geral.
+- O estudo aponta para a necessidade de políticas públicas que garantam a universalização dos serviços de infraestrutura no campo, para que o desenvolvimento seja mais inclusivo.
+
+Palavras-Chave:
+Técnicas: [Agronegócio, desenvolvimento rural, infraestrutura domiciliar, Centro-Oeste, Censo Demográfico, desigualdade social, qualidade de vida]
+
+Conceituais: [Desenvolvimento desigual, exclusão social, paradoxo do desenvolvimento, modernização conservadora, questão social, bem-estar]
+
+Linguagem Natural: [O agronegócio melhora a qualidade de vida no campo?, Desigualdade social no Centro-Oeste, a falta de saneamento básico no meio rural, o paradoxo do agronegócio brasileiro, os impactos sociais da modernização agrícola]

@@ -1,0 +1,26 @@
+ID do Artigo: 619
+Título Oficial:
+PERCEPÇÃO DAS REDES SOCIAIS SOBRE O CONSUMO DE TOMATE: UM ESTUDO EXPLORATÓRIO COM DADOS DO TWITTER
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo realiza um estudo exploratório para analisar a percepção e os sentimentos dos consumidores sobre o consumo de tomate, utilizando dados coletados da rede social Twitter. Por meio de técnicas de mineração de texto e análise de sentimentos, a pesquisa classifica os tweets que mencionam "tomate" em categorias positivas, negativas e neutras, identificando os principais temas associados. Os resultados indicam que as discussões sobre tomate no Twitter são frequentemente ligadas a temas como preço, receitas e qualidade, com uma predominância de sentimentos neutros a positivos. O estudo conclui que a análise de redes sociais é uma ferramenta promissora para monitorar a percepção do consumidor em tempo real e gerar insights para a cadeia produtiva.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa funciona como uma "escuta" do que as pessoas estão falando sobre tomate no Twitter. O estudo coletou milhares de tweets que citavam a palavra "tomate" e usou programas de computador para analisar se as pessoas estavam falando bem, mal ou de forma neutra sobre o produto. A conclusão é que os assuntos mais comentados são o preço do tomate (muitas vezes em tom de reclamação), receitas e dicas de culinária. No geral, as pessoas falam de forma neutra ou positiva sobre o tomate. O estudo mostra que o Twitter pode ser uma ferramenta muito útil para os produtores e supermercados entenderem, de forma rápida, o que o consumidor está pensando sobre seus produtos.
+
+Pontos-Chave e Achados:
+
+- O artigo utiliza mineração de dados do Twitter para explorar a percepção pública sobre o consumo de tomate.
+- A análise de sentimentos é a principal técnica empregada para classificar as publicações.
+- O preço do tomate é um dos principais temas que geram menções e engajamento na plataforma, muitas vezes com conotação negativa.
+- A análise de redes sociais emerge como uma fonte de dados alternativa e ágil para estudos de comportamento do consumidor.
+
+Palavras-Chave:
+Técnicas: [Análise de sentimentos, mineração de texto, redes sociais, Twitter, big data, comportamento do consumidor, tomate, estudo exploratório]
+
+Conceituais: [Percepção do consumidor, inteligência de mercado, pesquisa de mercado digital, opinião pública, ciência de dados]
+
+Linguagem Natural: [O que as pessoas falam sobre tomate no Twitter?, Análise de sentimentos sobre alimentos, usar redes sociais para pesquisa de mercado, percepção do consumidor de tomate, monitoramento de marcas no Twitter]

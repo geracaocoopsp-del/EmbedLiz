@@ -1,0 +1,26 @@
+ID do Artigo: 304
+Título Oficial:
+Cooperativismo e Desenvolvimento: desafios para a mensuração de impacto
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo discute os desafios metodológicos para a mensuração do impacto do cooperativismo no desenvolvimento local e regional. A pesquisa, de natureza teórica, analisa criticamente as abordagens tradicionais de avaliação de impacto, argumentando que elas muitas vezes falham em capturar os benefícios multidimensionais e intangíveis gerados pelas cooperativas, como o fortalecimento do capital social e a promoção da governança democrática. O estudo conclui que é necessário desenvolver metodologias de avaliação mais adequadas ao modelo cooperativista, que combinem indicadores quantitativos e qualitativos para aferir não apenas o impacto econômico, mas também o social, o político e o cultural dessas organizações.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa discute um problema complexo: como medir o verdadeiro impacto de uma cooperativa em uma comunidade? O estudo argumenta que olhar apenas para os números, como o lucro ou o número de empregos, é insuficiente. As cooperativas geram muitos benefícios que são difíceis de medir, como o aumento da confiança entre as pessoas, o aprendizado da democracia e o fortalecimento dos laços comunitários. A conclusão é que precisamos de novas formas de avaliação, mais inteligentes e completas, que consigam enxergar e medir também esses impactos "invisíveis", para que se possa ter uma ideia real do valor que uma cooperativa agrega para o desenvolvimento de uma região.
+
+Pontos-Chave e Achados:
+
+- A mensuração de impacto do cooperativismo deve ir além dos indicadores puramente econômicos.
+- Benefícios como o fortalecimento do capital social, a inclusão social e a formação para a cidadania são difíceis de quantificar, mas são centrais para o modelo cooperativo.
+- O artigo faz uma crítica às metodologias de avaliação de impacto que não são adaptadas às especificidades das organizações da economia social.
+- Propõe-se a necessidade de desenvolver frameworks de avaliação mistos (quanti-quali) que capturem a complexidade e a multidimensionalidade do impacto cooperativo.
+
+Palavras-Chave:
+Técnicas: [Mensuração de impacto, avaliação de impacto, cooperativismo, desenvolvimento local, metodologia de pesquisa, indicadores sociais, capital social]
+
+Conceituais: [Desenvolvimento, teoria do desenvolvimento, economia social, valor social, impacto multidimensional, externalidades]
+
+Linguagem Natural: [Como medir o impacto de uma cooperativa?, Desafios da avaliação de projetos sociais, o que é mensuração de impacto social?, indicadores para avaliar cooperativas, valor social do cooperativismo]

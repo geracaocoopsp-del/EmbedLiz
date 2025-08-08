@@ -1,0 +1,22 @@
+Identificação Básica:
+ID do Artigo: 498
+Título Oficial: INTERPRETAÇÃO TÉCNICA ICPC 14: UM COMPARATIVO DOS IMPACTOS NOS ÍNDICES FINANCEIROS DE COOPERATIVAS
+Link para Download: (A ser adicionado)
+
+Resumo Sintético:
+O artigo analisa os impactos da Interpretação Técnica ICPC 14 nos índices financeiros de cooperativas, comparando os resultados antes e depois da sua implementação. A pesquisa, de natureza documental e bibliográfica, explora como a norma contábil, que trata da distribuição de sobras, afeta a rentabilidade, liquidez e estrutura de capital das cooperativas. O estudo conclui que a ICPC 14, ao exigir a contabilização das sobras como despesa, pode impactar negativamente os índices financeiros, mas que essa interpretação é fundamental para a transparência e a conformidade com as normas contábeis. O artigo destaca a importância de as cooperativas se adaptarem às novas regras para garantir sua sustentabilidade.
+
+Expansão Semântica:
+Descrição Expandida em Linguagem Natural: Este estudo investiga como uma regra contábil específica, a ICPC 14, afeta os números financeiros das cooperativas. A pesquisa compara os resultados financeiros das cooperativas antes e depois da implementação dessa regra, que muda a forma como as sobras (lucros) são registradas. O artigo mostra que, embora a regra possa fazer com que os números pareçam piores, ela é importante para a transparência e para que as cooperativas sigam as normas contábeis. A pesquisa é relevante para contadores, gestores de cooperativas e pesquisadores interessados em contabilidade cooperativa e finanças.
+
+Pontos-Chave e Achados Específicos:
+- A ICPC 14 trata da distribuição de sobras em cooperativas.
+- A norma exige que as sobras sejam contabilizadas como despesa, e não como lucro.
+- O estudo compara os índices financeiros (rentabilidade, liquidez e estrutura de capital) antes e depois da implementação da ICPC 14.
+- Os resultados indicam que a ICPC 14 pode impactar negativamente os índices financeiros.
+- O estudo destaca a importância da transparência e da conformidade com as normas contábeis.
+
+Palavras-Chave:
+Termos Técnicos: ICPC 14, Índices Financeiros, Cooperativas, Contabilidade Cooperativa, Distribuição de Sobras, Rentabilidade, Liquidez, Estrutura de Capital.
+Termos Conceituais: Transparência, Conformidade, Normas Contábeis, Desempenho Financeiro, Governança.
+Termos em Linguagem Natural: "contabilidade de cooperativas", "como as sobras afetam o lucro de cooperativas", "regras contábeis para cooperativas", "impacto da ICPC 14", "finanças de cooperativas", "transparência em cooperativas".

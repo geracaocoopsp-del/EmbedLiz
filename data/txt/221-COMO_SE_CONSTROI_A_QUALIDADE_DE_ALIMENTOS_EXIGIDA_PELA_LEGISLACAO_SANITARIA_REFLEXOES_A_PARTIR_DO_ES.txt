@@ -1,0 +1,26 @@
+ID do Artigo: 221
+Título Oficial:
+COMO SE CONSTRÓI A QUALIDADE DE ALIMENTOS EXIGIDA PELA LEGISLAÇÃO SANITÁRIA? REFLEXÕES A PARTIR DO ESTUDO DE CASO DE UMA AGROINDÚSTRIA FAMILIAR
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo analisa o processo de construção da qualidade e da conformidade com a legislação sanitária em uma agroindústria familiar. Por meio de um estudo de caso, a pesquisa investiga os desafios e as estratégias adotadas por uma pequena agroindústria para se adequar às normas de Boas Práticas de Fabricação (BPF). Os resultados mostram que a adequação é um processo complexo e custoso, que vai muito além de uma simples reforma física, exigindo uma profunda mudança na cultura organizacional e na rotina de trabalho. O estudo conclui que, para que as agroindústrias familiares consigam se formalizar, é fundamental um apoio contínuo da assistência técnica, com um enfoque que seja não apenas técnico, mas também pedagógico.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa estuda a "via crucis" de uma pequena agroindústria familiar para conseguir se adequar às exigências da vigilância sanitária. O estudo de caso mostra que o buraco é muito mais embaixo do que parece. Não é só uma questão de fazer uma reforma e colocar azulejo na parede. Para conseguir a licença, é preciso mudar a cabeça das pessoas, criar novas rotinas de limpeza e de controle, ou seja, mudar a cultura de trabalho. A conclusão é que, para ajudar os pequenos a saírem da informalidade, não adianta o técnico chegar com uma lista de regras. É preciso um trabalho de paciência, de ensinar o "porquê" de cada regra, para que a mudança seja de verdade e para sempre.
+
+Pontos-Chave e Achados:
+
+- A adequação à legislação sanitária é um dos maiores desafios para a formalização das agroindústrias familiares.
+- O processo de implementação das Boas Práticas de Fabricação (BPF) é mais um desafio de mudança cultural e de processos do que apenas de infraestrutura.
+- A assistência técnica (ATER) desempenha um papel crucial, atuando como mediadora entre a linguagem da lei e a realidade do agricultor.
+- O estudo de caso ilustra que a construção da qualidade é um processo contínuo de aprendizado e melhoria, e não um evento único.
+
+Palavras-Chave:
+Técnicas: [Qualidade de alimentos, legislação sanitária, Boas Práticas de Fabricação (BPF), agroindústria familiar, estudo de caso, segurança de alimentos, vigilância sanitária]
+
+Conceituais: [Formalização, cultura organizacional, mudança de comportamento, adequação sociotécnica, assistência técnica, desenvolvimento rural]
+
+Linguagem Natural: [Como adequar uma agroindústria familiar à vigilância sanitária?, Desafios da formalização de pequenas agroindústrias, o que são as Boas Práticas de Fabricação?, o papel da ATER na qualidade dos alimentos, estudo de caso de agroindústria de queijo/embutidos]

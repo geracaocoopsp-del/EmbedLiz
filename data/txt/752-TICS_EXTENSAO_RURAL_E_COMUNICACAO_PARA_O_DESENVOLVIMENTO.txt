@@ -1,0 +1,26 @@
+ID do Artigo: 752
+Título Oficial:
+TICS, EXTENSÃO RURAL E COMUNICAÇÃO PARA O DESENVOLVIMENTO
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo realiza uma reflexão teórica sobre a intersecção entre as Tecnologias de Informação e Comunicação (TICs), a Extensão Rural e a abordagem da Comunicação para o Desenvolvimento. A pesquisa argumenta que a simples introdução de TICs na extensão rural não é suficiente; é preciso que seu uso seja orientado por uma perspectiva de comunicação dialógica e participativa. O estudo conclui que as TICs, quando utilizadas sob o paradigma da Comunicação para o Desenvolvimento, podem transformar a extensão rural de um modelo de "transferência de tecnologia" para um modelo de "construção compartilhada do conhecimento", promovendo o empoderamento e a autonomia dos agricultores, mas isso exige uma profunda mudança na cultura e na prática dos serviços de extensão.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa discute que não adianta simplesmente dar um tablet para o técnico da extensão rural e achar que isso vai modernizar o campo. O estudo defende que a tecnologia é só uma ferramenta. O mais importante é mudar a "filosofia" por trás do seu uso. Em vez de usar a tecnologia só para mandar informação de cima para baixo (o técnico "ensinando" o agricultor), é preciso usá-la para criar um diálogo, uma troca, onde o conhecimento do agricultor também é valorizado. A conclusão é que, se usadas desse jeito, as novas tecnologias podem ajudar a criar uma extensão rural muito mais democrática e eficiente, que realmente empodera os agricultores, em vez de tratá-los como meros receptores de informação.
+
+Pontos-Chave e Achados:
+
+- O artigo contrapõe o modelo difusionista de extensão rural com a abordagem da Comunicação para o Desenvolvimento.
+- As TICs podem tanto reforçar o modelo antigo de transferência de tecnologia quanto potencializar um novo modelo, mais dialógico e participativo.
+- A apropriação social das TICs pelos agricultores, e não apenas seu uso instrumental, é o objetivo de uma extensão rural orientada para o desenvolvimento.
+- A mudança necessária é menos tecnológica e mais cultural e metodológica, exigindo uma nova postura do extensionista como mediador e facilitador de processos.
+
+Palavras-Chave:
+Técnicas: [TICs (Tecnologias de Informação e Comunicação), extensão rural (ATER), Comunicação para o Desenvolvimento, comunicação rural, difusão de inovações]
+
+Conceituais: [Modelo difusionista, modelo participativo, diálogo de saberes, empoderamento, apropriação social da tecnologia, desenvolvimento rural]
+
+Linguagem Natural: [Como as novas tecnologias podem mudar a extensão rural?, O papel da comunicação no desenvolvimento rural, crítica ao modelo de transferência de tecnologia, o que é Comunicação para o Desenvolvimento?, TICs para a agricultura familiar]

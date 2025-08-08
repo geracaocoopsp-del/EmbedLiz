@@ -1,0 +1,26 @@
+ID do Artigo: 36
+Título Oficial:
+AGRICULTURA FAMILIAR E RESILIÊNCIA NO SEMIÁRIDO: AVALIAÇÃO DE INDICADORES EM COMUNIDADES RURAIS NO MUNICÍPIO DE SUMÉ-PB
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo avalia a resiliência de agricultores familiares no semiárido, a partir de um estudo de caso em comunidades rurais do município de Sumé, na Paraíba. A pesquisa utiliza um conjunto de indicadores para medir a capacidade das famílias de se adaptarem e persistirem frente aos choques climáticos, especialmente a seca. Os resultados mostram que a resiliência não é uma característica inata, mas é construída a partir da adoção de um portfólio de estratégias, como o armazenamento de água (cisternas), a diversificação da produção, a guarda de sementes crioulas e a participação em redes de cooperação. O estudo conclui que as políticas de convivência com o semiárido, ao promoverem essas estratégias, são fundamentais para o fortalecimento da resiliência da agricultura familiar.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa foi até o Cariri paraibano para entender o que faz com que alguns agricultores familiares consigam "aguentar o tranco" da seca, enquanto outros sofrem mais. O estudo usa a palavra "resiliência" para medir essa capacidade de resistir e se adaptar. A conclusão é que os agricultores mais "resilientes" são aqueles que não apostam todas as suas fichas em uma coisa só. Eles são os que guardam água da chuva na cisterna, que plantam vários tipos de cultura (porque se uma morrer, a outra pode vingar), que guardam suas próprias sementes de um ano para o outro e que participam de associações para se ajudarem. O estudo mostra que a resiliência não é um dom, mas algo que se constrói, e que as políticas do governo que incentivam essas práticas são o caminho para ter uma agricultura familiar mais forte no semiárido.
+
+Pontos-Chave e Achados:
+
+- O artigo utiliza um sistema de indicadores para avaliar a resiliência de agricultores familiares no semiárido.
+- A resiliência é um conceito multidimensional, que envolve capacidades adaptativas nos âmbitos produtivo, social, ecológico e institucional.
+- O acesso a tecnologias sociais de armazenamento de água (cisternas) é a base da resiliência produtiva na região.
+- A diversificação de cultivos e a participação em redes de capital social são estratégias-chave que aumentam a capacidade de resposta das famílias aos choques climáticos.
+
+Palavras-Chave:
+Técnicas: [Resiliência, agricultura familiar, semiárido, convivência com o semiárido, indicadores de resiliência, estudo de caso, Sumé-PB, adaptação]
+
+Conceituais: [Vulnerabilidade, capacidade adaptativa, sistemas socioecológicos, tecnologias sociais, capital social, desenvolvimento rural sustentável]
+
+Linguagem Natural: [O que torna um agricultor do semiárido resiliente?, Como medir a resiliência na agricultura familiar?, Estratégias de convivência com a seca, a importância das cisternas para a resiliência, estudo de caso sobre a agricultura na Paraíba]

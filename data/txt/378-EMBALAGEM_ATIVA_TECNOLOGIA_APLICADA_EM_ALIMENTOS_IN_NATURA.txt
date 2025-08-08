@@ -1,0 +1,26 @@
+ID do Artigo: 378
+Título Oficial:
+EMBALAGEM ATIVA: TECNOLOGIA APLICADA EM ALIMENTOS IN NATURA
+
+Link para Download:
+[Deixe este campo para ser preenchido manualmente depois]
+
+Resumo Sintético:
+Este artigo apresenta uma revisão sobre a tecnologia de embalagens ativas e seu potencial de aplicação para aumentar a vida de prateleira de alimentos in natura, como frutas e hortaliças. A pesquisa descreve os diferentes tipos de sistemas de embalagens ativas, como os absorvedores de etileno, absorvedores de oxigênio e os emissores de agentes antimicrobianos. O estudo conclui que as embalagens ativas são uma tecnologia promissora para reduzir as perdas pós-colheita e garantir a qualidade e a segurança dos alimentos, embora seu uso comercial ainda enfrente desafios de custo e de adequação a cada tipo de produto.
+
+Expansão Semântica:
+Descrição Expandida: A pesquisa faz um apanhado geral sobre uma tecnologia inovadora chamada "embalagem ativa". Diferente de uma embalagem comum, que só protege o alimento, a embalagem ativa "trabalha": ela pode, por exemplo, absorver os gases que fazem uma fruta amadurecer rápido demais ou liberar substâncias que matam micro-organismos. O estudo explica os vários tipos que existem e como elas podem ser usadas para fazer com que frutas, verduras e legumes durem mais tempo nas prateleiras dos supermercados e na casa do consumidor. A conclusão é que essa tecnologia tem um potencial enorme para diminuir o desperdício de alimentos, mas, para ser usada em larga escala, ainda precisa se tornar mais barata e adaptada para cada tipo de alimento.
+
+Pontos-Chave e Achados:
+
+- Embalagens ativas são aquelas que interagem com o alimento ou com o ambiente interno da embalagem para melhorar a conservação.
+- Os principais sistemas ativos incluem a remoção de gases (etileno, O2, CO2) e a liberação de substâncias (antimicrobianos, antioxidantes).
+- A aplicação dessa tecnologia pode estender significativamente a vida de prateleira de produtos frescos e minimamente processados.
+- O custo e a necessidade de desenvolver sistemas específicos para cada alimento são as principais barreiras para a difusão comercial da tecnologia.
+
+Palavras-Chave:
+Técnicas: [Embalagem ativa, embalagem inteligente, conservação de alimentos, vida de prateleira, perdas pós-colheita, absorvedor de etileno, atmosfera modificada]
+
+Conceituais: [Tecnologia de alimentos, segurança alimentar, redução de perdas e desperdícios, inovação em embalagens, ciência dos materiais]
+
+Linguagem Natural: [O que é embalagem ativa?, Como fazer os alimentos durarem mais?, Tecnologia para conservação de frutas, embalagens que aumentam a vida de prateleira, como reduzir o desperdício de alimentos?]
